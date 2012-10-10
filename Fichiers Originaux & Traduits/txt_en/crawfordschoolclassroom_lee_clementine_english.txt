@@ -1,0 +1,124 @@
+1)  CLEMENTINE
+{sadb}This desk is just like the ones we have in my school. {sadc} I know it’s weird, but I kinda miss it. Being in school.
+2)  CLEMENTINE
+{fearb}	Do you think things will ever be normal again? Just like the way they were before?
+3)  LEE
+{normalA}	It’s not weird at all. So do I.
+4)  LEE
+You okay, Clem?
+5)  
+I think so.
+6)  
+I don’t think so.
+22)  
+I don’t think so.
+7)  LEE
+{happya}Yeah. It may take a while but yeah, I do. Don't you?
+8)  CLEMENTINE
+{sadc}	I hope so.
+48)  CLEMENTINE
+{sadc}	I hope so.
+9)  LEE
+{happya}No homework.
+10)  CLEMENTINE
+Deal!
+11)  CLEMENTINE
+{thinkinga}	[warily] Will there be homework?
+12)  LEE
+{happya} That’s good. You hold onto that hope. It’s the one thing none of this can take away.
+47)  LEE
+{happya} That’s good. You hold onto that hope. It’s the one thing none of this can take away.
+13)  CLEMENTINE
+[sad] {sadc}I guess you’re right.
+14)  LEE
+{sada}	I don’t think so, Clem. I think the best we can hope for is that we’ll find a way to survive, to stay together, and to not let this change us. That’s what’s important.
+15)  LEE
+{happya}Me too. I used to be a teacher, remember? Tell you what - when we find ourselves a safe place, we’ll set up a little classroom. Just you and me.
+16)  DIR
+Stub for while the player is talking to Clementine in the classroom. Lee should probably say that he's sorry they haven't found her parents. Clem is confident they got out, and are probably back at their hotel.
+17)  DIR
+In the classroom, Clem should ask Lee if Christa and Vernon are okay. Lee says yes, but he had to take care of a few walkers. Clem says she just wants everyone to make it out okay.
+18)  DIR
+Stub where Clem should tell Lee she's glad Kenny and Brie made it back from the fuel mission okay. Lee says not to worry, they'll be leaving this place soon enough.
+19)  CLEMENTINE
+{normala}Alright.
+20)  LEE
+{happya}Just sit tight, okay? I need to go take care of a few things.
+21)  CLEMENTINE
+{sadb}Yeah.
+23)  CLEMENTINE
+{sadc}	Yeah, I guess not, huh?
+24)  CLEMENTINE
+{sadc}	Yeah, I guess not, huh?
+26)  LEE
+I don’t know, Clem. I don't think anybody does. The best we can hope for is that we’ll find a way to survive, to stay together, and to not lose sight of who we were before this all happened. To not let it change us.
+27)  LEE
+{Normala}	She had to go run an errand, she'll be back soon.
+28)  CLEMENTINE
+{fearb}I hope she's okay.
+29)  CLEMENTINE
+{normalb}	Where's Molly?
+30)  LEE
+{normalb}	She'll be fine. She's pretty tough.
+31)  CLEMENTINE
+{normala}	Do you think we'll be here much longer?
+32)  CLEMENTINE
+{normala}	I'm glad Kenny and Brie made it back okay.
+33)  LEE
+{feara}Yeah, me too. And now we have fuel for the boat.
+34)  LEE
+{feara}I sure hope not.
+35)  LEE
+{normalc} She just doesn't approve of the way I got Vernon to help me. But I did what I had to, to get back to you.
+36)  CLEMENTINE
+{fearb}	Were you mean to her or something?
+37)  CLEMENTINE
+{thinkinga}I don't think Brie likes you very much.
+38)  LEE
+{normalc}	She'll get over it.
+39)  LEE
+{happya}	We will. We're doing pretty good so far.
+40)  CLEMENTINE
+{normalc}	You're getting good at that.
+41)  CLEMENTINE
+{thinkinga}	Are Christa and Vernon okay?
+42)  LEE
+{normala}	They're fine. They had a little trouble with some walkers, but I took care of them.
+43)  CLEMENTINE
+{fearb}I just want everyone to make it out of here okay.
+44)  LEE
+{feara}	It's not something I want to be good at. It's something I have to be good at.
+46)  LEE
+I don't think anyone knows the answer to that, Clem. Maybe there's somebody out there working on a way to fix this. Some kind of cure, maybe. There's just no way to know.
+49)  LEE
+{normald}I don't know, sweet pea. But we have to believe they will. Remember what Katjaa said, back on the farm? She said we'll all be home soon.
+50)  CLEMENTINE
+[sad] {sadb}And now she's dead.
+51)  LEE
+{angryb}But we're not. We're still alive. And we have to keep hope alive too. It’s the one thing none of this can take away.
+52)  
+So do I.
+53)  
+I miss teaching.
+54)  
+Really?
+55)  LEE
+{Normalb}Hey, I'm not that old. And I used to be a teacher, remember? American history.
+56)  CLEMENTINE
+{fearb}	But you haven't been in school since forever!
+57)  LEE
+{happya}	What was your favorite subject?
+58)  CLEMENTINE
+{happya}	History.
+59)  CLEMENTINE
+{Happya}	No, I liked it.
+60)  LEE
+{Happyb}	Really? I would have thought school would be the last thing you'd miss about all this.
+61)  LEE
+{happyc}Well what do you know? Mine too.
+62)  CLEMENTINE
+[self-conscious] {sadc} Yeah, I guess that is pretty dumb, huh?
+63)  
+Remember what Kat said.
+64)  
+Nobody knows.

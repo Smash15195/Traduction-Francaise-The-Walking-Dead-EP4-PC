@@ -1,0 +1,578 @@
+1)  MOLLY
+Took you long enough.
+2)  MOLLY
+Ready yet?
+3)  
+Let’s go.
+7)  LEE
+Let’s go.
+4)  
+Not yet.
+5)  LEE
+Not just yet. I want to look around a little more first.
+6)  MOLLY
+[sarcastic] Great. Take your time. It’s not like we’re on the clock here or anything.
+8)  LEE
+Ready when you are.
+9)  MOLLY
+Okay, once we go through the door the auto shop should be at the end of the alley, on the far side of the street. Let’s try to not do too much sightseeing on the way, okay? We get over there, we find that battery and we haul ass straight back here.
+10)  MOLLY
+On three. One... two... THREE!
+11)  MOLLY
+Later. Something I gotta do first.
+12)  LEE
+{angryA} Come on.
+13)  MOLLY
+Yeah, I think I’ll hold onto it, make sure you don’t leave without me. See you back in class!
+14)  MOLLY
+Catch you later.
+15)  LEE
+[stunned] What?
+16)  LEE
+Wait! You’ve still got the battery!
+17)  LEE
+Goddammit! What the hell is she doing?
+18)  LEE
+Molly!
+19)  LEE
+You guys need any help?
+20)  VERNON
+Thanks, but I think we’re almost in.
+21)  CHRISTA
+Don’t you have your own job to do? We still need that battery. Go on, we’ve got this.
+22)  LEE
+Right.
+23)  LEE
+You sure you two don't need any help?
+24)  CHRISTA
+We're taking care of it, Lee. Don't worry.
+265)  CHRISTA
+We're taking care of it, Lee. Don't worry.
+25)  LEE
+[under his breath] Shit.
+26)  LEE
+[under his breath, to himself] Christa and Vernon must be trapped in there.
+27)  CHRISTA
+[muffled, from inside] Lee??
+28)  LEE
+Christa? Vernon? You guys in there?
+29)  VERNON
+[muffled, from inside] Oh thank God!
+30)  VERNON
+Get inside, quick!
+31)  MOLLY
+Sightseeing.
+32)  LEE
+What’s that?
+33)  LEE
+Jesus Christ. You scared the shit out of me. Where the fuck have you been?
+34)  MOLLY
+[stunned/denying] What? Who told you that?
+183)  MOLLY
+[stunned/denying] What? Who told you that?
+35)  LEE
+You can quit with the act, Molly. I know you’re from Crawford.
+36)  LEE
+I saw you on a security tape. Why’d you lie to me?
+37)  MOLLY
+Nothing.
+60)  MOLLY
+Nothing.
+63)  MOLLY
+Nothing.
+38)  MOLLY
+Hey, from what I’ve heard you’re not real big on the truth yourself. Besides, I didn’t lie.
+47)  MOLLY
+Hey, from what I’ve heard you’re not real big on the truth yourself. Besides, I didn’t lie.
+39)  LEE
+I asked you how you knew about Crawford, you said you’d just heard stories.
+40)  MOLLY
+I said there were stories about Crawford, I never said that’s how I knew about it. I never lied to you. And even if I did, so what? I don’t owe you anything.
+41)  LEE
+Who’s the picture of, Molly? Is that your sister? Is that what you went looking for?
+42)  MOLLY
+[caught off-guard/defensive] Fuck you. I don’t even know you.
+43)  LEE
+You saved my life twice, but you can’t tell me the truth?
+44)  MOLLY
+[defenses breaking down] Are we really going to do this now?
+45)  LEE
+I guess that’s up to you.
+46)  MOLLY
+I didn’t lie.
+48)  MOLLY
+[increasingly emotional] I used to live here with my sister. She was fourteen years old. When the dead started walking and Crawford shut itself in, it seemed like a pretty good deal at first. We were safe, we had everything we needed to survive.
+49)  MOLLY
+[emotional] Then the rules started coming down. No-one who couldn’t justify their place, earn their keep. No-one who required special care. My sister was diabetic, and by Crawford’s rules that made her a liability.
+50)  MOLLY
+[emotional] I kept it a secret, kept her safe for as long as I could. But in the end, I couldn’t protect her. [starting to cry] That’s when I got out. Crawford, they always talked about how their system worked, how anything was better than becoming “one of them.” But I saw what they’d already become. I just wish I could have seen it before it was too late. Before they came and took my sister away.
+51)  MOLLY
+[emotional] I should have taken her out of here long before, we could have made it on the outside. I could have protected her better. I should have protected her better.
+52)  LEE
+What was her name?
+53)  MOLLY
+[still tearful/upset] This is all I have left of her.
+54)  MOLLY
+I didn’t have time to take it before I got out of Crawford. [defensive/upset] I just wanted it, okay?
+55)  LEE
+It’s okay, Molly. I understand. She’s pretty.
+56)  MOLLY
+You would have liked her.
+57)  LEE
+If she was anything like you, I’m sure I would have.
+58)  MOLLY
+What the hell...?
+64)  MOLLY
+What the hell...?
+59)  LEE
+I think that’s our cue to get the hell out of here.
+65)  LEE
+I think that’s our cue to get the hell out of here.
+61)  LEE
+[suspicious] Sure there’s nothing you want to tell me?
+62)  MOLLY
+[hard] Yeah, I’m sure. Are we done?
+66)  MOLLY
+[struggling] Lee! Shoot this fucker!
+67)  LEE
+[impending dread] Oh no...
+68)  MOLLY
+[to Lee and Ben] Go! Run!
+69)  LEE
+[startled] Shit! Ben!
+70)  BEN
+[spooked] Aaaaah!
+71)  LEE
+Shit!
+72)  BEN
+I just found it, it was stuck in a door handle at the end of the hallway back there.
+73)  BEN
+No, Kenny’s with her. We still can’t open that armory door, he sent me out to look for something we can use to bust it open. I found this.
+74)  LEE
+Uh, Ben... where did you get that?
+75)  LEE
+[startled] Did you leave Clementine alone?
+76)  BEN
+Kenny and I still can't get the door open to the armory. He sent me out to look for something we can use to bust it open. I found this.
+153)  BEN
+Kenny and I still can't get the door open to the armory. He sent me out to look for something we can use to bust it open. I found this.
+161)  BEN
+Kenny and I still can't get the door open to the armory. He sent me out to look for something we can use to bust it open. I found this.
+162)  BEN
+Kenny and I still can't get the door open to the armory. He sent me out to look for something we can use to bust it open. I found this.
+77)  MOLLY
+Nice shot.
+78)  LEE
+Thank me later, come on!
+79)  LEE
+Ben, we gotta go. Ben!
+80)  LEE
+Move your ass!
+81)  MOLLY
+Thanks.
+82)  LEE
+It wasn’t me...
+83)  LEE
+Clementine!
+84)  MOLLY
+[impressed] Good going, kid. Nice shot.
+85)  CLEMENTINE
+[still a bit shocked] Thanks...
+86)  CHRISTA
+[shouting] Come on!
+87)  CHRISTA
+[shouting] Come on!
+88)  CHRISTA
+[shouting] Come on!
+89)  MOLLY
+[agony/shrieking] Aaaaaaargh!
+90)  KENNY
+Little help here?
+91)  LEE
+[to himself] [lookat]This must be the way to the playground where Brie said the fuel was being stored.
+125)  LEE
+[to himself] [lookat]This must be the way to the playground where Brie said the fuel was being stored.
+92)  LEE
+[to himself] [lookat]Hasn't been much time yet. I'd better let Brie and Kenny do their thing.
+128)  LEE
+[to himself] [lookat]Hasn't been much time yet. I'd better let Brie and Kenny do their thing.
+93)  LEE
+[to himself][lookat]I'll give them a little more time.
+129)  LEE
+[to himself][lookat]I'll give them a little more time.
+94)  LEE
+[to himself] [lookat]Sounds like there's a shit ton of walkers out there.
+126)  LEE
+[to himself] [lookat]Sounds like there's a shit ton of walkers out there.
+95)  LEE
+[to himself][lookat]Think I'd better leave it alone.
+130)  LEE
+[to himself][lookat]Think I'd better leave it alone.
+96)  
+Look At
+108)  
+Look At
+120)  
+Look At
+121)  
+Look At
+124)  
+Look At
+133)  
+Look At
+237)  
+Look At
+244)  
+Look At
+256)  
+Look At
+97)  
+Open
+127)  
+Open
+135)  
+Open
+98)  KENNY
+Fuck! Doors won’t close all the way!
+99)  BRIE
+Lee, do something!
+100)  KENNY
+Lee, gimme that hatchet!
+101)  LEE
+Think that’ll hold?
+102)  KENNY
+It’d damn well better.
+103)  BRIE
+[terrified] There’s so many of them...
+104)  LEE
+You got the fuel!
+105)  KENNY
+Let’s not start high-fiving each other just yet. Let’s get the hell back to the classroom. Give us a hand with these fuel cans, they weigh a goddamn ton.
+106)  MOLLY
+Come on, the door to the auto place should be this way.
+107)  LEE
+[to himself]Shit!
+109)  
+Climb
+122)  
+Climb
+110)  LEE
+[lookat]Can't reach it. It's too high up.
+111)  
+Call out
+112)  LEE
+[calling out]Molly? You there?
+113)  LEE
+[calling out]Molly? You there?
+114)  LEE
+[calling out]Molly!
+115)  LEE
+[to himself]What the hell is she doing?
+116)  LEE
+[to himself][lookat]Alley's overrun. Guess I'm not going back out there again.
+117)  LEE
+Not working. Of course.
+118)  LEE
+[to himself]Think it's empty. Those Crawford people probably locked this stuff up somewhere.
+119)  LEE
+[to himself]Not going back to the sewer until we get what we came here for.
+123)  LEE
+[to himself]They've already been fired. They're worthless.
+240)  LEE
+[to himself]They've already been fired. They're worthless.
+131)  LEE
+[quietly, to himself] [lookat]Don't think I wanna go in there.
+134)  LEE
+[quietly, to himself] [lookat]Don't think I wanna go in there.
+132)  LEE
+[being eaten alive]AAAHHHHHHH! NOO! AAAAAGGGGGHHHH.
+136)  LEE
+[being eaten alive]AAAHHHHHHH! NOO! AAAAAGGGGGHHHH.
+137)  LEE
+Logan. This must have been his locker.
+139)  LEE
+Logan. This must have been his locker.
+141)  LEE
+Logan. This must have been his locker.
+138)  LEE
+[to himself]Too bad I don't know the combination to any of these.
+140)  LEE
+[to himself]Too bad I don't know the combination to any of these.
+142)  LEE
+Another tape. The safe combination has gotta be on one of these.
+290)  LEE
+Another tape. The safe combination has gotta be on one of these.
+143)  LEE
+[to himself] Can't open it without the combination.
+144)  MOLLY
+You ready to do this?
+145)  
+I understand.
+146)  
+I don't care.
+147)  
+Let's just go.
+148)  
+Let's just go.
+149)  BEN
+Sorry, sorry! I just got spooked by those bells. And then I heard someone coming...
+150)  
+What are you doing?!
+151)  MOLLY
+[startled] Jesus!
+152)  LEE
+What the fuck are you doing out here?
+155)  
+It's okay, Ben.
+159)  
+It's okay, Ben.
+157)  LEE
+[recovering from shock] We're okay. Did you get that door open in the classroom?
+158)  BEN
+Not yet. Kenny sent me out to look for something we can use to bust it open. I found this.
+160)  MOLLY
+[recovering from shock] What the hell were you doing out here, anyway?
+163)  MOLLY
+[recovering from shock] What the hell were you doing out here, anyway?
+164)  MOLLY
+[calling out]The alleyway to the auto shop's down here. You coming or not?
+165)  LEE
+[calling out]Hello?
+166)  LEE
+[to himself]This is definitely the door to the auto shop. But where's Molly?
+167)  
+Where's Clementine?
+168)  
+Did you get that door open?
+169)  MOLLY
+[sucking it up] Yeah, well... who doesn't, these days?
+170)  LEE
+I don't care about your life story, Molly.
+171)  LEE
+I'm sorry for what happened to your sister. But right now I just want to get the job done and get back to the house.
+172)  LEE
+It's just that me and my people, we've got our own problems, you know?
+173)  MOLLY
+Then maybe you shouldn't have asked.
+174)  MOLLY
+Hey. You asked.
+175)  MOLLY
+All right. Let's party.
+176)  LEE
+[pickup][lookat]Seems Crawford used some of these rooms to quarantine walkers. Better not mess with them.
+177)  LEE
+Shell casings all over. Whatever happened here, it wasn't good.
+238)  LEE
+Shell casings all over. Whatever happened here, it wasn't good.
+178)  LEE
+[to himself][lookat]This place definitely has some major damage.
+179)  LEE
+[to himself][lookat]This must be the door to the alleyway where the auto shop is. But where the hell is Molly?
+180)  MOLLY
+What?
+181)  LEE
+You said you'd never been here before. But that wasn't the truth, was it?
+182)  LEE
+[accusatory]You lied to me.
+184)  LEE
+I saw you on a security tape. You were having an affair with that doctor.
+185)  LEE
+Forget it. We got what we came here for. Let's just go.
+186)  MOLLY
+Well okay. Let's--
+187)  MOLLY
+So... are we done?
+188)  KENNY
+[struggling]We got it!
+189)  BRIE
+[panicked]Brace the door with something!
+190)  
+Hatchet
+191)  
+Nurse's Office
+192)  
+Exit to Alley
+193)  
+Exit to Playground
+194)  
+Hole
+195)  
+Bulletin Board
+196)  
+Shell Casings
+197)  
+Door Handle
+198)  
+Brace
+199)  
+Hand
+200)  
+Chop
+201)  
+Classroom Door
+202)  KENNY
+Fuck. Fuck! Do you think they saw us?
+203)  MOLLY
+What always happens, I guess. In the end, the dead always win.
+204)  CHRISTA
+What the hell happened here? I thought this place was supposed to be secure!
+205)  VERNON
+No, this is good.
+206)  BEN
+Oh man, we are screwed, we are so screwed...
+207)  
+How is this good?
+208)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+213)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+217)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+209)  LEE
+[incredulous] What? How the fuck is this good?
+210)  
+He's right.
+211)  LEE
+Vernon's right. We can deal with walkers easier than armed guards.
+212)  
+We should leave. Now.
+214)  VERNON
+No, listen to me.
+215)  LEE
+It's all over. We should leave this place. Now.
+216)  BEN
+[nervous]Did he just say this is a good thing?
+218)  VERNON
+Look at it this way...
+219)  MOLLY
+Just keep moving.
+220)  BEN
+The plan hasn’t changed? Every time walkers show up the plan changes! Do you even have any idea how many of them are out there?
+221)  BEN
+I got a bad feeling about this.
+222)  BRIE
+Come on, I think I know which way to head.
+223)  CHRISTA
+No. You wanna do a headcount? Or do you want to get what we need and get the hell out of here?
+224)  KENNY
+I agree. So long as we don’t let ‘em box us in, we can still do this. The plan hasn’t changed.
+225)  BRIE
+Here.
+226)  LEE
+Looks okay. Everybody in.
+227)  
+I don't think so.
+228)  LEE
+I don’t think so. I think we’re good, for now at least.
+229)  
+Definitely
+230)  LEE
+[grim]Definitely.
+231)  BEN
+[to himself, scared]Shit.
+234)  BEN
+[to himself, scared]Shit.
+232)  
+No idea.
+233)  LEE
+[grim]Your guess is as good as mine.
+235)  KENNY
+[irritated]I'll take that as a "yes" then?
+236)  
+Locker
+239)  
+Use
+246)  
+Use
+258)  
+Use
+241)  LEE
+[pickup][quietly, to himself]'Been a long time since I had to use one this small.
+245)  LEE
+[pickup][quietly, to himself]'Been a long time since I had to use one this small.
+257)  LEE
+[pickup][quietly, to himself]'Been a long time since I had to use one this small.
+242)  LEE
+[pickup][quietly, to himself]Bone dry.
+247)  LEE
+[pickup][quietly, to himself]Bone dry.
+259)  LEE
+[pickup][quietly, to himself]Bone dry.
+243)  LEE
+[pickup][quietly, to himself]It doesn't work.
+248)  LEE
+[pickup][quietly, to himself]It doesn't work.
+260)  LEE
+[pickup][quietly, to himself]It doesn't work.
+249)  LEE
+[pickup][quietly, to himself]No power, no cola.
+250)  LEE
+[pickup][quietly, to himself]Logan... isn't that the name of the doctor on that tape? Too bad I don't know the combo.
+251)  
+Water Fountain
+252)  
+Bathroom Door
+253)  LEE
+[pickup][quietly, to himself]Locked. Didn't need to use the bathroom anyway.
+254)  LEE
+[pickup]It's locked.
+255)  
+Vending Machine
+261)  LEE
+[pickup]Not going back out there unless I have a damn good reason.
+262)  
+I know you're from Crawford.
+263)  
+You lied to me.
+264)  
+Forget it, let's just go.
+266)  BEN
+[pickup][frustrated, keeping voice down]The plan hasn’t changed? Every time walkers show up the plan changes! Do you even have any idea how many of them are out there?
+267)  BEN
+[pickup][skeptical]Did he just say this is a good thing?
+268)  BEN
+[pickup][frustrated]Oh man, we are so screwed...
+269)  LEE
+[pickup][quietly, to himself]What are these, tear gas canisters?
+270)  LEE
+[pickup][intrigued]Must be the guy who ran this place. Looks like he figured himself as some kind of supreme leader.
+287)  LEE
+[pickup][intrigued]Must be the guy who ran this place. Looks like he figured himself as some kind of supreme leader.
+271)  LEE
+[pickup][quietly reading a name off a piece of paper]Oberson...
+288)  LEE
+[pickup][quietly reading a name off a piece of paper]Oberson...
+272)  LEE
+[pickup][quietly, perplexed]Bullet holes...
+273)  LEE
+[pickup]I'll take that battery now.
+274)  MOLLY
+[pickup2]Oh... yeah, about that.
+275)  MOLLY
+[pickup2]I'm just kidding.
+276)  MOLLY
+[pickup2]Jeez. Here ya go.
+277)  MOLLY
+[pickup2]Go, get out of here!
+278)  MOLLY
+[pickup2]Lee!
+279)  
+Photo
+280)  
+Bloody Locker
+281)  
+Sign
+282)  
+Empty Locker
+283)  LEE
+[to himself]Nothing in here, I guess.
+284)  LEE
+[lookat]Nothing in there.
+285)  LEE
+[lookat][to himself]Nothin'.
+286)  LEE
+[lookat]Empty.
+291)  LEE
+[pickup][to himself, discovering it for the first time]A videotape.
+292)  MOLLY
+[pickup2]Here ya go.

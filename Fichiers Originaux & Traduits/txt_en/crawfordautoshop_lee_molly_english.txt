@@ -1,0 +1,56 @@
+1)  MOLLY
+{thinkingA}Something you need?
+3)  MOLLY
+{thinkingA}I got your promise now. Not a scratch!
+4)  LEE
+{happyA}Think I can borrow that hook thing of yours?
+5)  LEE
+{happyA}Please can I borrow Hilda? {happyB}I’ll take good care of her, she won’t get a scratch.
+6)  MOLLY
+{fearA}I don’t know, Hilda and I have been through a lot together.
+7)  LEE
+{thinkingB}Hilda?
+8)  MOLLY
+{happyA}That’s what I call her. Don’t judge.
+9)  
+About that walker in the alley...
+11)  STUB
+We might want to give the player to ask Molly about why she was willing to come with them to Crawford. Maybe she should lie or refuse to talk about it.
+12)  
+So... Crawford...
+13)  STUB
+We might want the player to be able to ask Molly what she thinks about this whole Crawford situation in the auto shop. She should say something about how they all got what was coming to them.
+14)  
+Bye
+15)  LEE
+{thinkingA}I'm going to have a look around.
+16)  MOLLY
+{disbeliefB}You do that.
+17)  MOLLY
+{angryA}Don't know, don't care. As far as I'm concerned these fuckers got what was coming to them.
+18)  LEE
+{thinkingA}What do you think happened to Crawford?
+19)  LEE
+{normalD}Not a lot of sympathy for all the people who died here, huh?
+20)  MOLLY
+{angryB}I have about as much for them as they did for the sick and the old and anyone else they didn't think was fit to belong in their little paradise. {angryC}So yeah, fuck 'em.
+21)  LEE
+{thinkingB}What was all that about back there?
+22)  MOLLY
+{disgustA}Hey, you never really know when those things are all the way dead. I was just making sure. {disgustB}Look, you want to get this battery or not? Time's wasting.
+23)  MOLLY
+{angryA}He came at me up on that rooftop, tried to take a bite out of me, so I took care of business. {angryB}What, you got a problem with me killing geeks?
+24)  LEE
+{normalD}No, it just seemed like you went to town on him a little more than you needed to.
+25)  MOLLY
+{angryA}I told you, I'm expecting a ride on that boat once that hillbilly friend of yours has got it running.
+26)  LEE
+{thinkingA}So why did you decide to help us?
+27)  MOLLY
+[annoyed] {angryB}You want to keep interrogating me, or do you want to get the damn battery and get out of here?
+28)  LEE
+{thinkingB}You sure that's all of it?
+29)  
+Can I borrow your hook?
+30)  
+Why did you decide to help us?

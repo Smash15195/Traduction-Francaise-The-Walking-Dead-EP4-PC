@@ -1,0 +1,108 @@
+1)  LEE
+[calling out] {NormalD} Clementine? [louder, desperate] {FearB} Clementine!!!
+2)  LEE
+[frantic] {NormalD} Clementine! {FearA} Are you in there?
+18)  LEE
+[frantic] {NormalD} Clementine! {FearA} Are you in there?
+3)  
+Look At
+5)  
+Look At
+7)  
+Look At
+41)  
+Look At
+48)  
+Look At
+51)  
+Look At
+4)  LEE
+[concerned, to himself]{NormalD} What the hell happened back here?
+6)  LEE
+[concerned, to himself]{ThinkingA} What the--?
+8)  
+Open
+42)  
+Open
+9)  
+Call out
+10)  LEE
+[frantic] Clementine! Are you in there?
+11)  LEE
+[choking back tears] {HappyC} Hey girl.
+12)  LEE
+{HappyC} What have I told you about wandering off on your own?
+13)  CLEMENTINE
+{HappyA} I know, I know, stay close to you! {SadA} But you weren’t here!
+14)  LEE
+[stunned/amazed] {SurpriseA} Holy shit.
+15)  CLEMENTINE
+[enthusiastic/excited] {HappyB} I know, right?
+30)  CLEMENTINE
+[enthusiastic/excited] {HappyB} I know, right?
+36)  CLEMENTINE
+[enthusiastic/excited] {HappyB} I know, right?
+16)  LEE
+[warily] {ThinkingA} ...Clem?
+17)  CLEMENTINE
+{HappyC} Lee!
+19)  
+Hey girl.
+20)  
+I told you not to wander off.
+21)  CLEMENTINE
+{HappyB} Come look! Look what I found!
+22)  
+What were you doing in there?
+23)  
+What were you doing in there?
+24)  CLEMENTINE
+{SadA} I know you're mad that I wandered off, {HappyB} but look what I found!
+25)  CLEMENTINE
+[calling Lee out that he said a bad word] [a beat, then] {HappyA} Swear.
+26)  
+Whoah.
+27)  LEE
+[stunned/amazed] {SurpriseA} Whoah.
+28)  
+This was here the whole time?!
+29)  
+This was here the whole time?!
+31)  CLEMENTINE
+{NormalC} Exploring.
+32)  LEE
+{HappyC} What were you doing in there?
+33)  CLEMENTINE
+{HappyB} And look! Look what I found!
+34)  CLEMENTINE
+{HappyB} And look! Look what I found!
+35)  LEE
+{HappyB} This was here the whole time?!
+37)  
+House Door
+38)  
+Gate
+39)  
+Dirt Mound
+40)  
+Shed Door
+43)  LEE
+[pickup][calling out, excited]Kenny! {HappyB} You gotta come see this!
+44)  KENNY
+[pickup]
+45)  LEE
+[pickup][concern]Door's covered in vines... {ThinkingA} don't think anyone came in through there.
+46)  KENNY
+[pickup][awstruck]{DrunkA}That's a big boat!
+47)  
+Dog House
+53)  
+Dog House
+49)  
+Shrub
+50)  
+Vent
+52)  
+Fence
+54)  
+Grave

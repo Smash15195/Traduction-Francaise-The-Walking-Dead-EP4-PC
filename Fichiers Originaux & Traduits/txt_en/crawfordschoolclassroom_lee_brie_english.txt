@@ -1,0 +1,56 @@
+1)  LEE
+{normala}Brie?
+2)  BRIE
+{normalb}I'm a little busy here, Lee. Maybe you should go get that battery or help with the medicine.
+3)  LEE
+{normala}Hey, I--
+4)  STUB
+After the player has tried to talk to Brie in the classroom, she should give him the cold shoulder. She's pissed at how he treated Vernon at the morgue (lied to him about the medicine or threatened him). She only came here to help out her own people and make sure Vernon is safe. End of conversation.
+5)  
+So, you're a cancer survivor?
+6)  
+How long have you known Vernon?
+7)  
+About Crawford...
+8)  
+I'd better be going.
+9)  LEE
+{normala}I'll be back. Got some things to do.
+10)  BRIE
+{Normala}Good luck.
+12)  LEE
+{sada}If this is about Vernon... I did what I had to do, to get him to help us. I was only looking out for my people.
+13)  BRIE
+{disgusta}No offense, but I'm not really looking for conversation.
+14)  LEE
+{normald}What's wrong?
+15)  BRIE
+{angryb}And I'm looking out for mine. That's the only reason I'm here. So if there's nothing else...
+16)  BRIE
+{angrya}Nothing's wrong. I just don't particularly like you.
+17)  LEE
+No problem, we're all on the same team.
+18)  BRIE
+Hey, Lee. Thanks for all your help back there. I don't think we would have made it without you.
+19)  LEE
+Not really, no.
+20)  BRIE
+{thinkinga}Yeah. I was diagnosed when I was in college. Been getting treatment ever since. {normala} Just when I was starting to get better, when I thought there might be some hope, all... this happened. Lost my whole family. I'm the only one who survived. Funny how things work out, huh?
+21)  BRIE
+{normala}Couple of years. He ran our support group. He was really great, helping me come to terms with my disease. But how do you come to terms with something like this? With a place like Crawford? {sada}I don't know what I, or the other survivors, would have done without Vernon. He's the one who held us together, kept us alive.
+22)  BRIE
+{disgusta}It's how I feel. If you'd seen what I've seen, you'd feel the same.
+23)  LEE
+{sada}Damn girl, that's cold.
+24)  BRIE
+{disgusta}I've got no sympathy for what happened to these people. They weeded out the sick and the old, even children, those least able to defend themselves, so that they could save their own skins. {disgusta}Whatever happened here, however Crawford fell, I consider it poetic justice.
+25)  LEE
+Even now, with everyone dead?
+26)  BRIE
+{sada}I'd rather not talk about it. Too many awful memories. Even being back here gives me a bad feeling.
+27)  LEE
+{Normala}So you're a cancer survivor? Like Vernon and the others?
+28)  LEE
+{thinkinga}How long have you known Vernon?
+29)  LEE
+{thinkinga}What do you think about this whole Crawford situation?

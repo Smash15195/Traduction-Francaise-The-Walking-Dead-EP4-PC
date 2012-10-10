@@ -1,0 +1,338 @@
+1)  
+Look At
+2)  
+Bury
+3)  CHRISTA
+{WorriedA} Lee? What’s going on?
+4)  LEE
+[shouting, aggressive] {AngryB} You stay the hell away from us, you hear?
+5)  
+Nothing, just a stray dog.
+6)  
+Someone was watching us.
+7)  
+I thought I saw something.
+8)  
+Silence
+94)  
+Silence
+9)  BEN
+{AngryA} Didn’t sound like nothing. {ThinkingA}What was all that shouting about?
+10)  LEE
+{NormalC} Nothing.
+11)  LEE
+Just a stray dog sniffing around the gate, I shooed it away. {NormalB} Go on back in, I’m almost done here.
+12)  CHRISTA
+[skeptical] {ThinkingA} Sounded like a lot to say, {AngryA} to a dog.
+13)  LEE
+{NormalC} I saw someone standing there by the fence. {AngryA} Watching us.
+14)  BEN
+{FearB} A walker?
+15)  LEE
+{ThinkingA} No, too fast. {AngryB} Took off like a bat out of hell when I spotted him.
+16)  CHRISTA
+{ThinkingA} Was it a man or a woman?
+17)  LEE
+{ThinkingA} Didn’t get a good enough look.
+18)  BEN
+{FearA} What does it matter?
+19)  CHRISTA
+{AngryA} I’m wondering if it’s the same guy who’s been following us. {NormalB} The guy on the radio.
+20)  LEE
+{NormalD} I thought I saw something outside the fence.
+21)  CHRISTA
+{ThinkingA} Something? {AngryA}Or someone?
+22)  LEE
+{ThinkingA} Didn’t get a good enough look. {NormalB} The way they moved though, {NormalC}too fast to be a walker.
+23)  CHRISTA
+{FearA} Could it have been the guy that’s been following us? The voice on the radio?
+24)  LEE
+{ThinkingA} I don't know, they didn't say anything. Just stood there, {ThinkingB} watching. {AngryA}Creepy as hell.
+25)  CHRISTA
+{FearA} What, Lee? {AngryA} What the hell were you shouting at?
+26)  BEN
+{FearA} Lee?
+27)  KENNY
+[still emotional, trying to act strong]{ThinkingA} What’s all the ruckus?
+28)  KENNY
+{AngryA} Well he’d better get ready. {NormalC} Because I’m going down to River Street right now to {AngryB} find a boat, and as soon as she’s ready to go {AngryA} we’re moving out.
+29)  CHRISTA
+[skeptical] {AngryA} Apparently Lee’s started having conversations with dogs. {ThinkingA} Should we be concerned?
+30)  LEE
+[covering his lie]Just a stray sniffing around outside, it’s nothing.
+31)  BEN
+{NormalC} Whatever it was, sure looks like it had you spooked.
+163)  BEN
+{NormalC} Whatever it was, sure looks like it had you spooked.
+32)  CHRISTA
+{SadA} I don’t know if Omid’s well enough to move yet.
+33)  KENNY
+{ThinkingA} We’re all a little spooked. {AngryA} All the more reason to get down to the river to find a boat so we can {AngryB} get the hell out of here.
+164)  KENNY
+{ThinkingA} We’re all a little spooked. {AngryA} All the more reason to get down to the river to find a boat so we can {AngryB} get the hell out of here.
+34)  KENNY
+{AngryB} All right, that’s it. {AngryA} We’ve stuck around here long enough. It’s time to get back on track, time to get {ThinkingA} down to the river and find ourselves a boat.
+35)  BEN
+{FearB} I don’t like this one bit. Not one bit.
+36)  KENNY
+[alarmed] {FearA} What? {ThinkingA} Who?
+37)  CHRISTA
+{FearA} Me either. {NormalB} Walkers are one thing, but the {AngryA}thought of someone out there actually stalking us...
+38)  LEE
+{ThinkingA} I can’t be sure, they ran off before I could get a good look.
+39)  BEN
+{FearA} Lee saw someone watching us from outside the gate.
+40)  BEN
+{FearA} Lee thinks he might have seen someone out there, spying on us.
+41)  KENNY
+Sure it wasn't just a walker?
+42)  LEE
+[shaking his head] Too fast.
+43)  KENNY
+{ThinkingA} Maybe it’s that goddamn bell-ringer...
+44)  BEN
+{FearA} Man, remember when walkers were what we were most afraid of? {SadA} Those are starting to seem like the good old days.
+45)  KENNY
+{AngryA} Well, to hell with this. I’m not gonna let {AngryB} whoever it is out there keep us from getting our boat. {ThinkingA} We’ve holed up here long enough, {AngryB} I’m headed down to River Street.
+46)  LEE
+I don’t know, I’m tired. Mind’s playing tricks on me, is all.
+47)  CHRISTA
+{NormalB} He knows what he saw, {AngryA}he just doesn’t want to tell us. {AngryB} Lee, what the {FearA}hell happened out here?
+48)  LEE
+I don’t know.
+49)  KENNY
+{AngryA} All right, that’s it. We’ve been cooped up here less than an hour and already we’re going stir crazy.{AngryB}  It’s time to get back on track, {ThinkingA} go get ourselves a boat.
+50)  LEE
+[intense] {NormalC} Did you hear what I said? {AngryA} Anything or anyone.
+51)  BEN
+{HappyA} I’ll go get my stuff.
+52)  KENNY
+{ThinkingA} Well then hell, {AngryA}what are we waiting for?
+53)  LEE
+{NormalB} That’s not how it is. Way I figure it, you’ve got the most important job out of all of us. I’m leaving Clementine in your care. {NormalC} You understand what that means?
+54)  KENNY
+{NormalC} No. Ben, you'll only slow us down. Lee and I can go scout the river while the rest of you get ready to move out. {AngryA} You stay behind with Christa and Omid.
+91)  KENNY
+{NormalC} No. Ben, you'll only slow us down. Lee and I can go scout the river while the rest of you get ready to move out. {AngryA} You stay behind with Christa and Omid.
+55)  LEE
+{NormalB} I'm with Kenny, {NormalD} the sooner we get the hell out of here, the better.
+56)  LEE
+{Body-F}{NormalD} Clem, honey. I think it’d be best if you stayed here with Ben. {NormalB}I need you to watch out for Omid and Christa, help them get ready to move out.
+57)  CLEMENTINE
+[a little upset] You said I’m supposed to {SadB}always stay close to you.
+58)  LEE
+{NormalD} I know. {NormalB} It’s just this once. Sometimes we all have to put aside what we want for the good of the group. {HappyA} Hey, don’t worry. I’ll be back before you know it. Okay?
+59)  KENNY
+{ThinkingA} Daylight’s burning. {NormalC} Gonna go grab my gear, then we’ll head out.
+137)  KENNY
+{ThinkingA} Daylight’s burning. {NormalC} Gonna go grab my gear, then we’ll head out.
+139)  KENNY
+{ThinkingA} Daylight’s burning. {NormalC} Gonna go grab my gear, then we’ll head out.
+141)  KENNY
+{ThinkingA} Daylight’s burning. {NormalC} Gonna go grab my gear, then we’ll head out.
+144)  KENNY
+{ThinkingA} Daylight’s burning. {NormalC} Gonna go grab my gear, then we’ll head out.
+146)  KENNY
+{ThinkingA} Daylight’s burning. {NormalC} Gonna go grab my gear, then we’ll head out.
+60)  CLEMENTINE
+{NormalB} Wait, can’t I come? {ThinkingA} My mom and dad can’t be far now, {NormalB} maybe we can look for them on the way to the river.
+61)  CHRISTA
+So you’re just going to leave us here, with... whoever that was on the radio still out there?
+62)  LEE
+We don’t have much of a choice, Christa. Can’t stay here. The plan’s always been to get to that boat, nothing’s changed. You’ll be safe until we get back.
+63)  LEE
+{NormalC} Good.
+155)  LEE
+{NormalC} Good.
+64)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+113)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+138)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+140)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+142)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+143)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+145)  CHRISTA
+{NormalB} Come on Clem, let’s go see if Omid needs anything.
+65)  BEN
+[pickup][frustrated]So, you're just gonna leave me on the bench here?
+66)  BEN
+[unsure] {FearA} I think so.
+67)  LEE
+[deadly serious] {NormalC} Well, just so we’re clear. While I’m gone, anything or anyone tries to get inside this house, {AngryA} you shoot them. Don’t even think twice about it. {AngryB} Understand?
+68)  BEN
+{AngryA} I got no problem shooting walkers.
+69)  
+The sooner we leave the better.
+70)  
+It’s not safe yet.
+71)  LEE
+{NormalD} I don’t know if it’s safe to leave just yet.
+72)  KENNY
+{AngryA} Why the hell not? {NormalC}Walkers look to have cleared out.
+73)  LEE
+{FearA} That’s not all I’m worried about.
+74)  KENNY
+{AngryA} So you’d rather just hunker down here and just let whoever’s out there keep us boxed in? {ThinkingA} Wait for them to starve us out? {NormalC} No thanks.
+75)  CHRISTA
+{AngryA} I hate to say it, {NormalB}but Kenny’s right. Omid’s not in great shape to move, but {FearA}we can’t do anything for him here. {NormalB} Without meds or a doctor, {SadA}he’s only going to get worse.
+76)  LEE
+{NormalC} All right, all right. {NormalB} I’ll head to the river with Kenny to scope out a boat while you get Omid ready to move.
+77)  KENNY
+{AngryB} Well, what the hell else then?
+78)  LEE
+{ThinkingA} Nothing specific. {NormalD} Just got a bad feeling, is all.
+79)  BEN
+{HappyA} Hell, I’ve had one of those since the {FearA}dead started getting up and eating people.
+80)  KENNY
+{NormalC} We’ve come too far to quit now. {ThinkingA} I’m going down to that river to secure us a boat. {AngryA} Now are you coming with, or would you rather stay here and {ThinkingA} nurse that bad feeling of yours?
+81)  LEE
+{NormalC} All right, all right. I’m coming.
+82)  
+Let's look here for supplies.
+83)  LEE
+Maybe we should search the house before we abandon it.
+84)  KENNY
+We searched it already. Whoever was here before us cleared the place out.
+85)  LEE
+{NormalD} We only checked the house to make sure it’s secure, {NormalC} we didn’t really toss the place. We’re low on food, water, meds, ammo... {ThinkingA} we should make sure there’s nothing here we can use before we move out.
+86)  KENNY
+{NormalC} You search it if you wanna. I’m done with his house. {ThinkingA}We came to this city to find a boat, and that’s just what I’m gonna do.
+87)  BEN
+{FearA} Maybe it’s not such a bad idea to check the place one more-[cut off]
+88)  KENNY
+[interrupting/severe] {AngryC} I SAID I'M DONE WITH THIS HOUSE.
+89)  LEE
+{NormalD} We can do both. {NormalB} Ben, you take one last look around the place, grab anything that looks useful, while me and Kenny go down to the river to get us a boat.
+90)  BEN
+{HappyA} Me too.
+92)  BEN
+{FearA} What about me?
+93)  KENNY
+{NormalC}You’ll stay here with the group. {ThinkingA} You'll only slow us down.
+95)  CHRISTA
+{AngryA} Lee! {FearA} Say something! Tell him we’re not ready to leave yet! {SadA} Omid can barely even walk!
+96)  KENNY
+{ThinkingA} Is he gonna be any more ready to leave tomorrow, after that wound of his has had another day to fester? {AngryA} His best chance - {ThinkingA} our best chance - {NormalC} is to get the hell out of here before our situation gets any worse.
+97)  CHRISTA
+[to Lee] {SadA} Are you just gonna sit this one out?
+98)  BEN
+{FearA} Kenny’s right, Christa.  {NormalB} The sooner we find someplace else, the better.
+99)  LEE
+It’s gonna be fine, Christa. River Street’s just a few blocks away, Kenny and me will head down there and secure a boat. Ben can stay here and guard the house while you get Omid ready to move. If we have to, we’ll carry him to the river.
+100)  LEE
+I gotta go with the majority. The plan’s always been to find a boat that can take us someplace safer than here, if anything we need that now more than ever.
+101)  CHRISTA
+{AngryA} Great, just great.
+102)  LEE
+[shouting, aggressive] {AngryA} You come back here, I'll kill you! {FearA} You understand? {AngryC} I'll kill you!
+103)  LEE
+[shouting] {FearA} Who are you? {AngryB}What the hell do you want from us?!
+104)  
+I'll kill you!
+105)  
+Stay away from us!
+106)  
+Who are you?
+107)  
+Silent
+108)  
+Stay here and help.
+110)  
+Absolutely not.
+114)  
+We need to focus on the boat.
+115)  
+Stay and protect Clementine.
+116)  
+No offense Ben, but...
+117)  
+Keep an eye on Omid.
+118)  LEE
+[calling out] {SurpriseA} Hey. Hey!
+119)  LEE
+{Body-F}{NormalB} We need to focus on finding a boat right now, Clem. {NormalD} Like we talked about on the train, remember?
+120)  CLEMENTINE
+[disappointed but accepting] {SadA} Okay.
+127)  CLEMENTINE
+[disappointed but accepting] {SadA} Okay.
+128)  CLEMENTINE
+[disappointed but accepting] {SadA} Okay.
+131)  CLEMENTINE
+[disappointed but accepting] {SadA} Okay.
+132)  CLEMENTINE
+[disappointed but accepting] {SadA} Okay.
+133)  CLEMENTINE
+[disappointed but accepting] {SadA} Okay.
+121)  
+We have to stick together.
+122)  
+We can't right now.
+123)  LEE
+{Body-F}{NormalD} We can't right now.
+124)  LEE
+{Body-F}{NormalB} We will, but right {ThinkingA} now we all need to focus on finding a boat.
+125)  LEE
+{NormalD} I know I did, sweet pea. I haven't forgotten. {NormalB}But Savannah's more dangerous than I thought it would be. {ThinkingA}We all need to stick together as a group.
+129)  LEE
+{NormalD} I know I did, sweet pea. I haven't forgotten. {NormalB}But Savannah's more dangerous than I thought it would be. {ThinkingA}We all need to stick together as a group.
+126)  CLEMENTINE
+{SadA} But what about what you promised? [discreetly] {NormalA} You said it was going to be just you and me.
+130)  CLEMENTINE
+{SadB} But you promised we'd go find them when we got here. On the train, you promised.
+134)  LEE
+{Body-F}{NormalC} There's no way I'm letting you go back out there.
+135)  LEE
+{HappyA} Kenny and I will be fine. {NormalB} You're going to stay right here where it's safe. {NormalC} No arguments.
+136)  CLEMENTINE
+{AngryA} But maybe I can help!
+147)  LEE
+{NormalC} No offense, Ben, but I'd feel safer if you stayed here.
+148)  BEN
+{SadA} How am I not supposed to take offense to that. {SadB} What am I, a liability?
+149)  BEN
+{AngryB} Great. Just great. {AngryA}Thanks a lot for the vote of confidence.
+157)  BEN
+{AngryB} Great. Just great. {AngryA}Thanks a lot for the vote of confidence.
+150)  LEE
+{NormalC} Confidence is earned, Ben. {NormalB}And you've got a long way to go to earn yours back after some of the stuff you've pulled. {NormalC} You feel me?
+151)  BEN
+[glumly accepting] {SadA} Yeah. I guess you're right.
+152)  BEN
+[pickup][furstrated, sighs]He's got Christa for that.
+153)  LEE
+[intense] {NormalC} If it comes down to it, I can't rely on Christa to do what has to be done. {NormalD} Not with Clementine in the same house. {NormalC}You understand what I'm saying?
+154)  LEE
+{NormalD} I'm worried about Omid, he's in bad shape. {NormalB} I need you to stay here, keep and eye on him.
+156)  BEN
+[grim realization] {FearA} Yeah. You can count on me.
+158)  
+Grave
+159)  
+Shovel
+162)  
+Shovel
+160)  
+Dirt Mound
+161)  
+Boy
+165)  KENNY
+[pickup][still emotional, recovering from his  breakdown. take your time with this line]I'm fine. Just... I'm fine. What's all the ruckus?
+166)  LEE
+[pickup]That's not how it is, Ben. I need you to stay here and keep an eye on Clementine.
+167)  BEN
+[pickup] [pissed off] Yeah. Yeah I feel you.
+168)  BEN
+[pickup] How am I supposed to not take offense to that? What am I, a liability?
+169)  BEN
+[pickup] [confident] I can do that.
+170)  LEE
+{fearA}Kenny?
+171)  
+Loose Dirt
+172)  
+Place Boy In

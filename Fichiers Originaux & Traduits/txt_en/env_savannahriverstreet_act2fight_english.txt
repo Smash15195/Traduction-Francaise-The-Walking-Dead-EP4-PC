@@ -1,0 +1,576 @@
+1)  KENNY
+What is it?
+259)  KENNY
+What is it?
+267)  KENNY
+What is it?
+2)  LEE
+[startled] What the hell...?
+258)  LEE
+[startled] What the hell...?
+266)  LEE
+[startled] What the hell...?
+3)  KENNY
+[hushed]Why the hell are we hiding?
+261)  KENNY
+[hushed]Why the hell are we hiding?
+269)  KENNY
+[hushed]Why the hell are we hiding?
+4)  LEE
+[hushed]Get down, get down!
+260)  LEE
+[hushed]Get down, get down!
+268)  LEE
+[hushed]Get down, get down!
+5)  LEE
+[hushed]Someone came down from that building at the end of the street.
+262)  LEE
+[hushed]Someone came down from that building at the end of the street.
+270)  LEE
+[hushed]Someone came down from that building at the end of the street.
+6)  LEE
+[hushed]Saw him run into that newsstand.
+264)  LEE
+[hushed]Saw him run into that newsstand.
+272)  LEE
+[hushed]Saw him run into that newsstand.
+7)  LEE
+[hushed]I don’t know.
+185)  LEE
+[hushed]I don’t know.
+8)  KENNY
+[hushed]Could be our bell ringer. How about we go find out?
+184)  KENNY
+[hushed]Could be our bell ringer. How about we go find out?
+217)  KENNY
+[hushed]Could be our bell ringer. How about we go find out?
+265)  KENNY
+[hushed]Could be our bell ringer. How about we go find out?
+273)  KENNY
+[hushed]Could be our bell ringer. How about we go find out?
+9)  KENNY
+[hushed]Where’d he go?
+263)  KENNY
+[hushed]Where’d he go?
+271)  KENNY
+[hushed]Where’d he go?
+10)  LEE
+[hushed] Maybe he’s just another scavenger, like us.
+11)  KENNY
+[hushed]How about we go find out?
+12)  KENNY
+[hushed]And maybe he ain’t. Maybe he’s that fucker on the radio who’s been messing with Clementine’s head. Don't you wanna know? 'Cause I wanna know.
+13)  KENNY
+[hushed] Okay, you head up the middle of the street, I’ll go around the side, cover your flank. We’ll come up on him quiet, take him by surprise.
+14)  KENNY
+[hushed]Oh, we’re gonna talk.
+15)  LEE
+[hushed]We just want to talk to this guy.
+16)  CLEMENTINE
+[off-screen/urgent] Lee!
+17)  CLEMENTINE
+[off-screen/neutral] Lee?
+18)  LEE
+[shock/disbelief] ...Clem?
+24)  LEE
+[shock/disbelief] ...Clem?
+19)  MOLLY
+You’re not from Crawford.
+26)  MOLLY
+You’re not from Crawford.
+20)  LEE
+[puzzled] Crawford? The hell are you talking about?
+248)  LEE
+[puzzled] Crawford? The hell are you talking about?
+21)  MOLLY
+Mind if I get up?
+22)  LEE
+Slowly.
+23)  CLEMENTINE
+[off-screen/horrified] No!
+25)  CLEMENTINE
+[to hooded figure] Please... don’t hurt him!
+27)  LEE
+[urgent] Kenny, don’t!
+28)  LEE
+No! He’s with us!
+29)  KENNY
+[horror/disbelief] What the fuck...?
+30)  MOLLY
+Who the hell are you people?
+31)  LEE
+I asked you first.
+218)  
+I asked you first.
+32)  MOLLY
+Who’re you calling lady? The name’s Molly.
+33)  LEE
+Molly. I’m Lee, this is Kenny and Clementine. We’re not looking for any trouble.
+223)  LEE
+Molly. I’m Lee, this is Kenny and Clementine. We’re not looking for any trouble.
+229)  LEE
+Molly. I’m Lee, this is Kenny and Clementine. We’re not looking for any trouble.
+232)  LEE
+Molly. I’m Lee, this is Kenny and Clementine. We’re not looking for any trouble.
+233)  LEE
+Molly. I’m Lee, this is Kenny and Clementine. We’re not looking for any trouble.
+34)  CLEMENTINE
+[cheerily/friendly] Hi.
+224)  CLEMENTINE
+[cheerily/friendly] Hi.
+230)  CLEMENTINE
+[cheerily/friendly] Hi.
+231)  CLEMENTINE
+[cheerily/friendly] Hi.
+234)  CLEMENTINE
+[cheerily/friendly] Hi.
+35)  MOLLY
+You guys really aren’t from Crawford, are you?
+222)  MOLLY
+You guys really aren’t from Crawford, are you?
+36)  LEE
+I don’t even know what that is.
+37)  MOLLY
+Everything beyond that barricade.
+38)  MOLLY
+When everything started going to shit, some people got together and sealed off that whole neighborhood. Folks willing to do anything to stay alive, stop the dead getting in. I try to avoid ‘em.
+39)  KENNY
+Why?
+168)  CLEMENTINE
+Why?
+40)  MOLLY
+Let’s just say they have a zero-tolerance policy for anyone who won’t - or can’t - live by their rules.
+41)  KENNY
+So how’d you know we weren’t them?
+42)  MOLLY
+Because there are no children in Crawford. Not any more.
+43)  
+Why no children?
+44)  LEE
+What do you mean, no children? Why not?
+45)  MOLLY
+No children, no elderly, no-one with an advanced medical condition. Basically no-one who might be a burden on the community. Crawford’s all about the survival of the fittest. That’s how they survived, while the rest of the world went to shit around them.
+161)  MOLLY
+No children, no elderly, no-one with an advanced medical condition. Basically no-one who might be a burden on the community. Crawford’s all about the survival of the fittest. That’s how they survived, while the rest of the world went to shit around them.
+46)  KENNY
+[appalled] Jesus Christ...
+162)  KENNY
+[appalled] Jesus Christ...
+47)  MOLLY
+Well, just the opposite, when you think about it.
+160)  MOLLY
+Well, just the opposite, when you think about it.
+48)  
+Who’s been ringing those bells?
+49)  LEE
+Do you know who’s been ringing those bells all over town?
+50)  MOLLY
+Yeah, that would be me.
+51)  KENNY
+I knew it! Lee, I knew she was the one who’s been following us, fucking with us!
+52)  MOLLY
+[cool/menacing] Get that finger out of my face, grampa, before I jam it straight up your ass. I haven’t been following you. I don’t even know who the hell you people are.
+165)  MOLLY
+[cool/menacing] Get that finger out of my face, grampa, before I jam it straight up your ass. I haven’t been following you. I don’t even know who the hell you people are.
+53)  KENNY
+Yeah, well. Whoever you are, ringing those bells this morning nearly got us all killed, raised the dead all around us!
+54)  MOLLY
+That’s the idea, genius. It’s how I get around. I ring a bell in one neighborhood to attract the local geeks toward it, buys me some time to scavenge the areas they cleared out.
+166)  MOLLY
+That’s the idea, genius. It’s how I get around. I ring a bell in one neighborhood to attract the local geeks toward it, buys me some time to scavenge the areas they cleared out.
+55)  LEE
+[impressed] That's pretty smart, with the bells.
+205)  LEE
+[impressed] That's pretty smart, with the bells.
+56)  MOLLY
+Doesn’t take much to outsmart the dead. Bunch of dumb-asses. You just gotta move fast, get in and out before they start to wander back again.
+203)  MOLLY
+Doesn’t take much to outsmart the dead. Bunch of dumb-asses. You just gotta move fast, get in and out before they start to wander back again.
+57)  
+Was that you at our back fence?
+58)  LEE
+Clem, what the hell are you doing here? How’d you get out of the house?
+59)  CLEMENTINE
+Omid started getting really sick, Christa and Ben had to take him upstairs. I didn’t just want to sit around there, I wanted to come help.
+60)  MOLLY
+Really? Because if it weren’t for her showing up when she did I would’ve beaten your brains out.
+61)  LEE
+That’s debatable.
+62)  MOLLY
+[not buying it] Uh-huh.
+63)  
+Clem, what are you doing here?
+64)  
+What did Crawford do to them?
+65)  LEE
+What exactly did Crawford do with all these “burdens?” What happened to them?
+66)  KENNY
+Fuck me...
+206)  KENNY
+Fuck me...
+67)  LEE
+But still... children? You’re not saying that they...? [trails off]
+68)  MOLLY
+No, they saved that for the sick and the old. Said it was humane. Kids and their parents, they just kicked them out into the world, let them fend for themselves out here.
+69)  KENNY
+In God’s name, why?
+70)  MOLLY
+No-one stays in Crawford unless they can pull their own weight. Otherwise you’re just another mouth to feed, another drain on their precious resources.
+71)  CLEMENTINE
+What does that mean, pull their own weight?
+72)  LEE
+It just means being able to help out. Like you do all the time.
+73)  KENNY
+Doesn’t sound like any kinda way to live to me.
+74)  MOLLY
+[darkly/ominous] Couldn’t agree more.
+75)  LEE
+How do you know all this?
+178)  LEE
+How do you know all this?
+180)  LEE
+How do you know all this?
+279)  LEE
+How do you know all this?
+282)  LEE
+How do you know all this?
+283)  LEE
+How do you know all this?
+286)  LEE
+How do you know all this?
+76)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+177)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+179)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+280)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+281)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+284)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+285)  MOLLY
+Everyone in Savannah knew. What was going on inside Crawford got passed around like a ghost story. Except this one was true.
+77)  
+But still... children?
+78)  
+That’s not how we do things.
+79)  LEE
+That’s not how our group does things.
+80)  KENNY
+[dismayed] You’re not saying they actually... I mean, kids?
+81)  MOLLY
+No. The children they just forced to leave, along with their parents. Left them to fend for themselves out here in the world.
+82)  MOLLY
+Like I said, zero tolerance. Crawford got rid of anyone that couldn’t pitch in, pull their own weight. Way they looked at it, those people were just a lot of useless mouths to feed. A drain on their precious resources.
+83)  CLEMENTINE
+[concerned] What happened to all the children?
+88)  CLEMENTINE
+[concerned] What happened to all the children?
+84)  MOLLY
+The town leaders got rid of anyone that couldn’t pitch in, justify the protection Crawford gave them. To them, a kid was just another mouth to feed, one that can’t pull their own weight in return.
+87)  MOLLY
+The town leaders got rid of anyone that couldn’t pitch in, justify the protection Crawford gave them. To them, a kid was just another mouth to feed, one that can’t pull their own weight in return.
+85)  KENNY
+[disgusted] That’s just goddamn wrong. That’s sick!
+86)  KENNY
+[disgusted] That’s just goddamn wrong. That’s sick!
+89)  LEE
+Molly, is there-
+90)  MOLLY
+[annoyed] Hey! Moron! You wanna keep your voice down?
+91)  CLEMENTINE
+Isn’t there another way back to the house?
+92)  LEE
+The way we came.
+93)  KENNY
+There’s gotta be something.
+94)  MOLLY
+If there was, do you think I’d still be here? I’ve been over every inch of this city, this whole place is picked clean.
+95)  KENNY
+[quietly defeated] Shit.
+96)  MOLLY
+Since you’re not getting on any boat, I’d advise you folks to go back where you came from, before-
+97)  KENNY
+Isn’t that-
+98)  KENNY
+[Agitated, distraught] Goddammit! Fuck!
+99)  MOLLY
+Great. Just great.
+100)  MOLLY
+Look, I’m gonna ask you people again: you’re not from Crawford, so who the hell are you? What are you doing here?
+101)  LEE
+We came down here looking for a boat, hoping to get our people out of here and find someplace safe.
+102)  MOLLY
+Good luck with that. Anyone with a boat took it out of here as soon as people started eating each other. Any that got left behind, Crawford stripped ‘em for parts. Cars too.
+103)  
+You’re just going to leave us?
+104)  CLEMENTINE
+[calling out]Don’t leave us here! Please?
+105)  MOLLY
+[calling out]Sorry, I must have missed the part of our conversation where you became my problem.
+106)  LEE
+[calling out]Hey! You’re just going to leave us here?
+107)  
+Is there another way out of here?
+108)  
+What the hell are you doing?
+109)  LEE
+[calling out]Is there another way out of here?
+110)  MOLLY
+[calling out]Don’t know, don’t care.
+111)  KENNY
+[calling out]So what the hell are we supposed to do?
+112)  MOLLY
+[calling out]I refer you to my previous answer.
+113)  CLEMENTINE
+[calling out]But you have to help us! Please!
+114)  LEE
+[calling out]What the hell do you think you’re doing?
+115)  MOLLY
+[calling out]I’ll tell you what I’m not doing. I’m not getting eaten.
+116)  KENNY
+[calling out]And what about us?
+117)  MOLLY
+[calling out]What about you?
+118)  CLEMENTINE
+[calling out]Please, you can’t just leave us!
+119)  CLEMENTINE
+[calling out]No! Please! Please don’t leave us!
+120)  KENNY
+[to Lee] You’re just gonna let her go? [to Molly] Hey! You can’t just leave us here!
+121)  MOLLY
+[calling out]Really? Watch.
+122)  KENNY
+[sounds of straining to reach]
+128)  LEE
+[sounds of straining to reach]
+123)  KENNY
+Come on man, one good jump!
+124)  MOLLY
+[calling out]Come on! Make it fast!
+125)  KENNY
+[seeing the zombies box them in] Oh, fuck me...
+126)  LEE
+Come on, come on, hurry!
+127)  CLEMENTINE
+Lee! Come on!
+129)  KENNY
+[hitting the ground] Gaaaah!
+130)  CLEMENTINE
+[horrified] Nooo! Lee!
+131)  
+Shoot
+132)  
+Attack
+133)  LEE
+No use, too many of them!
+134)  LEE
+No use, too many of them!
+135)  LEE
+[calling out]Clem! Don’t wait for me, get out of here now! Kenny, get her back to the house!
+137)  LEE
+[frustrated] Gah! Can’t get it open!
+138)  MOLLY
+[calling down]Here! Use that to pry it open!
+139)  
+Open
+140)  
+Pry
+141)  CLEMENTINE
+[distraught!] Leeeeeee!
+142)  KENNY
+Fuck! Gunshot must've brought 'em back.
+143)  CLEMENTINE
+[calling down, panicked]Lee! Hurry!
+144)  KENNY
+[calling out]C'mon Lee, get your ass outta there!
+145)  
+Crawford?
+247)  
+Crawford?
+146)  
+Have you been following us?
+191)  LEE
+Have you been following us?
+249)  
+Have you been following us?
+250)  LEE
+Have you been following us?
+147)  
+You're not the guy on the radio.
+190)  LEE
+You're not the guy on the radio.
+244)  
+You're not the guy on the radio.
+245)  LEE
+You're not the guy on the radio.
+148)  
+Kenny, don't!
+149)  
+Get her!
+150)  
+It's not our guy!
+151)  LEE
+[urgent] Get her!
+152)  LEE
+[urgent] Kenny, no! It's not our guy!
+153)  
+What's Crawford?
+154)  
+I don't have to tell you anything.
+192)  LEE
+I don't have to tell you anything.
+155)  LEE
+What the hell happened here?
+156)  CLEMENTINE
+What happened to the people here?
+157)  KENNY
+What is that, anyway?
+175)  KENNY
+What is that, anyway?
+158)  CLEMENTINE
+We're not from Crawford. Promise.
+176)  CLEMENTINE
+We're not from Crawford. Promise.
+159)  CLEMENTINE
+So... why aren't there any kids in Crawford?
+163)  MOLLY
+Because Crawford doesn't allow them.
+164)  KENNY
+[getting impatient]So why the fuck have you been following us?
+167)  KENNY
+[confrontational]  Yeah, well, ringing those bells this morning nearly got us all killed, raised the dead all around us!
+169)  
+We're looking for a boat.
+170)  
+We're just trying to survive.
+171)  KENNY
+And the only way we're gonna survive is by getting on a boat and gettin' the hell out of here.
+172)  LEE
+We’re just trying to survive, same as you.
+173)  
+I need to get her back to the house.
+174)  MOLLY
+You sure you wanna know?
+252)  MOLLY
+You sure you wanna know?
+253)  MOLLY
+You sure you wanna know?
+254)  MOLLY
+You sure you wanna know?
+181)  
+Maybe it's just a scavenger.
+182)  
+We're not looking for trouble.
+183)  LEE
+Sounds like a plan.
+216)  
+Sounds like a plan.
+186)  KENNY
+Yeah well, it seems to have a way of finding us anyways. Look, this could be the guy from the radio, the one who's been messing with us. If he is, we can put an end to it, right now.
+187)  LEE
+We didn't come here looking for trouble.
+188)  KENNY
+No objections? Good.
+189)  MOLLY
+I'm not a guy at all. Full marks for observation.
+246)  MOLLY
+I'm not a guy at all. Full marks for observation.
+193)  MOLLY
+Nice, you're gonna go far with that attitude.
+194)  LEE
+No, I'm from Macon. Kenny here's from Florida.
+195)  KENNY
+She didn't ask for our life stories, Lee. [to Molly] What's the deal with this Crawford place?
+196)  LEE
+Calm down, Kenny. The voice on the radio was a guy, remember?
+197)  LEE
+Was that you at our house this morning? Watching me through the back fence?
+198)  MOLLY
+Hell no. Believe it or not, I've got better things to do with my time.
+199)  LEE
+I told you we didn't need any help.
+200)  KENNY
+Geeks? Is that what you call them?
+202)  KENNY
+Geeks? Is that what you call them?
+201)  MOLLY
+Yeah. You know, like at the carnival. They'll eat anything, alive or dead.
+204)  MOLLY
+Yeah. You know, like at the carnival. They'll eat anything, alive or dead.
+207)  MOLLY
+Well, you met some of them already.
+208)  MOLLY
+Yeah. Anyone who got sick, anyone too old, anyone they figured wasn't strong enough to survive. To them those people were just mouths to feed, a drain on their precious resources.
+209)  LEE
+Look, I'm sorry we bothered you. I just want to get her  back home.
+210)  KENNY
+We're not going anywhere until I find us a goddamn boat!
+211)  KENNY
+Believe me, we're just passing through. As soon as I find us a boat that'll float we'll be outta here.
+212)  KENNY
+Believe me, we're just passing through. As soon as I find us a boat that'll float we'll be outta here.
+213)  KENNY
+Believe me, we're just passing through. As soon as I find us a boat that'll float we'll be outta here.
+214)  LEE
+[quietly, shocked]What the--
+274)  LEE
+[quietly, shocked]What the--
+275)  LEE
+[quietly, shocked]What the--
+276)  LEE
+[quietly, shocked]What the--
+277)  LEE
+[quietly, shocked]What the--
+278)  LEE
+[quietly, shocked]What the--
+215)  MOLLY
+Following YOU?
+251)  MOLLY
+Following YOU?
+219)  
+Kenny, back off!
+220)  LEE
+Kenny, back off! Unless you want this lady to give you another ass-whooping.
+221)  MOLLY
+[reluctant]The name’s Molly.
+225)  
+Everyone just calm down.
+227)  LEE
+Everyone just calm down.
+226)  KENNY
+I'll calm down once she tells me who the fuck she is.
+228)  MOLLY
+Back off, asshole. The name’s Molly.
+235)  CLEMENTINE
+[cheerily/friendly] Hi. I'm Clementine. This is Lee and Kenny.
+238)  CLEMENTINE
+[cheerily/friendly] Hi. I'm Clementine. This is Lee and Kenny.
+236)  MOLLY
+[reluctant]Hi. My name's Molly.
+237)  MOLLY
+[reluctant]Hi. My name's Molly.
+239)  
+I'm from Macon.
+240)  
+Ice Axe
+241)  
+Manhole
+242)  
+Block
+243)  
+Counter
+255)  
+Climbing Pick
+256)  MOLLY
+<<id: >>	No, they saved that for the sick and the old. Said it was humane. Kids and their parents, they just kicked them out into the world, let them fend for themselves out here.
+257)  
+Dumpster
+287)  
+...
+288)  
+...
+289)  
+Kenny's Hand

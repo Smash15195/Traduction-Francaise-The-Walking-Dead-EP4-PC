@@ -1,0 +1,70 @@
+1)  LEE
+{normalC}Hey, Christa?
+2)  CHRISTA
+{normalB}Yeah?
+3)  
+Making progress?
+4)  
+About Clementine...
+5)  
+Are you feeling okay?
+6)  
+I'd better go
+7)  
+Wait
+8)  LEE
+{normalD}Okay.
+9)  CHRISTA
+{sadA}Look Lee, I just wanna get back to Omid. Let me do my thing, alright?
+10)  LEE
+{normalD}Christa--
+11)  CHRISTA
+[pickup2]{angryB}I'm busy, Lee. Just let me work.
+12)  CHRISTA
+[frustrated] {angryA}No! {worriedA}Without the combination I don't know how we're going to get this damn thing open. [fearful] If we don't get back to Omid with some medicine soon...
+13)  LEE
+{sadA}It's okay. We'll figure it out.
+14)  LEE
+{fearA}You're right. I'm sorry.
+26)  LEE
+{fearA}You're right. I'm sorry.
+15)  CHRISTA
+[insistent] {SadA}That is not going to happen. {angryA}Do you hear me? {angryB}That is NOT going to happen. {angryC}We're going to get these meds to Omid and he's going to be fine. [upset] He's going to be FINE!
+27)  CHRISTA
+[insistent] {SadA}That is not going to happen. {angryA}Do you hear me? {angryB}That is NOT going to happen. {angryC}We're going to get these meds to Omid and he's going to be fine. [upset] He's going to be FINE!
+16)  LEE
+{normalD}Because leaving her alone with Omid didn't seem any safer.
+17)  CHRISTA
+{thinkingA}Then why did you?
+18)  CHRISTA
+[accusatory] {angryA}What's THAT supposed to mean?
+19)  LEE
+{SadA}No offense, Christa, but Omid's pretty sick. {fearA}If he were to die, with Clementine alone in the house with him...
+20)  LEE
+{thinkingA}I hope I did the right thing bringing Clementine with us. {fearA}This place isn't exactly safe.
+21)  CHRISTA
+{thinkingA}Why shouldn't she be?
+22)  LEE
+{SadA}I know, I know. I just want her to be safe.
+23)  LEE
+{sadA}I hope I did the right thing leaving Clementine back at the house.
+24)  CHRISTA
+{thinkingA}What else were you going to do? Bring her on a dangerous mission?
+25)  LEE
+{sadA}No offense, Christa, but Omid's pretty sick.{fearA} If he dies, with Clementine alone in the house with him...
+28)  CHRISTA
+{angryC}Oh come on, you'd just dug up a rotting dog carcass! {angryB}I'm surprised we weren't ALL throwing up. {sadA}Lee, I'm fine. {SadB}Quit worrying about me, okay? Worry about Omid, we've got to get him these meds!
+29)  LEE
+{fearA}It's just that you've been looking a little pale the past couple of days. You've been throwing up...
+30)  LEE
+{fearA}Are you feeling okay?
+31)  CHRISTA
+{angryA}I'm fine. Why are you asking me that?
+32)  CHRISTA
+{angryA}Yeah, same here.
+33)  LEE
+{SadA}I've got things to do.
+34)  CHRISTA
+{angryA}No offense, but I'm a little busy trying to get this safe open. {sadA}Omid needs that medicine.
+35)  LEE
+{thinkingA}Are you making any progress with the safe?

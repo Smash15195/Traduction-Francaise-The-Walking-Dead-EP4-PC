@@ -1,0 +1,80 @@
+1)  LEE
+[to himself]{ThinkingA}Where the hell {AngryA}are they?
+2)  KENNY
+{thinkingA}Looks like they got out of {disgustA}here in a hurry.
+3)  CHRISTA
+{angryA}Looks like they got out of here in a hurry.
+4)  LEE
+{angryA}[calling out] Vernon! {angryC}Get out here! There {thinkingB}doesn't have to be any {angryA}trouble here, all I want is the girl! {angryC}Give her back and nobody needs to get hurt!
+5)  BEN
+{fearA}This is where you {fearB}found them before?
+6)  LEE
+{thinkingB}Uh huh.
+7)  RADIO VOICE
+Hello, Lee.
+8)  KENNY
+{disgustA}[to himself]Motherfucker.
+9)  LEE
+{angryA}[frantic] Where have you taken her?
+10)  RADIO VOICE
+[pickup] This isn't Vernon. And you should really watch your tone.
+38)  RADIO VOICE
+[pickup] This isn't Vernon. And you should really watch your tone.
+11)  LEE
+Who the hell is this? [beat] Answer me!
+13)  LEE
+You’re the guy who left the car.
+15)  LEE
+What the fuck are you talking about?
+16)  LEE
+{surpriseB}[frantic] Clementine? {fearC}Are you okay? {fearB}Where are you?
+17)  CLEMENTINE
+[radio processing] Lee? Is that you?
+18)  RADIO VOICE
+I think that’s enough for now.
+19)  RADIO VOICE
+You got nothing. And I’ve got your little girl. So if I were you, I’d choose my next words VERY carefully.
+20)  
+You’re fucking DEAD!
+21)  
+Please don’t hurt her.
+22)  
+What do you want from me?
+23)  LEE
+[to someone else]{angryA}Where the hell are they?
+24)  
+Where have you taken her?
+25)  
+Who is this?
+26)  
+Put Clementine back on!
+27)  LEE
+{angryC}[stern]Who is this?
+28)  RADIO VOICE
+[pickup] It's not Vernon, if that's what you're thinking. And you should really watch your tone.
+29)  LEE
+[pickup]{angryC}[frantic]Vernon, put Clementine back on, I want to talk to her!
+30)  RADIO VOICE
+Well let's find out.
+31)  RADIO VOICE
+[pickup]Cat got your tongue? In case you haven't figured it out yet - this isn't Vernon.
+32)  LEE
+[inhaling][angry] You're fucking DEAD!
+33)  LEE
+[inhaling][frantic] Please don't hurt her!
+34)  LEE
+[inhaling][frantic]What do you want from me?!
+35)  LEE
+{surpriseB}[desperate panic] Clem? {fearD}CLEM?
+36)  CLEMENTINE
+[terrified] I don't know, I can't see. I-[cut off]
+37)  RADIO VOICE
+[pickup][eerily calm] [short, a hint of meanness] Clementine's fine. But if I were you, I'd choose my next words VERY carefully.
+41)  RADIO VOICE
+[pickup][eerily calm] [short, a hint of meanness] Clementine's fine. But if I were you, I'd choose my next words VERY carefully.
+39)  CLEMENTINE
+[pickup][radio] [hushed/nervous] Lee?
+40)  LEE
+[pickup][panic]Clementine! Are you all right? Where are you?
+42)  LEE
+[pickup2][frantic] Vernon, you {angryC}son of a bitch.

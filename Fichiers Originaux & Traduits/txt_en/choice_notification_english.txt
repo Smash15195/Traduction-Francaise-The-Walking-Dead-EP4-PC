@@ -1,0 +1,360 @@
+1)  
+Christa noticed that.
+2)  
+Christa appreciated that.
+10)  
+Christa appreciated that.
+3)  
+Kenny is irritated with you.
+4)  
+You broke up the argument.
+5)  
+Clementine feels unsafe.
+6)  
+Clementine feels unsafe.
+7)  
+Clementine is afraid.
+8)  
+Christa is now more worried.
+9)  
+Omid appreciated that.
+11)  
+Clementine feels hurt.
+12)  
+Kenny is frozen.
+13)  
+Kenny is frozen.
+14)  
+Kenny is unresponsive.
+15)  
+You chose to give Kenny a gun.
+16)  
+You chose to do it yourself.
+17)  
+You helped Kenny.
+18)  
+You chose to leave him.
+19)  
+You chose to leave him.
+20)  
+You told Ben to take care of it.
+21)  
+Christa is skeptical.
+22)  
+The group is now more paranoid.
+23)  
+The group is now more paranoid.
+75)  
+The group is now more paranoid.
+24)  
+Kenny thinks you didn't support him.
+25)  
+Kenny thinks you didn't support him.
+26)  
+Kenny appreciates your support.
+27)  
+Kenny appreciates your support.
+28)  
+Clementine will remember your promise.
+29)  
+Clementine will remember your promise.
+30)  
+Clementine feels neglected.
+31)  
+You put Ben on notice.
+32)  
+You trusted Ben to look after Clementine.
+33)  
+Molly will remember that.
+34)  
+You chose to threaten the man.
+35)  
+You chose to threaten the man.
+42)  
+You chose to threaten the man.
+36)  
+You chose to reason with the group.
+37)  
+You were silent.
+142)  
+You were silent.
+38)  
+Vernon will remember that.
+39)  
+Vernon will remember that.
+44)  
+Vernon will remember that.
+135)  
+Vernon will remember that.
+136)  
+Vernon will remember that.
+40)  
+They don't trust you.
+41)  
+They didn't believe you.
+43)  
+You threatened Vernon.
+45)  
+Ben feels guilty.
+46)  
+Christa appreciates your concern.
+47)  
+You've chosen your strategy.
+48)  
+You suggested a strategy.
+49)  
+Your group is ready.
+50)  
+Clementine does not find that comforting.
+51)  
+Clementine understands.
+52)  
+Clementine feels slightly encouraged.
+53)  
+You chose to leave Clementine at the house.
+54)  
+You chose to bring Clementine with you.
+55)  
+You chose to conceal your bite.
+56)  
+You chose not to conceal your bite.
+57)  
+You chose to tell the truth about your bite.
+58)  
+Christa and Omid chose to come with you.
+59)  
+Christa and Omid chose to come with you.
+60)  
+Christa and Omid chose not to go with you.
+61)  
+You told Kenny off.
+62)  
+Kenny chose to go with you.
+63)  
+Kenny chose not to join you.
+64)  
+Kenny chose not to join you.
+65)  
+Kenny has reconsidered. He will not come with you.
+66)  
+You chose not to bring Ben.
+67)  
+Ben chose to stay behind.
+68)  
+Ben chose to go with you.
+69)  
+You encouraged Ben to come with you.
+70)  
+You chose to have Ben stay behind.
+71)  
+Ben chose to help you.
+72)  
+Christa now trusts you less.
+73)  
+Christa now trusts you less.
+74)  
+You chose to lie to Christa.
+76)  
+Clementine feels better.
+77)  
+Clementine feels better.
+78)  
+Clementine feels scorned.
+79)  
+You made Clementine nervous.
+80)  
+You made Clementine nervous.
+81)  
+Ben will remember that.
+82)  
+You voted to give Ben a seat on the boat.
+83)  
+You voted for Ben.
+84)  
+You voted against Ben.
+85)  
+You abstained from voting.
+86)  
+Kenny didn't like that.
+87)  
+You chose to keep moving.
+88)  
+Christa noticed your silence.
+89)  
+You asked Kenny to wait for Omid.
+90)  
+You praised Clementine.
+91)  
+You reassured them.
+92)  
+You were honest with Omid.
+93)  
+You reassured Omid.
+94)  
+You chose not to answer her.
+95)  
+You tried to reassure Christa.
+96)  
+You were honest with Christa.
+97)  
+Christa is not reassured.
+98)  
+You chose to lie.
+99)  
+You told the truth.
+144)  
+You told the truth.
+100)  
+You chose not to answer Christa.
+101)  
+You said nothing.
+102)  
+You told Clementine no.
+103)  
+You asked Clementine to stay and help the others.
+104)  
+You asked Clementine to wait a little longer.
+105)  
+You chose not to answer Clementine.
+106)  
+You were totally honest with them.
+107)  
+You suggested a negotiation.
+108)  
+You suggested an attack.
+109)  
+You suggested sneaking in.
+110)  
+You chose to keep quiet.
+111)  
+You were honest with Clementine.
+152)  
+You were honest with Clementine.
+112)  
+You asked Clementine not to worry.
+113)  
+You trusted Clementine with the gun.
+114)  
+You decided to keep the gun.
+115)  
+The group noticed your silence.
+116)  
+Kenny noticed your silence.
+117)  
+Your answer freaked Ben out.
+118)  
+Your answer scared Clementine a little.
+119)  
+Brie still doesn't trust you.
+120)  
+Molly appreciates your sympathy.
+121)  
+You blew Molly off.
+122)  
+You saved Molly's life.
+123)  
+You did not save Molly.
+124)  
+You shot Molly!
+125)  
+You let Ben die.
+126)  
+You saved Ben's life.
+127)  
+You let Ben go.
+128)  
+You left Molly behind.
+129)  
+You were honest about Molly.
+130)  
+You lied to Clementine about Molly.
+131)  
+Clementine noticed you didn't answer.
+132)  
+Clementine heard what Kenny said.
+133)  
+You lied to Vernon about having meds.
+134)  
+You lied about Clementine.
+137)  
+You chose to threaten them.
+138)  
+You told Kenny to stay.
+139)  
+You gave Ben a chance to prove himself.
+140)  
+Vernon didn't appreciate what you said.
+141)  
+Brie appreciates your support.
+143)  
+You trusted Ben to watch Omid.
+145)  
+You were honest.
+146)  
+You chose to avoid the question.
+147)  
+You tried to calm things down.
+148)  
+Your silence unsettled the group.
+149)  
+You asked for help.
+150)  
+You chose to go alone.
+151)  
+You lied to Clementine.
+153)  
+You avoided her question.
+154)  
+You agreed with Vernon.
+155)  
+You told Vernon off.
+156)  
+You chose not to give him an answer.
+157)  
+The group does not agree with your plan.
+158)  
+You suggested staying put, but the group disagrees.
+159)  
+The group supports your plan.
+160)  
+You suggested a search, but the group disagrees.
+161)  
+You suggested a search, but the group disagrees..
+162)  
+Christa supports your plan.
+163)  
+You gently warned Clementine.
+164)  
+You confronted Molly about her lie.
+165)  
+You let it go.
+166)  
+You dropped the subject.
+167)  
+You gently changed the subject.
+168)  
+You said nothing to Molly about her story.
+169)  
+You told Ben to confess.
+170)  
+You tried to stop Ben.
+171)  
+You let Ben keep talking.
+172)  
+You sided with Kenny.
+173)  
+You defended Ben.
+174)  
+You tried to calm Kenny.
+175)  
+You answered Molly truthfully.
+176)  
+You avoided Molly's question.
+177)  
+You questioned Molly right back.
+178)  
+You tried to reason with him.
+179)  
+Ben defended himself.
+180)  
+The sound alerted the walkers.

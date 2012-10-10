@@ -1,0 +1,554 @@
+1)  OMID
+{painA}[pain of leg movement] Argh!
+2)  CHRISTA
+{angrya}So, when were you going to tell us about the radio?
+3)  CHRISTA
+{sadA}Sorry! Sorry!
+4)  OMID
+{normalb}No, it’s okay. I’m good. {happya}Feel better already just being off my feet. Thanks, babe.
+5)  KENNY
+{angrya}Tell you what?
+6)  
+I didn’t want to worry anyone.
+7)  
+I didn’t know. [LIE]
+8)  
+I only found out yesterday.
+9)  LEE
+I didn’t see the point in worrying anyone. Not until I figured out who it was.
+10)  CHRISTA
+{angryA}I don’t like people keeping secrets. {angryb} I especially don’t like it when they think it’s for my own good.
+11)  KENNY
+{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+142)  KENNY
+{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+143)  KENNY
+{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+206)  KENNY
+{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+12)  CHRISTA
+{angryb}Christ, use your head, Kenny! It’s  the same guy! {angrya}He could see exactly where we were from up in that bell tower!
+13)  KENNY
+{angryb}That doesn’t make any damn sense. {angrya}If it was the same guy, why would he warn us?
+14)  LEE
+I was going to tell you. Kenny and I only found out yesterday.
+15)  CHRISTA
+{angrya}So both of you were keeping it from the rest of us? {normalA}Great. {angryA}
+16)  KENNY
+Lady, I’m running out of ways to tell you how much I don’t care about your opinion.
+17)  CHRISTA
+There’s that Southern charm again.
+18)  KENNY
+Hey. Fuck you.
+19)  LEE
+All right, enough! Both of you!
+20)  CHRISTA
+{thinkingA}Nothing to say for yourself? {angrya}Great, {thinkingA}that inspires confidence.
+21)  KENNY
+{angrya}What does it matter about the damn radio? {angryb}What matters is that there’s someone out there trying to mess with us, ringing those bells!
+22)  CHRISTA
+[pickup][concerned]What if they're the same guy?
+269)  CHRISTA
+[pickup][concerned]What if they're the same guy?
+23)  KENNY
+{angryb}Bullshit! They warned us about our own trap? {angrya}What kind of sense does that make?
+24)  CHRISTA
+{angryA}	So you don’t know who that voice was?
+25)  LEE
+I didn’t know myself until it just started working out there on the street!
+26)  LEE
+No idea.
+27)  CHRISTA
+Why don’t I believe you?
+28)  LEE
+I don’t know and I don’t care. Believe what you want, makes no difference to me.
+29)  KENNY
+Who gives a shit about the radio? I’m more concerned with who was out there ringing those bells on us and trying to keep us from making it to the river!
+125)  KENNY
+Who gives a shit about the radio? I’m more concerned with who was out there ringing those bells on us and trying to keep us from making it to the river!
+30)  CHRISTA
+{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+145)  CHRISTA
+{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+205)  CHRISTA
+{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+268)  CHRISTA
+{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+31)  KENNY
+{angryb}Because that doesn’t make a lick of damn sense. {angrya}Why would they bring out the dead like that and then try to {angryb}warn us about it?
+144)  KENNY
+{angryb}Because that doesn’t make a lick of damn sense. {angrya}Why would they bring out the dead like that and then try to {angryb}warn us about it?
+204)  KENNY
+{angryb}Because that doesn’t make a lick of damn sense. {angrya}Why would they bring out the dead like that and then try to {angryb}warn us about it?
+32)  CHRISTA
+{angryb}Damned if I know! {thinkingA}Maybe they were just trying to mess with us! Wouldn’t be the most screwed-up thing I’ve seen these past few weeks, I can tell you.
+123)  CHRISTA
+{angryb}Damned if I know! {thinkingA}Maybe they were just trying to mess with us! Wouldn’t be the most screwed-up thing I’ve seen these past few weeks, I can tell you.
+33)  CHRISTA
+[pickup2]{ThinkingA}How much sense does anything make any more? {angrya}In case you haven’t noticed there’s a lot of twisted folks out there these days. {ThinkingA}At least the dead don’t play games with you.
+34)  
+I think they were helping us.
+35)  
+They weren’t friendly.
+36)  
+They're stalking us.
+37)  LEE
+Whoever that was on the radio, I think they were trying to help us. They did warn us, didn't they?
+38)  CHRISTA
+{thinkingA}Maybe you’re right. {angrya}But whoever it was, they're watching us. Following us. And they don't want us to know who they are. I can’t think of any explanation for that that would make me feel better. {thinkingA}Can you?
+39)  LEE
+I don’t know who it was. All I know is, they’re no friend of ours.
+40)  KENNY
+{angrya}Damn right. I’m telling you, they don’t want us getting to the river. {thinkingA}Maybe they want those boats all to themselves. {angrya}Well, we’ll see about that.
+41)  CHRISTA
+{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+200)  CHRISTA
+{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+201)  CHRISTA
+{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+209)  CHRISTA
+{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+42)  KENNY
+{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+158)  KENNY
+{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+160)  KENNY
+{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+161)  KENNY
+{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+163)  KENNY
+{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+165)  KENNY
+{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+43)  LEE
+I think we could all use a little time to rest up and gather our thoughts, Kenny. At least until those walkers outside wander off and Omid’s feeling better.
+44)  LEE
+Whoever it was, seems like they’re following us. And I don’t like being followed.
+207)  LEE
+Whoever it was, seems like they’re following us. And I don’t like being followed.
+45)  KENNY
+{angryb}All the more reason to get on a damn boat, where we can’t be followed.
+208)  KENNY
+{angryb}All the more reason to get on a damn boat, where we can’t be followed.
+46)  LEE
+I’m with Kenny on that. Once it’s quieted down outside we’ll all head out to the river together. Deal?
+157)  LEE
+I’m with Kenny on that. Once it’s quieted down outside we’ll all head out to the river together. Deal?
+47)  KENNY
+{normalb}He’d best feel better quick. {thinkinga}I ain’t gonna wait around here too long.
+48)  BEN
+{normalB}Place seems secure at least.
+49)  CHRISTA
+[pickup2]{thinkingA}I'll feel better when we know that for sure. We need to check the whole house.
+50)  LEE
+Okay.
+277)  LEE
+Okay.
+51)  CLEMENTINE
+{happyb}[eager] Can I help? What if there’s another locked door?
+52)  LEE
+[playful] I think you’ve been helpful enough for one day, kiddo. Why don’t you just see if Christa and Omid need anything, okay?
+53)  CLEMENTINE
+[slightly dejected but okay] {sada}Okay.
+176)  CLEMENTINE
+[slightly dejected but okay] {sada}Okay.
+177)  CLEMENTINE
+[slightly dejected but okay] {sada}Okay.
+54)  CLEMENTINE
+[despondent] {sadB}I guess you don’t want my help, huh?
+55)  LEE
+Hey, I’m sorry if I went off on you a little. You know it’s only because I want you to be safe. Look, I gotta check the house. Just stay with Christa and Omid, okay?
+56)  CLEMENTINE
+{normalA}Is there anything I can do?
+57)  LEE
+Thanks, I got it. Hang out with Christa and Omid until I get back, okay?
+58)  CLEMENTINE
+{sadB}Lee... I’m sorry.
+59)  LEE
+What for?
+60)  CLEMENTINE
+{sadA}Going through the door like that, without checking first. I{sadb} guess that was pretty dumb, huh?
+61)  LEE
+It wasn’t dumb, just a little reckless. We all have to be careful, you know how dangerous it can be. There could be something around every corner.
+62)  CLEMENTINE
+[contrite] I know. It won’t happen again.
+63)  LEE
+[trying to cheer her up] Just ask me first, next time you’re gonna go outsmart all the grown-ups. Okay?
+64)  CLEMENTINE
+[brightening] {happyb}Okay.
+65)  CHRISTA
+[pickup2]{angryb}That there’s someone else on the other end of that thing! {angrya}You didn’t think that might have been worth sharing with the rest of us?
+66)  CHRISTA
+[pickup2]{angryb}That it’s working!
+67)  CHRISTA
+[quietly]{normalB}Yeah, for now. {sadA}But I’m really worried his leg might’ve gotten infected. {normalB}Don’t suppose you turned up any meds while you were poking around?
+68)  LEE
+{sadA}Is he okay?
+69)  LEE
+{normalb}Well, the place ain’t got much. We should be okay here for a while, at least until it quiets down outside.
+70)  CHRISTA
+{normalA}Good. {normalb}Thanks.
+71)  CHRISTA
+{normalA}I was just asking Clementine if she knows who the man on her radio is. {happyA}It’s okay, honey, you can tell us. {sada}Who is he? What does he want?
+72)  
+Go ahead, Clem.
+73)  
+We want an answer, Clementine!
+74)  
+Back off, Christa.
+76)  CLEMENTINE
+{sada}I told him I was trying to find my parents, and that they were in Savannah. {sadb}He really seems nice, I think he wants to help me find them.
+131)  CLEMENTINE
+{sada}I told him I was trying to find my parents, and that they were in Savannah. {sadb}He really seems nice, I think he wants to help me find them.
+77)  CHRISTA
+{fearA}Clementine. Honey, trust me, that’s not what he wants. {angryA}He-[interrupted]
+130)  CHRISTA
+{fearA}Clementine. Honey, trust me, that’s not what he wants. {angryA}He-[interrupted]
+78)  CLEMENTINE
+[unsure] {fearB}It’s... just a friend. I don’t think he wants to hurt us.
+132)  CLEMENTINE
+[unsure] {fearB}It’s... just a friend. I don’t think he wants to hurt us.
+79)  CHRISTA
+{normalB}What has he been saying to you? {thinkingA}What have you been saying to him?
+129)  CHRISTA
+{normalB}What has he been saying to you? {thinkingA}What have you been saying to him?
+80)  LEE
+Go ahead, Clem. It’s okay. You’re not in any trouble.
+81)  LEE
+[forceful/angry] Clementine! Christa asked you a question! And both of us would like an answer. Who have you been talking to?
+82)  CLEMENTINE
+[pickup] [shaken] {fearB}I don’t know! He said he was a friend! {fearA}He said he could help me find my mom and dad! {sada}I told him we were looking for them in Savannah.
+83)  LEE
+Clementine. Look at me. What else have told this man?
+84)  LEE
+Back off, Christa. Can’t you see you’re scaring her? She hasn’t done anything wrong.
+85)  LEE
+{normalb}[lookat][calling to Christa in the next room] This room looks secure.
+86)  LEE
+[lookat][to himself] Just hope there aren't any surprises behind the other doors.
+88)  LEE
+[lookat][to himself] Just hope there aren't any surprises behind the other doors.
+95)  LEE
+[lookat][to himself] Just hope there aren't any surprises behind the other doors.
+87)  LEE
+{normalb}[lookat][to himself]Nothing hiding in here.
+89)  LEE
+[lookat] [to himself]Just one more to check.
+90)  LEE
+[lookat] [to himself]Just one more to check.
+91)  LEE
+[lookat] [to himself]Just one more to check.
+92)  LEE
+[lookat] [to himself]Just one more to check.
+98)  LEE
+[lookat] [to himself]Just one more to check.
+99)  LEE
+[lookat] [to himself]Just one more to check.
+93)  LEE
+{normalb}[lookat][calling out to Christa in the next room]That’s the last room, looks like downstairs is secure.
+94)  LEE
+{normalb}[lookat][calling out to Christa in the next room]That’s the last room, looks like downstairs is secure.
+270)  LEE
+{normalb}[lookat][calling out to Christa in the next room]That’s the last room, looks like downstairs is secure.
+96)  LEE
+{normalb}[lookat][calling out to Christa in the next room] All clear in here.
+97)  LEE
+{normalb}[lookat]Nothing in the closet. Looks like downstairs is secure.
+100)  
+Look At
+102)  
+Look At
+101)  
+Take
+103)  
+Take
+104)  LEE
+{normalb}[lookat]It's just a bag of dog food.
+105)  LEE
+Nah, just dog food. And there's some whiskey in the back.
+106)  LEE
+Nah, just some dog food.
+107)  LEE
+No, nothing. Sorry.
+108)  LEE
+Nah, just some whiskey.
+109)  CHRISTA
+[pickup2]{sadA}I’m not saying she intended to. {angryA}But she’s just a kid, she doesn't know any better. {sadA}You never told her not to talk to strangers? {normalB} I mean these days more than ever...
+110)  LEE
+Clem, honey. Who is the man you’ve been talking to? It’s okay, you’re not in any trouble. We just need to know.
+111)  CLEMENTINE
+{sada}I don’t know. {happya}But he really seems nice. {normala} I think he wants to help us.
+112)  LEE
+Help us how? Clementine, what exactly have you told him?
+113)  CLEMENTINE
+{normalA}I told him that we were looking for my mom and dad, and that they were in Savannah. {happya}He said he thinks he might know where to look for them.
+114)  LEE
+Have you told him anything else about us?
+115)  LEE
+Clementine, try to think. This is important. What else have you told him?
+116)  BEN
+{feara}Kenny said he thought he heard something up there, went to go look.
+117)  LEE
+He’s up there?
+118)  BEN
+{fearb}I can’t get him to come down.
+119)  LEE
+Stay here.
+120)  BEN
+{fearb}[urgent/freaked out] Lee, you need to get up here now.
+121)  LEE
+What’s wrong?
+122)  BEN
+{sadA}It’s Kenny.
+124)  CHRISTA
+[pickup2][impatient]{angryb}Well?
+126)  KENNY
+Because that doesn’t make a lick of damn sense. Why would they bring out the dead like that and then try to warn us about it?
+127)  CHRISTA
+What makes you think it’s not the same person? Whoever was on the radio, he was close enough to see us in the street. And we didn’t see anyone else other than the guy Lee spotted up in the bell tower.
+128)  CLEMENTINE
+[satisfied]{happya}Okay.
+173)  CLEMENTINE
+[satisfied]{happya}Okay.
+133)  LEE
+{thinkinga}[lookat]Kenny and Ben have the second floor covered, I should finish checking down here.
+134)  LEE
+{normala}[lookat]I should finish checking the house before heading back outside.
+135)  LEE
+{disgusta}[lookat]Hope we never get desperate enough for food that this starts to look appetizing.
+136)  LEE
+{disgusta}[lookat]I'm not THAT hungry. {normalb}Besides, I need to finish checking the downstairs.
+137)  LEE
+{thinkinga}[lookat]Whoever cleared this place out left behind two bottles of whiskey?{happya} Looks like someone didn't have their priorities straight.
+138)  LEE
+{thinkinga}[lookat]Probably not the best idea right now. I need to stay frosty.
+139)  CHRISTA
+{normalb}We'll have time to talk later. Just let me know when you're done searching the house.
+140)  OMID
+{paina}Man, this leg is killing me! Let me know if you find some meds, okay? Painkillers or something.
+141)  CLEMENTINE
+{feara}I hope this house is safe. {normalb}Have you checked all the rooms to make sure?
+146)  LEE
+{normalb}Christa--
+147)  LEE
+{normalb}Omid, you alright?
+148)  LEE
+{normala}Holding up okay?
+149)  LEE
+{normalb}No, but I'll take care of it.
+150)  
+Backyard Door
+224)  
+Backyard Door
+151)  
+Door
+152)  
+Door
+153)  
+Door
+154)  
+I agree with Kenny.
+155)  
+Let's rest up.
+156)  
+We need to go find Chuck.
+159)  LEE
+We need to make sure Chuck is okay. Once it’s quieted down outside we’ll all head towards the river and see if we can find him. Deal?
+162)  BEN
+{normalA}Look, why don't we just stay here a little longer? {fearA}Omid needs rest, and we need to wait for the walkers outside to thin out.
+164)  BEN
+{normalA}Look, why don't we just stay here a little longer? {fearA}Omid needs rest, and we need to wait for the walkers outside to thin out.
+166)  
+I'm sorry I yelled.
+167)  
+Just stay with Christa.
+168)  LEE
+Just stay with Christa and Omid, okay?
+169)  CLEMENTINE
+[disappointed]Okay.
+171)  CLEMENTINE
+[disappointed]Okay.
+174)  CLEMENTINE
+[disappointed]Okay.
+175)  CLEMENTINE
+[disappointed]Okay.
+170)  LEE
+You’ve been helpful enough for one day. Just stay close to Christa while I check the house, okay?
+172)  
+You've been helpful enough.
+178)  LEE
+[calling out][lookat]Kitchen looks clear.
+179)  LEE
+[calling out][lookat]Front door's locked up tight. Don't think anything's gonna get through there.
+180)  LEE
+[calling out][lookat]Nothin' in the dining room.
+181)  LEE
+[to himself][lookat]Better check the front door and that closet.
+182)  LEE
+[to himself][lookat]Better check that front door.
+183)  LEE
+[to himself][lookat]Hope there's nothing in that closet.
+184)  LEE
+[to himself][lookat]Better check the other rooms.
+185)  LEE
+[to himself][lookat]Locked up tight. No danger there, I guess.
+186)  LEE
+[calling out][lookat]Nothing in here.
+187)  CHRISTA
+[calling out][pickup]How's it coming?
+188)  LEE
+[to himself][lookat]I'd better go check in with Christa and Clem.
+189)  LEE
+{normalb}[lookat]Must've stopped working a while ago.
+190)  LEE
+{normalb}[lookat]All cleaned out.
+191)  LEE
+{normalb}[lookat]All empty.
+192)  LEE
+{normalb}[lookat]Nothin'. Of course.
+193)  LEE
+{normalb}[lookat]Looks expensive. {thinkinga}And heavy. Doubt any looters would be able to haul that thing too far.
+194)  LEE
+{normalb}[lookat]No dinner for us, I guess.
+195)  LEE
+{normalb}[lookat]Top of the line. Too bad it's electric.
+196)  LEE
+{normalb}[lookat]No power.
+197)  LEE
+{normalb}[lookat]Nothing. Water's off.
+198)  LEE
+{normalb}[lookat]Better wait for those walkers in the street to thin out a bit more before going anywhere.
+199)  LEE
+{normalb}[lookat]I'm done with doggie doors.
+202)  
+Stairs
+203)  
+Bottle of Whiskey
+216)  
+Bottle of Whiskey
+210)  KENNY
+Alright, fine. I hope you know what the fuck you're doing.
+211)  BEN
+LEE!
+212)  BEN
+[processed to be upstairs] LEE!
+213)  BEN
+[processed to be upstairs] LEE!
+214)  BEN
+[processed to be upstairs] LEE!
+215)  BEN
+[processed to be upstairs] LEE!
+217)  
+Grandfather Clock
+218)  
+Cabinets
+219)  
+Hutch
+220)  
+Table
+221)  
+Stove
+222)  
+Microwave
+223)  
+Sink
+225)  
+Pet Door
+226)  KENNY
+[pickup][sighs]Alright, fine. [to Ben]You and me’ll take the upstairs - Lee, you’ve got down here. Make sure you check every door, understand?
+227)  
+Portrait
+228)  
+About this boat plan...
+229)  LEE
+[pickup]What do you guys think about this plan of Kenny's?
+230)  CHRISTA
+[pickup][neutral, not pissy]The guy's losing it. Look Lee, I know he's your friend and all, but you need to be careful.  That man is on the edge. And I don't know if I want to be around when he goes over it.
+231)  OMID
+[pickup][tired]Look Lee, I know he's your bro and all, but you need to be careful. That guy's going through some heavy shit right now. He's on the verge.
+232)  CHRISTA
+[pickup][to Omid, calm]Why don't you just worry about feeling better, okay?
+233)  
+Your leg feeling better?
+234)  OMID
+[pickup][tired]Yeah. Still hurts like hell, though. Trying not to think about it, to be honest.
+235)  LEE
+[pickup]How's that couch treating you, Omid? Leg feeling better yet?
+236)  LEE
+[pickup][light, sharing an inside joke with Omid]Must hurt like hell. Just do what I do. Close your eyes and think of Quantrill's Raid.
+237)  OMID
+[pickup][tired, but amused at Lee's inside joke]Heh, yeah. I'll try that.
+238)  LEE
+[pickup][understands]I feel you.
+239)  OMID
+[pickup][tired]Yeah, kinda sweet actually. And old. Probably dates back to the late 19th century.
+240)  CHRISTA
+[pickup][not pissy]I'll like it a lot better when we know for sure it's safe.
+241)  LEE
+[pickup] Finding this house was a hell of a stroke of luck.
+242)  
+Sit tight.
+243)  LEE
+[pickup]Sit tight. I'll keep checking the first floor to make sure it's safe.
+244)  CHRISTA
+[pickup]Thanks, Lee.
+245)  CHRISTA
+[pickup]Lee, will you please check the rest of the house? I'd feel better if I knew it was safe.
+246)  LEE
+[pickup]Not done searching the first floor yet. But so far so good.
+247)  LEE
+[pickup]Hey guys.
+272)  LEE
+[pickup]Hey guys.
+248)  CHRISTA
+[pickup]How's the house looking?
+249)  LEE
+[pickup][startled]Jesus!
+255)  LEE
+[pickup][startled]Jesus!
+250)  CLEMENTINE
+[pickup][worried]What? What happened?
+252)  CLEMENTINE
+[pickup][worried]What? What happened?
+253)  CLEMENTINE
+[pickup][worried]What? What happened?
+251)  LEE
+[pickup][slightly out of breath]It's nothing. Just... nothing.
+254)  LEE
+[pickup][slightly out of breath]It's nothing. Just... nothing.
+256)  LEE
+[pickup][looking at some bad art]Not exactly my style...
+257)  LEE
+[pickup][disappointed]More plastic fruit.
+258)  OMID
+{Body-A}{PainA}I’m all right.
+259)  OMID
+{Body-A}{PainA}Okay. {HappyA}Thanks, man.
+260)  LEE
+[pickup] Kenny's solid. He's just been through a lot, that's all.
+261)  CHRISTA
+[pickup] I hope you're right. For all our sakes.
+262)  CHRISTA
+[pickup] I'd like to believe that. Really I would.
+263)  LEE
+[pickup] I'll make sure. But right now it feels like just the break we needed. Maybe our luck's starting to turn around.
+264)  LEE
+[pickup] Back off, Christa. She hasn't done anything wrong.
+265)  
+Paintings
+266)  
+Dog Food
+267)  
+Refrigerator
+271)  
+Christa and Omid
+273)  LEE
+Hey.
+274)  CHRISTA
+Hey.
+275)  LEE
+[sighs]
+276)  
+Drawing
+278)  
+About this house...

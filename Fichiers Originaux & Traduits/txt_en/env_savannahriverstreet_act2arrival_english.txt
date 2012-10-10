@@ -1,0 +1,352 @@
+1)  KENNY
+{angrya}[grunt] Hmph. Let’s keep moving.
+2)  LEE
+About what happened back there. In the attic.
+3)  LEE
+Hey, so... you wanna talk about it?
+4)  KENNY
+{angrya}About what?
+5)  LEE
+You sure, man? I mean-
+6)  KENNY
+{angrya}[focused/stoic] No.
+7)  KENNY
+What in the hell is going on?
+8)  KENNY
+[quietly] Son of a bitch. That bastard’s fucking with us again. It’s another trap.
+9)  KENNY
+{angryb}[ignoring him/focused] River's right up ahead.
+10)  LEE
+[quitely] No. Listen. That’s not the same bell as before. This one’s farther off. Whatever it is, it’s gonna get the dead moving over there.
+11)  KENNY
+{angryb}Whatever, man. {angryc}I find whoever’s doing that, I’ll ring their motherfucking bell for ‘em.
+116)  KENNY
+{angryb}Whatever, man. {angryc}I find whoever’s doing that, I’ll ring their motherfucking bell for ‘em.
+119)  KENNY
+{angryb}Whatever, man. {angryc}I find whoever’s doing that, I’ll ring their motherfucking bell for ‘em.
+12)  LEE
+Whatever it is, it’s gonna get the dead moving over there, not here. Maybe doing us a favor.
+13)  LEE
+Good one.
+117)  LEE
+Good one.
+118)  LEE
+Good one.
+14)  LEE
+Still nothing moving behind us, I think we’re--
+15)  KENNY
+{angrya}There’s gotta be a boat...{fearA} there’s gotta be.
+16)  LEE
+Kenny, man... I don’t think so. Maybe we need to come up with a new plan.
+17)  LEE
+Kenny, man, let's just go back to the house and tell the others. Come up with a new plan.
+18)  
+Look Through
+19)  LEE
+{normalc}[lookat]Great. Needs a quarter to work.
+20)  LEE
+{normalb}[lookat]Don't think I'm going to see anything until I find a quarter.
+21)  LEE
+{thinkinga}[lookat]What the hell are these markings? They're all over the place.
+149)  LEE
+{thinkinga}[lookat]What the hell are these markings? They're all over the place.
+22)  LEE
+{thinkinga}[lookat]Could be military tags. {normalb}But what do they mean?
+150)  LEE
+{thinkinga}[lookat]Could be military tags. {normalb}But what do they mean?
+23)  LEE
+{thinkinga}[lookat]Gas siphoned, tires removed, engine parts missing...
+24)  LEE
+{disgusta}[lookat]Looks like this thing has been stripped clean.
+25)  LEE
+[horrified, to himself] What the fuck? What is this meant to be, some kind of warning? Who would do something like this?
+26)  LEE
+[to himself]Looks like they tried to barricade the street. Did a pretty good job, too.
+27)  LEE
+{normala}[lookat]Might be a good place to look for some change.
+28)  LEE
+[to himself] [lookat]Empty. Yeah, that would have been too easy.
+29)  LEE
+{happya}[to himself][lookat]Hello, beautiful.
+30)  
+Open
+35)  
+Open
+31)  
+Look At
+34)  
+Look At
+56)  
+Look At
+68)  
+Look At
+32)  LEE
+{normalb}[lookat]Empty. Somebody already cleaned this place out.
+176)  LEE
+{normalb}[lookat]Empty. Somebody already cleaned this place out.
+33)  LEE
+{normalb}[lookat]Looks like it’s still intact.
+36)  LEE
+{normalb}[lookat]Locked.
+37)  
+Bash
+42)  
+Bash
+38)  LEE
+{happya}Jackpot!
+39)  LEE
+{normala}[lookat]I already got what I needed.
+174)  LEE
+{normala}[lookat]I already got what I needed.
+40)  LEE
+{normalb}[lookat]Still locked.
+41)  LEE
+{normalb}[lookat]Someone already looted the place.
+43)  LEE
+{normalb}[lookat]Damn, built solid.
+44)  LEE
+{thinkinga}[lookat]That ain't gonna work.
+45)  KENNY
+[frustrated] {angryc}Fuck!
+46)  LEE
+What’s up with the boat?
+47)  KENNY
+{angryb}[dejected] It ain’t gonna work. Hull’s cracked beneath the water line, plus someone stripped out the battery.
+48)  LEE
+Let’s find out.
+49)  LEE
+{normalb}[lookat]Can't reach it.
+50)  LEE
+{normalb}[lookat]Just an empty tin can.
+51)  LEE
+[lookat]{normalb}Don't think we're going to find any boats down there.
+52)  LEE
+{normala}[lookat]Maybe there's some change in the drawer.
+175)  LEE
+{normala}[lookat]Maybe there's some change in the drawer.
+53)  LEE
+{thinkinga}[lookat]Just one of those concrete barriers you used to see on the highway.
+54)  LEE
+{normalb}[lookat]Looks like the whole city has been boarded up. For all the good it did.
+55)  LEE
+{thinkinga}[lookat]Must've taken weeks to board up all these windows.
+57)  
+Shoot
+69)  
+Shoot
+58)  LEE
+{thinkinga}[lookat]Better not. {normalb}Gunfire would just bring more walkers.
+59)  KENNY
+[desperate/hanging on] {angryb}This IS the plan, Lee! This is our best and only shot! {angryc}You said so yourself back at the house! {angryd}You agreed with me!
+60)  KENNY
+[desperate/frustrated]{angryc}This IS the plan! It's the only one we've got, and you pissin' on it in front of everyone like you did back at the house ain't exactly helping. {angrya}Well screw you, I ain't giving up that easy.
+61)  KENNY
+{normalC}This one might still be salvageable.
+62)  LEE
+[highly skeptical] Seriously?
+63)  KENNY
+{angryb}[snapping] You got a better fucking idea?
+64)  LEE
+I don’t think we should split up too far.
+65)  KENNY
+{normalA}We don’t have to. See that telescope? You can see all the way along the waterfront from right here. See what you can find.
+66)  LEE
+[skeptical but willing to try] Okay.
+67)  LEE
+Yeah, but that was before we--
+70)  LEE
+[lookat]{normalA}Clementine and I got in enough target practice already.
+71)  LEE
+[lookat]{normalA}No, don't wanna draw too much attention.
+72)  
+You wanna talk?
+73)  
+You think they're safe at the house?
+74)  
+I don't think so.
+75)  
+Time for a Plan B.
+76)  
+Let's just go back.
+77)  LEE
+Are you sure about that? It doesn't look like it to me. Maybe we need to start thinking about a plan B.
+79)  KENNY
+{normalc}[cooling off] I’ll check it out. You look further along the waterfront. Maybe there’s something at the other end.
+80)  
+What? Seriously?
+81)  
+You'd better be right about this.
+93)  LEE
+You'd better be right about this.
+82)  
+This boat is fucked.
+83)  LEE
+Oh my god.
+84)  LEE
+How much farther to the river?
+85)  KENNY
+[determined/focused] Should be just a few blocks up ahead.
+86)  LEE
+"Just a few blocks" ain't what it used to be.
+87)  KENNY
+Seems quiet enough.
+88)  LEE
+For now.
+89)  LEE
+You think everyone's safe back at the house?
+90)  KENNY
+{angrya}[grim] Safe as anyone can be these days, I guess.
+91)  LEE
+I just hate leaving Clementine alone. As if walkers weren't bad enough, now we've got this crazy motherfucker on the radio stalking us.
+92)  KENNY
+{normalA}Won't be a problem once we get out on the water. River's just a few blocks up ahead.
+94)  KENNY
+{angryb}I said it might be. Gimme a fucking break. I'm a fishing captain, not a miracle worker.
+95)  LEE
+Kenny. Get a grip. This boat is totally fucked.
+96)  KENNY
+{angrya}Oh yeah? {angryb}Know a lot about boats, do ya?
+97)  LEE
+{normalb}[lookat]That barricade does a good job of making me not want to go any further.
+98)  LEE
+{normala}[lookat]Quaint.
+99)  LEE
+You can't fix it?
+100)  KENNY
+{angrya}I'm good, but I'm not that good. What about you? Any luck?
+101)  LEE
+{normalb}You got a quarter on you?
+102)  KENNY
+{thinkinga}Don't have a lot of use for small change these days. {normalb}Maybe you can find one on the street somewhere.
+103)  KENNY
+{angrya}Tell you what - if I ever need an expert opinion on American history - or on committin' murders - I'll be sure to ask. But how about you leave the nautical shit to me?
+104)  KENNY
+Tell you what - if I ever need an expert opinion on American history I'll be sure to ask. But how about you leave the nautical shit to me?
+105)  LEE
+{disgusta}[lookat]Using walkers like scarecrows? What sick bastard did this?
+178)  LEE
+{disgusta}[lookat]Using walkers like scarecrows? What sick bastard did this?
+106)  LEE
+{sada}[lookat]A fate worse than death...
+107)  
+Use Quarter
+108)  LEE
+Keep your eye out for Chuck. He might be waiting for us around here.
+109)  KENNY
+{angrya}[not really listening]Yeah... sure.
+110)  
+Maybe they're doing us a favor.
+111)  LEE
+I don't know, but the person ringing that bell might be doing us a favor.
+112)  
+Maybe they're trying to distract us.
+113)  LEE
+Maybe whoever is ringing that is just trying to distract us. Create a diversion.
+114)  
+I have no idea.
+115)  LEE
+I have no idea. But someone must be ringing those bells.
+120)  
+Wait
+122)  LEE
+[to himself]Better just let him do his thing.
+123)  LEE
+{normalb}I'll just have a look around, okay?
+124)  LEE
+{normalb}[to himself][lookat]Must've been a hell of a wreck.
+125)  
+Cash Register
+126)  
+Newspaper Machine
+127)  
+Telescope
+128)  
+Barricade
+129)  
+Fire Escape
+130)  
+Tin Can
+131)  
+Markings
+132)  
+Keep an eye out for Chuck.
+133)  
+Manhole
+134)  LEE
+[pickup][to himself]Maybe I'd better just look through that telescope... before he really snaps.
+135)  KENNY
+[pickup][impatient]The hell you waitin' for? We need to look through that telescope to see if there are any other boats out there.
+136)  
+Walkers
+137)  
+Banner
+138)  LEE
+[pickup][to himself]Not exactly a welcome banner.
+139)  LEE
+[pickup]"Keep Out"... keep out of what?
+140)  
+Car
+141)  
+Trolley
+142)  
+Boards
+143)  
+Truck
+144)  LEE
+[pickup]Someone must've been trying to back their boat into the water. Only things didn't go as planned.
+145)  LEE
+[pickup]Definitely looks like a rush job.
+146)  
+Sunken Boat
+167)  
+Sunken Boat
+147)  LEE
+[pickup][quietly, trying not to upset Kenny]Jesus.
+148)  LEE
+[pickup][quietly, trying not to upset Kenny]Damn shame...
+151)  
+Newsstand
+152)  LEE
+[pickup]Looks like an abandoned newsstand.
+153)  LEE
+[pickup]It's an old cash register. Don't think money has much use these days.
+177)  LEE
+[pickup]It's an old cash register. Don't think money has much use these days.
+154)  LEE
+[pickup][while looking through a telelscope for boats]Abandoned, like every other place in this city.
+158)  LEE
+[pickup][while looking through a telelscope for boats]Abandoned, like every other place in this city.
+155)  LEE
+[pickup][while looking through a telelscope for boats]Nothin'.
+159)  LEE
+[pickup][while looking through a telelscope for boats]Nothin'.
+156)  LEE
+[pickup][while looking through a telelscope for boats, to himself]No sign of any boats down there.
+157)  LEE
+[pickup][while looking through telescope, finding a sunken boat]No way that one's salvageable.
+160)  LEE
+[pickup][looking through a telescope for boats]Plenty of docks. No boats.
+161)  LEE
+[pickup][looking through the telescope for boats]Nothing but water. Not a boat to be seen.
+162)  LEE
+[pickup][looking through a telescope for boats]The Talmadge Memorial Bridge. Can't imagine how many people tried to escape across it when this city started to fall.
+163)  LEE
+[pickup][looking through a telescope]Just an abandoned bridge at this point.
+164)  LEE
+[pickup][to himself]{normalb}I should probably stick close to Kenny. It's too dangerous out here.
+165)  
+Building
+171)  
+Building
+166)  
+Downriver
+168)  
+Docks
+169)  
+Upriver
+170)  
+Bridge
+172)  LEE
+Hey, Kenny...
+173)  KENNY
+What the--what the hell is that!?

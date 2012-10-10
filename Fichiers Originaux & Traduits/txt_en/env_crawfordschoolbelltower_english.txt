@@ -1,0 +1,172 @@
+1)  CHRISTA
+{disgustA} A few rounds, that’s it.
+2)  KENNY
+[alarmed] {angryB} You didn’t close that door behind us?
+3)  LEE
+I couldn’t, the lock was busted!
+4)  KENNY
+{angryA} Great, just fucking great... come on, there’s gotta be a way out down here!
+5)  LEE
+So much for the armory.
+6)  KENNY
+[grim] {disgustA} What’s left of it.
+7)  KENNY
+[enraged/end of his rope] {angryD} FUUUUUUUCK!
+8)  LEE
+That’s not gonna hold. Back upstairs!
+9)  CHRISTA
+[frantic]Look up there!
+10)  LEE
+[frantic]Everyone head to the top! Hurry!
+11)  LEE
+Aaargh!
+12)  CLEMENTINE
+[frantic] Lee! Come on! We gotta go!
+13)  LEE
+[desperate/struggling] Clementine, go with the others!
+14)  CLEMENTINE
+I’m not leaving you!
+15)  LEE
+I said go, goddammit! Run!
+16)  KENNY
+{fearB} Come on!
+17)  LEE
+[exhausted/relieved] It’s all right, Clem. I’m fine.
+38)  LEE
+[exhausted/relieved] It’s all right, Clem. I’m fine.
+18)  LEE
+[looking around] Any way out of here?
+19)  CHRISTA
+{thinkingA} This leads to the roof, we might be able to find a way down from there.
+20)  VERNON
+{sadA} I can see the sewer where we came in from here! {thinkingA} I think we can do this!
+21)  KENNY
+{fearA} Well what are we waiting for? {fearB} Go! Go!
+22)  BEN
+[shouting] Make it stop!
+23)  BEN
+[screaming in terror] Aaaaaargh!
+24)  LEE
+[struggling] Cut him loose!
+25)  VERNON
+[struggling] I can’t reach!
+26)  LEE
+[straining with all his might] Hold on, Ben! I’ve got you!
+27)  KENNY
+[urgent] Lee! Come on, man! That door ain’t gonna hold! We gotta go, now!
+28)  LEE
+Ben, climb up! Come on, you can do it!
+29)  BEN
+[calm/at peace] {fearA} No. Let me go.
+30)  LEE
+Quit fucking around, Ben! Come on!
+31)  BEN
+Go. Save yourselves.
+32)  LEE
+Quit fucking around, Ben! Come on, you can do this!
+33)  BEN
+{sadD} There’s no time! You have to go! {fearB} Now!
+34)  BEN
+{sadC} This is what I want. [sincere/pleading] {sadD} Please.
+35)  BEN
+Let me go. Please.
+36)  
+[Let him go]
+37)  
+[Pull him up]
+39)  CLEMENTINE
+[horrified] Nooo!
+40)  LEE
+Go go go!
+42)  LEE
+Go go go!
+44)  LEE
+Go go go!
+41)  KENNY
+You did the right thing.
+43)  KENNY
+You shoulda dropped him.
+45)  CHRISTA
+[hurried]Clementine, come on!
+46)  CHRISTA
+[hurried]Clementine, come on!
+47)  CHRISTA
+[hurried]Clementine, come on!
+48)  
+It doesn't matter.
+51)  
+It doesn't matter.
+49)  
+I did what I had to.
+50)  
+He told me to leave him.
+52)  KENNY
+{disgustA} Where's Ben?
+53)  
+I couldn't hold on.
+54)  KENNY
+[calling out] {fearB} Lee, look!
+55)  LEE
+[shouting]Come on Ben, move it!
+56)  LEE
+[shouting]BEN!
+57)  LEE
+He's gone.
+60)  LEE
+He's gone.
+62)  LEE
+He's gone.
+58)  LEE
+I couldn't save him.
+59)  LEE
+[grim] I did what I had to.
+61)  LEE
+He wanted us to leave him.
+63)  LEE
+It doesn't matter, he's gone.
+64)  KENNY
+{sadA} Let's go.
+65)  KENNY
+{sadA} Let's go.
+66)  KENNY
+{sadA} Let's go.
+67)  KENNY
+{sadA} Let's go.
+68)  KENNY
+{sadA} Let's go.
+69)  KENNY
+{sadA} Let's go.
+70)  LEE
+Ben, come on, let's go!
+71)  BEN
+[suicidal]No... just let me go. Let me go, Lee. I fucked everything up. I got Duck and Katjaa killed. I put us all in danger. Just please... let me go.
+72)  BEN
+[suicidal]Just... drop me. Let me go. Please, Lee. I... I just can't do this anymore. Please. Please...
+73)  BEN
+[suicidal]No... just let me go. Please, Lee. It's what Kenny wants. It's... it's what I want. It's... just... drop me.
+75)  
+Attack
+76)  
+Leg
+77)  BEN
+[pickup] [composed/mature/resolute] Lee. We both know.
+78)  BEN
+[pickup] [urgent] There's no time! You have to go, now!
+79)  BEN
+[pickup] Let go, dammit! Get Clem and the others out of here!
+80)  KENNY
+[pickup] Lee.
+81)  BEN
+[pickup] [certain] Let me go.
+82)  KENNY
+[pickup][grim] I'll see you when you're done.
+83)  BEN
+[pickup] Why?
+84)  KENNY
+[pickup] Yeah, why?
+85)  VERNON
+[pickup] [worried/ominous] You didn't come into town from the railroad did you?
+86)  VERNON
+[pickup] [shaking it off] Never mind. I can see the sewer where we came in from here. I think we can do this.
+87)  BEN
+[pickup]Let go, dammit! Get the others out of here!

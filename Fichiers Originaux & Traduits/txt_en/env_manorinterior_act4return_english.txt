@@ -1,0 +1,1034 @@
+1)  CHRISTA
+[calling out, worried] {worrieda} Omid?
+2)  LEE
+Told you I would, didn’t I?
+3)  CLEMENTINE
+Did you find my parents?
+4)  LEE
+[calling out] {feara}Clementine? [more urgently] Clementine!
+5)  LEE
+{feara}Clementine?
+6)  CLEMENTINE
+You made it back!
+7)  VERNON
+[puzzled/dubious] Her parents?
+75)  VERNON
+[puzzled/dubious] Her parents?
+8)  LEE
+No. I’m sorry. Crawford was... there just wasn’t time.
+9)  CHRISTA
+[suddenly worried] Upstairs? Omid...
+10)  LEE
+You did good, kiddo. Real good.
+11)  LEE
+Clementine, what happened here?
+299)  CHRISTA
+Clementine, what happened here?
+499)  CHRISTA
+Clementine, what happened here?
+12)  CLEMENTINE
+One of those things got inside. It tried to get upstairs. I stopped it.
+300)  CLEMENTINE
+One of those things got inside. It tried to get upstairs. I stopped it.
+302)  CLEMENTINE
+One of those things got inside. It tried to get upstairs. I stopped it.
+304)  CLEMENTINE
+One of those things got inside. It tried to get upstairs. I stopped it.
+500)  CLEMENTINE
+One of those things got inside. It tried to get upstairs. I stopped it.
+13)  CLEMENTINE
+Where’s Molly?
+14)  
+[Lie]
+23)  
+[Lie]
+15)  
+[Tell the Truth]
+16)  CLEMENTINE
+[brightening a little] I liked her.
+17)  CLEMENTINE
+[sadly] She never even said goodbye.
+18)  LEE
+Sure she did. She had to go, but she asked me to say goodbye for her.
+19)  LEE
+She had to go back home. She’s fine, but it was time for to leave.
+20)  LEE
+I know. I did too. Hey, what do you say we go check on Omid?
+21)  LEE
+She didn’t make it, Clem. I’m sorry.
+22)  CLEMENTINE
+[sadly] I liked her.
+24)  CLEMENTINE
+Where's Molly, Lee?
+25)  LEE
+[quietly] {angrya} On three. One... {angryb} two... {angryc} THREE!
+26)  KENNY
+[relieved/adrenaline] {angryb} Jesus fucking Christ.
+27)  CLEMENTINE
+[offscreen] Lee!
+28)  LEE
+{feara} Clementine, if that’s you... it’s me, Lee. It’s okay, you don’t need to hide. Come on out.
+29)  LEE
+[really getting worried] {thinkinga} Where the hell is Clementine? [calling out] {surprisea} Clementine?
+30)  OMID
+[sick/weak] Hey. Back already?
+31)  LEE
+Clementine, when did you last check on him?
+32)  LEE
+Christa, don’t! Stay back!
+339)  LEE
+Christa, don’t! Stay back!
+346)  LEE
+Christa, don’t! Stay back!
+33)  LEE
+Christa? Everything okay?
+34)  CHRISTA
+[terrified/worried] Omid...
+35)  OMID
+Good, feel like I could use some.
+36)  VERNON
+Christa, get away from him!
+338)  VERNON
+Christa, get away from him!
+341)  VERNON
+Christa, get away from him!
+344)  VERNON
+Christa, get away from him!
+347)  VERNON
+Christa, get away from him!
+350)  VERNON
+Christa, get away from him!
+352)  VERNON
+Christa, get away from him!
+353)  VERNON
+Christa, get away from him!
+355)  VERNON
+Christa, get away from him!
+357)  VERNON
+Christa, get away from him!
+359)  VERNON
+Christa, get away from him!
+374)  VERNON
+Christa, get away from him!
+498)  VERNON
+Christa, get away from him!
+37)  CLEMENTINE
+Like an hour ago. He was awake then, he was fine. [worried] Is he...?
+38)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+337)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+340)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+343)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+348)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+349)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+351)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+354)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+356)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+358)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+360)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+373)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+497)  CHRISTA
+[sobbing] I never should have left you... I’m so sorry...
+39)  CHRISTA
+[so relieved] We got you medicine.
+40)  OMID
+Where’s Ben?
+85)  OMID
+Where’s Ben?
+121)  OMID
+Where’s Ben?
+376)  OMID
+Where’s Ben?
+41)  KENNY
+I’m gonna go start work on the boat.
+86)  KENNY
+I’m gonna go start work on the boat.
+126)  KENNY
+I’m gonna go start work on the boat.
+320)  KENNY
+I’m gonna go start work on the boat.
+321)  KENNY
+I’m gonna go start work on the boat.
+365)  KENNY
+I’m gonna go start work on the boat.
+366)  KENNY
+I’m gonna go start work on the boat.
+370)  KENNY
+I’m gonna go start work on the boat.
+371)  KENNY
+I’m gonna go start work on the boat.
+372)  KENNY
+I’m gonna go start work on the boat.
+42)  CHRISTA
+[tearfully] He didn’t make it.
+89)  CHRISTA
+[tearfully] He didn’t make it.
+122)  CHRISTA
+[tearfully] He didn’t make it.
+379)  CHRISTA
+[tearfully] He didn’t make it.
+43)  OMID
+[dismayed] What happened?
+88)  OMID
+[dismayed] What happened?
+123)  OMID
+[dismayed] What happened?
+377)  OMID
+[dismayed] What happened?
+44)  KENNY
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
+87)  KENNY
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
+124)  KENNY
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
+378)  KENNY
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
+45)  LEE
+[sarcastic] Thanks a lot.
+90)  LEE
+[sarcastic] Thanks a lot.
+125)  LEE
+[sarcastic] Thanks a lot.
+46)  OMID
+Omid looks at Ben, who is still borderline catatonic, in shock from the events of Crawford.
+94)  OMID
+Omid looks at Ben, who is still borderline catatonic, in shock from the events of Crawford.
+127)  OMID
+Omid looks at Ben, who is still borderline catatonic, in shock from the events of Crawford.
+47)  OMID
+You okay, kid? You look worse than I do.
+91)  OMID
+You okay, kid? You look worse than I do.
+128)  OMID
+You okay, kid? You look worse than I do.
+48)  OMID
+Guys, what the hell happened out there?
+93)  OMID
+Guys, what the hell happened out there?
+130)  OMID
+Guys, what the hell happened out there?
+49)  KENNY
+[pissed] We almost didn’t make it out of there because of this asshole. Shoulda left him behind when we had the chance.
+92)  KENNY
+[pissed] We almost didn’t make it out of there because of this asshole. Shoulda left him behind when we had the chance.
+129)  KENNY
+[pissed] We almost didn’t make it out of there because of this asshole. Shoulda left him behind when we had the chance.
+50)  KENNY
+Let someone else tell you, I got work to do.
+95)  KENNY
+Let someone else tell you, I got work to do.
+131)  KENNY
+Let someone else tell you, I got work to do.
+51)  VERNON
+Maybe now’s a good time for you and me to have a little talk. In private.
+52)  CHRISTA
+[elated/relieved] Yes, thank you so much!
+53)  VERNON
+Okay, with a little luck you should start feeling better pretty soon. I'll stay here for a few more hours to check on him. Let me know if you need anything.
+54)  OMID
+Thanks, doc.
+55)  LEE
+Listen man, about what happened to Brie...
+56)  VERNON
+Don’t beat yourself up over it, it was nothing you could have done.
+457)  VERNON
+Don’t beat yourself up over it, it was nothing you could have done.
+462)  VERNON
+Don’t beat yourself up over it, it was nothing you could have done.
+57)  LEE
+What?
+61)  LEE
+What?
+447)  LEE
+What?
+455)  LEE
+What?
+459)  LEE
+What?
+461)  LEE
+What?
+465)  LEE
+What?
+470)  LEE
+What?
+473)  LEE
+What?
+477)  LEE
+What?
+58)  VERNON
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
+456)  VERNON
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
+460)  VERNON
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
+468)  VERNON
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
+476)  VERNON
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
+59)  LEE
+What did you want to talk to me about?
+452)  LEE
+What did you want to talk to me about?
+60)  VERNON
+[hostile] Please, save your sympathy for someone who’s buying it.
+446)  VERNON
+[hostile] Please, save your sympathy for someone who’s buying it.
+458)  VERNON
+[hostile] Please, save your sympathy for someone who’s buying it.
+62)  VERNON
+You don’t think by now I’ve got you figured? You don’t strike me as someone who has a lot of consideration for others. Look at what you did to get me to come here with you in the first place - you expect me to believe you give a shit that that it wound up costing Brie her life?
+451)  VERNON
+You don’t think by now I’ve got you figured? You don’t strike me as someone who has a lot of consideration for others. Look at what you did to get me to come here with you in the first place - you expect me to believe you give a shit that that it wound up costing Brie her life?
+63)  LEE
+[offended] Now hold on just a damn minute! Listen-
+449)  LEE
+[offended] Now hold on just a damn minute! Listen-
+64)  VERNON
+No, you listen. You’ve got some good people here, and they look to you as their leader. Well I’m here to tell you, the kind of leader you are, they’re not going to make it much longer. And you’re kidding yourself if you think putting them all on a boat is going to solve anything. Now you may not care about all of those people, but I know you care about that little girl. Which is I’m going to make you an offer.
+450)  VERNON
+No, you listen. You’ve got some good people here, and they look to you as their leader. Well I’m here to tell you, the kind of leader you are, they’re not going to make it much longer. And you’re kidding yourself if you think putting them all on a boat is going to solve anything. Now you may not care about all of those people, but I know you care about that little girl. Which is I’m going to make you an offer.
+65)  LEE
+[skeptical] What kind of an offer?
+67)  LEE
+[skeptical] What kind of an offer?
+448)  LEE
+[skeptical] What kind of an offer?
+454)  LEE
+[skeptical] What kind of an offer?
+66)  VERNON
+I know you care about Clementine. Anyone can see that. And I know you want what’s best for her. But this plan of yours, putting everyone on a boat, with no destination... do you really think that’s her best chance of finding somewhere where she can be safe? Because I don’t. So I want to make you an offer.
+453)  VERNON
+I know you care about Clementine. Anyone can see that. And I know you want what’s best for her. But this plan of yours, putting everyone on a boat, with no destination... do you really think that’s her best chance of finding somewhere where she can be safe? Because I don’t. So I want to make you an offer.
+68)  VERNON
+I’ll take her off your hands. Take her back with me, to my people. We’re well-supplied, well-hidden, and a lot of us have had kids of our own. And now Crawford’s fallen we’ve got nothing left to fear from them.
+69)  VERNON
+She’ll be safe with us. Safer than she will be if she stays with you, I promise you. That’s what you want for her, isn’t it? To be safe?
+70)  
+Walk away, Vernon.
+73)  
+Walk away, Vernon.
+71)  
+You have a point.
+72)  
+I need to think about this.
+74)  LEE
+[fuming] I’m gonna pretend you didn’t say any of this and give you the chance to walk away. Which you oughta do, right now.
+76)  VERNON
+I know you think you’re doing what’s best for her. And if you were her real father we wouldn’t be having this conversation. But you’re not. And staying with you is not what’s best for her. If no-one else around here will tell you that, then I will.
+81)  VERNON
+I know you think you’re doing what’s best for her. And if you were her real father we wouldn’t be having this conversation. But you’re not. And staying with you is not what’s best for her. If no-one else around here will tell you that, then I will.
+77)  LEE
+[furious] That little girl’s in my care. We’ve been through more together than you can imagine. Anyone who tries to get between me and her - anyone! - is gonna wind up dead. You hear me?
+78)  VERNON
+[trying to stay calm] Take your hands off me.
+79)  LEE
+I’m sorry.
+80)  VERNON
+So am I.
+82)  VERNON
+I know you think you’re doing what’s best for her. And if you were her real father we wouldn’t be having this conversation. But you’re not, are you? Just another one of your lies.
+83)  LEE
+[reluctantly] I guess you have a point. I just want what’s best for her, whatever that means.
+84)  VERNON
+I think you already know what it means, Lee. I want you to think about some things.
+96)  VERNON
+You chose to let that boy die back in Crawford. I’ve got to wonder about the morality of the kind of man who could do something like that. I’ve got to wonder what kind of parent you’d be.
+97)  VERNON
+You set off on that mission with Molly, the both of you supposed to be watching each other’s backs. And all I know is, you made it back and she didn’t. If she wasn’t safe with you, why should Clementine be?
+98)  VERNON
+The way you’ve treated me doesn’t exactly instill a lot of confidence in you as a guardian to that child. I don’t like being threatened, I don’t like being lied to. I don’t think Clementine would much like that either. And it’s a shorter trip from me to her than you might imagine.
+99)  VERNON
+You’re a good man, Lee. You’ve been protecting these people as best you can so far and they look up to you. Rightly so. But it’s different with a child. You might have brought her this far, but sooner or later she might ask you for more than you can give her. I’m sorry if that’s hard to hear. But it’s the truth.
+100)  LEE
+I appreciate it, Vernon. Let me think about it, okay?
+382)  LEE
+I appreciate it, Vernon. Let me think about it, okay?
+385)  LEE
+I appreciate it, Vernon. Let me think about it, okay?
+101)  VERNON
+You do that.
+383)  VERNON
+You do that.
+384)  VERNON
+You do that.
+102)  LEE
+You’re coming at me with a lot here, Vernon. I need to think it over.
+103)  VERNON
+Of course. Take your time. But I want you think about some things.
+104)  VERNON
+I know it's a lot to consider.  But I want you think about some things.
+105)  LEE
+{thinkingb} What are you talking about? {surprisea} Kenny’s working on the boat right now. {normald} I thought you were coming with us. {happya} God knows you've earned it.
+106)  LEE
+{happyb} Good luck.
+395)  LEE
+{happyb} Good luck.
+406)  LEE
+{happyb} Good luck.
+107)  LEE
+{sadb} Sure. You take care of yourself, Molly.
+393)  LEE
+{sadb} Sure. You take care of yourself, Molly.
+403)  LEE
+{sadb} Sure. You take care of yourself, Molly.
+108)  MOLLY
+{disbeliefb} Ain’t nothing to do with luck.
+388)  MOLLY
+{disbeliefb} Ain’t nothing to do with luck.
+402)  MOLLY
+{disbeliefb} Ain’t nothing to do with luck.
+109)  MOLLY
+{happyc} And you be sure to take care of that little girl. {happya} You know she thinks the world of you.
+391)  MOLLY
+{happyc} And you be sure to take care of that little girl. {happya} You know she thinks the world of you.
+408)  MOLLY
+{happyc} And you be sure to take care of that little girl. {happya} You know she thinks the world of you.
+110)  MOLLY
+See you around.
+390)  MOLLY
+See you around.
+405)  MOLLY
+See you around.
+111)  LEE
+Feeling’s mutual.
+389)  LEE
+Feeling’s mutual.
+401)  LEE
+Feeling’s mutual.
+112)  MOLLY
+{happyc} You too, Lee.
+392)  MOLLY
+{happyc} You too, Lee.
+404)  MOLLY
+{happyc} You too, Lee.
+113)  LEE
+{sada} You sure about this?
+114)  MOLLY
+{sada} Yeah, I’m about to head out. {disbeliefa} I just wanted to say thanks. For everything. {happya} It’s been fun.
+115)  MOLLY
+{sada} Yeah, I’ve been thinking it over. It’s not for me. {happya} Sounds like it’d be pretty crowded. {happyc} And I never did like the water.
+116)  MOLLY
+{happya} I’m sure. I’ve always done {disbeliefa} better on my own anyhow.
+117)  LEE
+{normalc} Hey. {surprisea} Going somewhere?
+118)  LEE
+Kenny’s working on the boat. With a little luck this’ll be the last night we have to stay here.
+119)  CLEMENTINE
+Where are we going to go?
+120)  LEE
+[genuinely unsure] {normald}I don’t know. We'll figure it out. We always do.
+132)  LEE
+{sada} Clem, honey... what’s wrong?
+189)  LEE
+{sada} Clem, honey... what’s wrong?
+228)  LEE
+{sada} Clem, honey... what’s wrong?
+133)  CLEMENTINE
+{Sada} What happened to Ben? {sadc} What did Kenny mean when he said you did what you had to?
+135)  
+He was a danger to rest of us.
+136)  
+[Change the subject]
+254)  
+[Change the subject]
+137)  
+Silence
+138)  LEE
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
+424)  LEE
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
+487)  LEE
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
+506)  LEE
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
+518)  LEE
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
+139)  CLEMENTINE
+I know, but... how can you choose to just let someone die?
+140)  LEE
+I didn’t really make that choice, Clementine. Ben did. He asked me to let him go.
+141)  CLEMENTINE
+{thinkinga} What do you mean?
+219)  CLEMENTINE
+{thinkinga} What do you mean?
+422)  CLEMENTINE
+{thinkinga} What do you mean?
+482)  CLEMENTINE
+{thinkinga} What do you mean?
+507)  CLEMENTINE
+{thinkinga} What do you mean?
+513)  CLEMENTINE
+{thinkinga} What do you mean?
+142)  LEE
+What Ben did was very brave. He knew we were running out of time, and that for me to save him, I’d have to put everyone else in even more danger. So he asked me to leave him behind so the rest of us could get away. I know that’s difficult to understand.
+423)  LEE
+What Ben did was very brave. He knew we were running out of time, and that for me to save him, I’d have to put everyone else in even more danger. So he asked me to leave him behind so the rest of us could get away. I know that’s difficult to understand.
+143)  CLEMENTINE
+{Sada} I understand.
+199)  CLEMENTINE
+{Sada} I understand.
+433)  CLEMENTINE
+{Sada} I understand.
+436)  CLEMENTINE
+{Sada} I understand.
+484)  CLEMENTINE
+{Sada} I understand.
+509)  CLEMENTINE
+{Sada} I understand.
+516)  CLEMENTINE
+{Sada} I understand.
+144)  LEE
+{thinkinga} You do?
+200)  LEE
+{thinkinga} You do?
+434)  LEE
+{thinkinga} You do?
+437)  LEE
+{thinkinga} You do?
+485)  LEE
+{thinkinga} You do?
+510)  LEE
+{thinkinga} You do?
+514)  LEE
+{thinkinga} You do?
+145)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+201)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+432)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+435)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+486)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+511)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+519)  CLEMENTINE
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
+146)  LEE
+[smiles] {happya} Well, she was right.
+197)  LEE
+[smiles] {happya} Well, she was right.
+431)  LEE
+[smiles] {happya} Well, she was right.
+438)  LEE
+[smiles] {happya} Well, she was right.
+483)  LEE
+[smiles] {happya} Well, she was right.
+512)  LEE
+[smiles] {happya} Well, she was right.
+517)  LEE
+[smiles] {happya} Well, she was right.
+147)  CLEMENTINE
+I hope I can be like that. I hope if it ever happens, I could do the same.
+198)  CLEMENTINE
+I hope I can be like that. I hope if it ever happens, I could do the same.
+148)  LEE
+Clementine, listen to me. You don’t need to think about that. So long as I’m around, I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
+196)  LEE
+Clementine, listen to me. You don’t need to think about that. So long as I’m around, I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
+149)  CLEMENTINE
+Okay.
+151)  CLEMENTINE
+Okay.
+174)  CLEMENTINE
+Okay.
+181)  CLEMENTINE
+Okay.
+202)  CLEMENTINE
+Okay.
+251)  CLEMENTINE
+Okay.
+150)  LEE
+Clementine... this may be hard to understand right now, but sometimes, for the good of everyone, we have to make tough choices. Ben was putting us all in danger in Crawford. So I made a decision, and I left him behind. I know that sounds bad.
+152)  LEE
+I’d save you. Every time.
+170)  LEE
+I’d save you. Every time.
+187)  LEE
+I’d save you. Every time.
+252)  LEE
+I’d save you. Every time.
+153)  CLEMENTINE
+{sada} But I’m just one person.
+171)  CLEMENTINE
+{sada} But I’m just one person.
+188)  CLEMENTINE
+{sada} But I’m just one person.
+253)  CLEMENTINE
+{sada} But I’m just one person.
+154)  LEE
+{normald} Not to me you’re not.
+172)  LEE
+{normald} Not to me you’re not.
+179)  LEE
+{normald} Not to me you’re not.
+249)  LEE
+{normald} Not to me you’re not.
+155)  LEE
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
+173)  LEE
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
+180)  LEE
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
+250)  LEE
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
+156)  CLEMENTINE
+What if it had been me? Would you have let me go?
+175)  CLEMENTINE
+What if it had been me? Would you have let me go?
+184)  CLEMENTINE
+What if it had been me? Would you have let me go?
+157)  LEE
+No. I could have pulled you up. You’re not as heavy as Ben was.
+176)  LEE
+No. I could have pulled you up. You’re not as heavy as Ben was.
+185)  LEE
+No. I could have pulled you up. You’re not as heavy as Ben was.
+158)  CLEMENTINE
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
+169)  CLEMENTINE
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
+186)  CLEMENTINE
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
+248)  CLEMENTINE
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
+159)  CLEMENTINE
+That’s a mean thing to say. That’s horrible!
+217)  CLEMENTINE
+That’s a mean thing to say. That’s horrible!
+224)  CLEMENTINE
+That’s a mean thing to say. That’s horrible!
+160)  LEE
+Maybe so. But it’s the truth. I’m trying to keep the rest of us safe, trying to keep you safe, so I don’t have a lot of sympathy for anyone who makes that job more difficult, I don’t care how good their intentions are.
+215)  LEE
+Maybe so. But it’s the truth. I’m trying to keep the rest of us safe, trying to keep you safe, so I don’t have a lot of sympathy for anyone who makes that job more difficult, I don’t care how good their intentions are.
+225)  LEE
+Maybe so. But it’s the truth. I’m trying to keep the rest of us safe, trying to keep you safe, so I don’t have a lot of sympathy for anyone who makes that job more difficult, I don’t care how good their intentions are.
+161)  CLEMENTINE
+What do you mean?
+162)  LEE
+Ben was a good kid. But whenever he tried to help, he just wound up putting us in more danger. And he was putting us all in danger in Crawford. So I made a decision, and I left him behind. I know that sounds bad.
+163)  LEE
+It won’t do any good to dwell on it, Clementine. What’s done is done. We’ve got to look ahead. Aren’t you excited to take a boat ride, discover someplace new?
+258)  LEE
+It won’t do any good to dwell on it, Clementine. What’s done is done. We’ve got to look ahead. Aren’t you excited to take a boat ride, discover someplace new?
+164)  LEE
+{normald} It won’t do any good to dwell on it, Clementine.
+427)  LEE
+{normald} It won’t do any good to dwell on it, Clementine.
+165)  CLEMENTINE
+{thinkingb} I want to know what happened. {sada} Ben was my friend, I liked him.
+426)  CLEMENTINE
+{thinkingb} I want to know what happened. {sada} Ben was my friend, I liked him.
+166)  CLEMENTINE
+You don’t know that. You didn’t even try.
+182)  CLEMENTINE
+You don’t know that. You didn’t even try.
+205)  CLEMENTINE
+You don’t know that. You didn’t even try.
+227)  CLEMENTINE
+You don’t know that. You didn’t even try.
+167)  LEE
+I did try, Clem. I did all I could.
+183)  LEE
+I did try, Clem. I did all I could.
+206)  LEE
+I did try, Clem. I did all I could.
+226)  LEE
+I did try, Clem. I did all I could.
+168)  LEE
+{sada} I know, Clem. I did too. {thinkingb} And maybe I could have done more to save him.
+177)  CLEMENTINE
+[sad] {sada} It must have been bad if you don't want to talk about it.
+430)  CLEMENTINE
+[sad] {sada} It must have been bad if you don't want to talk about it.
+178)  LEE
+There’s no easy answer to that question, Clementine. You were there, you saw what was happening. There wasn’t enough time to save him. I had to think about the whole group, not just one person.
+190)  CLEMENTINE
+{sada} Is Ben going to be okay? He doesn’t seem the same, since he got back.
+191)  
+He’s been through a lot.
+192)  
+He feels guilty.
+193)  
+It’s his own fault.
+194)  CLEMENTINE
+I heard him asking you to let him go. Why would he say something like that?
+222)  CLEMENTINE
+I heard him asking you to let him go. Why would he say something like that?
+195)  LEE
+I think he was just trying to be brave. He knew we were running out of time, and that trying to save him could have put me and you and everyone else in danger. So he offered to sacrifice himself so the rest of us could get away. I know that’s difficult to understand.
+211)  LEE
+I think he was just trying to be brave. He knew we were running out of time, and that trying to save him could have put me and you and everyone else in danger. So he offered to sacrifice himself so the rest of us could get away. I know that’s difficult to understand.
+223)  LEE
+I think he was just trying to be brave. He knew we were running out of time, and that trying to save him could have put me and you and everyone else in danger. So he offered to sacrifice himself so the rest of us could get away. I know that’s difficult to understand.
+203)  LEE
+{thinkinga} Ben’s a good kid. I think he’s just feeling guilty, about some of the decisions he’s made. {normald}He’s gotten to feeling like he’s a burden on the rest of us.
+204)  CLEMENTINE
+About what happened to Katjaa and Duck?
+207)  LEE
+You heard that?
+208)  CLEMENTINE
+Is that why he asked you to let him go back there?
+209)  CLEMENTINE
+Why would he say something like that?
+210)  LEE
+Yeah. And about a lot of the decisions he’s made. He’s a good kid, but every time he’s tried to help the rest of us, it didn’t come out like he planned. Sometimes he’s made things worse. So that’s a lot for him to carry. He’s gotten to feeling like he’s a burden on the rest of us.
+212)  LEE
+{normalc} He’s just feeling sorry for himself. Truth is, he brought this on himself.
+213)  LEE
+{thinkinga} Well, he’s been through a lot, Clem. He’s just gotten a little overwhelmed, that’s all. {normald} I’m sure he’ll be fine.
+214)  LEE
+{thinkinga} Look, Ben’s a good kid. He means well. He keeps trying to help, but every time he does he winds up putting the rest of us in even more of a jam. {normald} What happened to Katjaa and Duck, he feels like he was responsible for that. {sada} And the fact is, he’s right. He was.
+216)  LEE
+[wondering if it was the right thing.] {thinkingb} Yeah. I still saved him.
+218)  CLEMENTINE
+{happya} But you still saved him.
+220)  LEE
+No. he’s been through a lot, Clem. Not just in Crawford, but since this all began. He’s just gotten a little overwhelmed, that’s all. I’m sure he’ll be fine.
+221)  CLEMENTINE
+{normala} I guess you're worried about him too.
+229)  CLEMENTINE
+{sada} What happened to Ben? Why didn’t he come back?
+230)  
+He wanted us to leave him behind.
+231)  LEE
+I know this might be difficult to understand, Clem. But we got into a tight spot back there, it looked like none of us might get out of there. In the end it came down to risking all our lives to help Ben, or making sure the rest of us got out of there alive. It was a tough call, but I don’t regret making it. It’s the reason I’m here with you now.
+232)  LEE
+Ben felt bad about some of the mistakes he’d made that had put us in danger. What happened to Katjaa and Duck... he felt like that was his fault. I think he wanted to do something to make it right. And what he did was very brave. He knew we were running out of time, and that trying to save himself might have put everyone else in danger. So he sacrificed himself so the rest of us could get away. I know that’s difficult to understand.
+233)  LEE
+Well in a way it wasn’t my decision. It was what Ben wanted.
+234)  CLEMENTINE
+[surprised] What do you mean?
+235)  CLEMENTINE
+But how could you do that? How could you just leave him?
+236)  
+I don’t know. [LIE]
+237)  LEE
+Yes I do. Trust me.
+238)  LEE
+Clem... I don’t think that’s what he would have wanted.
+239)  CLEMENTINE
+You don’t know that for sure.
+240)  CLEMENTINE
+Then what did Kenny mean when he said that Ben nearly got you killed? That you did what you had to?
+241)  LEE
+Kenny just means that because Ben got separated from the rest of us, it would have been dangerous to try to go back and find him. That I made the decision not to, for the safety of everyone else.
+242)  CLEMENTINE
+[skeptical] Uh-huh.
+243)  LEE
+{normala} You want to know what I think happened? {normald} I think Ben did something very brave. I think he stayed back to buy the rest of us the time we needed to get away. {sada} He gave up his own life to save ours.
+244)  CLEMENTINE
+So you didn’t even try to go back and look for him?
+245)  LEE
+{normald} I wish I knew, Clem. {sada} It was chaos back there. We were in such a hurry to get out of there, {thinkinga} we just kinda lost sight of him. {thinkingb} And by the time we realized he was gone, {normald} it was too late to go back for him.
+246)  CLEMENTINE
+What if it had been me? Would you have left me behind too?
+247)  LEE
+No. I would never have gotten separated from you in the first place.
+255)  LEE
+I know, Clem. I did too. But you weren’t there, you don’t know what it was like. We barely got out of there alive.
+256)  CLEMENTINE
+So what happened to him? What happened to Ben?
+257)  LEE
+Ben did something very brave. He knew that the rest of us were in danger, that we were running out of time. So he volunteered to stay behind. He sacrificed himself so the rest of us could get away. I know that’s difficult to understand.
+259)  CLEMENTINE
+[upset] How can you say that? How can you just forget about him? Ben was our friend, I liked him!
+260)  CLEMENTINE
+Don’t YOU know what happened?
+261)  LEE
+There’s no easy answer to that, Clem. I wish there was. I don’t know to explain it.
+262)  CLEMENTINE
+What did Kenny mean when he said that Ben nearly got you killed? That you did what you had to?
+263)  LEE
+Ben made a mistake back there. A mistake that almost got us into a lot of trouble. He felt bad about what he did, so he wanted to make it right by staying behind so the rest of us could escape. Maybe I could have done something to stop him, but I let him do it. For the good of the group.
+264)  LEE
+I did, Clementine. I did all I could. But it’s not what he wanted. I had to respect that. I’m sorry, I know it’s difficult to understand.
+265)  CLEMENTINE
+So you didn’t even try to save him?
+266)  CLEMENTINE
+{thinkinga} Before we leave tomorrow, will we have time to look for my parents?
+267)  
+Yes. [LIE]
+268)  
+There may not be time.
+269)  
+No. Let it go.
+270)  LEE
+[unconvincing] {thinkinga} Sure. We’ll look before we leave.
+271)  LEE
+[trying to comfort her] {sadb} I’m sorry, Clementine. I’m sorry...
+272)  CLEMENTINE
+[skeptical] {thinkinga} Really? You’ll take me to Crawford so we can look?
+273)  LEE
+{normald} [sighs]
+274)  CLEMENTINE
+[disappointed/upset] {thinkingb}I knew you didn’t really mean it.
+275)  LEE
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
+488)  LEE
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
+489)  LEE
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
+495)  LEE
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
+276)  CLEMENTINE
+[sobbing]
+501)  CLEMENTINE
+[sobbing]
+502)  CLEMENTINE
+[sobbing]
+503)  CLEMENTINE
+[sobbing]
+504)  CLEMENTINE
+[sobbing]
+505)  CLEMENTINE
+[sobbing]
+277)  LEE
+[trying to comfort her] {sadb} Hey, there... sssshhhh. It’s okay. It’s okay. Don’t cry.
+278)  LEE
+{normald} I’d like to, Clem. But I don’t think we’ll have time. {thinkinga} We really shouldn't stay here any longer. It's not safe.
+279)  LEE
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
+283)  LEE
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
+287)  LEE
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
+289)  LEE
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
+280)  CLEMENTINE
+Why not? The others wouldn't leave without us.
+281)  LEE
+The longer we stay here, the more dangerous it is. Our best chance is to get on that boat as soon as we can.
+282)  CLEMENTINE
+{sada} But they’re in Crawford somewhere! They have to be!
+490)  CLEMENTINE
+{sada} But they’re in Crawford somewhere! They have to be!
+494)  CLEMENTINE
+{sada} But they’re in Crawford somewhere! They have to be!
+284)  LEE
+{normald} We can’t, {sada} Clem. I’m sorry.
+285)  CLEMENTINE
+[upset] Why not? They’re in Crawford, I know it! They have to be!
+286)  CLEMENTINE
+Well... can we or not?
+288)  CLEMENTINE
+Well... can we or not?
+290)  LEE
+[more urgently] Clementine? Where are you?
+291)  LEE
+[a little worried] Clementine?
+292)  LEE
+[groggily] Clementine...?
+293)  
+Clem? Is that you?
+294)  
+[Open the door]
+295)  
+Come out slowly or I'll shoot!
+296)  
+There wasn't time.
+297)  
+No, we didn't.
+298)  
+What happened here?
+301)  CHRISTA
+Clementine, where's Omid?
+305)  CHRISTA
+Clementine, where's Omid?
+303)  
+Wait
+306)  CLEMENTINE
+One of those things tried to get upstairs. I stopped it. But what about my--
+307)  CLEMENTINE
+One of those things tried to get upstairs. I stopped it. But what about my--
+308)  CLEMENTINE
+One of those things tried to get upstairs. I stopped it. But what about my--
+309)  
+[Change the Subject]
+310)  LEE
+Hey, what do you say we go check on Omid?
+311)  LEE
+Hey, what do you say we go check on Omid?`
+312)  CHRISTA
+[calling out, panicked] Lee, get up here!
+313)  
+Christa, stay away from him!
+315)  
+Is he dead?
+317)  
+Thanks a lot.
+318)  
+Not in front of Clementine.
+319)  
+She'll understand.
+322)  
+You should come with us.
+323)  
+That might be for the best.
+324)  
+So that's it, then?
+325)  
+I don't know.
+327)  
+Someplace else.
+328)  LEE
+{normald} Someplace else. Someplace better.
+330)  
+Don't cry.
+331)  
+I'm sorry.
+332)  
+[Reach Out]
+333)  LEE
+{angrya} Whoever you are... come out slowly {angryb} or I'll shoot you right through the door.
+334)  KENNY
+{angrya} I'm gonna open it. Be ready.
+335)  KENNY
+{angrya} I'm gonna open it. Be ready.
+336)  LEE
+No, we didn't. I'm sorry sweet pea. I looked for them, but... no.
+342)  LEE
+Clem, stay back. Don't get any closer.
+345)  LEE
+[warily] Hold on... Is he... dead?
+361)  LEE
+Yeah, I did what I had to. But I don't expect Clementine to understand that. Hell, I don't WAN'T her to understand it.
+362)  KENNY
+What's eating you?
+363)  LEE
+Nice going, asshole.
+364)  KENNY
+You did the right thing. Trust me, she'll understand.
+367)  KENNY
+You did the right thing. Trust me, she'll understand.
+368)  KENNY
+She's gonna have to, if she's gonna make it long-term in this world the way it is now. No easy decisions any more.
+369)  LEE
+She'll be okay. I know it's tough on her now, but she'll understand. I did what I had to. She WILL understand... right?
+375)  LEE
+Man, I hope so.
+380)  KENNY
+Dumb son of a bitch went and got himself killed. That's what happened.
+381)  VERNON
+You couldn't save that boy back in Crawford. When it mattered most, you couldn't save him. What's going to happen to Clementine, when the time comes that it matters most for her?
+386)  MOLLY
+{sada} [getting a little emotional] Listen, I’m not much for goodbyes, {sada} tell the others for me?
+394)  MOLLY
+{sada} [getting a little emotional] Listen, I’m not much for goodbyes, {sada} tell the others for me?
+407)  MOLLY
+{sada} [getting a little emotional] Listen, I’m not much for goodbyes, {sada} tell the others for me?
+387)  LEE
+{normald} That might be for the best. The boat's gonna be crowded as it is. {thinkinga} And you kinda strike me as more of a {thinkingb} go-it-alone type.
+396)  MOLLY
+{happyb} Yeah, I've always had a hard time relying on other people. {happyc} Although I've gotta admit, you've given me a reason to rethink that.
+397)  LEE
+{thinkinga} So that's it? After all we've been through {thinkingb} you're just gonna leave?
+398)  MOLLY
+{disbeliefc} Yeah. I figure you don't owe me anything. I got what I wanted in Crawford. {happyc} And I never did like the water.
+399)  LEE
+{normald} Where will you go?
+400)  MOLLY
+{thinkinga} I don't know. I'll figure it out when I get there.
+409)  MOLLY
+{thinkinga} Well, don't go getting all mushy on me. So long Lee. {disbeliefb} And good luck. You're gonna need it.
+410)  MOLLY
+{thinkinga} Well, don't go getting all mushy on me. So long Lee. {disbeliefb} And good luck. You're gonna need it.
+411)  MOLLY
+{disbeliefc} Tell them whatever you want. {sada} I'm not real big on goodbyes.
+412)  LEE
+{normalb} What am I supposed to tell the others?
+413)  MOLLY
+[bittersweet] {happya} Tell Clementine she's going to be okay. {happyc} You've got a good one there. She reminds me of me.
+414)  LEE
+{happyc} Hey sweet pea.
+415)  CLEMENTINE
+Kenny's working on the boat.
+416)  LEE
+{normala} I know.
+417)  CLEMENTINE
+{sada} What are we going to do? After he fixes it? Where will we go?
+418)  LEE
+{normalb} You and me, we're going to go our own way. Just like we agreed. {thinkinga} We don't need anyone else. It's gonna be just the two of us.
+419)  LEE
+We'll go wherever Kenny says. He's a good captain and he knows the waters down south. He'll know where to take us.
+420)  CLEMENTINE
+[disheartened] {sada} So you don't know either?
+421)  CLEMENTINE
+[disheartened] {sada} So you don't know either?
+425)  LEE
+{normald} I know, sweet pea. {sada} I did too. {thinkinga} But we have to look forward, not back.
+428)  LEE
+I tried, sweet pea. I really did. And maybe I could have done more. I just don't know.
+429)  CLEMENTINE
+So why didn't you help him?
+439)  
+Clem, did you check on him?
+440)  
+Clementine, stay back.
+441)  
+We're going to split off.
+442)  
+Wherever Kenny says.
+443)  
+I'm sorry about Brie.
+444)  
+Thank you for your help.
+445)  
+So you'll be going?
+463)  LEE
+Hey, I wanted to thank you for all you've done for us.
+464)  VERNON
+[hostile]Save your platitudes for someone who's buying it.
+466)  VERNON
+You're welcome. I'm glad Brie will have died for something meaningful.
+467)  VERNON
+[philosophical] You want to know the worst part?
+469)  VERNON
+[philosophical] You want to know the worst part?
+475)  VERNON
+[philosophical] You want to know the worst part?
+471)  LEE
+So you'll be returning to your group now?
+472)  VERNON
+[hostile]Yes, but not before I give you a piece of my mind.
+474)  VERNON
+Yes. I'll be hard to break the news about Brie. They all really grew to care for her.
+478)  LEE
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
+481)  LEE
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
+508)  LEE
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
+515)  LEE
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
+479)  LEE
+{normald} But I had to think about the whole group, not just one person.
+480)  LEE
+{normald} But I had to think about the whole group, not just one person.
+491)  CLEMENTINE
+I don't think they
+493)  CLEMENTINE
+I don't think they
+492)  LEE
+I don't think they are, sweet pea. Your parents were good people, and Crawford was a bad place. I don't think they would have stayed there very long. Maybe they're still out there somewhere, but... we don't even know where to start looking.
+496)  AANIM
+sk54_action_leeWakesUpWorried.chore
+520)  LEE
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him.
+521)  
+He didn't want me to save him.
+522)  
+I tried...

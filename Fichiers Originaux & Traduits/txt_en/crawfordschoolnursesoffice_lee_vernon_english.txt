@@ -1,0 +1,56 @@
+1)  LEE
+How's it coming?
+2)  VERNON
+Not well. Did you get that battery yet?
+3)  LEE
+We did, but Molly took off with it. She said she'd be back, but I don't know what's going on with her.
+4)  LEE
+Workin' on it.
+5)  LEE
+{normalD}Hey Vernon?
+6)  LEE
+{normalD}How's it coming?
+7)  VERNON
+{thinkingA}Slow. Too slow. I'm worried that by the time we manage to get this thing open, it may be too late.
+8)  LEE
+{happyA}I'll go see if I can find something that'll help us get that safe open.
+9)  VERNON
+{thinkingA}Look, we don't have time to just sit around. We need to get this safe open.
+10)  
+Bye.
+11)  LEE
+{happyA}Molly helped me get the battery we needed.
+12)  VERNON
+{thinkingA}Took off... with the battery?
+13)  VERNON
+{happyA}That's great, one down. Where is she?
+14)  VERNON
+{thinkingA}I hope so. That girl doesn't really strike me as a team player. More the mercenary kind.
+15)  LEE
+{thinkingA}She took off, had some kind of errand she needed to run.
+16)  LEE
+{normalD}Yeah. Don't worry, {thinkingA}she'll be back.
+17)  LEE
+{fearA}How much time do you think Omid has, doc?
+18)  VERNON
+{sadB}You want my medical opinion? {thinkingA}The sooner we get him some strong antibiotics to start fighting that infection, the better. Let's just leave it at that.
+19)  LEE
+{happyA}Hey doc, I just wanted to thank you for coming with us, and for all your help. I really appreciate it.
+24)  LEE
+{happyA}Hey doc, I just wanted to thank you for coming with us, and for all your help. I really appreciate it.
+20)  VERNON
+[grumpily] {angryA}Don't thank me. I'm not doing this for you, I'm doing it for my people. {thinkingA}They need this medicine as badly as your friend does.
+21)  LEE
+Hey doc, I just wanted to thank you for coming with us, and for all your help. I really appreciate it.
+22)  VERNON
+{happyB}Don't mention it. It's times like these we've got to help each other the most, right? {angryA}Or we're no better than those Crawford sons-of-bitches.
+23)  LEE
+{happyA}I heard that.
+25)  VERNON
+{happyA}Good idea.
+26)  
+About Molly...
+27)  
+About Omid...
+28)  
+Thank you for coming with us.

@@ -1,0 +1,164 @@
+1)  LEE
+{normala}	Hey, you need any help with that?
+2)  BEN
+{normala}Thanks, I got it. Just once I’d like to do something useful, you know?
+3)  
+That’d make a nice change.
+4)  BEN
+[pickup][slightly angry, insulted]{sade}	Wow, no need to agree with me quite so much. {thinkingb}Thanks for the vote of confidence.
+5)  
+You’re plenty useful.
+6)  BEN
+{disgusta}	Ha! Yeah, right. Seems like all I ever do is get us into trouble.
+7)  LEE
+{normala}Well... I’ll let you get on with it.
+32)  LEE
+{normala}Well... I’ll let you get on with it.
+33)  LEE
+{normala}Well... I’ll let you get on with it.
+8)  BEN
+[pickup] {sadc}	[quietly]No, wait. There is something you can help me with. Something that’s been on my mind, I could use your opinion.
+9)  LEE
+{thinkinga}What is it?
+10)  BEN
+[pickup] {sadc}	[quietly]It’s Kenny. Since I’ve been helping him work on the boat, I’ve gotten to know him a little better.{sadd} He’s a good guy, you know? And it’s eating me up, knowing what I know. I’ve been thinking about telling him the truth.
+11)  BEN
+[pickup] {Sadd}It’s my fault Duck and Katjaa got killed.  If I hadn’t screwed up back at the Motor Inn, they’d still be alive. {fearb}How am I supposed to just carry something like that around? I have to tell him.
+12)  LEE
+{disgustb}Ben, c'mon on. This again?
+13)  
+Are you fucking NUTS?
+14)  
+You should tell him.
+15)  LEE
+{disgusta}[quietly]Ben. No offense, but have you lost your motherfucking mind? Kenny’s barely hanging on, you tell him you’re to blame... I don’t even want to think what he might do.
+16)  BEN
+[pickup] {feara}[quietly]I know. I’ve thought about that. But I don’t know how much longer I can keep looking him in the eye. {sadc} I feel like I’m lying to him by not telling him.
+17)  LEE
+{angrya}[quietly]I’m telling you, man, it’s a bad idea. Real, real bad.
+18)  BEN
+[pickup] {angrya}[quietly]Hey, maybe you’re okay walking around with somebody’s blood on your hands but that’s not who I am!{angryb} I can’t just pretend it never happened.
+19)  BEN
+{sadd}	[quietly]Sorry. I don’t know why I said that.
+20)  LEE
+{sadb}[quietly]It’s all right. Look, we need Kenny. We need him to hold his shit together if we’re ever going to get out of here, so you need to keep this to yourself. {angryb}For the good of everyone. You hear me?
+21)  BEN
+{sadd}[quietly]Yeah, I hear you. That’s some good advice. See? I almost fucked up yet again. {sadc}[despondent] Thanks, Lee. I’m gonna get back to this.
+74)  BEN
+{sadd}[quietly]Yeah, I hear you. That’s some good advice. See? I almost fucked up yet again. {sadc}[despondent] Thanks, Lee. I’m gonna get back to this.
+75)  BEN
+{sadd}[quietly]Yeah, I hear you. That’s some good advice. See? I almost fucked up yet again. {sadc}[despondent] Thanks, Lee. I’m gonna get back to this.
+22)  LEE
+{sada}[quietly]I agree, I think you should tell him. Just not now.
+23)  BEN
+{sadd}[quietly]You don’t understand, Lee. Every day I’m around him it eats away at me a little more.{feara} He still talks about Duck and Katjaa all the time, and I’m supposed to just nod and pretend like it wasn’t my fault? {feara}I can’t do it any more.
+36)  BEN
+{sadd}[quietly]You don’t understand, Lee. Every day I’m around him it eats away at me a little more.{feara} He still talks about Duck and Katjaa all the time, and I’m supposed to just nod and pretend like it wasn’t my fault? {feara}I can’t do it any more.
+41)  BEN
+{sadd}[quietly]You don’t understand, Lee. Every day I’m around him it eats away at me a little more.{feara} He still talks about Duck and Katjaa all the time, and I’m supposed to just nod and pretend like it wasn’t my fault? {feara}I can’t do it any more.
+24)  LEE
+{angrya}[quietly]Ben, listen. Kenny seems like he’s got his shit back together because right now he’s got a purpose, but he is still in a real bad place. {angryb}You tell him now, he’s going to lose it. And then we’re all screwed. There’ll come a time when he’s ready to hear it. But it’s not now, not yet.
+37)  LEE
+{angrya}[quietly]Ben, listen. Kenny seems like he’s got his shit back together because right now he’s got a purpose, but he is still in a real bad place. {angryb}You tell him now, he’s going to lose it. And then we’re all screwed. There’ll come a time when he’s ready to hear it. But it’s not now, not yet.
+25)  BEN
+{sadb}[quietly]Yeah, I hear you. That’s some good advice. See? I almost fucked up yet again. [despondent]{sadc} Thanks, Lee. I’m gonna get back to this.
+38)  BEN
+{sadb}[quietly]Yeah, I hear you. That’s some good advice. See? I almost fucked up yet again. [despondent]{sadc} Thanks, Lee. I’m gonna get back to this.
+43)  BEN
+{sadb}[quietly]Yeah, I hear you. That’s some good advice. See? I almost fucked up yet again. [despondent]{sadc} Thanks, Lee. I’m gonna get back to this.
+26)  LEE
+{disgusta}	That'd make a nice change of pace.
+27)  LEE
+{happya}You're plenty useful.
+28)  
+Okay, I'll let you get to it.
+30)  
+Okay, I'll let you get to it.
+29)  LEE
+Alright, well, I'll let you get to it.
+31)  BEN
+Yeah, I know what you're thinking.
+34)  
+Tell him later.
+35)  LEE
+Can't you wait until we get back to the house?
+39)  
+I don't have time for this.
+40)  LEE
+{disgusta}	Look Ben, I really don't have time for this.
+42)  LEE
+{angrya}There’ll come a time when he’s ready to hear it. But it’s not now, not yet.
+44)  BEN
+{feara}[hurt] Oh, hey, I get it. You have a lot on your mind right now. Forget I said anything. {sadc} I'll just get back to it.
+45)  BEN
+{feara}[hurt] Oh, hey, I get it. You have a lot on your mind right now. Forget I said anything. {sadc} I'll just get back to it.
+46)  BEN
+{Disgusta}	Thanks for the vote of confidence.
+47)  BEN
+Thanks for the vote of confidence.
+48)  BEN
+{normala}	How are we doing?
+49)  LEE
+{normala}	Pretty good. We got the fuel, now we just need the meds and the battery.
+50)  BEN
+{normala}	How's our progress?
+51)  LEE
+{normala}Not bad. We just need the fuel and the meds now.
+52)  BEN
+How are we doing so far?
+53)  LEE
+Not too bad. We got the medicine, now we need a battery and some fuel.
+54)  LEE
+{normala}Looking real good. We already got the medicine and the battery, once we find some fuel we can get out of here.
+55)  BEN
+{normala}	How are things looking?
+56)  BEN
+{normala}What do we still need?
+57)  LEE
+{normala}We already got the fuel and the battery, once we find some medicine we'll be good to go.
+58)  LEE
+Looking real good. All we need now is a battery.
+59)  BEN
+What's our status?
+60)  BEN
+{normala}Slowly but surely.
+61)  LEE
+{normala}	How are things going with that door?
+62)  BEN
+Don't worry, we'll get it open. I think.
+63)  LEE
+How are you guys doing with that door?
+64)  KENNY
+Slower than I'd like.
+65)  BEN
+{normala}So where's the battery?
+66)  BEN
+{disgustb}	Well I hope she brings it back. {sade}There's something about that girl I don't entirely trust.
+67)  LEE
+{thinkinga}	Molly has it, she ran off to do something.
+72)  LEE
+{thinkinga}	Molly has it, she ran off to do something.
+68)  LEE
+{disgusta}	Trust's a hard thing to come by these days.
+69)  KENNY
+{disgusta}	So where's this battery you found?
+70)  KENNY
+{angryb}	Hmph. Yeah, but what has she done for me lately?
+71)  LEE
+{disgusta}She saved your life, didn't she?
+73)  KENNY
+{angrya}Well she'd better bring it back here. I dunno why you trusted that girl with it, we hardly know her.
+76)  LEE
+[pickup] Look, we need Kenny. We need him to hold his shit together if we’re ever going to get out of here, so you need to keep this to yourself. {angryb}For the good of everyone. You hear me?
+77)  BEN
+[pickup] I hear you. I'm gonna get back to this.
+79)  BEN
+[pickup] I hear you. I'm gonna get back to this.
+81)  BEN
+[pickup] I hear you. I'm gonna get back to this.
+78)  BEN
+[pickup] You don't get it, Lee. What am I supposed to do whenever he talks about Katjaa and Duck? Just nod and pretend like it wasn't my fault? I can't do it any more.
+80)  BEN
+[pickup] You don't get it, Lee. What am I supposed to do whenever he talks about Katjaa and Duck? Just nod and pretend like it wasn't my fault? I can't do it any more.
+82)  BEN
+[pickup] I guess you've got your own problems. Look, don't worry about it. I'll figure it out. I'm gonna get back to this.

@@ -1,0 +1,172 @@
+1)  MOLLY
+{thinkingA}Take a look around. I'll make sure no stragglers get under this door.
+2)  LEE
+[lookat]{normalD}It’s locked, no way in.
+3)  LEE
+[lookat]{angryA}More of Crawford’s rules. How did anybody live like this? {thinkingB}I’d rather take my chances on the outside.
+4)  LEE
+[lookat]{happyA}Good chance of a working battery being in that car... {thinkingA}if I can find a way to get up there.
+5)  
+Look At
+9)  
+Look At
+59)  
+Look At
+81)  
+Look At
+6)  
+Search
+7)  LEE
+[lookat]{sadA}I can't reach it up there.
+8)  LEE
+[lookat]{sadA}No power.
+10)  LEE
+[lookat]{thinkingB}Looks like it's the hose for the lift hydraulics.
+11)  
+Pry
+12)  LEE
+[lookat]{sadA}Don't think I can pry that hose apart with just my hands. {thinkingA}Maybe if I had something to cut it with.
+13)  MOLLY
+I’ll take that. Might come in handy.
+14)  LEE
+[lookat]Empty.
+15)  LEE
+[lookat]{thinkingB}That blinking. Must be an anti-theft system.
+16)  
+Puncture
+17)  LEE
+[worrie] {fearC}Whoa, whoa, whoa!
+18)  MOLLY
+[shouting over the wailing arm] {fearB}That’s probably not good!
+19)  LEE
+{angryC}No shit!
+20)  LEE
+{happyA}That did it!
+21)  MOLLY
+{fearB}I'll try to hold 'em off! Hurry!
+22)  MOLLY
+{fearC}I don’t think this door is gonna keep them out for long. Do something!
+23)  LEE
+{thinkingA}There’s the battery! Finally something goes right!
+24)  MOLLY
+{angryC}Whatever you’re doing over there, do it fast!
+25)  
+Turn left
+29)  
+Turn left
+26)  
+Turn right
+31)  
+Turn right
+27)  LEE
+[panicking] That's just tightening it!
+32)  LEE
+[panicking] That's just tightening it!
+28)  LEE
+[urgent]{happyA}It's off!
+30)  LEE
+[urgent]{happyA}It's off!
+33)  LEE
+[urgent]{thinkingA}Got that one off!
+34)  LEE
+[pickup][urgent]{fearA}It's still attached to the terminals!
+35)  LEE
+[pickup][urgent]{fearA}It's still attached to the terminals!
+36)  LEE
+[urgent]{fearA}The negative terminal's still screwed on!
+37)  LEE
+[urgent]{fearA}The negative terminal's still screwed on!
+38)  LEE
+[urgent]{fearA}The positive terminal's still bolted on!
+39)  MOLLY
+{angryA}Okay, follow me.
+40)  MOLLY
+{angryB}Move your ass!
+41)  MOLLY
+{fearB}Put it in here, I’ll carry it!
+42)  LEE
+{happyA}Got it!
+43)  MOLLY
+{fearC}Yeah, but we still got a problem here.
+44)  LEE
+[lookat]{thinkingA}Looks like Crawford had their own semi trucks.
+45)  MOLLY
+{fearB}Skylight.
+46)  LEE
+[alarmed]{fearC}Great. Now what?
+47)  
+Grab
+48)  MOLLY
+{angryA}Shoot it out!
+49)  LEE
+{fearB}It's shut!
+50)  
+Shoot
+51)  MOLLY
+Come on, what are you, chicken? Jump!
+52)  LEE
+Okay, so now we’re on a roof.
+53)  MOLLY
+Do you ever stop complaining? Come on.
+54)  LEE
+I don’t know, man...
+55)  MOLLY
+Oh, brother. Hold on.
+56)  MOLLY
+Think you can handle that?
+57)  MOLLY
+[out of breath] You really are a pussy, aren’t you?
+58)  
+Open
+60)  LEE
+{thinkingA}Maybe there's a car battery in there we can use for the boat.
+61)  MOLLY
+[sarcastic]{disgustA}Perfect.
+62)  LEE
+{thinkingB}Well I can see where the battery SHOULD be. {angryA}But it's not.
+63)  LEE
+{angryA}Looks like Crawford already used this battery for something else.
+64)  LEE
+[frantic] {fearD}MOLLY!
+65)  
+Car
+66)  
+Hydraulic Hose
+67)  
+Lift Panel
+68)  
+Backpack
+69)  
+Semi Truck
+70)  
+Truck Hood
+71)  
+Battery
+72)  
+Positive Terminal
+73)  
+Negative Terminal
+74)  
+Unscrew
+75)  
+Skylight
+76)  
+Detach
+77)  
+Climb
+78)  
+Warning Sign
+84)  
+Warning Sign
+79)  LEE
+[pickup][to himself]{angryA}Crawford didn't mess around.
+80)  MOLLY
+[pickup]{angryA}What, you thought I was kidding before?
+82)  
+Use
+83)  LEE
+[pickup]{thinkingA}It's the panel that controls the hydraulic lift over there.
+85)  
+Office Door
+86)  
+Hand

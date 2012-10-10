@@ -1,0 +1,174 @@
+1)  LEE
+[dismayed] {NormalD} You’re not serious.
+2)  LEE
+{HappyA} Nice.
+3)  LEE
+What’ve you got there?
+4)  KENNY
+{HappyA} Check out what I found in the garage. {NormalC} Hatchet, hacksaw, some other tools. {ThinkingA} Might come in handy on this little break-in.
+5)  LEE
+{ThinkingA} So?
+6)  LEE
+{NormalB} What’s up?
+7)  KENNY
+{ThinkingA} Can I talk to you a minute?
+8)  KENNY
+{NormalC} I took another look at the boat. She’s a 30-footer.
+9)  LEE
+[counting] {ThinkingB} Me, you, Clem, Christa, Omid, Ben, Molly...
+10)  KENNY
+{AngryA} So we’re gonna have a capacity problem. {ThinkingA} Boat that size ain’t gonna hold more than five people, even with one of them a kid.
+11)  KENNY
+{NormalC} Assuming everyone makes it back alive, that’s still one too many, even if we cut Molly loose. {ThinkingA} Before this is over we’re gonna have to make a decision.
+12)  MOLLY
+{NormalA} Then what are we waiting for? Let’s get moving.
+13)  LEE
+{ThinkingA} Help us how?
+14)  KENNY
+{AngryA} Who the hell is this?
+15)  KENNY
+{NormalC} Look, I’m just saying, if we want the best chance of-
+16)  VERNON
+{ThinkingA} This is Brie, she can help us.
+17)  VERNON
+{NormalB} With her help we’re in and out faster. {AngryA} Anyone have a problem with that?
+59)  VERNON
+{NormalB} With her help we’re in and out faster. {AngryA} Anyone have a problem with that?
+62)  VERNON
+{NormalB} With her help we’re in and out faster. {AngryA} Anyone have a problem with that?
+83)  VERNON
+{NormalB} With her help we’re in and out faster. {AngryA} Anyone have a problem with that?
+18)  BRIE
+{NormalC} I was a student at the school where Crawford keeps their supplies. I know the layout.
+61)  BRIE
+{NormalC} I was a student at the school where Crawford keeps their supplies. I know the layout.
+65)  BRIE
+{NormalC} I was a student at the school where Crawford keeps their supplies. I know the layout.
+80)  BRIE
+{NormalC} I was a student at the school where Crawford keeps their supplies. I know the layout.
+82)  BRIE
+{NormalC} I was a student at the school where Crawford keeps their supplies. I know the layout.
+19)  LEE
+{ThinkingB} I guess not.
+58)  LEE
+{ThinkingB} I guess not.
+64)  LEE
+{ThinkingB} I guess not.
+84)  LEE
+{ThinkingB} I guess not.
+20)  LEE
+{Body-F}{NormalD} You understand why you have to stay behind, don’t you?
+21)  LEE
+{NormalC} Hold up just a sec.
+43)  LEE
+{NormalC} Hold up just a sec.
+22)  LEE
+Plus, you have a job to do. {HappyA} An important job.{NormalC} I need you to stay here and watch over the house, watch over Omid.
+23)  CLEMENTINE
+[despondent] {SadA} I guess.
+24)  CLEMENTINE
+{FearB} What should I do, if something happens while you’re gone?
+25)  
+[Give her a gun]
+26)  
+[Tell her to run and hide]
+27)  LEE
+It’s okay, take it.
+28)  LEE
+{Body-F}{NormalC} Here, I want you to take this.
+29)  CLEMENTINE
+{FearB} I remember.
+30)  LEE
+{NormalB} You remember how to use it, don’t you? {HappyA} It’s just like I showed you.
+31)  LEE
+So if anyone tries to get inside the house that isn’t one of us...{NormalD}  or if something does happen to Omid...
+32)  CLEMENTINE
+[grim]{AngryA}  I know what to do.
+33)  LEE
+Hey. Don’t worry. Everything’s going to be okay.
+40)  LEE
+Hey. Don’t worry. Everything’s going to be okay.
+34)  LEE
+Let’s get you inside.
+35)  LEE
+[resolute] Let’s get this over with.
+36)  LEE
+[deadly serious]{NormalB} One other thing. {NormalD} If Omid gets worse while we’re away... {NormalC} if he tries to hurt you... {NormalD} you know what to do, right?
+37)  LEE
+Good girl.
+38)  LEE
+{Body-F}{NormalD} If that happens - if you see or hear anyone outside trying to get in, {NormalC} I want you to find a place to hide and stay there. {NormalD} And don’t come out until I get back.{ThinkingA}  Do you understand?
+39)  CLEMENTINE
+{NormalC} Find a place to hide and stay there.
+41)  LEE
+{Body-F}{NormalB} Let’s get you inside.
+42)  LEE
+[resolute] {NormalC} Let’s get this over with.
+44)  LEE
+{Body-F} {NormalD} You ready?
+45)  CLEMENTINE
+[determined]{HappyA} Ready.
+46)  LEE
+{Body-F} {ThinkingA} I'm not leaving her alone in this house with only Omid to protect her. {NormalC} Just not happening.
+47)  VERNON
+{AngryA} Did you not hear anything I said about the kind of place Crawford is? {ThinkingA} If you take her in there and they find her-
+48)  LEE
+{Body-F} {ThinkingA} This isn’t up for a debate, Vernon. {NormalC} Decision’s made.
+49)  MOLLY
+{NormalA} For what it’s worth, {ThinkingA} I don’t think it’s a great idea either.
+73)  MOLLY
+{NormalA} For what it’s worth, {ThinkingA} I don’t think it’s a great idea either.
+50)  LEE
+{Body-F} This little girl's not just excess baggage. She's gotten us out of a tight spot more than once.
+51)  KENNY
+{NormalC} You heard the man. Let’s move out.
+52)  
+How?
+53)  
+The more the better.
+55)  
+The more the better.
+54)  LEE
+The more the better, I guess.
+56)  
+We don't need her.
+60)  CHRISTA
+{ThinkingA} Help us? How?
+63)  CHRISTA
+{ThinkingA} Help us? How?
+66)  
+It'll be okay.
+67)  
+If we don't come back...
+68)  
+If Omid turns...
+69)  VERNON
+{AngryA} Whoa, hold on a minute. You’re not taking her with us.
+70)  
+I can't leave her with Omid.
+71)  
+This isn't up for debate.
+72)  
+She can help.
+74)  LEE
+[insistant] {NormalB} She's coming. {NormalC} Deal with it.
+75)  LEE
+[insistant] {NormalB} She's coming. {NormalC} Deal with it.
+85)  LEE
+[insistant] {NormalB} She's coming. {NormalC} Deal with it.
+76)  KENNY
+{NormalC} So we're going to have a {NormalB} capacity problem. Assuming everyone makes it back alive, {NormalC}there ain't gonna be room for everyone.
+77)  LEE
+{ThinkingB} What are you trying to say?
+78)  KENNY
+{NormalB} Just giving you a heads-up, is all. {NormalC} Thought you oughta know.
+79)  LEE
+{NormalB} Good, we're gonna need all the help we can get.
+81)  LEE
+We don't need her. She's just going to slow us down.
+86)  CLEMENTINE
+[determined]{NormalC} I can help. I've been helpful lots of times before.
+87)  VERNON
+{ThinkingA} I hope you know what you're doing.
+88)  KENNY
+{NormalC} You heard the lady. Let’s move out.

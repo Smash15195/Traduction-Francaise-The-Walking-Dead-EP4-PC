@@ -1,0 +1,314 @@
+1)  CLEMENTINE
+Can’t I just hold it?
+2)  LEE
+No.
+3)  CLEMENTINE
+Just for a little while? We’re getting real close to where my mom and dad are, maybe I can-
+4)  LEE
+I already told you no. Don’t ask me again, okay?
+5)  CHRISTA
+What’s the harm in letting her have it? It doesn’t even work.
+6)  LEE
+You take care of yours, let me take care of mine.
+7)  CHRISTA
+[sarcastic/offended] Sorry I spoke.
+8)  CHRISTA
+His leg’s pretty bad.
+9)  OMID
+I’m fine.
+10)  CHRISTA
+You’re not fine, you need to rest. [to Lee] He needs to rest.
+11)  
+We need to keep moving.
+12)  LEE
+It’s not safe to stop out here in the open, we need to keep moving. He can rest after we find a boat and get out on the water.
+13)  CHRISTA
+I don’t know how much longer he can keep on like this. If his leg gets any worse we’re going to have to carry him.
+14)  KENNY
+Or leave him.
+15)  CHRISTA
+What? No, that’s not an option. We can’t-
+16)  KENNY
+Lady, I’ve known you for all of 12 hours - you don’t get to say “we”, unless you mean just you and him.
+17)  CHRISTA
+You know, since this all started, I’ve seen the best come out of a lot of people, and the worst come out of a lot of others. I guess we know which side you came down on.
+18)  KENNY
+There you go again, “we”. There is no “we” - there’s “us” and there’s you and your boyfriend slowing “us” down.
+19)  CHRISTA
+Go to hell, Kenny.
+20)  KENNY
+Ha! You taken a look around lately? It ain’t that long a trip.
+21)  
+Kenny, how much farther?
+22)  LEE
+Kenny, how much farther to the river front?
+134)  LEE
+Kenny, how much farther to the river front?
+23)  KENNY
+Should be just a few more blocks up ahead.
+135)  KENNY
+Should be just a few more blocks up ahead.
+24)  CHRISTA
+And there’ll be boats there?
+136)  CHRISTA
+And there’ll be boats there?
+25)  LEE
+There sure as hell better be.
+137)  LEE
+There sure as hell better be.
+26)  KENNY
+[determined/mantra] There’ll be boats. Have to be. Have to be.
+138)  KENNY
+[determined/mantra] There’ll be boats. Have to be. Have to be.
+27)  BEN
+It’s going to be okay. Kenny knows what he’s doing.
+139)  BEN
+It’s going to be okay. Kenny knows what he’s doing.
+28)  
+You’re right, let’s stop.
+29)  CHRISTA
+I said Omid needs to rest! Guys, can we stop for one minute?
+147)  CHRISTA
+I said Omid needs to rest! Guys, can we stop for one minute?
+30)  KENNY
+You can rest all you want once we get out on the water.
+148)  KENNY
+You can rest all you want once we get out on the water.
+31)  CHRISTA
+I’m telling you, he can’t keep going like this.
+149)  CHRISTA
+I’m telling you, he can’t keep going like this.
+32)  LEE
+Come on, I’ll help you.
+150)  LEE
+Come on, I’ll help you.
+33)  LEE
+Yeah, you’re right. Kenny, hold up.
+140)  LEE
+Yeah, you’re right. Kenny, hold up.
+34)  KENNY
+You hold up. I’m headed to the river and getting on a boat.
+141)  KENNY
+You hold up. I’m headed to the river and getting on a boat.
+35)  LEE
+Kenny, goddammit! I said hold up!
+142)  LEE
+Kenny, goddammit! I said hold up!
+36)  KENNY
+Shout a little louder and wake the dead, why don’t ya?
+143)  KENNY
+Shout a little louder and wake the dead, why don’t ya?
+37)  LEE
+Omid needs to take a break, let’s give him a minute.
+144)  LEE
+Omid needs to take a break, let’s give him a minute.
+38)  KENNY
+We’re almost at the river, almost to the boats.
+145)  KENNY
+We’re almost at the river, almost to the boats.
+39)  LEE
+Then it won’t hurt to stop for just one damn minute.
+146)  LEE
+Then it won’t hurt to stop for just one damn minute.
+40)  
+She’s right, we’re a group.
+41)  
+Kenny’s right, we can’t slow down.
+42)  
+I’ll help carry him.
+43)  LEE
+Christa’s right, we’ve all got to look out for each other.
+151)  LEE
+Christa’s right, we’ve all got to look out for each other.
+44)  KENNY
+I’m just saying, I’m getting to those boats. You can keep up, or not.
+154)  KENNY
+I’m just saying, I’m getting to those boats. You can keep up, or not.
+45)  LEE
+[sighs]How much farther?
+152)  LEE
+[sighs]How much farther?
+46)  KENNY
+Should be just a few more blocks to the river front.
+153)  KENNY
+Should be just a few more blocks to the river front.
+47)  LEE
+Christa, Kenny’s right. The longer we stay out in the open the more dangerous it is for all of us.
+48)  CHRISTA
+I’m not leaving him!
+49)  LEE
+No-one’s asking you to. We just gotta keep moving. All of us.
+50)  CLEMENTINE
+Lee, can’t you help him? His leg looks really bad.
+51)  LEE
+Yeah, you’re right. Omid, here, give me your arm.
+52)  LEE
+You need some help with him?
+53)  CHRISTA
+Yeah, that’d be great. Thanks.
+54)  LEE
+Omid, here, give me your arm.
+55)  CHRISTA
+[sarcastic] Thanks a lot for the support.
+56)  BEN
+[to himself]What the hell...?
+57)  CHRISTA
+Maybe this city’s not so dead after all...
+58)  KENNY
+Keep moving. No-one’s ringing that bell, it’s automatic, on a timer.
+59)  LEE
+What kind of church bell goes off at twenty past the hour?
+60)  LEE
+[alarmed]Someone’s up there.
+61)  BEN
+Are you sure? I don’t see anything.
+62)  LEE
+I know what I saw. I’m telling you, there’s someone up in that bell tower! Someone alive!
+63)  RADIO VOICE
+[radio processing]If I were you, I’d get out of the street. Now.
+64)  CHRISTA
+I thought you said that thing didn’t work!
+65)  
+Who the hell is this?!
+66)  
+Are you in the tower?
+67)  LEE
+Hello?
+68)  OMID
+What the hell was that? Is someone trying to fuck with us?
+69)  BEN
+Sounded more like a warning.
+70)  LEE
+[aggressive] Who the hell is this?
+71)  LEE
+[urgent] Hello? Hello?
+72)  LEE
+Who is this? Is that you up in the bell tower?
+73)  OMID
+Y’know... "Hello" might have been a place to start.
+74)  CHUCK
+Ask not for whom the bell tolls...
+75)  
+Oh, shit.
+77)  LEE
+Oh, shit.
+76)  
+Oh, fuck.
+78)  LEE
+Oh, fuck.
+79)  KENNY
+Goddamit. RUN! Follow me!
+87)  KENNY
+Goddamit. RUN! Follow me!
+89)  KENNY
+Goddamit. RUN! Follow me!
+80)  LEE
+Clem!
+81)  KENNY
+Move your asses! River Street’s right up ahead!
+82)  BEN
+That’s not all...
+83)  KENNY
+Oh, gimme a fucking break!
+84)  LEE
+How’s Omid?
+85)  
+No. Don't ask me again.
+86)  
+RUN!!!
+88)  LEE
+[shouting]Everybody, RUN!!!
+90)  
+Bash
+112)  
+Bash
+119)  
+Bash
+91)  
+Shoot
+111)  
+Shoot
+92)  
+Stomp
+93)  LEE
+Not now, Clementine. Maybe later, okay?
+94)  CLEMENTINE
+[disappointed] Okay.
+95)  CLEMENTINE
+Okay. Sorry.
+96)  LEE
+Not now, I need you to focus. Keep your attention on the street.
+97)  LEE
+Hello? Are you there?!
+98)  OMID
+What the hell is going on? Who was that?
+99)  KENNY
+What're you yammerin' on about?
+100)  CHUCK
+Get her the hell out of here! I'll catch up with ya!
+101)  OMID
+Shit! He's in trouble, we gotta help him!
+102)  CHRISTA
+Wait, where the hell's Chuck?
+103)  LEE
+Thanks, man!
+104)  KENNY
+There's no time! We've gotta go, now!
+105)  
+I need you to focus.
+106)  LEE
+[calling out]Hey! Hey you up there!
+107)  CHRISTA
+[hushed]Dammit Lee, keep quiet! You're gonna--
+108)  LEE
+Maybe. Or maybe I'm just getting a little punchy, you know? I'm--
+109)  LEE
+[calling out]Kenny!
+110)  KENNY
+[struggle, angry]Grrrhhh!
+113)  KENNY
+[out of breath]Little too close, don't ya think?
+114)  KENNY
+[out of breath]Little too close, don't ya think?
+118)  KENNY
+[out of breath]Little too close, don't ya think?
+115)  CLEMENTINE
+[panicked, calling out off screen]Lee!
+116)  LEE
+[frantic]No!
+117)  
+Push
+120)  LEE
+[calling out, frantic]No! Noo--
+121)  CLEMENTINE
+[getting killed]Ahhhh!
+125)  CLEMENTINE
+[getting killed]Ahhhh!
+126)  CLEMENTINE
+[getting killed]Ahhhh!
+122)  CLEMENTINE
+[afraid]Ahh!
+123)  LEE
+[calling out, panicked]No!
+124)  CHUCK
+It tolls for thee...
+127)  
+I know what I saw.
+128)  
+Hey you up there!
+129)  
+I don't know.
+130)  LEE
+[pickup]It’s not safe to stop out here in the open, we need to keep moving. He can rest after we find a boat and get out on the water.
+131)  LEE
+[pickup] [pissed] Goddammit!
+132)  LEE
+[pickup] [calling out] Ben! Help her!
+133)  LEE
+[pickup][urgent]I said answer me!
+155)  CLEMENTINE
+[pickup2][panicked, calling off screen]Ben!
+156)  CLEMENTINE
+[pickup2][frantic breathing sounds]
+157)  CHUCK
+[pickup3]I'll be fine! Just go!

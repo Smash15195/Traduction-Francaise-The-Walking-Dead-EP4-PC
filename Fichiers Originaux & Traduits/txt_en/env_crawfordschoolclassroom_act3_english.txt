@@ -1,0 +1,362 @@
+1)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+128)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+131)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+133)  VERNON
+Before, everyone in Crawford was smart and they had guns. Now they’re dumb and they don’t. Hey, trying to look on the bright side here.
+2)  LEE
+I don’t think so. I think we’re good, for now at least.
+3)  LEE
+[incredulous] What? How the fuck is this good?
+4)  MOLLY
+Same thing that always happens, I guess. In the end, the dead always win.
+5)  CHRISTA
+No. You wanna do a headcount? Or do you want to get what we need and get the hell out of here?
+6)  BEN
+I got a bad feeling about this.
+7)  CHRISTA
+What the hell happened here? I thought this place was supposed to be secure!
+8)  VERNON
+No, this is good.
+9)  KENNY
+Fuck. Fuck! Do you think they saw us?
+110)  KENNY
+Fuck. Fuck! Do you think they saw us?
+10)  BEN
+The plan hasn’t changed? Every time walkers show up the plan changes! Do you even have any idea how many of them are out there?
+11)  BEN
+Oh man, we are screwed, we are so screwed...
+12)  KENNY
+I agree. So long as we don’t let ‘em box us in, we can still do this. The plan hasn’t changed.
+13)  BRIE
+Come on, I think I know which way to head.
+14)  MOLLY
+Just keep moving.
+15)  LEE
+Looks okay. Everybody in.
+16)  BRIE
+Here.
+17)  CHRISTA
+{angrya}[impatient]What about the medicine?
+146)  CHRISTA
+{angrya}[impatient]What about the medicine?
+18)  CHRISTA
+{normala}	I’ll go for the medicine.
+19)  KENNY
+{angrya}No, two people’s enough. You stay here, see if you can use any of those tools we brought to get that armory door open. {normalb}We might need to shoot our way out of here.
+20)  MOLLY
+{angrya}Okay, so now what? Where do we start looking?
+21)  BRIE
+{normala}Here.
+22)  LEE
+{disgusta}Figures.
+23)  BEN
+{happya}	I’ll come too.
+24)  LEE
+{normalc}Okay, we’ve got a plan. Everyone be careful, stay close to one another, we’ll all meet back here. {normala}Good luck.
+25)  KENNY
+{thinkinga}Looks like they were using this room as some kind of command center.
+26)  MOLLY
+{feara}[caught off-guard] Just makes sense, doesn’t it?
+27)  CHRISTA
+{disgusta}How do you know that?
+28)  BRIE
+{normala}There’s a maintenance shed across from the playground here, if they were storing fuel that’s probably where it’ll be.
+29)  MOLLY
+{normala}Right here. Nurse’s station, they were using it as a medical facility.
+30)  KENNY
+{angrya}Okay, I’ll make the run to the maintenance shed for the fuel.
+31)  BRIE
+{normala}Yup, it’s called Herman’s you can’t miss it.
+32)  LEE
+{thinkinga}So then we just need a battery. [pointing at the map] {normala}This auto shop, it’s right next door?
+33)  VERNON
+I’ll come with you, I know what to take.
+34)  BRIE
+{normala}	It’ll be faster if l go with you, I can take you right to it.
+35)  MOLLY
+{normalA}I’ll go with you, watch your back.
+36)  CLEMENTINE
+{thinkinga}Can’t I come with you?
+37)  CLEMENTINE
+{sadb}Okay.
+38)  LEE
+{happya}You don’t want to leave Ben here on his own, do you? He’s going to be working on that door so he needs someone to watch his back. {normala}That’s you.
+39)  LEE
+{Happya}I need you to stay here with Ben and watch over our command center.  {normala}I’m putting you in charge of it. Okay?
+40)  CLEMENTINE
+{happya}What about me, what can I do?
+41)  LEE
+{feara}So I want you to take this.
+42)  LEE
+{happya}It’s okay, take it.
+43)  LEE
+{normala}You remember how to use it, don’t you? It’s just like I showed you.
+44)  CLEMENTINE
+{feara}	I remember.
+45)  LEE
+{angrya}So if anyone tries to come inside this room that isn’t one of us...
+46)  CLEMENTINE
+{disgusta}I know.
+47)  LEE
+{happya}Hey. Don’t worry. Everything’s going to be okay.
+48)  LEE
+{happya}Back before you know it.
+49)  LEE
+{normala}[lookat]Looks like they had quite a system here. Crawford’s Final Solution.
+50)  LEE
+{normala}[lookat]So according to Brie, fuel is at the maintenance shed, medicine might be at the nurse's office, and a battery would probably be at the auto shop out through here.
+51)  CLEMENTINE
+{happyc}	You’re back!
+73)  CLEMENTINE
+{happyc}	You’re back!
+52)  LEE
+{happyb} [happily] I said I would be, didn’t I?
+74)  LEE
+{happyb} [happily] I said I would be, didn’t I?
+53)  CLEMENTINE
+{happya}	Did you find a battery?
+75)  CLEMENTINE
+{happya}	Did you find a battery?
+54)  LEE
+{happya}	Sure did. Molly has it.
+76)  LEE
+{happya}	Sure did. Molly has it.
+55)  CLEMENTINE
+{happyb}	Cool! {normala}[concerned] Where is she?
+77)  CLEMENTINE
+{happyb}	Cool! {normala}[concerned] Where is she?
+56)  LEE
+{happya}She’s fine, she’ll be back real soon.
+78)  LEE
+{happya}She’s fine, she’ll be back real soon.
+57)  LEE
+{normalc}How’s that door coming?
+79)  LEE
+{normalc}How’s that door coming?
+58)  BEN
+{sadb}Slowly.
+80)  BEN
+{sadb}Slowly.
+59)  LEE
+{thinkingb}Did any of the others come back yet?
+81)  LEE
+{thinkingb}Did any of the others come back yet?
+60)  BEN
+{sadb}No, you’re the first. {thinkinga}You might want to go check on them, see if they need any help.
+82)  BEN
+{sadb}No, you’re the first. {thinkinga}You might want to go check on them, see if they need any help.
+61)  LEE
+{normala}Sure thing.
+72)  LEE
+{normala}Sure thing.
+62)  BEN
+{Happya}Hey, that was fast. How’d you guys do?
+83)  BEN
+{Happya}Hey, that was fast. How’d you guys do?
+63)  LEE
+{normala}Found us a battery.
+84)  LEE
+{normala}Found us a battery.
+64)  BEN
+{happyb}All right! Where is it?
+85)  BEN
+{happyb}All right! Where is it?
+65)  LEE
+{normala}Molly has it.
+86)  LEE
+{normala}Molly has it.
+66)  BEN
+{thinkinga}[looking behind Lee, confused] And... where’s Molly?
+87)  BEN
+{thinkinga}[looking behind Lee, confused] And... where’s Molly?
+67)  LEE
+{disgusta}She headed off on her own to do some damn thing. Girl’s stone-cold crazy. {thinkingb}She said she’d be back. How’s that door coming?
+88)  LEE
+{disgusta}She headed off on her own to do some damn thing. Girl’s stone-cold crazy. {thinkingb}She said she’d be back. How’s that door coming?
+68)  BEN
+Slowly.
+89)  BEN
+Slowly.
+69)  LEE
+Any of the others come back yet?
+90)  LEE
+Any of the others come back yet?
+70)  BEN
+No, you’re the first. You might want to go check on them, see if they need any help.
+91)  BEN
+No, you’re the first. You might want to go check on them, see if they need any help.
+71)  LEE
+Sure thing.
+92)  LEE
+Sure thing.
+93)  CLEMENTINE
+{happyc}You’re back!
+94)  KENNY
+{Happya}Yeah, and we made out pretty good too.
+95)  BEN
+{happyb}Great work, Kenny!
+96)  KENNY
+{Normalb}How’re you doing with that door?
+97)  BEN
+{sadb}Not so good.
+98)  KENNY
+{thinkinga}Here, let me give you a hand.
+99)  KENNY
+{angrya}You get that battery yet?
+100)  LEE
+{normalb}Yeah, Molly has it, she should be back here soon.
+101)  KENNY
+{disgusta}She’d better be.
+102)  LEE
+{sada}No, not yet.
+103)  KENNY
+{disgusta}Well what the hell are you still doing here? Get on it!
+152)  KENNY
+{disgusta}Well what the hell are you still doing here? Get on it!
+104)  BEN
+{happyc}Awesome! Good job, guys.
+105)  BEN
+{happyb}Hey! How’d you guys make out?
+106)  KENNY
+{happya}We got the fuel.
+107)  LEE
+{thinkinga}Any word from Christa and Vernon?
+108)  BEN
+{sade}Nothing. They must still be at the nurse's office.
+109)  LEE
+Then maybe I'd better go check in.
+111)  
+I don't think so.
+112)  
+Definitely
+115)  
+Definitely
+113)  LEE
+[grim]Definitely.
+114)  BEN
+[to himself, scared]Shit.
+118)  BEN
+[to himself, scared]Shit.
+116)  
+No idea.
+119)  
+No idea.
+117)  LEE
+[grim]Your guess is as good as mine.
+120)  KENNY
+[irritated]I'll take that as a "yes" then?
+121)  KENNY
+[irritated]I'll take that as a "yes" then?
+122)  
+How is this good?
+123)  
+He's right.
+124)  LEE
+Vernon's right. Walkers we can deal with easier than armed guards.
+125)  
+We should leave. Now.
+126)  LEE
+It's all over. We should leave this place. Now.
+127)  VERNON
+No, listen to me.
+130)  BEN
+[nervous]Did he just say this is a good thing?
+135)  BEN
+[nervous]Did he just say this is a good thing?
+132)  VERNON
+Look at it this way...
+134)  VERNON
+Look at it this way...
+136)  
+Fuel?
+137)  BRIE
+{thinkinga}[examining the map] Just give me a sec...
+138)  LEE
+{thinkinga}Where can we find some fuel for the boat?
+139)  
+Medicine?
+140)  
+Battery?
+141)  LEE
+{thinkinga}Where would be the best place to look for medicine?
+142)  VERNON
+[pickup]{normala}	[pointing to the map]Maybe at the auto shop? There used to be one in the alley outside the fire escape.
+174)  VERNON
+[pickup]{normala}	[pointing to the map]Maybe at the auto shop? There used to be one in the alley outside the fire escape.
+143)  LEE
+{thinkinga}Any idea where we could find a battery?
+144)  KENNY
+[pickup]{angrya}[impatient] So what about a battery?
+145)  KENNY
+{angrya}[impatient]What about the fuel? Where should I start looking?
+147)  KENNY
+{angrya}[impatient]What about the fuel? Where should I start looking?
+148)  LEE
+{normala}[to Molly]Okay, I guess that leaves me to go find us a battery
+149)  
+Door
+150)  
+Pamphlets
+151)  
+Emergency Exit Sign
+153)  LEE
+[pickup]Nothin' but crayons and construction paper.
+154)  LEE
+[pickup]The Georgia state flag. A lot of history there... not that it matters much now, I guess.
+155)  LEE
+[pickup]Might come back for these later. Any reading material would be nice once we get on that boat.
+156)  LEE
+[pickup]Creepy.
+157)  LEE
+[pickup]No power, no TV.
+158)  LEE
+[pickup]Just a bunch of paste.
+159)  LEE
+[pickup][to himself]Have to wonder what's going on in the rest of the world.
+160)  LEE
+[pickup][sad, nostalgic, looking at hopscotch on the classroom rug reminds him of Duck]Hopscotch...
+161)  
+Rug
+162)  
+Flags
+163)  
+TV
+164)  
+Books
+165)  
+Globe
+166)  
+Paste
+167)  
+Dolls
+168)  
+Shelf
+169)  LEE
+[pickup]I'm not leaving you with Ben. I'm leaving him with you. Understand?
+170)  LEE
+[pickup]I need you to stay here with Ben and watch over our command center. I’m putting you in charge of it. Okay?
+171)  CLEMENTINE
+[pickup][skeptical]You're leaving me with Ben?
+172)  CLEMENTINE
+[pickup][with a wink, hushed]Oh. Okay.
+173)  LEE
+[pickup][to himself]Some kind of indoctrination pamphlet. These people had their shit well organized... until it all went to hell.
+175)  LEE
+[pickup][to himself]Brie said the entrance to the auto shop was in the alleyway by this fire escape.
+176)  LEE
+[pickup][to himself]The fuel's in a shed across from the playground. It's just outside the stairwell.
+177)  LEE
+[pickup][to himself]If we're going to find medicine anywhere, that would be the place to look.
+178)  
+Fire Escape
+179)  
+Door To Playground
+180)  
+Nurse's Office
+181)  HTTP
+//tracker.telltalegames.com/show_bug.cgi?id=88294
+182)  
+School Map

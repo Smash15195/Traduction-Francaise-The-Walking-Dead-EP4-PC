@@ -1,0 +1,590 @@
+1)  KENNY
+[annoyed] {ThinkingA}I'm working on it, {AngryB}I'm working on it!
+2)  KENNY
+{Body-a}{AngryA}Lady, I {AngryB}ain’t the one who’s bleeding.
+3)  LEE
+{Body-B}{AngryA}Just get us inside, {AngryB}I don't care how you do it!
+4)  KENNY
+[irritated at Lee]{Body-A}{AngryB}Maybe you should come up with some ideas, then.
+5)  CHRISTA
+{Body-A}{SadA}Shit, that’s gonna get infected. {SadB}We’ve got to get him inside, clean him up.
+6)  LEE
+{SadA}Kenny? {ThinkingA}How's that door coming?
+7)  LEE
+{Body-B}{FearB}You okay?
+8)  OMID
+[still hurting] {Body-A}{SadB}Ugh... yeah.
+9)  LEE
+[strenuous effort] Uuuurgh!
+10)  OMID
+[painful cry] Aaaaaargh!
+11)  OMID
+[in agony] {Body-A}{AngryC}Gaaaaaaah!
+12)  CHRISTA
+Come on, baby!
+13)  OMID
+I can’t! It’s caught on my damn leg! Aaaaaargh, shit!
+14)  CHRISTA
+{Body-A}{AngryA}You're not all right. {WorriedA}You've re-opened your wound, you're losing blood and {AngryA}God only knows what might've gotten in there. {worriedA}It could be infected, it could be-
+15)  LEE
+{Body-B}{ThinkingA}How’s he looking?
+16)  OMID
+{Body-A}{PainA}I’m all right.
+17)  OMID
+{Body-A}{ThinkingA}No offense but you {HappyA}really need to work on your bedside manner.
+18)  
+It probably looks worse than it is.
+19)  
+She’s right, it looks bad.
+20)  
+We’ll take care of it.
+21)  CHRISTA
+{HappyA}Thanks.
+22)  CHRISTA
+{Body-A}{AngryA}Just get us inside the house, will you?
+23)  OMID
+{Body-A}{PainA}Except when it’s a bite.
+24)  LEE
+{Body-B}{ThinkingA}Try not to worry, {HappyA}it always looks worse than it really is.
+25)  LEE
+{sadA}Yeah, {ThinkingA}well it’s not a bite. {HappyA}We’re gonna get you fixed up.
+26)  CHRISTA
+{ThinkingA}Lee.
+27)  LEE
+{NormalC}I’m on it.
+28)  LEE
+Yeah?
+29)  LEE
+[smiles] {HappyA}No problem.
+30)  CHRISTA
+{Body-A}{AngryA}Please, we {WorriedA}have to get him inside.
+31)  LEE
+{Body-B}{NormalC}Christa’s right, {SadA}it looks pretty bad.
+32)  LEE
+{AngryA}Quit trying to be a tough guy, Omid. {FearA}Hell, I’d be crying like a baby, {NormalD}my leg looked like that.
+33)  OMID
+{Body-A}{HappyA}You’re as bad as she is! {ThinkingA}I’m telling you, it’s just a- [sudden pain] {PainA}Aaaargh! Jesus!
+34)  LEE
+{NormalC}Don’t worry, {ThinkingA}I’m on it.
+35)  LEE
+I’m on it, just sit tight.
+36)  OMID
+{Body-A}{PainA}Okay. {HappyA}Thanks, man.
+37)  LEE
+{Body-B}{NormalD}She’s just worried about you, man. {ThinkingA}Don’t worry, we’re gonna get you fixed up in no time, {HappyA}just as soon as we’re inside. Okay?
+38)  CHRISTA
+[pickup2]{Body-A}{WorriedA}Please go and help Kenny. {AngryA}We need to get him inside NOW!
+39)  OMID
+Hey, I’m not going anywhere.
+40)  CHRISTA
+[pickup2]{Body-A}{ThinkingA}Lee, will you please see what’s happening with getting us inside? {AngryB}We can’t stay out here like this!
+41)  OMID
+{Body-A}{ThinkingA}Okay, you’re not exactly filling me {PainA}with confidence here.
+42)  LEE
+Hey Clem, come away from the gate, okay? It’s not safe.
+43)  CLEMENTINE
+[anxious] {Body-HandOnWrist}{FearA}Do you think the dead people saw us come back here? {FearB}Are they going to find us?
+44)  
+No, they didn’t see us.
+45)  
+I think they did.
+46)  
+Try not to worry.
+47)  
+Wait
+49)  LEE
+{Body-F}{HappyA}No, they didn’t see us. {NormalB}We were too fast for them.
+50)  CLEMENTINE
+{Body-HandOnWrist}{FearB}I can still hear them out there. {Body-HandsOpen}{FearC}It sounds like they’re getting closer.
+51)  LEE
+{ThinkingA}It’s just your imagination.
+52)  CLEMENTINE
+{SadA}I’ll feel safer when we’re inside the house.
+53)  LEE
+{Body-F}{SadA}Yeah, {FearA}I think maybe they did.
+54)  CLEMENTINE
+{Body-HandOnWrist}{FearA}I think so too. {Body-HandsOpen}{ThinkingB}I'm standing guard in case they show up.
+55)  LEE
+{HappyA}You don’t need to do that, {NormalC}we’re going to be safe inside real soon. {ThinkingA}Until then, {HappyA}just stay close to me okay?
+56)  CLEMENTINE
+{HappyA}Okay.
+57)  LEE
+{Body-F}{ThinkingA}Try not to worry. Even if they saw us, {NormalC}they can’t get in here.
+58)  CLEMENTINE
+{Body-HandOnWrist}{ThinkingA}We did. {ThinkingB}Why can’t they?
+59)  LEE
+{HappyA}We’re a lot smarter than they are. {ThinkingA}They’re just like dumb animals, {ThinkingB}they can’t open doors.
+60)  CLEMENTINE
+{Body-HandsOpen}{NormalC}I used to have a pet hamster. {ThinkingB}One night he figured out how to open the door to his cage, {NormalB}and when we woke up he’d eaten half a box of cookies.
+61)  LEE
+{HappyA}I don’t think this is quite the same, Clem.
+62)  CLEMENTINE
+{ThinkingA}Yeah, right. {ThinkingB}This time, {FearB}we’re the cookies.
+63)  LEE
+Just stay {ThinkingA}away from the gate. {NormalC}I’m gonna see about getting us inside the house.
+64)  CLEMENTINE
+{Body-HandOnWrist}{FearB}I guess that’s a {Body-HandsOpen}yes.
+65)  LEE
+{Body-B}{NormalC}How’s it coming? {ThinkingA}We find a way in yet?
+66)  KENNY
+{Body-A}{NormalC}Nah, we’d have heard from ‘em by now, {NormalB}all the racket we’re making. {DisgustA}But whoever was here did a pretty good job fortifying it. {HappyA}Nice place to hole up... {ThinkingA}if we can just figure out how to get in.
+67)  KENNY
+{Body-A}{ThinkingA}All these windows are boarded up good, {AngryA}we ain’t getting in that way.
+68)  BEN
+{Body-A}{ThinkingB}Door’s locked, too. {AngryA}Too heavy to force it.
+69)  LEE
+{Body-B}{ThinkingB}You think maybe someone’s still inside?
+70)  LEE
+{Body-B}{ThinkingB}What’s this? {ThinkingA}Looks like there’s some kind of pet door here.
+296)  LEE
+{Body-B}{ThinkingB}What’s this? {ThinkingA}Looks like there’s some kind of pet door here.
+71)  KENNY
+[accusatory, to Ben] {Body-A}{DisgustA}How the hell did you miss that?
+294)  KENNY
+[accusatory, to Ben] {Body-A}{DisgustA}How the hell did you miss that?
+72)  BEN
+{Body-A} {ThinkingA}I tried it already, that’s locked too.
+297)  BEN
+{Body-A} {ThinkingA}I tried it already, that’s locked too.
+73)  KENNY
+{AngryA}Who the hell ever heard of a locked doggie door?
+295)  KENNY
+{AngryA}Who the hell ever heard of a locked doggie door?
+74)  OMID
+{Body-A}{PainA}I have. {ThinkingA}My neighbor had one just like that. It’s radio-controlled, {NormalB}the dog wears a collar with a chip in it so the door only opens when the dog gets close to it.
+293)  OMID
+{Body-A}{PainA}I have. {ThinkingA}My neighbor had one just like that. It’s radio-controlled, {NormalB}the dog wears a collar with a chip in it so the door only opens when the dog gets close to it.
+75)  KENNY
+{DisgustA}Well, shit. {AngryA}Every day’s a school day.
+292)  KENNY
+{DisgustA}Well, shit. {AngryA}Every day’s a school day.
+76)  BEN
+{NormalB}All right, {NormalC}so... {ThinkingA}where’s the dog?
+77)  LEE
+All we need is the collar...
+78)  LEE
+{Body-B}{NormalC}Empty. {ThinkingA}Yeah, that would {HappyA}have been too easy.
+79)  LEE
+{Body-B}{NormalC}It's empty.
+80)  LEE
+{Body-B}{ThinkingA}A shovel is never not useful.
+81)  LEE
+{Body-B}{DisgustA}Looks like something was buried here.
+82)  CLEMENTINE
+{Body-Stand}{FearB}Are you okay?
+83)  CHRISTA
+{Body-A}{WorriedA}I said I’m fine, okay?
+84)  LEE
+[disgusted]{DisgustB} Aaaagh! Jesus!
+85)  BEN
+[turning away] {Body-A}{FearB}Okay, that is NOT cool.
+86)  CHRISTA
+{Body-A}{SadB}I’m fine, honey.{DisgustA} It’s just the smell.
+87)  OMID
+{Body-A}{FearB}Are you sure you-
+88)  OMID
+{Body-A}{FearA}Hey, be careful. Digging up {ThinkingA}dead things isn’t what it used to be, {FearA}know what I mean?
+286)  OMID
+{Body-A}{FearA}Hey, be careful. Digging up {ThinkingA}dead things isn’t what it used to be, {FearA}know what I mean?
+89)  LEE
+Just do what I {SadA}say, okay?
+90)  BEN
+{Body-A}{DisgustA}Oh God, the smell.
+91)  LEE
+{Body-B}{FearA}Yeah, I hear you.
+287)  LEE
+{Body-B}{FearA}Yeah, I hear you.
+92)  CLEMENTINE
+{Body-Stand}{FearA}What’s buried down there?
+285)  CLEMENTINE
+{Body-Stand}{FearA}What’s buried down there?
+93)  LEE
+{Body-B}{NormalC}Nothing. Clem, {ThinkingA}go over and sit with Christa and Omid, {HappyA}okay?
+94)  CLEMENTINE
+{Body-Stand}{ThinkingA}But I want to-
+95)  LEE
+{Body-B}{ThinkingA}Looks like the collar’s still on it.
+96)  LEE
+{DisgustA}Ugh... I can’t get it off.
+97)  LEE
+{Body-B}{ThinkingA}No way I'm gonna be able to bust through that.
+98)  CLEMENTINE
+{Body-Stand}{HappyC}Ta-da!
+99)  BEN
+{FearB}Be careful, man...
+100)  CHRISTA
+[urgently/worried] {Body-A}{WorriedA}Whatever you’re going to do, do it fast...
+101)  LEE
+{AngryA}Okay, lemme see if I can reach up in there...
+102)  LEE
+[straining] {AngryC}Uugh... it’s no good, {ThinkingA}I can’t get it.
+103)  BEN
+{AngryA}Here, let me try. {ThinkingA}I think I can-
+104)  LEE
+[beside himself] {Body-B}{FearC}Clem! {AngryC}Goddammit, get back here! {FearD}Clementine!
+105)  BEN
+{Body-A}{ThinkingA}You see anything in there?
+106)  LEE
+{Body-B}{normalB}No. {ThinkingA}Looks like it’s been empty a while.
+107)  LEE
+{Body-B}{ThinkingA}Here goes nothing...
+108)  KENNY
+[jubilant] {Body-A}{HappyB}Yes! {HappyC}Goddamn!
+109)  
+Don’t ever do that again!
+110)  
+Good job, Clem!
+111)  
+You should have asked me first.
+112)  LEE
+{AngryB}That’s not the point, that was dangerous and stupid! {FearB}You don’t know what might be in there!
+113)  LEE
+[angry] {Body-B}{AngryC}Don’t ever do {FearB}that again!
+114)  CLEMENTINE
+{Body-Stand}{SadC}I was only trying to help!
+115)  CHRISTA
+{body-A}{AngryB}Little harsh on her, don’t you think?
+116)  OMID
+{Body-A}{FearB}Can we maybe have this conversation inside? {PainA}My leg’s starting to hurt like hell.
+126)  OMID
+{Body-A}{FearB}Can we maybe have this conversation inside? {PainA}My leg’s starting to hurt like hell.
+127)  OMID
+{Body-A}{FearB}Can we maybe have this conversation inside? {PainA}My leg’s starting to hurt like hell.
+117)  KENNY
+{Body-A}{ThinkingA}Looks okay from here, everybody in.
+118)  BEN
+{Body-A}{HappyB}Yeah, way to go.
+119)  LEE
+[impressed] {Body-B}{HappyC}Good job, Clem!
+120)  CLEMENTINE
+{Body-Stand}{HappyB}I did good, right?
+121)  LEE
+{HappyB}Yes you did. {HappyA}You did good.
+122)  LEE
+{Body-B}{HappyA}Good work, Clem. {ThinkingA}But don’t go shooting off like that without asking first, okay?
+123)  CLEMENTINE
+{Body-HandOnWrist}{SadB}I was just trying to help.
+124)  LEE
+{SadA}I know. {HappyA}And you did good. {NormalD}You just had me worried there for a minute.
+125)  CLEMENTINE
+[worried] {Body-Stand}{SadA}What? {Body-HandOnWrist}{DisgustA}Am I in trouble?
+128)  
+Open
+130)  
+Open
+142)  
+Open
+213)  
+Open
+129)  
+Bash
+131)  
+Bash
+133)  
+Bash
+216)  
+Bash
+217)  
+Bash
+218)  
+Bash
+261)  
+Bash
+262)  
+Bash
+132)  
+Look At
+135)  
+Look At
+144)  
+Look At
+197)  
+Look At
+198)  
+Look At
+212)  
+Look At
+215)  
+Look At
+258)  
+Look At
+134)  LEE
+{Body-B}{SadA}Guess this used to be his home.
+136)  
+Pick Up
+199)  
+Pick Up
+214)  
+Pick Up
+137)  LEE
+{Body-B}{SadA}Must've belonged to someone.
+200)  LEE
+{Body-B}{SadA}Must've belonged to someone.
+138)  
+Dig
+139)  OMID
+[quietly wincing from pain] {Body-A}{PainA}Ahhh...
+140)  CHRISTA
+[quietly to Omid]{Body-A}{SadB}Sorry, baby. {WorriedA}We'll get this cleaned up once we get inside.
+141)  KENNY
+[quitely frustrated] {Body-A}{AngryB}God dammit, {angryA}this place is sealed tight.
+143)  
+Unlock
+145)  
+Unlock
+146)  CHRISTA
+[straining]Dammit Lee, you're not helping here!
+147)  CHRISTA
+[pickup2]{Body-A}{AngryA}Won’t be long before those things outside figure out where we went. {FearB}You know they can smell blood!
+148)  
+Just get us inside!
+149)  
+I'll find a way in.
+150)  
+Quit it!
+152)  
+Stay away.
+153)  
+It's been here a while.
+154)  
+I don't know.
+155)  
+Goddammit, get back here!
+156)  
+Are you okay?
+157)  
+What do you see?
+158)  LEE
+[beside himself]{Body-B}{FearC} Clem! {SadB}Are you okay? {FearB}Say something!
+159)  LEE
+[calling out] {Body-B}{FearC}Clem! {FearB}What do you see in there?
+160)  KENNY
+{Body-A}{AngryB}I'll get the door!
+161)  CHRISTA
+[frantic] {AngryA}Well work faster, {AngryB}would you?
+162)  LEE
+{Body-B}{AngryB}Quit it, the pair of you! {DisgustB}You're gonna bring more of 'em down on us! [calming down]{AngryA}I'll see if I can find a way in.
+163)  KENNY
+{Body-A}{AngryB}Lee, instead of just standing there like a goddamned mute, {AngryC}maybe you could give us a hand here!
+164)  LEE
+{Body-B}{NormalC}No way we're gonna force that open. {ThinkingA}Not without making a lot of noise, at least.
+165)  LEE
+{Body-B}{ThinkingB}There's gotta be some way to get in here...
+166)  LEE
+{Body-B}{AngryA}Seems like it's locked from the inside.
+259)  LEE
+{Body-B}{AngryA}Seems like it's locked from the inside.
+167)  LEE
+{Body-B}{DisgustA}Yeah, still locked. {NormalC}Not the best accommodations anyway. {ThinkingA}Probably better to try the house.
+260)  LEE
+{Body-B}{DisgustA}Yeah, still locked. {NormalC}Not the best accommodations anyway. {ThinkingA}Probably better to try the house.
+168)  LEE
+{Body-B}{ThinkingA}Maybe this'll open if we can find some way to cut the power.
+169)  OMID
+{Body-A}{SickA}There's nothing to cut, it runs on its own battery. {ThinkingA}I don't think we can just wait around  for it to run out.
+170)  LEE
+{Body-B}{ThinkingA}This has got to be our way in... {ThinkingB}if we can just figure out how to get it open.
+171)  OMID
+{Body-A}{FearA}Dude, you're not gonna break that thing open. {ThinkingA}All you're gonna do is make a lot of noise {AngryA}we don't need.
+192)  OMID
+{Body-A}{FearA}Dude, you're not gonna break that thing open. {ThinkingA}All you're gonna do is make a lot of noise {AngryA}we don't need.
+193)  OMID
+{Body-A}{FearA}Dude, you're not gonna break that thing open. {ThinkingA}All you're gonna do is make a lot of noise {AngryA}we don't need.
+280)  OMID
+{Body-A}{FearA}Dude, you're not gonna break that thing open. {ThinkingA}All you're gonna do is make a lot of noise {AngryA}we don't need.
+281)  OMID
+{Body-A}{FearA}Dude, you're not gonna break that thing open. {ThinkingA}All you're gonna do is make a lot of noise {AngryA}we don't need.
+282)  OMID
+{Body-A}{FearA}Dude, you're not gonna break that thing open. {ThinkingA}All you're gonna do is make a lot of noise {AngryA}we don't need.
+172)  OMID
+Dude, you're not gonna break that thing open. All you're gonna do is make a lot of noise we don't need.
+173)  OMID
+Dude, you're not gonna break that thing open. All you're gonna do is make a lot of noise we don't need.
+174)  LEE
+{Body-B}{ThinkingA}I can't just keep wailing on this thing, {FearA}makes way too much noise.
+283)  LEE
+{Body-B}{ThinkingA}I can't just keep wailing on this thing, {FearA}makes way too much noise.
+284)  LEE
+{Body-B}{ThinkingA}I can't just keep wailing on this thing, {FearA}makes way too much noise.
+175)  LEE
+{Body-B}{NormalB}Just a dog house.
+176)  LEE
+{Body-B}{ThinkingA}I don't need that any more. {DisgustA}I'm done digging up dead dogs for today.
+177)  LEE
+{Body-B}{DisgustB}Ugh... oof. Stinks like hell.
+219)  LEE
+{Body-B}{DisgustB}Ugh... oof. Stinks like hell.
+178)  LEE
+{Body-B}{ThinkingA}Let me see if I can find us a way in.
+179)  CHRISTA
+{Body-A}{ThinkingA}Clementine, {FearA}honey, come sit with {HappyA}me and Omid, let Lee work.
+194)  CHRISTA
+{Body-A}{ThinkingA}Clementine, {FearA}honey, come sit with {HappyA}me and Omid, let Lee work.
+195)  CHRISTA
+{Body-A}{ThinkingA}Clementine, {FearA}honey, come sit with {HappyA}me and Omid, let Lee work.
+180)  CLEMENTINE
+{Body-Stand}{DisgustA}Ew, I can smell it from here. Gross!
+181)  LEE
+{Body-B}{ThinkingA}Whatever it is,{DisgustA} it's been here a while.
+182)  CHRISTA
+Clementine, honey, come sit with me and Omid, let Lee work.
+184)  CHRISTA
+Clementine, honey, come sit with me and Omid, let Lee work.
+183)  LEE
+{Body-B}{ThinkingA}I don't know yet...
+185)  CHRISTA
+[pickup2]{Body-A}{AngryA}Not great so long as we're stuck out here. {AngryB}Will you please go figure out a way to get us inside?
+186)  LEE
+{Body-B}{ThinkingA}How're you guys doing?
+187)  LEE
+{Body-B}{ThinkingA}Making any progress on that door?
+288)  LEE
+{Body-B}{ThinkingA}Making any progress on that door?
+290)  LEE
+{Body-B}{ThinkingA}Making any progress on that door?
+188)  KENNY
+[irritated] {Body-A}{DisgustA}No. You know this might go quicker if you quit asking {AngryB}and actually lent us a hand.
+289)  KENNY
+[irritated] {Body-A}{DisgustA}No. You know this might go quicker if you quit asking {AngryB}and actually lent us a hand.
+291)  KENNY
+[irritated] {Body-A}{DisgustA}No. You know this might go quicker if you quit asking {AngryB}and actually lent us a hand.
+189)  CLEMENTINE
+{Body-Stand}{SadA}Will we be inside soon?
+190)  CLEMENTINE
+{ThinkingA}I hope {Body-X}so. It's getting cold out here.{Body-Stand}
+191)  LEE
+{Body-B}{HappyA}Yeah, not much longer now.
+196)  
+Shovel
+206)  
+Shovel
+201)  
+Door
+202)  
+House <<id:314589440>>Door
+203)  
+House Door
+204)  
+Pet Door
+205)  
+Dog House
+207)  
+Dirt Mound
+208)  
+Gate
+209)  
+Grave
+210)  
+Shed Door
+211)  LEE
+{Body-B}{ThinkingA}Can't go back out there. {FearB}The streets are still full of walkers.
+220)  KENNY
+[pickup][slight urgency]{Body-A}{ThinkingA}Door's locked up tight. Too heavy to force it without making a whole lot of noise.
+221)  
+Bye.
+253)  
+Bye.
+222)  
+How are you holding up?
+226)  KENNY
+[pickup][distracted, slight urgency]{Body-A}{ThinkingA}Lee, I appreciate the interest, {AngryA}but I don't think talking about my feelings right now is going to help us get inside this house.
+227)  LEE
+[pickup][concern] {Body-B}{SadA}Hey. How're you holding up, man?
+228)  LEE
+[pickup][slight urgency, not casual]{Body-B}{ThinkingA}Think I'll go have a look around.
+229)  KENNY
+[pickup][distracted]{Body-A}{AngryA}Why don't you see if you help Ben or something?
+230)  KENNY
+[pickup]{Body-A}{ThinkingA}Maybe you should have a look around. {AngryA}See what you can find.
+231)  KENNY
+[pickup][slight urgency]{AngryA}Well, if there is, I ain't seeing it.
+232)  LEE
+[pickup][slight urgency]{ThinkingA}Maybe there's a better way in.
+233)  LEE
+[pickup][slight urgency, not casual]Ben?
+234)  
+Think we can get the windows open?
+300)  
+Think we can get the windows open?
+235)  LEE
+[pickup][slight urgency, not casual]{Body-B}{ThinkingA}Think we can get in through one of these windows?
+236)  LEE
+[pickup][slight urgency, not casual]{NormalC}Yeah... looks pretty solid.
+237)  BEN
+[pickup][slight urgency]{Body-A}{ThinkingA}Man, I don't think so. {NormalB}Whoever owned this place had them all barred up.
+238)  
+You alright?
+301)  
+You alright?
+239)  LEE
+[pickup][stern]{Body-B}{ThinkingA}You alright?
+240)  LEE
+[pickup][quietly, we shouldn't be talking about this right now]{AngryA}Ben... {FearA}not now, okay?
+241)  BEN
+[pickup]{Body-A}{ThinkingA}I just keep thinking about... {SadA}you know... [hushed]{SadB}What I did at the motor inn...
+242)  BEN
+[pickup][hushed]{FearB}{Body-A}I know I know... believe me, {FearA}I don't wanna set you off again like I did back there on the train. {SadB}Just know that I'm sorry, okay?
+248)  BEN
+[pickup][hushed]{FearB}{Body-A}I know I know... believe me, {FearA}I don't wanna set you off again like I did back there on the train. {SadB}Just know that I'm sorry, okay?
+243)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}I know, I know. {SadA}You don't wanna talk to me about it. Just... [frustrated]{SadB}forget it.
+249)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}I know, I know. {SadA}You don't wanna talk to me about it. Just... [frustrated]{SadB}forget it.
+244)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}I know... [looks over to Kenny]{SadB}We can talk about this later.
+250)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}I know... [looks over to Kenny]{SadB}We can talk about this later.
+245)  
+About Kenny...
+246)  LEE
+[pickup][hushed, neutral towards Ben]{Body-B}{ThinkingA}How do you think Kenny's holding up?
+247)  BEN
+[pickup][hushed]{Body-A}{SadA}I don't know. {FearA}It's... {ThinkingA}it's like all he can think about is finding a boat. {NormalB}He definitely doesn't want to talk about Katjaa and Duck. {SadA}At least not with me.
+251)  LEE
+[pickup][hushed, very cold]{Body-B}{AngryB}Yeah well, I figure that's probably for the best.
+252)  LEE
+[pickup][hushed]{Body-B}{SadB}Maybe we should just let him deal with it in his own way.
+254)  LEE
+[pickup][slight urgency, not casual]{Body-B}{ThinkingA}I'm gonna go check things out.
+255)  BEN
+[pickup]{Body-A}{ThinkingA}Alright.
+256)  BEN
+[pickup]{Body-A}{ThinkingA}Well... {SadA}I'll keep seeing if I can find a way in.
+257)  
+Barred Windows
+263)  LEE
+[pickup][to himself, realizing the windows are too secure]Damn...
+264)  
+Fountain
+265)  LEE
+[pickup][to himself, seeing some nasty water in a fountain]Not thirsty enough to drink that yet.
+266)  OMID
+[pickup] [in great pain] Aaaargh! (this can probably be the same aaaargh from when he cuts his leg on the gate.)
+267)  CHRISTA
+[pickup] Omid! It's okay honey. Come on, we're almost there.
+268)  CHRISTA
+[pickup] [urgent/worried] Shit, that's gonna get infected. We've got to get him inside, clean him up!
+269)  CHRISTA
+[pickup] [concerned] You've opened up your wound, you're bleeding!
+271)  LEE
+[pickup] [stern, slightly pissed] {Body-B}{ThinkingA}About what happened back there on the street...
+272)  BEN
+[pickup] {Body-A}{SadA}I know. {FearA}I don't know what happened. I just... froze up. {ThinkingA}Hasn't that ever happened to you?
+273)  BEN
+[pickup] {FearB}I hear you.
+274)  LEE
+[pickup] [deadly serious]{AngryA}Just hear what I'm saying to you. {AngryB}You put that girl in danger again, it won't be walkers you have to worry about.
+277)  LEE
+[pickup][slight urgency]{Body-B}{DisgustA}Don't think I wanna start digging up god-knows-what until we find a way into that house first.
+278)  
+Omid and Christa
+279)  
+Dirt Pile
+298)  
+Think anyone is inside?
+299)  
+How's the door coming?
+302)  
+About Clementine...
+303)  
+Carcass

@@ -1,0 +1,654 @@
+1)  
+I need help to find her.
+2)  
+I'll go alone.
+4)  
+Thank you.
+5)  
+Are you sure?
+8)  
+Are you sure?
+6)  
+I don't think that's a good idea
+7)  
+Do whatever you have to.
+9)  
+I understand.
+10)  
+Kenny, I NEED you.
+13)  
+Kenny, I NEED you.
+11)  
+Go fuck yourself.
+14)  
+Go fuck yourself.
+12)  
+Clementine is my family.
+15)  
+Clementine is my family.
+16)  
+Then don't come with us, Kenny.
+17)  
+Kenny, deal with it.
+18)  
+I need Kenny. Ben, you should stay.
+20)  
+Stay here with the boat.
+21)  
+It's up to you.
+22)  
+did Lee vote against Ben in Crawford?
+23)  LEE
+[horrified realization] {SurpriseB}{body-B}Oh no. Oh no, no no no no no no no...
+299)  LEE
+[horrified realization] {SurpriseB}{body-B}Oh no. Oh no, no no no no no no no...
+24)  CHRISTA
+{WorriedA}{body-A}[calling from the yard]Lee? Lee? You out here? Lee?
+300)  CHRISTA
+{WorriedA}{body-A}[calling from the yard]Lee? Lee? You out here? Lee?
+25)  KENNY
+[calling out] What the hell 's going on?
+26)  
+[Hide Bite]
+330)  
+[Hide Bite]
+27)  
+[Show Bite]
+28)  
+Clementine is missing!
+29)  CHRISTA
+{FearB}{Body-A}[cautious/concerned] Whose blood is that?
+31)  LEE
+{SurpriseA}{body-B}[to himself, horrified] Oh god.
+32)  LEE
+[getting bit, struggling]ARRRRRRGGGG!
+33)  CHRISTA
+[calling out] What are you going back there? Is Vernon with you?
+34)  KENNY
+{AngryB}{Body-A}Are you crazy? What are you doing out here, it ain't safe!
+35)  CHRISTA
+Lee? You okay? We thought we heard something.
+36)  LEE
+{FearC}{body-B}[calling out] Clementine? Clementine!
+37)  LEE
+{FearA}{Body-B}Clem-?
+304)  LEE
+{FearA}{Body-B}Clem-?
+38)  KENNY
+[calling out from the yard] What's going on out there?
+39)  OMID
+{FearB}{Body-A}Lee, where's Clementine? She's not in her room!
+40)  CHRISTA
+STUB if the player was silent. Maybe Christa notices the wound and realizes Lee's been bitten. Omid asks where's Clementine. Lee reveals that Clementine is missing. Christa asks where Venon is. Maybe he took her! What should we do?
+41)  OMID
+Lee, your arm. Have you been bitten?
+42)  LEE
+I don't know. I came out here looking for her and found this.
+43)  OMID
+[horror] {DisgustA}{Body-A}It's his. Look at his arm. He's been bitten. {FearA}He's bitten!
+44)  KENNY
+{FearA}{Body-A}Vernon ain't in the house either! {AngryA}What the hell is going on?
+45)  CHRISTA
+{FearB}{Body-A} Oh my God...
+47)  CHRISTA
+{FearB}{Body-A} Oh my God...
+66)  CHRISTA
+{FearB}{Body-A} Oh my God...
+46)  LEE
+{DisgustA}{Body-B}[grim]It's mine.
+64)  LEE
+{DisgustA}{Body-B}[grim]It's mine.
+48)  KENNY
+[denial] {FearA}{Body-A}No way. No fucking way.
+49)  KENNY
+[denial] {FearA}{Body-A}No way. No fucking way.
+68)  KENNY
+[denial] {FearA}{Body-A}No way. No fucking way.
+50)  LEE
+Clementine's been taken. I found her hat and her radio on the ground out there. That's all I found.
+51)  LEE
+{FearA}{Body-B}It's a walker's, fucker jumped me from behind.
+52)  KENNY
+{FearA}{Body-A}So where's Clementine?
+53)  LEE
+[pickup] {FearB}{Body-B}Clementine's gone. I found her hat and her radio on the ground out here. That's all I found.
+54)  KENNY
+{AngryB}{Body-A}Then who the hell took her? Vernon? I knew we couldn't trust that fucker!
+55)  LEE
+[pickup]{AngryA}{Body-B}I don't know. He said that she might be better off with him.  But wherever she is, I have to find her.
+302)  LEE
+[pickup]{AngryA}{Body-B}I don't know. He said that she might be better off with him.  But wherever she is, I have to find her.
+303)  LEE
+[pickup]{AngryA}{Body-B}I don't know. He said that she might be better off with him.  But wherever she is, I have to find her.
+56)  OMID
+{FearA}{Body-A}There's no chance she just wandered off on her own?
+315)  OMID
+{FearA}{Body-A}There's no chance she just wandered off on her own?
+57)  LEE
+{AngryA}{Body-B}No. No way.
+310)  LEE
+{AngryA}{Body-B}No. No way.
+321)  LEE
+{AngryA}{Body-B}No. No way.
+58)  LEE
+[grim determination] {AngryA}{Body-B}There's no time to worry about me. Clementine's gone.
+59)  LEE
+[grim determination] {AngryA}{Body-B}There's no time to worry about me. Clementine's gone.
+60)  CHRISTA
+[dealing with it/focusing]{SadB}{Body-A}Okay. What do you need from us?
+61)  CHRISTA
+[dealing with it/focusing]{SadB}{Body-A}Okay. What do you need from us?
+65)  CHRISTA
+[dealing with it/focusing]{SadB}{Body-A}Okay. What do you need from us?
+318)  CHRISTA
+[dealing with it/focusing]{SadB}{Body-A}Okay. What do you need from us?
+62)  LEE
+But you all should know...
+63)  LEE
+{SadA}{Body-B}There's something you all should know.
+67)  LEE
+[pickup][grim, serious]{SadA}{Body-B}I don't know how much time I've got. I'm gonna need your help to find her. [a beat, pause] {AngryA}Who's with me?
+69)  LEE
+{AngryA}{Body-B}I'm bitten. Walker jumped me while I was out here looking for her.
+70)  LEE
+[pickup][grim, serious]{FearA}{Body-B}Clem may not have much time. We have a better chance of finding her if we all go together. Who's with me?
+71)  LEE
+{AngryA}{Body-B}Clementine's my responsibility. I can't ask any of you to risk your lives over this. This is something I have to do alone.
+72)  OMID
+{AngryA}Damn right. {DisgustA}We can't let you do this alone.
+76)  OMID
+{AngryA}Damn right. {DisgustA}We can't let you do this alone.
+73)  CHRISTA
+{DisgustA}{Body-A}We're all responsible for Clementine. {SadB}She's out there and she needs our help. {AngryA}ALL of our help.
+75)  CHRISTA
+{DisgustA}{Body-A}We're all responsible for Clementine. {SadB}She's out there and she needs our help. {AngryA}ALL of our help.
+74)  KENNY
+{SadA}{Body-A}Sorry partner, no dice. You've had my back every step of the way, no way I'm letting you do this alone. I'm sure Christa and Omid feel the same.
+77)  OMID
+{SadA}{Body-A}Lee, man... are you sure that's how you wanna do this?
+78)  LEE
+{AngryA}{Body-B}I'm sure. This is on me, and no-one else.
+79)  OMID
+{AngryA}Damn straight.
+80)  LEE
+{FearA}{Body-B}I don't know what to do here. I don't know if I can even ask for your help.
+81)  CHRISTA
+{AngryA}{Body-A}Lee, we're a team. That's how we've made it this far. We're not going to just abandon you.
+82)  CHRISTA
+{AngryA}{Body-A}So that's settled then. We'll look for Clementine together.
+89)  CHRISTA
+{AngryA}{Body-A}So that's settled then. We'll look for Clementine together.
+83)  OMID
+{DisgustA}{Body-A}You're not thinking of going after her alone, are you?
+84)  OMID
+{DisgustA}{Body-A}You're not thinking of going after her alone, are you?
+85)  CHRISTA
+{DisgustA}Especially now. {SadA}You've earned that much.
+86)  LEE
+{DisgustA}Even now?
+87)  OMID
+{HappyA}Not to mention Clementine saved my life when you guys were gone. {SadA}I owe that little girl one.
+88)  CHRISTA
+{HappyA}{Body-A}You've been there for me when it's mattered. {WorriedA}How can I not be there for you now?
+90)  CHRISTA
+{WorriedA}{Body-A}Lee, I'm sorry. We can't. It's too risky for us.
+98)  CHRISTA
+{WorriedA}{Body-A}Lee, I'm sorry. We can't. It's too risky for us.
+91)  CHRISTA
+[emphatic, really understanding -- this IS hard for her]{WorriedA}I know. But Lee's asking us to put our trust in him... {SadA}and that's just too hard for me.
+92)  OMID
+{AngryA}{Body-A}Christa, come on...
+93)  CHRISTA
+Lee... I'm sorry. This isn't easy. I know
+94)  CHRISTA
+And you weren't there for him when it mattered. I don't think we can be there for you now.
+95)  CHRISTA
+{AngryA}And I have to put him first. He's not well enough to go off on some rescue mission.
+96)  OMID
+{AngryA}Christa, I'm fine, I can- {AngryB}ow!
+97)  CHRISTA
+{SadA}He's just not up to it, Lee. {SadB}And I'm not leaving him again.
+99)  LEE
+{SadA}{Body-B}Thanks, you guys. I appreciate it. Really.
+100)  OMID
+{HappyA}{Body-A}As opposed to what? Day-to-day life these days?
+101)  LEE
+{SadA}{Body-B}Are you sure about this? It could be dangerous.
+102)  CHRISTA
+{HappyA}{Body-A}We're sure, Lee. Just lead the way.
+103)  OMID
+{AngryA}{Body-A}Screw that, I'm good to go! No way I'm letting you have all the fun.
+104)  LEE
+{SadA}{Body-B}I don't think you two coming is a good idea.{DisgustA} Omid's still recuperating and you need to be taking care of him. {SadA}I can't drag you both off on some rescue mission.
+105)  LEE
+[relenting] {SadA}Okay. Thanks, you guys.
+106)  CHRISTA
+{AngryA}{Body-A}Lee, we want to do this.
+107)  OMID
+[sarcastic] {HappyA}{BOdy-A}Hey, don't mention it.
+108)  OMID
+{AngryA}{Body-A}Hell yeah. What're we waiting for?
+109)  CHRISTA
+[to Lee]{SadA}{Body-A}I really am sorry. I hope you find her. {WorriedA}But you're going to have to do it without us.
+110)  LEE
+[sad resignation] {SadA}{Body-B}I guess you gotta do what you gotta do.
+111)  LEE
+{ThinkingA}{Body-B}Are you sure? {SadA}Guys, I really need your help.
+112)  CHRISTA
+{AngryA}{Body-A}We've made our decision, Lee. I'm sorry.
+113)  CHRISTA
+{WorriedA}{Body-A}This wasn't an easy decision, Lee. I want you to know that.
+115)  CHRISTA
+{WorriedA}{Body-A}This wasn't an easy decision, Lee. I want you to know that.
+114)  LEE
+{SadA}{Body-B}It's okay. I understand.
+116)  KENNY
+{ThinkingA}{Body-A}Lee, man... you know I care about Clementine. And I'm a Christian man. {FearA}But I keep asking myself, if this was me asking you for help, asking you to put your life on the line, would you be there for me?{AngryA} Because there've been plenty of times when you ain't been.
+117)  LEE
+{FearA}{Body-B}Kenny, man. I'm begging you here. I can't do this alone. {SadB}I need your help. Please.
+122)  LEE
+{FearA}{Body-B}Kenny, man. I'm begging you here. I can't do this alone. {SadB}I need your help. Please.
+118)  LEE
+[pissed] {ThinkingA}You know what, Kenny? {AngryA}Go fuck yourself. You're gonna let a little girl die because I didn't have your back every damn minute? {AngryB}Maybe you should grow the fuck up. {AngryA}Do whatever you want, asshole.
+123)  LEE
+[pissed] {ThinkingA}You know what, Kenny? {AngryA}Go fuck yourself. You're gonna let a little girl die because I didn't have your back every damn minute? {AngryB}Maybe you should grow the fuck up. {AngryA}Do whatever you want, asshole.
+119)  KENNY
+[pickup] [pissed but dialed back] {DisgustA}Family? {Angryb}You're gonna talk to ME about FAMILY? {AngryA}You're lucky I don't knock you on your fucking ass right now, you selfish son of a bitch. You can do whatever the fuck you want, but you'll be doing it on your own.
+120)  LEE
+{FearA}{Body-B}Kenny. You know what Clementine means to me. She's my family now. {SadA}She's all I've got.
+124)  LEE
+{FearA}{Body-B}Kenny. You know what Clementine means to me. She's my family now. {SadA}She's all I've got.
+121)  KENNY
+{DisgustA}{Body-A}Well hell, I guess you figured you ain't got much of a leg to stand on.
+125)  KENNY
+[softening] {SadA}Hell... in the end, family's all that matters. {FearA}And you were there for Katjaa and Duck when it mattered most, I guess. {SadA}All right. I'm in.
+126)  KENNY
+{FearA}{Body-A}Lee... I know you think you've always had my back. But all I remember is you taking Lilly's side over mine time and time again. {AngryA}You were never there for me when I needed you. You can't expect me to be there for you now. {SadA}I'm sorry, but that's just how it is.
+127)  KENNY
+[irate] {AngryA}{Body-A}Oh you're gonna break bad with me now? {AngryB}You must have a real short fucking memory! After all the times you took Lilly's side over mine, time and time again, you're gonna make {AngryC}ME the asshole because I don't have your back now? {AngryB}Well FUCK. YOU.
+128)  KENNY
+{FearA}{Body-A}Lee, I know you think you and me might have been on the same page a few times lately. {DisgustA}But the way I see it, you've never really had my back. Right from the beginning, you were never looking out for me and mine. {SadA}Not when it mattered. {AngryA}So pardon me if I'm not bending over backwards to help you and yours now.
+129)  KENNY
+{DisgustA}{Body-A}You might not have been keeping score, Lee, but I have. {AngryA}And you've been looking out for yourself more often than your friends. {DisgustA}Well, maybe that's a good thing. {SadA}Because you're on your own on this one.
+130)  KENNY
+[angry] {AngryA}{Body-A}You might not have been keeping score, Lee, but I sure as hell have! {AngryB}And you've been looking out for yourself more often than your friends - and then you lose your shit when they don't bend over backwards to help you? {Angryc}Well fuck you! {AngryB}You're on your own now. I'll be damned if I'm gonna lift a finger.
+131)  KENNY
+[emotional] {SadB}{Body-A}You've always been there for me, Lee. Always had my back when it mattered. {SadA}What kind of friend would I be if I wasn't there for you now?
+132)  KENNY
+[emotional] {SadB}{Body-A}You've always been there for me, Lee. Always had my back when it mattered. {SadA}What kind of friend would I be if I wasn't there for you now?
+133)  KENNY
+{SadB}You and Clementine are the only family I have left. {SadA}I'm with you to the end.
+134)  KENNY
+{AngryA}Bitten or not, I'm with you to the end. {HappyA}You can count on me.
+135)  KENNY
+{DisgustA}{Body-A}[stern] I don't know why you're looking over here, Lee. {AngryB}Hell, I can't remember the last time you went out on a limb for me - if ever. {DisgustA}And I've got a boat to prep.
+136)  KENNY
+[stone cold] {DisgustA}{Body-A}You might not have been keeping score, Lee, but I have. {AngryA}And you've always looked out for yourself more often than your friends. {AngryB}Well now you're gonna know what that feels like, because I'm gonna look out for myself, {AngryA}and get that boat ready to sail.
+137)  KENNY
+[furious] {AngryB}{Body-A}You might not have been keeping score, you son of a bitch, {AngryC}but I sure as hell have! And you've always looked out for yourself more often than your friends. {AngryB}Well now you're gonna know what that feels like, asshole, because I'm gonna look out for myself, {AngryA}and get that boat ready to sail.
+138)  LEE
+{SadA}{Body-B}What about you, Ben?
+139)  BEN
+{DisgustA}{Body-A}I... I don't know. Whatever you think is best.
+142)  BEN
+{DisgustA}{Body-A}I... I don't know. Whatever you think is best.
+152)  BEN
+{DisgustA}{Body-A}I... I don't know. Whatever you think is best.
+140)  KENNY
+{AngryB}{Body-A}[adamant] Now hold on a damn minute. I'm not going if this little shitbird is too.{AngryA} Lee, you want to bring Clementine back alive you'll leave him behind - {AngryB}he fucks up everything he touches!
+141)  LEE
+[pickup]{AngryA}{Body-B}Deal with it, Kenny. The way I see it, Ben still has a chance to make things right.{ThinkingA} If he wants it. [grim, serious]How about it, Ben?
+143)  LEE
+{AngryA}{Body-B}Kenny, you need to get past this thing between you and Ben. {AngryB}And if you can't, maybe you should stay behind. {AngryA}I don't need that kind of shit right now.
+144)  KENNY
+{AngryB}{Body-A}Oh, so you'd rather trust Clementine's life with this incompetent fuck than with me? {AngryA}Fine. Best of luck.
+145)  LEE
+{SadA}{Body-B}Ben, I'm sorry. {FearA}But I need Kenny on this. Maybe you should stay with the boat.
+146)  BEN
+[resigned] {DisgustA}{Body-A}Okay. Sure.
+147)  KENNY
+{AngryA}{Body-A}Just don't fucking lay a finger on it, y'hear?
+148)  BEN
+{DisgustA}{Body-A}I don't want to cause any trouble. If Kenny doesn't want me to go, I'll stay here.
+149)  BEN
+{DisgustA}{Body-A}I don't want to cause any trouble. If Kenny doesn't want me to go, I'll stay here.
+150)  BEN
+{DisgustA}{Body-A}I don't want to cause any trouble. If Kenny doesn't want me to go, I'll stay here.
+151)  LEE
+[sighs] {SadA}I'm sorry you feel that way. Ben? So what's it going to be?
+153)  LEE
+Clementine needs you Ben.
+154)  
+Clementine stood up for you.
+155)  
+Clementine needs you.
+156)  LEE
+{AngryA}She stood up for you in Crawford when Kenny wanted you gone. {FearA}Don't you think you owe it to her to stand up for her now?
+157)  LEE
+{SadA}{Body-B}Clementine's one of the few good things left in this world.
+160)  LEE
+{SadA}{Body-B}Clementine's one of the few good things left in this world.
+158)  LEE
+Don't you think you owe it to her to stand up for her now?
+159)  LEE
+{SadA}She always had a kind word for you, Ben. {FearA}And she needs you now. Don't you think you owe it to her to help?
+161)  LEE
+[pickup][sad]{SadA}{Body-B}You're a good kid, Ben. You're gonna be okay.
+166)  LEE
+[pickup][sad]{SadA}{Body-B}You're a good kid, Ben. You're gonna be okay.
+173)  LEE
+[pickup][sad]{SadA}{Body-B}You're a good kid, Ben. You're gonna be okay.
+162)  BEN
+{FearA}I want to do this for Clem. [quietly, to Lee] {SadA}But I want to do it for Kenny too. {SadB}I gotta make it right with him.
+163)  BEN
+{SadB}I swear, before this is all over, I'm gonna show you I can do something right. {AngryA}I'll prove it to you, you'll see.
+164)  BEN
+{FearB}{Body-A}You're right. I owe her.
+165)  BEN
+{FearB}{Body-A}You're right. I owe her.
+167)  LEE
+{SadA}Kenny, come on, man...
+168)  KENNY
+{AngryC}No, you made your choice! {AngryB}I'll stay behind and work on the boat.
+169)  LEE
+{FearA}{Body-B}You know I think it'd be best if you stayed behind with the boat. {SadA}Don't worry about me. What's important now is that you get out of here, get to safety.
+170)  BEN
+{SadB}{Body-A}[hurt] I think I could have helped... but I'll do whatever you want me to do.
+171)  BEN
+{DIsgustA}{Body-A}Okay, if that's what you want.
+172)  BEN
+{SadA}Maybe this is for the best. It'll give me a chance to talk to Kenny, {SadB}try to make things right.
+174)  BEN
+{SadC}Somehow, I gotta make it right.
+175)  BEN
+{SadC}Somehow, I gotta make it right.
+176)  LEE
+{SadB}{Body-B}I can't make that decision for you, Ben. {SadA}You have to decide for yourself.
+177)  BEN
+{FearA}{Body-A}I think maybe it's best I stayed behind. I know you don't have a lot of confidence in me. {SadA}That's okay, I understand. {FearA}But you've got enough to worry about with Clementine without me screwing things up.
+178)  BEN
+{FearA}{Body-A}You've been good to me, Lee. Even when it's not been easy. {SadA}Whatever I can do to help, you can count on me.
+179)  BEN
+{SadA}{Body-A}Uh... maybe it's best that I stayed here. {DisgustA}I don't want to go where I'm not wanted.
+180)  BEN
+{SadA}{Body-A}Uh... maybe it's best that I stayed here. {DisgustA}I don't want to go where I'm not wanted.
+181)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+188)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+198)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+205)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+211)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+214)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+219)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+226)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+244)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+249)  LEE
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+282)  KENNY
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+296)  KENNY
+{FearA}{Body-A}If we're not back by nightfall, we're not coming back at all. {SadA}Get the boat out onto open water and don't look back.
+182)  KENNY
+{FearA}{Body-A}What about the boat?
+192)  KENNY
+{FearA}{Body-A}What about the boat?
+231)  KENNY
+{FearA}{Body-A}What about the boat?
+183)  LEE
+{SadA}{Body-B}Guess it's just you and me. We should go find Vernon. See if he took her.
+191)  LEE
+{SadA}{Body-B}Guess it's just you and me. We should go find Vernon. See if he took her.
+228)  LEE
+{SadA}{Body-B}Guess it's just you and me. We should go find Vernon. See if he took her.
+329)  LEE
+{SadA}{Body-B}Guess it's just you and me. We should go find Vernon. See if he took her.
+184)  CHRISTA
+{AngryA}{Body-A}We can take care of it, get it out on the water.
+187)  CHRISTA
+{AngryA}{Body-A}We can take care of it, get it out on the water.
+227)  CHRISTA
+{AngryA}{Body-A}We can take care of it, get it out on the water.
+185)  CHRISTA
+{WorriedA}Good luck.
+190)  CHRISTA
+{WorriedA}Good luck.
+195)  CHRISTA
+{WorriedA}Good luck.
+230)  CHRISTA
+{WorriedA}Good luck.
+186)  OMID
+{SadA}{Body-A}How long do you want us to wait for you?
+189)  OMID
+{SadA}{Body-A}How long do you want us to wait for you?
+229)  OMID
+{SadA}{Body-A}How long do you want us to wait for you?
+193)  OMID
+{SadA}{Body-A}Yeah. To both of you. Bring Clementine back safe.
+194)  CHRISTA
+Good luck.
+196)  LEE
+Okay. Come on kid, let's go.
+197)  KENNY
+Don't expect me to wait too long for you to come back once we get that boat out on the river.
+199)  LEE
+{AngryA}Come on, kid. Let's go.
+206)  LEE
+{AngryA}Come on, kid. Let's go.
+209)  LEE
+{AngryA}Come on, kid. Let's go.
+200)  LEE
+{AngryA}{Body-B}Then I guess that's how it's gotta be.
+257)  LEE
+{AngryA}{Body-B}Then I guess that's how it's gotta be.
+201)  KENNY
+{AngryB}{Body-A}Don't expect me to wait for you. Once we get that boat out on the river, we're gone.
+258)  KENNY
+{AngryB}{Body-A}Don't expect me to wait for you. Once we get that boat out on the river, we're gone.
+202)  KENNY
+[grim] {FearA}{Body-A}Yeah. {SadA}We'll figure out what to do about that when the time comes.
+260)  KENNY
+[grim] {FearA}{Body-A}Yeah. {SadA}We'll figure out what to do about that when the time comes.
+203)  KENNY
+Just make it back, Lee.
+210)  KENNY
+Just make it back, Lee.
+263)  KENNY
+Just make it back, Lee.
+264)  KENNY
+Just make it back, Lee.
+204)  LEE
+{SurpriseA}{Body-B}You're still gonna take me, even bit?
+259)  LEE
+{SurpriseA}{Body-B}You're still gonna take me, even bit?
+207)  KENNY
+{FearA}{Body-A}We'll get the boat out onto the river. Figure we can wait there until you get back. Or at least until nightfall.
+208)  KENNY
+{FearA}{Body-A}We'll get the boat out onto the river. Figure we can wait there until you get back. Or at least until nightfall.
+261)  KENNY
+{FearA}{Body-A}We'll get the boat out onto the river. Figure we can wait there until you get back. Or at least until nightfall.
+265)  KENNY
+{FearA}{Body-A}We'll get the boat out onto the river. Figure we can wait there until you get back. Or at least until nightfall.
+212)  LEE
+{SadA}{Body-B}Guess it's just me and you guys. We should go find Vernon. See if he took her.
+232)  LEE
+{SadA}{Body-B}Guess it's just me and you guys. We should go find Vernon. See if he took her.
+213)  KENNY
+{ThinkingA}{Body-A}I'll get the boat out onto the river. Figure I can wait there until you get back. {DIsgustA}Or at least until nightfall.
+220)  KENNY
+{ThinkingA}{Body-A}I'll get the boat out onto the river. Figure I can wait there until you get back. {DIsgustA}Or at least until nightfall.
+242)  KENNY
+{ThinkingA}{Body-A}I'll get the boat out onto the river. Figure I can wait there until you get back. {DIsgustA}Or at least until nightfall.
+247)  KENNY
+{ThinkingA}{Body-A}I'll get the boat out onto the river. Figure I can wait there until you get back. {DIsgustA}Or at least until nightfall.
+215)  KENNY
+Just make it back.
+224)  KENNY
+Just make it back.
+240)  KENNY
+Just make it back.
+248)  KENNY
+Just make it back.
+216)  LEE
+[pickup][grim, sadness]{AngryA}{Body-B}You're still gonna take me, even bit?
+222)  LEE
+[pickup][grim, sadness]{AngryA}{Body-B}You're still gonna take me, even bit?
+241)  LEE
+[pickup][grim, sadness]{AngryA}{Body-B}You're still gonna take me, even bit?
+245)  LEE
+[pickup][grim, sadness]{AngryA}{Body-B}You're still gonna take me, even bit?
+251)  LEE
+[pickup][grim, sadness]{AngryA}{Body-B}You're still gonna take me, even bit?
+217)  KENNY
+[grim] {SadA}{Body-A}Yeah. We'll figure out what to do about that when the time comes.
+223)  KENNY
+[grim] {SadA}{Body-A}Yeah. We'll figure out what to do about that when the time comes.
+246)  KENNY
+[grim] {SadA}{Body-A}Yeah. We'll figure out what to do about that when the time comes.
+218)  LEE
+{SadA}{Body-B}Come on, guys. Let's go.
+221)  LEE
+{SadA}{Body-B}Come on, guys. Let's go.
+243)  LEE
+{SadA}{Body-B}Come on, guys. Let's go.
+250)  LEE
+{SadA}{Body-B}Come on, guys. Let's go.
+328)  LEE
+{SadA}{Body-B}Come on, guys. Let's go.
+225)  KENNY
+{AngryB}Can't speak for this one. He might not make it to the river.
+233)  LEE
+[pickup][grim determination]{SadA}{Body-B}Okay guys. We should go find Vernon. {AngryA}See if he took her. Let's head out.
+239)  LEE
+[pickup][grim determination]{SadA}{Body-B}Okay guys. We should go find Vernon. {AngryA}See if he took her. Let's head out.
+287)  LEE
+[pickup][grim determination]{SadA}{Body-B}Okay guys. We should go find Vernon. {AngryA}See if he took her. Let's head out.
+234)  KENNY
+{FearA}{Body-A}What about the boat? We're just gonna leave it unguarded?
+288)  KENNY
+{FearA}{Body-A}What about the boat? We're just gonna leave it unguarded?
+235)  CHRISTA
+{WorriedA}{Body-A}If someone was going to take it, they'd have done it already. {AngryA}Besides, what choice do we have?
+289)  CHRISTA
+{WorriedA}{Body-A}If someone was going to take it, they'd have done it already. {AngryA}Besides, what choice do we have?
+236)  OMID
+{FearA}{Body-A}Are we okay leaving just leaving the boat like this, with only Ben to look after it?
+237)  KENNY
+{AngryB}{Body-A}If anything has happened to that boat when we get back I will fucking bury you in that back yard. {AngryC}Are we clear?
+238)  CHRISTA
+{WorriedA}{Body-A}What choice do we have?
+252)  KENNY
+[grim] {AngryA}{Body-A}Guess we'll just have to figure out who else gets left behind.
+253)  LEE
+{FearA}{Body-B}Then I guess that's how it's gotta be. I'll go alone.
+254)  OMID
+{SadA}{Body-A}Yeah, man. Good luck.
+269)  OMID
+{SadA}{Body-A}Yeah, man. Good luck.
+271)  OMID
+{SadA}{Body-A}Yeah, man. Good luck.
+274)  OMID
+{SadA}{Body-A}Yeah, man. Good luck.
+255)  CHRISTA
+{WorriedA}{Body-A}Good luck, Lee. I mean that.
+267)  CHRISTA
+{WorriedA}{Body-A}Good luck, Lee. I mean that.
+272)  CHRISTA
+{WorriedA}{Body-A}Good luck, Lee. I mean that.
+275)  CHRISTA
+{WorriedA}{Body-A}Good luck, Lee. I mean that.
+256)  LEE
+{SadA}{Body-B}Thanks for understanding. It's better this way.
+262)  LEE
+If I'm not back by nightfall, I'm not coming back at all. Get the boat out onto open water and don't look back.
+266)  LEE
+If I'm not back by nightfall, I'm not coming back at all. Get the boat out onto open water and don't look back.
+268)  LEE
+{FearA}{Body-B}You too.
+270)  LEE
+You too.
+273)  LEE
+You too.
+276)  
+You should know I'm bitten.
+277)  
+I don't know what to do.
+278)  KENNY
+{SadA}[sighs]
+279)  KENNY
+{FearA}{Body-A}Lee... I know you had my back when we first teamed up. You really looked out for me and mine. {SadA}But ever since then, you've been looking out for yourself more often than your friends. I'm sorry, but you're on your own on this one.
+280)  KENNY
+[irate] {AngryA}{Body-A}Oh you're gonna break bad with me now? {DisgustA}You might have been looking out for me and my family back when we first teamed up, but ever since then, {AngryA}you've been  thinking about yourself more often than your friends. {DisgustA}You're on your own now, Lee.
+281)  CHRISTA
+{SadB}I hope you understand.
+283)  LEE
+{AngryA}{Body-B}I don't know. But I have to find her.
+285)  LEE
+{AngryA}{Body-B}I don't know. But I have to find her.
+284)  KENNY
+{SurprisedA}{Body-A}Holy shit. And Vernon ain't here anymore. Did he take her?
+286)  KENNY
+{SurprisedA}{Body-A}Holy shit. And Vernon ain't here anymore. Did he take her?
+290)  LEE
+{FearD}[pain]Aggh!
+291)  
+Clementine's Hat
+292)  
+Fence
+293)  
+Stomp
+294)  
+Trash Bins
+295)  
+Walkie Talkie
+297)  KENNY
+[pickup][concerned, but not angry]Now hold on a minute, you're not really thinking about bringing him with us, are you?
+298)  CHRISTA
+[pickup] We're all responsible for Clementine. And in your condition, you may not make it to her in time. She needs our help. ALL of our help.
+301)  CHRISTA
+[pickup]I know. But Lee's asking us to put our trust in him... {SadA}and that's just too hard after he almost left you behind back on the train.
+305)  CHRISTA
+[pickup] Not after how he almost left you behind.
+306)  LEE
+[pickup] Wherever she is, I have to find her.
+313)  LEE
+[pickup] Wherever she is, I have to find her.
+316)  LEE
+[pickup] Wherever she is, I have to find her.
+307)  KENNY
+[pickup] Son of a bitch. I knew we couldn't trust that fucker.
+314)  KENNY
+[pickup] Son of a bitch. I knew we couldn't trust that fucker.
+317)  KENNY
+[pickup] Son of a bitch. I knew we couldn't trust that fucker.
+308)  KENNY
+[pickup] Then who the hell took her?
+311)  KENNY
+[pickup] Then who the hell took her?
+320)  KENNY
+[pickup] Then who the hell took her?
+309)  LEE
+[pickup] I don't know. Last night Vernon came to me and offered to take her with him. Said she'd be better off.
+312)  LEE
+[pickup] I don't know. Last night Vernon came to me and offered to take her with him. Said she'd be better off.
+319)  LEE
+[pickup] I don't know. Last night Vernon came to me and offered to take her with him. Said she'd be better off.
+322)  BEN
+[pickup] [numb] Whatever you think is best.
+323)  BEN
+[pickup] [numb] Whatever you think is best.
+324)  LEE
+[pickup][just discovering he was bitten and didn't notice at first, extreme frustration mixed with shock]FUCK!!!
+325)  LEE
+[pickup2][sobbing, angry]
+326)  LEE
+[pickup2][fighting, then horrifying realization]No... no... oh, fuck.
+327)  KENNY
+{ThinkingA}{Body-A}Lee, man... you know I care about Clementine. And I'm a Christian man. {FearA}But I keep asking myself, if this was me asking you for help, asking you to put your life on the line, would you be there for me?

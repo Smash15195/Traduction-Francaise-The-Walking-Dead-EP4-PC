@@ -1,0 +1,484 @@
+1)  MOLLY
+[guilty/self-conscious] Oh hey. You made it back.
+2)  LEE
+[calling out] Clementine? Clem?
+3)  VERNON
+[suspicious/wary] Who’s this?
+4)  LEE
+Molly?
+5)  MOLLY
+He didn’t tell you about me? Understandable, I guess. I’m the one who put that beating on him when he tried to jump me back at the river. [to Lee] Who’s the fossil?
+6)  MOLLY
+He didn’t tell you about me? I’m the one who saved his ass back at the river. [to Lee] Who’s the fossil?
+7)  MOLLY
+She’s around here somewhere. Relax, I got her and Kenny both back safely. You’re welcome, by the way.
+8)  LEE
+Where’s Clementine?
+86)  LEE
+Where’s Clementine?
+137)  
+Where’s Clementine?
+9)  LEE
+This is Vernon, he’s a doctor, he helped me get back here after we got separated.
+10)  VERNON
+[bitter]Not by choice, I can assure you.
+11)  LEE
+What were you doing?
+139)  
+What were you doing?
+12)  MOLLY
+Just looking. Figured you might have something you’d want to donate as a thank-you for getting your friends back safely.
+13)  VERNON
+{disgustA}[offended] Fossil?!
+14)  VERNON
+{disgustA}[offended] Fossil?!
+15)  CHRISTA
+[pickup][frantic, very worried]Lee. Thank God you're back.
+16)  CHRISTA
+{worrieda}[frantic]It’s Omid. He’s gotten worse. Much worse.
+17)  LEE
+Christa, what’s wrong?
+18)  VERNON
+Is that the wounded man you told me about?
+19)  LEE
+Yeah.
+20)  CHRISTA
+{fearb}Oh thank God!
+141)  CHRISTA
+{fearb}Oh thank God!
+21)  CHRISTA
+{worrieda}Who’s this?
+142)  CHRISTA
+{worrieda}Who’s this?
+22)  LEE
+This is Vernon, he’s a doctor.
+140)  LEE
+This is Vernon, he’s a doctor.
+23)  LEE
+[to Vernon] Could you take a look at him?
+24)  LEE
+[to Vernon] We have a man wounded.
+25)  VERNON
+[to Lee] [urgency]I’ll need to see those medical supplies.
+26)  CHRISTA
+[puzzled] {feara}What medical supplies?
+27)  VERNON
+[sarcastic/skeptical] Well, you just get better and better, don’t you?
+28)  LEE
+[caught in a lie] Sorry, doc. Had to get you on board somehow.
+29)  VERNON
+[urgency]I’ll see what I can do. Take me to him.
+30)  CHRISTA
+[urgency]{worrieda}You have to help us... please?
+31)  VERNON
+[pickup] [urgency]I work better without an audience. Why don’t you go find your little girl?
+32)  VERNON
+[urgency]I work better without an audience. Why don’t you go find Clementine?
+33)  LEE
+[to himself] Clementine... [calling out] Clementine?
+34)  KENNY
+Found it.
+35)  KENNY
+What does it look like?
+36)  KENNY
+[half-drunk] Oh hey. You made it back. Good job. Good job.
+37)  LEE
+Where’d you get the bottle?
+38)  LEE
+Kenny?
+39)  LEE
+Hey, take it easy. I think you’ve had enough.
+40)  LEE
+What the hell do you think you’re doing?
+41)  KENNY
+To hell with you!
+125)  KENNY
+To hell with you!
+42)  LEE
+Getting wasted’s not going to help anyone.
+43)  LEE
+Kenny! Give me the damn bottle!
+44)  KENNY
+Yeah, well, what is? We are fucked!
+45)  LEE
+[to Ben/accusatory] The fuck were you thinking, letting Kenny get like this?
+54)  LEE
+[to Ben/accusatory] The fuck were you thinking, letting Kenny get like this?
+46)  KENNY
+[bitter] You want to help? Ha! Where were you up in that attic? You didn’t do shit for me then, I don’t need you to do shit for me now!
+62)  KENNY
+[bitter] You want to help? Ha! Where were you up in that attic? You didn’t do shit for me then, I don’t need you to do shit for me now!
+47)  KENNY
+[still fuming/drunk] This is the only fucking thing I have left, you want to take that from me too? Well fuck you!
+48)  KENNY
+We’re all fucked anyway. Molly said there’s not a single boat left in Savannah. No way out. If we’re gonna die, at least we can die with our load on.
+49)  BEN
+Whoa, whoa! Simmer down, guys. It’s cool.
+50)  LEE
+Kenny, give me the damn bottle!
+60)  LEE
+Kenny, give me the damn bottle!
+51)  BEN
+Hey man, I tried, but he gave me a look like he was gonna rip my face off. He won’t listen to you, you think he was gonna listen to me?
+52)  KENNY
+Get the fuck away from me!
+55)  KENNY
+Get the fuck away from me!
+124)  KENNY
+Get the fuck away from me!
+53)  LEE
+I’m just trying to help, man. Getting wasted’s not going to help anyone.
+57)  LEE
+I’m just trying to help, man. Getting wasted’s not going to help anyone.
+56)  BEN
+{feara}Hey man, I tried, but he gave me a look like he was gonna rip my face off. {thinkinga}He won’t listen to you, you think he was gonna listen to me?
+58)  BEN
+{fearA}Whoa, whoa! {sadA}Simmer down, guys. It’s cool.
+59)  KENNY
+[still fuming/drunk] This is the only fucking thing I got left, you want to take that from me too? Well fuck you!
+61)  KENNY
+We’re all fucked anyway.
+64)  LEE
+Have either of you seen Clementine?
+65)  KENNY
+Damned if I know. Gotta be around here somewhere.
+66)  BEN
+[pickup][sighs]Whatever.
+134)  BEN
+[pickup][sighs]Whatever.
+67)  LEE
+[pickup] {angrya}[firm]Don't give me that 'whatever' shit. Just tell me where she is NOW.
+133)  LEE
+[pickup] {angrya}[firm]Don't give me that 'whatever' shit. Just tell me where she is NOW.
+68)  BEN
+{sada}I’m sorry, man. When Omid took a turn for the worse, Christa asked me to come help.
+69)  LEE
+{angrya}That’s not good enough.
+70)  LEE
+{angrya}Ben, I gave you one job when I left here - take care of Clementine. Then she shows up out on River Street looking for me? What the hell happened?
+71)  BEN
+I think she’s with that girl who brought her back, Molly. She said something about checking out the attic to look for supplies.
+72)  LEE
+[legitimately pissed]YOU checked it? [under his breath]Oh, great...
+73)  BEN
+I think she went out to play in the backyard.
+74)  BEN
+She’s fine! The yard’s secure, I checked it myself.
+75)  LEE
+[horrified] On her own? With no-one watching her?
+76)  CHRISTA
+[pickup2]We’re fine. Just... leave us alone and let the doctor work.
+77)  LEE
+{normalb}Everything okay in there?
+78)  
+Knock
+79)  LEE
+{normalc}[to himself, worried]No, I need to find Clementine.
+81)  LEE
+[calling up the the attic] Molly, you there?
+82)  LEE
+{thinkinga}What are you doing?
+83)  MOLLY
+{normalA}Oh, you know. Just poking around.
+84)  LEE
+{normalc}You won't find anything, we already searched the place.
+85)  MOLLY
+{normalb}You’d be surprised what people miss. Trust me, I’ve been doing this a while.
+87)  MOLLY
+Don’t ask me, I’m not her keeper.
+88)  LEE
+{normalc}The guys downstairs said she was up here with you.
+89)  MOLLY
+{normala}She was for a while, then she got bored and wandered off. {angrya}Like I said, not her keeper.
+90)  LEE
+{angrya}[very stern] Hey! Do I look like I’m in the mood to be jerked around? Where did she go?
+93)  LEE
+{angrya}[very stern] Hey! Do I look like I’m in the mood to be jerked around? Where did she go?
+91)  MOLLY
+{thinkinga}[sighs, remembering] I think she said something about going to play in the back yard.
+92)  LEE
+{feara}[worried] Shit...
+94)  MOLLY
+{thinkinga}[sighs, remembering] Last I saw, she was downstairs with your redneck friend and that college kid who hangs around with him. Why don’t you go bug them?
+95)  MOLLY
+[callng back down, busy]I told you, that girl isn't with me. Go ask your buddies and quit bothering me!
+101)  MOLLY
+[callng back down, busy]I told you, that girl isn't with me. Go ask your buddies and quit bothering me!
+96)  LEE
+[calling up to the attic] Molly?
+97)  LEE
+[calling up to the attic] Molly?
+100)  LEE
+[calling up to the attic] Molly?
+102)  LEE
+[calling up to the attic] Molly?
+184)  LEE
+[calling up to the attic] Molly?
+98)  MOLLY
+[calling back down, busy]I told you, that girl's not with me! Go check the back yard and quit bothering me!
+103)  MOLLY
+[calling back down, busy]I told you, that girl's not with me! Go check the back yard and quit bothering me!
+99)  LEE
+[calling up]
+104)  LEE
+{angryb}[pissed]How could you just leave her in the backyard?
+105)  KENNY
+{drunkA}[slightly drunk, defeated]Like it matters. We're all fucked, Lee.
+106)  LEE
+{thinkinga}You sure Clementine's up there in the attic with Molly?
+107)  BEN
+{thinkingA}Uh, I think so. {normalA}Yeah, pretty sure.
+108)  LEE
+{normalc}[getting worried, impatient]Look, I just talked to Molly and Clementine's not up there.
+109)  BEN
+{thinkinga}Oh, well, maybe she's in the backyard, then?
+110)  DIR
+It might be nice here if Kenny or Ben could summarize the danger. (Walkers, the voice on the radio, zombies.)
+111)  LEE
+{angrya}[irritated]Thanks.
+112)  LEE
+[mild concern] Clementine? You here?
+113)  LEE
+[medium concern]Clem? Clementine?
+114)  LEE
+[medium concern]Clementine, where are you?
+115)  LEE
+[very concerned]Clementine?
+116)  LEE
+[very concerned]Clementine. Come out, please.
+219)  LEE
+[very concerned]Clementine. Come out, please.
+117)  LEE
+[very concerned] Clementine, where are you?
+118)  LEE
+{normalb}{normalb}[concerned, to himself]Doesn't look like she's in here.
+148)  LEE
+{normalb}{normalb}[concerned, to himself]Doesn't look like she's in here.
+150)  LEE
+{normalb}{normalb}[concerned, to himself]Doesn't look like she's in here.
+225)  LEE
+{normalb}{normalb}[concerned, to himself]Doesn't look like she's in here.
+119)  LEE
+{normalb}[concerned] Clementine, you in here? Where is she?
+149)  LEE
+{normalb}[concerned] Clementine, you in here? Where is she?
+151)  LEE
+{normalb}[concerned] Clementine, you in here? Where is she?
+226)  LEE
+{normalb}[concerned] Clementine, you in here? Where is she?
+120)  
+Kenny, take it easy.
+121)  
+Give me the bottle.
+122)  KENNY
+First good thing that’s happened since...
+123)  
+Ben, you let him drink?!
+126)  
+Ben, you let him drink?!
+127)  KENNY
+{angryA}What the hell you looking at?
+128)  KENNY
+{angryA}What the hell you looking at?
+129)  BEN
+{feara}She was frantic and things got kind of crazy. I told Clementine to stay put, what else could I do?
+130)  
+That's not good enough.
+131)  
+It's okay.
+132)  
+Where IS she?!
+135)  LEE
+{angrya} Ben, how did Clementine sneak out of the house?
+136)  BEN
+Don't be mad at me, Lee.
+138)  
+He’s a doctor.
+143)  LEE
+Kenny, come on. Gimme that.
+144)  KENNY
+Molly said there’s not a single boat left in Savannah. No way out.  We got walkers all around us, that crazy fuck on the radio messing with us... hell, if now ain't the time for a drink...
+145)  KENNY
+Molly said there’s not a single boat left in Savannah. No way out.  We got walkers all around us, that crazy fuck on the radio messing with us... hell, if now ain't the time for a drink...
+146)  LEE
+{normalc}It's okay. I'm not mad at you. I just want to know where she is.
+147)  LEE
+{angryb}[aggressive] Don’t be sorry. Just tell me where the hell she is now.
+152)  
+Bedroom Door
+235)  
+Bedroom Door
+153)  
+Attic Door
+154)  
+Backyard Door
+155)  
+Door
+156)  
+Door
+157)  
+Door
+158)  LEE
+{normalb}[concerned, to himself] I don't have time for that. I need to make sure Clementine is safe in the attic with Molly.
+159)  LEE
+{normalb}[concerned, to himself] No, I need to check with Molly about Clementine.
+160)  LEE
+{normalb}[concerned, to himself]I need to find Clementine.
+163)  LEE
+{normalb}[concerned, to himself]I need to find Clementine.
+167)  LEE
+{normalb}[concerned, to himself]I need to find Clementine.
+170)  LEE
+{normalb}[concerned, to himself]I need to find Clementine.
+161)  LEE
+{normalb}[concerned, to himself] I don't have time for that. I need to make sure Clementine is with Kenny.
+162)  LEE
+{normalb}[concerned, to himself]I don't have time to just look around. I need to make sure Kenny and Ben know where Clem is.
+164)  LEE
+{normalb}[concerned, to himself] Ain't no time for looking around. I need to check the backyard and make sure Clementine is okay.
+165)  LEE
+{normalb}[concerned]I need to be looking for Clementine out back.
+166)  LEE
+{normalb}[concerned]I need to be looking for Clementine out back.
+168)  LEE
+{normalb}[concerned, to himself]I don't care about that. I just wanna find Clementine.
+220)  LEE
+{normalb}[concerned, to himself]I don't care about that. I just wanna find Clementine.
+169)  LEE
+{normalb}[concerned, to himself]No time for messin' around. Where the hell is Clementine?
+171)  LEE
+{normalb}{alias 314630315} [concerned, to himself]I don't have time for this.
+172)  LEE
+{normalb}{alias 314630315} [concerned, to himself]I don't have time for this.
+173)  LEE
+{normalb}{alias 314630315} [concerned, to himself]I don't have time for this.
+174)  LEE
+{normalb}{alias 314630315} [concerned, to himself]I don't have time for this.
+175)  LEE
+{normalb}[concerned, to himself]This is where Clementine came through before.
+176)  LEE
+{normalb}[calling out, worried]Clem? You out there?
+177)  
+Door to Master Bedroom
+178)  
+Door to Study
+179)  LEE
+[pickup][concerned, to himself]Shit, where could she be?
+180)  LEE
+[pickup][calling out, concerned]Clementine? You up there?
+181)  LEE
+[pickup][to himself, concerned]Kenny shut that after we found the boy. Don't think Clementine could get up there on her own.
+182)  
+Door to Bathroom
+183)  LEE
+[pickup][concerned, to himself]Clem?
+185)  LEE
+[pickup]{thinkinga}You sure Clementine's upstairs with Molly?
+186)  BEN
+[pickup]I think she’s with that girl who brought her back, Molly. She said something about checking upstairs for supplies.
+187)  
+Open
+188)  
+Open
+217)  
+Open
+218)  
+Open
+189)  LEE
+[pickup] Clementine?
+193)  LEE
+[pickup] Clementine?
+190)  LEE
+[pickup] Clem? You in here?
+191)  LEE
+[pickup] Clementine? [sighs] Not behind here, either.
+192)  LEE
+Clementine?
+194)  LEE
+[pickup]  Clem?
+195)  LEE
+[pickup]Clementine?
+223)  LEE
+[pickup]Clementine?
+196)  LEE
+[pickup][lookat][Clem's]Not under here.
+197)  LEE
+[pickup] [sigh] [calling out] Clementine?
+198)  
+Clementine's Drawing
+199)  LEE
+[pickup][to himself, urgent]Ain't got time for that.
+200)  LEE
+[pickup][Calling into the room]Hello?
+224)  LEE
+[pickup][Calling into the room]Hello?
+201)  VERNON
+[pickup][urgency]I work better without an audience. I'm sure you have more things of your own to attend to.
+202)  BEN
+[pickup][mustering up some courage]Hey, don't put all that on me. Omid took a turn for the worse and Christa asked me to help. I'm sorry, I'm doing the best I can here.
+203)  BEN
+[pickup][mustering up some courage]Hey, don't put all that on me. Omid took a turn for the worse and Christa asked me to help. I'm sorry, I'm doing the best I can here.
+204)  BEN
+[pickup][defensive of Kenny]Just leave him alone, Lee. He's going through a lot right now. Besides, when I tried to tell him he'd had enough he almost ripped my face off.
+205)  KENNY
+[pickup][slightly drunk]{drunka}You wanna thrown down again like back on the train? 'Cause I fight better when I'm shitfaced.
+206)  VERNON
+[pickup] All right, let's take a look at him...
+207)  OMID
+[sick/weak] Wow. Good going, man.
+208)  CHRISTA
+[pickup] Omid, honey. You're going to be all right. Lee brought a doctor.
+209)  LEE
+[pickup] Sure. I'll let you work.
+210)  LEE
+[pickup] Sure. I'll let you work.
+211)  BEN
+[pickup] Man, will you get off my back? She's fine out there!
+212)  LEE
+[pickup] She'd better be, or it's your ass.
+213)  LEE
+[pickup][to himself, urgent]Don't see her anywhere out there. No walkers either, though.
+214)  LEE
+[pickup][to himself, slight urgency]I'll have time to rest later.
+215)  LEE
+[pickup][to himself, slight urgency]Clem's drawings. But where is she?
+216)  LEE
+[pickup][to himself, slight urgency]Don't see her out there.
+221)  LEE
+[pickup] Guess she's not in here.
+222)  LEE
+[pickup][sighs] No sign of her in here.
+227)  
+Hallway Window
+228)  
+Cabinet
+229)  
+Cabinet
+230)  
+Office Window
+231)  
+Sofa
+232)  MOLLY
+[pickup]I think you have something that belongs to me.
+233)  
+Stove
+234)  
+Oven
+236)  
+Study Door
+237)  
+Bathroom Door
+238)  
+Sink
+239)  
+Boxes
+240)  
+Drawers
+241)  
+Table
+242)  
+Yell To
+243)  
+Look At
+244)  
+Refrigerator

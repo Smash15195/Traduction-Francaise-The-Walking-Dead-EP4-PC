@@ -1,0 +1,592 @@
+1)  LEE
+[worried] Kenny?
+2)  LEE
+Kenny? What's wrong?
+3)  KENNY
+I can do it. I can. Just give me a minute.
+4)  KENNY
+I can do this.
+5)  LEE
+Oh my God.
+6)  KENNY
+Kinda looks like Duck, don’t he?
+7)  LEE
+Kenny, we don’t have a minute.
+8)  KENNY
+[muttering, under his breath] I can...
+9)  KENNY
+[muttering, under his breath] I can do this. I... I can do it.
+10)  LEE
+Kenny?
+11)  LEE
+[softly]Come on, man.
+12)  
+What's wrong with you?!
+13)  LEE
+I'll take care of it.
+185)  
+I'll take care of it.
+14)  LEE
+What the hell do you think happened?
+15)  LEE
+You would have done the same for me. Someone in the group needs help, one of the others steps in. That’s how we stay alive. That’s the only way we stay alive.
+16)  KENNY
+Really? You really have to ask that? What the hell’s wrong with YOU?
+17)  LEE
+Did you? Because you looked like a damn deer in headlights to me. Snap out of it, Kenny! The hell’s wrong with you?
+18)  LEE
+I get what you’re going through. But when the time comes to step up and act, you can’t let that shit get in your head. You hesitate, you’re gonna wind up dead. Or worse.
+19)  KENNY
+Go back downstairs, Ben. We’re done here.
+20)  BEN
+Uh... just wanted to check if you guys were okay.
+21)  KENNY
+[beginning to calm down]Mind must be playing tricks on me. He really did remind me of Duck.
+22)  LEE
+Yeah. Makes me think what might’ve happened to Clem if I hadn’t found her when I did.
+23)  KENNY
+I guess he holed up here, scared to come down. Ran out of food.
+24)  KENNY
+[becoming emotional] We can’t just leave him like this. Duck never got a proper burial. I’ll be damned if this kid doesn’t. He deserves better.
+25)  
+I was trying to help.
+26)  LEE
+….No.
+27)  LEE
+I’m sorry, man. I just... I know what you’re going through. Figured it’d be easier if I spared you the grief.
+28)  KENNY
+Then how about you shut the fuck up and leave me be?
+29)  
+Somebody had to do it.
+30)  LEE
+Somebody had to do it, Kenny. Didn’t look like it was gonna be you.
+31)  KENNY
+[confrontational] I had it. In my own damn time. You think taking an axe to that dead boy was gonna be easy for me? Especially after what I had to do to my own son?
+32)  LEE
+I  know what you're going through. But this world we’re in now, it don’t give a shit. It ain’t gonna give us an inch, no matter how much we might need it to. You let your emotions get in the way next time we’re in a situation, we’re gonna lose you too. And this group can’t afford that.
+33)  KENNY
+Great. That’s just great. You can stomp the kid’s brains out but you can’t tell me why?
+34)  KENNY
+I had it under control until you decided to take over. Why’s it always got to be about you? You think you’re the hero of this story? Because I got news for you. You ain’t.
+35)  LEE
+[rising urgency] Kenny. Now. Now, dammit!
+36)  LEE
+Nobody could have done more than you did to take care of them. I saw that for myself.
+37)  LEE
+It’s okay, man. Let it out. You did what you had to. You did good.
+38)  KENNY
+[distraught] Couldn’t even protect my own son, my own family...
+39)  LEE
+Kenny. It’s all right. It’s done.
+40)  LEE
+Kenny. Come on man, that's enough.
+41)  KENNY
+[like a battle cry] Aaaaaaargh!
+42)  KENNY
+[exertion sounds as he tries to pull out the axe]
+43)  LEE
+Yeah. Just come downstairs when you're ready.
+44)  KENNY
+[emotionally destroyed]You sure?
+45)  KENNY
+[sobbing] Oh God... Duck...
+46)  
+Kill
+47)  
+Command
+48)  KENNY
+What the fuck? I told you I was gonna take care of it!
+49)  KENNY
+[horrified] Jesus, Lee!
+50)  LEE
+[softly encouraging]Go on, Kenny. Do it.
+51)  LEE
+Well after what happened with Duck--
+52)  KENNY
+[confrontational]I just put a bullet in my kid's brain yesterday, for christ's sake!
+53)  KENNY
+[confrontational] Just because I ain't cold enough to put a bullet in my own son's head doesn't mean I can't take care of things now. I just needed one god damned moment.
+54)  KENNY
+[confrontational]That was my son, Lee. I may not be cold enough to put a bullet in my own kid's brain, but that doesn't mean I'm useless.
+55)  KENNY
+Fuck you, Lee. You have no idea what I’m going through. And you sure as shit don’t know anything about grief. Can you even imagine how you’d feel if what happened to Duck had happened to Clem instead?
+56)  KENNY
+[confrontational] Can you imagine having to put a bullet in her head?
+57)  KENNY
+[confrontational] Can you imagine just leaving her there as one of those things?
+58)  KENNY
+[confrontational] Can you imagine just leaving her there as one of those things?
+59)  KENNY
+[confrontational] You think taxing an axe to that dead boy was gonna be easy for me? Especially after what I had to do to my own son?
+60)  KENNY
+[confrontational] Just because I ain't cold enough to put a bullet in my own son's head doesn't mean I can't take care of things now.
+61)  KENNY
+[distraught] And when it came time to do what was right for my son... I just couldn't.
+62)  KENNY
+[distraught] And in the end, I had a put a bullet in my own son's head.
+63)  
+What's wrong?
+64)  
+Ben said you were in trouble.
+65)  
+Need any help?
+66)  KENNY
+Kenny? Ben's worried about you, man. Did you--[trailing off]
+67)  LEE
+Hey, do you need any help up here?
+68)  
+This is how we stay alive.
+69)  
+Get over it.
+72)  
+What happened to him?
+73)  
+Reminds me of Clementine.
+74)  
+Looks like he starved to death.
+75)  
+It's alright, Kenny.
+76)  
+Enough.
+77)  
+God damn,
+78)  LEE
+God damn, Kenny.
+79)  
+You can't blame yourself.
+80)  LEE
+Nobody could have done more than you did to take care of them. I saw that for myself. You can't blame yourself. All the shit that's happened... you just can't.
+81)  
+We should go.
+82)  
+You did what you had to do.
+83)  
+Look At
+84)  
+Bash
+85)  
+Shoot
+86)  
+Stomp
+87)  
+Give gun
+88)  
+Talk to
+89)  
+Don't worry about it.
+90)  
+Kenny's handling it.
+91)  
+You deal with it.
+92)  
+There's a dead boy up there.
+201)  
+There's a dead boy up there.
+93)  
+It's being taken care of.
+214)  
+It's being taken care of.
+94)  
+Don't go up there.
+217)  
+Don't go up there.
+95)  LEE
+{fearA}Kenny?
+179)  LEE
+{fearA}Kenny?
+96)  LEE
+{thinkingB}Kenny? You {fearB}okay, man?
+180)  LEE
+{thinkingB}Kenny? You {fearB}okay, man?
+97)  LEE
+{disgustB}[disgusted] Jesus. What {sadA}the hell is that-?
+181)  LEE
+{disgustB}[disgusted] Jesus. What {sadA}the hell is that-?
+98)  LEE
+[pickup]{sadB}Oh my God.
+182)  LEE
+[pickup]{sadB}Oh my God.
+99)  KENNY
+{sadC}[emotionless/flat/CREEPY] Kinda looks like Duck, don't he?
+183)  KENNY
+{sadC}[emotionless/flat/CREEPY] Kinda looks like Duck, don't he?
+100)  KENNY
+{sadC}We should bury him.
+102)  KENNY
+{sadC}We should bury him.
+104)  KENNY
+{sadC}We should bury him.
+101)  LEE
+{sadB}I'll take care of it.
+103)  LEE
+{sadB}I'll take care of it.
+105)  LEE
+{sadB}I'll take care of it.
+106)  CHRISTA
+{fearA}What's going on? {worriedA}Where's Kenny?
+107)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+111)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+115)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+202)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+209)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+212)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+221)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+228)  LEE
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
+108)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+112)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+116)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+203)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+206)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+213)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+222)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+229)  CHRISTA
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
+109)  LEE
+{normalD}It's okay. {sadB}Kenny's taking care of it.
+117)  LEE
+{normalD}It's okay. {sadB}Kenny's taking care of it.
+204)  LEE
+{normalD}It's okay. {sadB}Kenny's taking care of it.
+210)  LEE
+{normalD}It's okay. {sadB}Kenny's taking care of it.
+110)  CHRISTA
+{angryA}What do you mean he's-
+114)  CHRISTA
+{angryA}What do you mean he's-
+205)  CHRISTA
+{angryA}What do you mean he's-
+208)  CHRISTA
+{angryA}What do you mean he's-
+113)  LEE
+{normalD}It's okay. {sadA}Ben's taking care of it.
+207)  LEE
+{normalD}It's okay. {sadA}Ben's taking care of it.
+118)  CHRISTA
+{sadA}What do you {angryA}mean he's taking care of it?
+211)  CHRISTA
+{sadA}What do you {angryA}mean he's taking care of it?
+119)  LEE
+{angryA}Stay out of it, Christa. {normalD}It's being taken care of.
+216)  LEE
+{angryA}Stay out of it, Christa. {normalD}It's being taken care of.
+120)  CHRISTA
+{angryA}What do you mean? {worriedA}What's being taken care of?
+215)  CHRISTA
+{angryA}What do you mean? {worriedA}What's being taken care of?
+121)  CHRISTA
+{sadA}See what? {worriedA}What's up there? {angryA}Lee?
+219)  CHRISTA
+{sadA}See what? {worriedA}What's up there? {angryA}Lee?
+122)  LEE
+{sadB}Don't go up there, Christa. {normalD}You don't want to see.
+218)  LEE
+{sadB}Don't go up there, Christa. {normalD}You don't want to see.
+123)  CHRISTA
+{sadA}[growing concern] Lee? What {worriedA}the hell is it? {angryA}What's going on up there?
+220)  CHRISTA
+{sadA}[growing concern] Lee? What {worriedA}the hell is it? {angryA}What's going on up there?
+124)  CHRISTA
+{angryA}Here. You {sadA}didn't want to deal with it, {angryA}least you can do is take care of the remains.
+125)  LEE
+{sadA}[lookat]Poor kid must have tried to hide out up here until he starved to death. {fearA}This could have been Clementine {sadB}if I hadn't found her when I did.
+126)  LEE
+{sadA}[lookat]Someone should put him out of his misery.
+127)  LEE
+{sadB}I'm sorry.
+128)  LEE
+{sadB}I'm sorry.
+129)  LEE
+{sadB}I'm sorry.
+163)  LEE
+{sadB}I'm sorry.
+164)  LEE
+{sadB}I'm sorry.
+130)  LEE
+{normalD}{alias 314597583} [lookat] Just ran out of food. Like we almost did. Like {fearA}we still might.
+131)  LEE
+{normalD}{alias 314597583} [lookat] Just ran out of food. Like we almost did. Like {fearA}we still might.
+132)  LEE
+{fearA}[lookat]All empty. He probably {sadA}died of dehydration before he starved. Damn.
+133)  LEE
+[lookat]This must have been where he slept.
+136)  LEE
+[lookat]This must have been where he slept.
+171)  LEE
+[lookat]This must have been where he slept.
+134)  LEE
+{normalD}[lookat]No food. No water. No hope.
+135)  LEE
+{normalD}[lookat]No food. No water. No hope.
+137)  LEE
+{disgustA}[lookat]What a way to live. {sadA}What a way to die.
+138)  LEE
+Kenny, you need to take of this. Put the poor kid out of his misery.
+139)  LEE
+Kenny, did you hear what I said?
+140)  LEE
+Quit fucking around, Kenny. This is serious.
+141)  LEE
+Kenny!
+142)  LEE
+Kenny! Be a man, goddammit! Go over there and take care of business!
+143)  LEE
+I'm losing patience with you man. I know what happened to Duck was tough, but you need to man up and take care of this!
+144)  LEE
+The fuck is wrong with you, Kenny? You're just gonna let that poor boy suffer?
+145)  LEE
+Now you're really starting to piss me off! We can't just leave him up here like this!
+146)  LEE
+You're letting Duck and Katjaa down! You're letting yourself down! Finish that poor kid off!
+147)  LEE
+You think this is a fucking game? Kenny, goddammit! Snap out of it and just fucking DO IT! NOW!
+148)  LEE
+{thinkingB}Here. This'll {normalD}make it clean and quick.
+256)  LEE
+{thinkingB}Here. This'll {normalD}make it clean and quick.
+257)  LEE
+{thinkingB}Here. This'll {normalD}make it clean and quick.
+149)  LEE
+{angryA}So don't. {normalD}You'll be better off. {sadA}Trust me.
+150)  LEE
+{sadA}Don't worry about it.
+151)  BEN
+{fearB}Don't worry? {surprisedA}Are you kidding? {sadE}What's up there that's got Kenny so spooked? {fearB}I'm afraid to go look!
+152)  BEN
+{surprisedA}Handling what? {fearB}What the hell's up there?
+153)  LEE
+{sadA}You don't want to know.
+154)  LEE
+{normalD}Kenny's handling it.
+155)  BEN
+{fearC}Take care of what? {sadE}What's up there?
+156)  LEE
+Just get up there. {normalD}Kenny needs you.
+157)  LEE
+{disgustB}You need to get up there {thinkingB}and take care of this.
+158)  BEN
+{sadA}Lee? {fearB}What the fuck? What {sadE}is going on up there?
+159)  BEN
+{sadA}Lee? {fearB}What the fuck? What {sadE}is going on up there?
+160)  BEN
+{surprisedA}What is it? {fearB}What's up there?
+161)  BEN
+{sadB}Lee? What the {fearB}fuck is going on up there? {sadE}Is Kenny okay?
+162)  KENNY
+[quitely][heavy, slow breathing]Oh... god... [very quiet sobbing]... [whispering]Duck... oh god... [quiet sobbing] Jesus Christ... [sniffing][heavy, slow breathing]
+165)  
+Bed
+166)  
+Zombie
+167)  
+Door
+168)  
+Crush
+169)  
+Empty Water Bottle
+170)  
+Empty Plate
+172)  KENNY
+[pickup][quietly, voice trembling, emotionally devestated]I know... I know...
+173)  KENNY
+[pickup][quietly, voice trembling, emotionally devestated]I can do this... I can...
+174)  KENNY
+[pickup][quietly, voice trembling, emotionally devestated]I can do this... I can...
+178)  KENNY
+[pickup][quietly, voice trembling, emotionally devestated]I can do this... I can...
+175)  KENNY
+[pickup][quietly, voice trembling, emotionally devestated]I... can't...
+176)  KENNY
+[pickup[quietly, voice trembling, emotionally devestated][a sigh]
+177)  KENNY
+[pickup][quietly, voice trembling, emotionally devestated]Okay... I can do this.
+184)  
+You can do this.
+186)  
+Let's just leave.
+187)  STUB
+Where Lee suggests they should just leave. Like last time.
+188)  KENNY
+{fearB}[pickup] [grim] Lee... we can't just sit here. {sadA}One of us has gotta take care of this.
+192)  KENNY
+{fearB}[pickup] [grim] Lee... we can't just sit here. {sadA}One of us has gotta take care of this.
+189)  STUB
+Where Kenny just doesn't know what to do.
+190)  
+I know you can.
+191)  
+You don't have to.
+193)  KENNY
+{sadA}[pickup]Fuck... {fearA}I just... {sadB}can't.
+194)  STUB
+Where Kenny says, "Lee? we really gonna walk away? Again?"
+195)  STUB
+Kenny says "Lee? We really gonna just leave him?"
+196)  
+Yes.
+197)  
+No.
+198)  KENNY
+[pickup][emotional]So...?
+199)  KENNY
+[pickup][emotional]So...?
+230)  KENNY
+[pickup][emotional]So...?
+200)  CHRISTA
+[pickup][concerned]Lee? What's going on up there?
+223)  CHRISTA
+[pickup][shocked]And you just left him up there?
+224)  CHRISTA
+{sadA}[pickup][somber]You couldn't bring yourself to kill him, least {angryA}you can do is give him a proper burial.
+227)  CHRISTA
+{sadA}[pickup][somber]You couldn't bring yourself to kill him, least {angryA}you can do is give him a proper burial.
+225)  CHRISTA
+{fearB}[pickup][shocked, not angry]And you just left him {worriedA}up there with Kenny?
+226)  CHRISTA
+{angryA}[pickup][concerned]Lee? What's going {sadA}on up there?
+231)  BEN
+{fearB}[pickup] Where's Kenny?
+232)  KENNY
+[pickup][sad]Let's... let's just go. Okay? Please?
+233)  KENNY
+[pickup][sad]Let's... let's just go. Okay? Please?
+234)  LEE
+{SadA}[pickup] [horrified] It's just a kid. What the {thinkingB}hell happened to him...?
+235)  KENNY
+{fearA}[pickup] [flat/numb] Ain't nothing on him. {sadA}Guess he must've been hiding out up here. {sadB}Starved to death.
+236)  KENNY
+{fearB}[pickup] [flat/numb] We can't leave him like this. We {sadA}have to do something.
+237)  LEE
+{sadB}[pickup] [horrified] Jesus Christ...
+238)  LEE
+[pickup] [grim] Yeah...
+239)  KENNY
+{fearC}[pickup] [numb] I don't know if I can do it, {sadB}Lee. [breaking up] Not...{sadA} not again.
+240)  KENNY
+{fearC}[pickup] [numb] I don't know if I can, Lee. {sadB}Couldn't do it before. {sadA}Can't do it now.
+241)  KENNY
+{surprisedA}[pickup] I know. {fearB}I just... {sadA}oh, God...
+242)  LEE
+{fearA}[pickup] Before it was your {sadB}own son. {normalD}Now it's just a kid who {thinkingB}needs your help. {thinkingB}You can do this, Kenny. {normalD}You need to do this.
+243)  KENNY
+{fearA}[pickup] I know. {disgustA}I just... {sadA}oh, God...
+244)  LEE
+{thinkingB}[pickup] You stepped up before, Kenny. {sadA}You did what had to be done. {fearA}You can do it again now. {sadB}That little boy needs your help.
+245)  LEE
+{sadB}[pickup] I can't ask you to {disgustB}do this, man. {thinkingB}I'll take care of it. {sadA}Like I did before.
+295)  LEE
+{sadB}[pickup] I can't ask you to {disgustB}do this, man. {thinkingB}I'll take care of it. {sadA}Like I did before.
+246)  KENNY
+{sadB}[pickup] Are you sure?
+254)  KENNY
+{sadB}[pickup] Are you sure?
+296)  KENNY
+{sadB}[pickup] Are you sure?
+247)  LEE
+[pickup] [unsure] I guess {fearA}we'll find out...
+253)  LEE
+[pickup] [unsure] I guess {fearA}we'll find out...
+297)  LEE
+[pickup] [unsure] I guess {fearA}we'll find out...
+248)  LEE
+{sadB}[pickup] I can't ask you to {thinkingB}go through this again. {normalD}Let me take care of it.
+249)  KENNY
+{surprisedA}[pickup] You want to just walk away? {fearB}Like last time? I {disgustA}don't know if I {sadA}can do that either.
+250)  LEE
+{fearA}[pickup] Kenny, man. We {thinkingB}don't have to do this right now. {normalD}Maybe we should just get out of here. {fearA}He can't hurt anyone.
+252)  LEE
+{fearA}[pickup] Kenny, man. We {thinkingB}don't have to do this right now. {normalD}Maybe we should just get out of here. {fearA}He can't hurt anyone.
+251)  KENNY
+{fearB}[pickup] You want to just walk away?{disgustA} I don't {sadA}know if I can do that either.
+255)  KENNY
+{surprisedA}[pickup] What're you doing? I thought {fearB}you said you were gonna take care of it.
+258)  KENNY
+{sadB}[pickup] I don't know that I can either...
+259)  LEE
+{thinkingB}[pickup] I'm sorry, man. I {sadA}don't know that I can.
+260)  KENNY
+{fearA}[pickup] I don't know that {sadB}I can do it, Lee...
+261)  LEE
+{sadA}[pickup] I know that you can. You {fearA}were strong for Duck. You {thinkingB}can be strong again now.
+262)  LEE
+{fearA}[pickup] I know that you can.
+263)  LEE
+{thinkingB}[pickup] [comforting] That was your own flesh and blood. {fearB}No father could have done that. {sadB}But you can help this boy.
+264)  KENNY
+{sadB}[pickup] [emotional] I couldn't even help {fearA}my own boy...
+265)  LEE
+{sadA}[pickup] Do what's right for him. {thinkingB}Send him on his way.
+267)  LEE
+{sadA}[pickup] Do what's right for him. {thinkingB}Send him on his way.
+266)  LEE
+[pickup]: Do what's right for him. Send him on his way.
+268)  LEE
+{disgustB}[pickup] It's okay. {sadB}I'll take care of it.
+269)  LEE
+{fearA}[pickup] You're right. I {disgustB}can't put you through this again. {sadB}I'll take care of it.
+270)  LEE
+{sadB}[pickup] I understand. {normalD}It's okay.
+271)  LEE
+{normalD}[pickup] Come on, man. {sadA}Let's just go.
+283)  LEE
+{normalD}[pickup] Come on, man. {sadA}Let's just go.
+272)  KENNY
+{disgustA}[pickup] I can't just walk away. {fearA}Not again. {sadB}Can you?
+273)  LEE
+{thinkingB}[pickup] Yeah, I can.
+274)  KENNY
+[numb] In a minute.
+281)  KENNY
+[numb] In a minute.
+286)  KENNY
+[numb] In a minute.
+289)  KENNY
+[numb] In a minute.
+275)  LEE
+{normalD}[pickup] You coming?
+280)  LEE
+{normalD}[pickup] You coming?
+285)  LEE
+{normalD}[pickup] You coming?
+290)  LEE
+{normalD}[pickup] You coming?
+276)  LEE
+[pickup] I'll {sadB}see you when you're done.
+282)  LEE
+[pickup] I'll {sadB}see you when you're done.
+288)  LEE
+[pickup] I'll {sadB}see you when you're done.
+291)  LEE
+[pickup] I'll {sadB}see you when you're done.
+277)  LEE
+{thinkingA}[pickup] No. You're right. We {sadA}gotta take care of this.
+278)  LEE
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
+279)  LEE
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
+287)  LEE
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
+292)  LEE
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
+284)  KENNY
+{disgustA}[pickup]	I can't just walk away from {fearB}this. Can you?
+293)  KENNY
+{disgustA}[pickup] Where you going? I {surprisedA}thought we were {sadA}gonna take care of this.
+294)  KENNY
+{disgustA}[pickup] Where you going? I {surprisedA}thought we were {sadA}gonna take care of this.
+298)  LEE
+[pickup2]{sadB}I can't ask you to {disgustB}do this, man. {thinkingB}I'll take care of it.

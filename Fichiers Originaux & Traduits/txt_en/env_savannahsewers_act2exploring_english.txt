@@ -1,0 +1,366 @@
+1)  CLEMENTINE
+[distraught!] Leeeeeee!
+2)  LEE
+[calling out]{fearB}Clementine! Can you hear me?!
+3)  LEE
+[calling out]{fearA}If you can hear me, just get back to the house, okay? I'll meet you there!
+4)  LEE
+[to himself]{angryA}Shit.
+162)  LEE
+[to himself]{angryA}Shit.
+5)  LEE
+[lookat][quitely, to himself]{disgustB}Half-eaten sewer rats. {fearA}Walkers must be down here, too.
+83)  LEE
+[lookat][quitely, to himself]{disgustB}Half-eaten sewer rats. {fearA}Walkers must be down here, too.
+94)  LEE
+[lookat][quitely, to himself]{disgustB}Half-eaten sewer rats. {fearA}Walkers must be down here, too.
+6)  
+Turn left
+41)  
+Turn left
+7)  
+Turn right
+44)  
+Turn right
+47)  
+Turn right
+58)  
+Turn right
+8)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Won't budge. I think I broke it!
+16)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Won't budge. I think I broke it!
+43)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Won't budge. I think I broke it!
+45)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Won't budge. I think I broke it!
+51)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Won't budge. I think I broke it!
+9)  LEE
+[quitely, to himself][lookat]{angryA}Won't turn any more in that direction.
+42)  LEE
+[quitely, to himself][lookat]{angryA}Won't turn any more in that direction.
+10)  LEE
+[to himself, alarmed]{fearB}Here they come.
+11)  LEE
+[lookat][quitely, to himself]{fearA}Better be careful down here.
+84)  LEE
+[lookat][quitely, to himself]{fearA}Better be careful down here.
+95)  LEE
+[lookat][quitely, to himself]{fearA}Better be careful down here.
+12)  
+Look at
+13)  
+Look At
+18)  
+Look At
+20)  
+Look At
+27)  
+Look At
+46)  
+Look At
+54)  
+Look At
+67)  
+Look At
+82)  
+Look At
+88)  
+Look At
+93)  
+Look At
+113)  
+Look At
+147)  
+Look At
+157)  
+Look At
+159)  
+Look At
+183)  
+Look At
+14)  LEE
+[quietly, to himself]Looks like some kind of drainage pipe.
+48)  LEE
+[quietly, to himself]Looks like some kind of drainage pipe.
+15)  LEE
+[quitely, to himself, urgent][lookat]{angryB}That thing is fucked. {fearA}I need to get the hell out of here.
+49)  LEE
+[quitely, to himself, urgent][lookat]{angryB}That thing is fucked. {fearA}I need to get the hell out of here.
+17)  LEE
+[lookat][quitely, to himself]{disgustB}Ain't touching that. {sadB}Last thing I need is some god awful disease.
+86)  LEE
+[lookat][quitely, to himself]{disgustB}Ain't touching that. {sadB}Last thing I need is some god awful disease.
+97)  LEE
+[lookat][quitely, to himself]{disgustB}Ain't touching that. {sadB}Last thing I need is some god awful disease.
+19)  
+Pick Up
+50)  
+Pick Up
+55)  
+Pick Up
+65)  
+Pick Up
+70)  
+Pick Up
+73)  
+Pick Up
+85)  
+Pick Up
+96)  
+Pick Up
+108)  
+Pick Up
+123)  
+Pick Up
+21)  LEE
+[quietly, but panicked]{angryC}Let go, god dammit!
+28)  LEE
+[quietly, but panicked]{angryC}Let go, god dammit!
+148)  LEE
+[quietly, but panicked]{angryC}Let go, god dammit!
+22)  
+Shoot
+29)  
+Shoot
+149)  
+Shoot
+156)  
+Shoot
+23)  LEE
+[quitely
+24)  LEE
+[quietly, but panicked]{fearC}Fuck!
+30)  LEE
+[quietly, but panicked]{fearC}Fuck!
+150)  LEE
+[quietly, but panicked]{fearC}Fuck!
+25)  LEE
+[quietly, but panicked] {fearB}That ain't gonna work!
+31)  LEE
+[quietly, but panicked] {fearB}That ain't gonna work!
+151)  LEE
+[quietly, but panicked] {fearB}That ain't gonna work!
+26)  
+Pry
+98)  
+Pry
+103)  
+Pry
+110)  
+Pry
+126)  
+Pry
+152)  
+Pry
+167)  
+Pry
+32)  
+Attack
+33)  LEE
+[quitely, but panicked] {fearC}I can't reach him!
+35)  LEE
+[quitely, but panicked] {fearC}I can't reach him!
+158)  LEE
+[quitely, but panicked] {fearC}I can't reach him!
+34)  LEE
+{angryC}Shit!
+36)  LEE
+{angryC}Shit!
+37)  LEE
+{angryC}Shit!
+39)  LEE
+[lookat]{sadC}No bullets. He must've saved the last one for himself.
+40)  LEE
+[lookat]{sadC}Oh my God. Chuck. {sadB}He must've tried to hide out down here. {sadC}The poor bastard.
+52)  LEE
+[lookat][quitely, to himself]{thinkingA}Won't go any more in that direction.
+53)  LEE
+[lookat][quitely, to himself]{disgustA}Good thing I'm out here and not in there.
+56)  LEE
+[quitely, to himself]{thinkingA}Hmm, seems loose.
+57)  
+Place Valve
+60)  
+Place Valve
+71)  
+Place Valve
+72)  
+Place Valve
+74)  
+Place Valve
+59)  LEE
+[quitely, to himself][lookat]{thinkingA}It's jammed.
+61)  LEE
+[lookat][to himself]{thinkingA}Looks like some kind of drainage pipe.
+136)  LEE
+[lookat][to himself]{thinkingA}Looks like some kind of drainage pipe.
+62)  LEE
+[quitely, to himself][lookat]{normalD}It's a drainage pipe.
+64)  LEE
+[quitely, to himself][lookat]{normalD}It's a drainage pipe.
+137)  LEE
+[quitely, to himself][lookat]{normalD}It's a drainage pipe.
+63)  LEE
+[quietly, to himself][lookat]{thinkingB}Looks like this is where the handle would go. But it's not here.
+66)  LEE
+[quietly, to himself][lookat]{thinkingB}No way I can pick that up on my own.
+68)  LEE
+[frustrated, quietly][lookat]{angryA}Looks like somebody sawed the damn thing off.
+69)  LEE
+[quietly][lookat]{angryA}Damn, I can't reach it.
+109)  LEE
+[quietly][lookat]{angryA}Damn, I can't reach it.
+124)  LEE
+[quietly][lookat]{angryA}Damn, I can't reach it.
+182)  LEE
+[quietly][lookat]{angryA}Damn, I can't reach it.
+75)  
+Passage Way
+76)  
+Valve
+77)  
+Pipe
+78)  
+Pipe
+79)  
+Passage
+80)  
+ladder
+81)  
+Ladder
+121)  
+Ladder
+87)  LEE
+[pickup][quietly]{sadA}No going back now.
+89)  
+Grate
+122)  
+Grate
+90)  LEE
+[pickup][to himself]{thinkingA}Built solid.
+91)  LEE
+[pickup][to himself]{thinkingB}No way I can pry that open.
+92)  
+Door
+99)  LEE
+[pickup][quietly, urgent]{angryA}Locked. {angryB}Fucking perfect.
+102)  LEE
+[pickup][quietly, urgent]{angryA}Locked. {angryB}Fucking perfect.
+175)  LEE
+[pickup][quietly, urgent]{angryA}Locked. {angryB}Fucking perfect.
+184)  LEE
+[pickup][quietly, urgent]{angryA}Locked. {angryB}Fucking perfect.
+100)  LEE
+[pickup][quietly, urgent]{fearB}Shit, it broke off!
+104)  LEE
+[pickup][quietly, urgent]{fearB}Shit, it broke off!
+173)  LEE
+[pickup][quietly, urgent]{fearB}Shit, it broke off!
+101)  
+Grab
+105)  LEE
+[pickup][quietly, urgent]{thinkingB}What the hell?
+111)  LEE
+[pickup][quietly, urgent]{thinkingB}What the hell?
+128)  LEE
+[pickup][quietly, urgent]{thinkingB}What the hell?
+180)  LEE
+[pickup][quietly, urgent]{thinkingB}What the hell?
+106)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Ungh!
+112)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Ungh!
+127)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Ungh!
+179)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Ungh!
+107)  LEE
+[pickup][quitely, urgent]Gonna need a running start...
+114)  LEE
+[pickup][quietly, slight urgency]{normalD}It's just a sign.
+171)  LEE
+[pickup][quietly, slight urgency]{normalD}It's just a sign.
+115)  LEE
+[pickup][quietly, urgent]{thinkingB}Looks like there might be something back there.
+169)  LEE
+[pickup][quietly, urgent]{thinkingB}Looks like there might be something back there.
+116)  LEE
+[pickup][quietly, urgent]{thinkingB}Don't think that's going to help me find a way out of here.
+170)  LEE
+[pickup][quietly, urgent]{thinkingB}Don't think that's going to help me find a way out of here.
+117)  LEE
+[pickup][quietly, urgent]{thinkingB}I DEFINITELY can't reach it.
+125)  LEE
+[pickup][quietly, urgent]{thinkingB}I DEFINITELY can't reach it.
+181)  LEE
+[pickup][quietly, urgent]{thinkingB}I DEFINITELY can't reach it.
+118)  LEE
+[pickup][quietly, urgent]{angryA}I already tried that! It ain't gonna budge.
+172)  LEE
+[pickup][quietly, urgent]{angryA}I already tried that! It ain't gonna budge.
+119)  LEE
+[pickup][quietly, urgent]{angryA}That door is fucked.
+174)  LEE
+[pickup][quietly, urgent]{angryA}That door is fucked.
+120)  
+Broken Ladder
+129)  LEE
+[pickup][quietly, urgent]{thinkingB}Those bars are way too solid.
+178)  LEE
+[pickup][quietly, urgent]{thinkingB}Those bars are way too solid.
+130)  LEE
+[pickup][quietly, urgent][straining]{angryA}Ugh. I'm not going to be able to pry these bars with this.
+177)  LEE
+[pickup][quietly, urgent][straining]{angryA}Ugh. I'm not going to be able to pry these bars with this.
+131)  LEE
+[pickup][quietly, urgent]{angryA}I already tried that.
+176)  LEE
+[pickup][quietly, urgent]{angryA}I already tried that.
+132)  
+Walk Through
+133)  LEE
+[pickup][hushed, urgent]Could be the way out. But there's no way I can take on all of those things by myself.
+134)  LEE
+[pickup][hushed, urgent]Gonna have to find a way to clear that tunnel.
+135)  LEE
+[pickup][hushed, to himself]Time to move.
+138)  LEE
+[pickup][sad, quietly] You deserved better, old man.
+139)  LEE
+[pickup][very sad, hushed]Damn, Chuck. I'm so sorry.
+140)  LEE
+[pickup][to himself, quietly, dread]Guess I'm on my own.
+141)  LEE
+[pickup][hushed, to himself]Quiet down here. First time I've been on my own... since this whole thing started.
+142)  
+Dead Rat
+143)  
+Body
+144)  
+Gun
+145)  
+Sign
+146)  
+Take
+153)  
+Open
+164)  
+Open
+165)  
+Open
+166)  
+Open
+154)  LEE
+[lookat]{normalB}Locked.
+155)  LEE
+[lookat]{normalB}Locked.
+168)  LEE
+[lookat]{normalB}Locked.
+160)  LEE
+{thinkinga}[lookat]Better not. {normalb}Gunfire would just bring more walkers.
+161)  LEE
+[pickup][reading a dangerous sign]{Body-B}{DisgustA}Damn...
+163)  
+Enter

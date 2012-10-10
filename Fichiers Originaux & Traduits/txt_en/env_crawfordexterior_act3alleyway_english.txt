@@ -1,0 +1,238 @@
+1)  LEE
+Let's go.
+2)  MOLLY
+On three. One... two... THREE!
+3)  MOLLY
+Okay, the auto shop should be at the end of the alley, on the far side. Let’s try to not do too much sightseeing on the way, okay? We get over there, we find that battery and we haul ass straight back here.
+4)  LEE
+Lee enters the alleyway alone.
+5)  LEE
+{Body-B}{ThinkingA}Okay, so now we’re on a roof.
+6)  MOLLY
+{AngryA}Come on, {DisbeliefA}what are you, {Body-X}{AngryA}chicken? {AngryB}Jump!
+7)  MOLLY
+{Body-X}{DisbeliefA}Oh, brother. {Body-A}{AngryB}Hold on.
+8)  MOLLY
+{Body-A}{DisgustA}Do you ever stop complaining? Come on.
+9)  MOLLY
+[out of breath] {DisgustA}You really are a pussy, {DisbeliefB}aren’t you?
+10)  MOLLY
+{ThinkingA}Think you can handle that?
+11)  LEE
+{Body-F}{FearA}I don’t know, man...
+77)  LEE
+{Body-F}{FearA}I don’t know, man...
+12)  LEE
+[hushed, but calling out] {body-B}{ThinkingA}Molly? {FearA}You out here?
+13)  LEE
+[to himself]{DisgustA}Guess I'm not going that way.
+14)  
+Look At
+26)  
+Look At
+15)  
+Open
+16)  LEE
+[to himself][lookat]{Body-B}{ThinkingA}Must be the entrance to that auto shop where Brie {ThinkingB}said we'd find that battery.
+17)  LEE
+[to himself][lookat] {Body-B}{ThinkingA}Damn, it's jammed tight.
+18)  
+What are you doing?
+19)  
+Nice to see you.
+20)  
+I think you got him.
+21)  
+Calm down!
+22)  
+What the hell, Molly?
+23)  LEE
+[to himself][lookat]{Body-B}{ThinkingA}I'm gonna need something to pry that door open.
+24)  
+Pry
+25)  LEE
+[lookat]{Body-B}{ThinkingA}Think I'd better leave that where it is.
+27)  
+Search
+28)  LEE
+Think I'd
+29)  LEE
+[to himself][lookat]{Body-B}{FearA}Don't think I wanna go down that way.
+30)  LEE
+[to himself][lookat]{Body-B}{ThinkingA}Better not get too close.
+31)  LEE
+[to himself, quitely]{Body-B}{FearA}Shit. Think {ThinkingA}I'd better stay back here.
+32)  LEE
+[to himself]Shit.
+33)  MOLLY
+[punching]{Body-A}{AngryB}Ungh!
+34)  LEE
+[to himself, quietly]{Body-B}{FearA}What the hell?
+35)  LEE
+{Body-B}{FearD}Shit!
+92)  LEE
+{Body-B}{FearD}Shit!
+95)  LEE
+{Body-B}{FearD}Shit!
+36)  MOLLY
+{Body-A}{DisgustB}Leave him, {AngryC}he's mine!
+93)  MOLLY
+{Body-A}{DisgustB}Leave him, {AngryC}he's mine!
+96)  MOLLY
+{Body-A}{DisgustB}Leave him, {AngryC}he's mine!
+37)  LEE
+What the-
+46)  LEE
+What the-
+38)  MOLLY
+{Body-A}[angry grunts as she brains the walker, like a Serena Williams tennis serve]
+47)  MOLLY
+{Body-A}[angry grunts as she brains the walker, like a Serena Williams tennis serve]
+39)  LEE
+{Body-B}{ThinkingA}Molly...
+48)  LEE
+{Body-B}{ThinkingA}Molly...
+40)  LEE
+[louder] {AngryB}MOLLY!
+49)  LEE
+[louder] {AngryB}MOLLY!
+41)  MOLLY
+{AngryB}What?!
+50)  MOLLY
+{AngryB}What?!
+42)  LEE
+{Body-B}{AngryB}Where the hell have you been?
+43)  MOLLY
+Poking around. This one tried to jump me. Got a problem?
+44)  LEE
+{Body-B}{ThinkingA}What were you doing up there?
+45)  MOLLY
+Fighting off this fucker, it tried to jump me. Got a problem?
+51)  LEE
+{Body-B}{HappyA}Nice to see you.
+52)  MOLLY
+[sarcastic] Miss me? That's sweet.
+53)  LEE
+{Body-B}I think {Body-X}you got him.
+54)  MOLLY
+[breathing hard] {Body-A}{AngryB}One more.
+55)  LEE
+{Body-B}{AngryB}Calm the fuck down! {Body-X}{DisgustA}What's wrong with you?
+56)  MOLLY
+[breathing hard] {Body-A}{AngryB}What's the matter, {ThinkingA}never seen someone kill a geek before?
+57)  LEE
+{Body-B}{AngryA}What the hell do you think you're doing? {ThinkingA}It's dead already, {Body-X}{DisgustA}I think you can lay off.
+58)  MOLLY
+[indignant/breathing hard] {Body-A}{AngryB}Don't tell me what to do. You kill geeks your way, {ThinkingA}I'll kill 'em mine.
+59)  2012<<DATE
+1344620053>>) Molly gives the walker one last hard whack with the ice hook.
+60)  LEE
+{DisgustB}Not like THAT.
+61)  LEE
+[impressed/disturbed] {SurpriseA}Damn.
+62)  LEE
+[pickup]{Body-X}{ThinkingA}He's wearing medical scrubs. {Body-B}{ThinkingB}Some kind of scientist or a doctor, maybe?
+63)  MOLLY
+[still angry] {Body-A}{AngryB}Yeah, well. He ain't shit now. {ThinkingA}Did you find us a way in?
+64)  LEE
+{ThinkingA}Yeah, but the garage door's jammed, {NormalC}can't raise it.
+65)  MOLLY
+Not a problem. {HappyA}Look what I found.
+66)  LEE
+{NormalB}Oh yeah. {HappyA}That'll work.
+67)  MOLLY
+{Body-A}{AngryA}Where are you going? {ThinkingA}Auto shop's over here.
+68)  MOLLY
+{Body-A}{AngryA}Lee! {AngryB}Goddammit, we came here to do a job, let's go!
+69)  LEE
+[lookat]{DisgustB}And what's this? {ThinkingA}Looks like some kind of code, but {ThinkingB}Vernon said the safe combination was only four numbers.
+70)  LEE
+[lookat]{Body-B}{NormalC}This might be just what we need.
+71)  LEE
+[quietly, to himself]{AngryA}Shit. {FearA}Time to go.
+72)  LEE
+[lookat]{Body-B}{FearB}There's more of them than before.
+73)  MOLLY
+{Body-A}{NormalA}Hey Lee, {ThinkingA}that jack I gave you's not a novelty item. {DisgustA}Why don't you try using it?
+74)  LEE
+[lookat]{Body-B}{ThinkingA}This is definitely the guy.
+75)  LEE
+[lookat]{Body-B}{ThinkingB}Must have been some kind of doctor.
+76)  MOLLY
+{Body-A}{DisbeliefA}How about we talk {AngryA}AFTER you've gotten us inside?
+78)  
+I don't know...
+79)  
+I can't.
+80)  
+Chicken?
+81)  LEE
+[lookat][nervous]{Body-F}{AngryA}I can't. {FearB}It's too far.
+82)  LEE
+[lookat][annoyed]{Body-F}{AngryB}What did you call me?
+83)  LEE
+[lookat][to himself, realizing he can't jump that far]{FearB}Well, now that you mention it...
+84)  
+Car Jack
+85)  
+Corpse
+86)  
+Garage Door
+87)  
+School Door
+88)  
+Zombies
+89)  
+Zombies
+110)  
+Zombies
+90)  SFX
+metal fs
+91)  MOLLY
+[pickup][impatient]Where do you think you're going? Come on, let's just do this.
+94)  
+Where have you been?!
+97)  
+Shelf
+98)  
+Stomp
+99)  
+Hand
+100)  
+Hole
+101)  LEE
+[pickup][to himself]{Body-B}{FearA}Too many walkers in there.
+102)  LEE
+[pickup][quietly]{Body-B}{NormalC}Well, climbing the fence isn't an option.
+103)  LEE
+[pickup][quitely, reading sign]{Body-B}{ThinkingA}Herman's... {HappyA}this is the place I'm looking for.
+104)  LEE
+[pickup][quitely, to himself]{Body-B}{ThinkingA}Auto shop must be down this way.
+105)  LEE
+[pickup][reading a dangerous sign]{Body-B}{DisgustA}Damn...
+106)  LEE
+[pickup][quietly, to himself]{Body-B}{DisgustA}Don't think I wanna go opening up dumpsters when I don't know what's inside.
+107)  MOLLY
+He's mine.
+108)  MOLLY
+Leave him!
+109)  MOLLY
+Leave him!
+111)  
+Doctor's Corpse
+112)  
+Billboard
+113)  
+Barbed Wire
+114)  
+Sign
+115)  
+Sign
+116)  MOLLY
+[pickup2][Molly fighting sounds]
+117)  MOLLY
+[beating the zombie]
+118)  MOLLY
+Come on!
+119)  
+Fence

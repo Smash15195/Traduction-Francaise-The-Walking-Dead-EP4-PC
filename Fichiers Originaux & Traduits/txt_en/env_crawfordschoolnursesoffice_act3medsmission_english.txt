@@ -1,0 +1,408 @@
+1)  LEE
+{NormalB}Okay, you get started, I’ll take a look around, see if I can find anything useful.
+2)  VERNON
+Yeah - that’s our other problem. Take a look.
+3)  VERNON
+{ThinkingA}Maybe, with enough time. But I don’t know how much of that we have. {NormalB}Be a hell of a lot quicker if we just knew the four digit combination.
+4)  LEE
+Calm down. I took care of them. What about the meds, did we find what you need?
+5)  CHRISTA
+[frantic] They wandered into the hallway after we got inside. I think they must have heard us rooting around in here. This whole place is infested, they’re everywhere!
+6)  VERNON
+Looks like they were keeping all the prescription meds in that safe - locked up tight.
+7)  LEE
+{ThinkingB}There’s no way we can bust it open?
+8)  LEE
+What the hell happened?
+9)  CHRISTA
+{AngryA}Well I doubt they just wrote it down and left it here for us to find. We should just try busting it open, we don’t have any other choice.
+10)  CHRISTA
+It’s a sonogram.
+11)  LEE
+[lookat]What’s this on the floor?
+12)  LEE
+[lookat]There’s dried blood on this printout. And on the floor. Looks like a trail of it, from the safe to that camera over there, then out the door. What the hell happened here?
+13)  LEE
+Someone definitely was bleeding in here.
+14)  VERNON
+Not too uncommon for medical center.
+15)  
+Open
+20)  
+Open
+16)  LEE
+[lookat]No tape inside.
+21)  LEE
+[lookat]No tape inside.
+17)  VERNON
+The tape's gotta be around here somewhere. Keep looking.
+22)  VERNON
+The tape's gotta be around here somewhere. Keep looking.
+18)  
+Look At
+23)  
+Look At
+86)  
+Look At
+19)  LEE
+[lookat]The way this camera's set up, it looks like it would have had a pretty good view of that keypad. I wonder if it caught someone punching it in?
+24)  LEE
+[lookat]The way this camera's set up, it looks like it would have had a pretty good view of that keypad. I wonder if it caught someone punching it in?
+25)  LEE
+[lookat]Looks like some kind of medical file.
+87)  LEE
+[lookat]Looks like some kind of medical file.
+26)  
+Pick Up
+88)  
+Pick Up
+27)  LEE
+[lookat]Anna Correa. I guess she must have been a patient here. And what’s this?
+89)  LEE
+[lookat]Anna Correa. I guess she must have been a patient here. And what’s this?
+28)  VERNON
+That’d be a first.
+31)  VERNON
+That’d be a first.
+91)  VERNON
+That’d be a first.
+29)  LEE
+[lookat]I think maybe we just got lucky.
+32)  LEE
+[lookat]I think maybe we just got lucky.
+90)  LEE
+[lookat]I think maybe we just got lucky.
+30)  LEE
+[lookat]Empty. Figures.
+33)  
+Watch tape #1
+34)  ANNA
+[shrieking hysterically] I don’t want any fucking sedative!
+35)  LOGAN
+[pickup]  [from behind camera] Regulations. Oberson has ordered me to keep records of all medical examinations and consultations.
+150)  LOGAN
+[pickup]  [from behind camera] Regulations. Oberson has ordered me to keep records of all medical examinations and consultations.
+36)  ANNA
+I don't want the procedure! I want my baby! I can't do this!
+145)  ANNA
+I don't want the procedure! I want my baby! I can't do this!
+37)  LEE
+Vernon, Christa. Come look at this.
+38)  VERNON
+Maybe you should search it. See what he's got on him.
+39)  LEE
+I think I recognize that doctor. He was one of the walkers out in the alley by the auto shop.
+40)  CHRISTA
+[sickened] What the hell kind of place was this?
+41)  VERNON
+Dammit! We almost had it!
+42)  LEE
+I’m sure.
+43)  LOGAN
+[pickup]  If Oberson finds out that I concealed evidence of a pregnancy... I'm sorry, but these are the rules.
+149)  LOGAN
+[pickup]  If Oberson finds out that I concealed evidence of a pregnancy... I'm sorry, but these are the rules.
+44)  LOGAN
+[pickup]  I'm going to give you a sedative. It'll make the procedure easier on you.
+148)  LOGAN
+[pickup]  I'm going to give you a sedative. It'll make the procedure easier on you.
+45)  ANNA
+You know what they’ll say!
+46)  LOGAN
+It’ll help you, Anna. It’ll make the procedure go much easier.
+47)  LOGAN
+[pickup] This is day eighty-two since the outbreak... fifteen forty-seven. Doctor Logan in consultation with patient Anna Correa.
+154)  LOGAN
+[pickup] This is day eighty-two since the outbreak... fifteen forty-seven. Doctor Logan in consultation with patient Anna Correa.
+48)  ANNA
+Why are you recording this?
+155)  ANNA
+Why are you recording this?
+49)  LOGAN
+Yes I do. Which is why I’m telling you, you need to take care of this now. Even if I could help you, they’d find out eventually, and then it would only be harder on you.
+50)  LOGAN
+[pickup] As you know, the rules are very clear. The termination is mandatory.
+146)  LOGAN
+[pickup] As you know, the rules are very clear. The termination is mandatory.
+51)  VERNON
+Lee, maybe there’s another tape. We’ve got to keep looking.
+52)  LEE
+Like Molly said. The worst kind.
+53)  ANNA
+Oh God, oh God, oh God...
+152)  ANNA
+Oh God, oh God, oh God...
+54)  LOGAN
+[pickup]  Anna, you don't have a choice.
+151)  LOGAN
+[pickup]  Anna, you don't have a choice.
+55)  ANNA
+[cutting him off, pleading] You don't have to tell them. Tell them it was just nausea, that you gave me something for it and it went away.  This is my problem, not yours.
+153)  ANNA
+[cutting him off, pleading] You don't have to tell them. Tell them it was just nausea, that you gave me something for it and it went away.  This is my problem, not yours.
+56)  LOGAN
+[pickup] I need you to brace yourself, Anna. The sonogram confirms that you're pregnant.
+147)  LOGAN
+[pickup] I need you to brace yourself, Anna. The sonogram confirms that you're pregnant.
+57)  CHRISTA
+Well what are you waiting for?
+58)  LEE
+Not yet.
+59)  VERNON
+You find that doctor's body? Did you search him?
+60)  LEE
+Another tape. That code to the medicine cage has gotta be on one of these.
+61)  LEE
+I found another tape.
+106)  LEE
+I found another tape.
+62)  LOGAN
+[pickup] [agony] Aaaaaaargh!
+63)  VERNON
+More importantly, we’ve got the combination.
+64)  LOGAN
+[pickup] I don't make the rules, Anna.
+65)  LOGAN
+[pickup] Have you made a decision?
+66)  LOGAN
+Good girl. Hop up on the table and I’ll get you prepped.
+67)  ANNA
+[calm] I thought you said I didn’t have a choice.
+68)  ANNA
+[calm/introspective] Maybe that's best, I stayed up all last night thinking about this. Why are we even trying to survive, to keep on living, if this is what it takes? If this is what it's turned us into?
+69)  ANNA
+[tearing up, desperate] Doctor, I’m begging you. Please help me.
+70)  LOGAN
+[pickup] No, no, no...
+71)  LOGAN
+[pickup] Maybe one day, when things are different, you can try again. But for now, today, we have to do this.
+72)  LEE
+I think we know what happened to Crawford.
+73)  LOGAN
+[pickup] Well, technically you do. You can terminate the pregnancy, or leave Crawford. Of course that would be a death sentence both for you and your unborn child.
+74)  
+What’s wrong?
+75)  LEE
+Christa, are you all right? What’s wrong?
+76)  CHRISTA
+It’s nothing. That was just... hard to watch. Don’t worry about me, I’m fine.
+77)  LEE
+All right. Let’s get those meds and get the hell out of here.
+78)  CHRISTA
+You’re right, I’m sorry. Let’s get those meds.
+79)  LEE
+Christa, this isn’t the time. We’ve got a job to do.
+80)  
+Just get that safe open
+81)  VERNON
+Don’t take too long!
+82)  VERNON
+Okay, I think we’re good. This is more than enough for your people and mine. Let’s go!
+83)  VERNON
+We’re in business.
+84)  LEE
+You go on ahead, I want to make sure we didn’t miss anything. I’ll be right behind you.
+85)  VERNON
+Antibiotics... morphine... we’ll take as much of this as we can carry.
+92)  LEE
+[to himself]
+93)  LEE
+You know, I found a third tape in a locker outside. Maybe there's something else on there?
+94)  CHRISTA
+We got the meds for Omid, that's all I care about.
+95)  VERNON
+We'll head back to the classroom. Don't take too long, Lee.
+96)  LOGAN
+My sister needs this medicine. Without it she’ll die. Or she’ll start showing symptoms and the council will come for her. I can’t let that happen.
+97)  MOLLY
+Yeah... that’s the Crawford way, isn’t it?
+98)  LOGAN
+[pickup] Oberson had someone down here yesterday taking inventory, he's really cracking down. I just can't risk it.
+99)  LOGAN
+[pickup] Yes. We HAD a deal. We don’t any more.
+100)  LOGAN
+[pickup] Listen. As fun as this was, I have to put a stop to this little arrangement. This is the last I can give you.
+101)  LEE
+[dry] Well, shit.
+102)  MOLLY
+[dismayed] Why?
+103)  LOGAN
+[pickup] I'm sorry, Molly. I've done all I can. But I have to look out for myself here.
+104)  MOLLY
+We had a deal!
+105)  VERNON
+That's the day after the first one we watched.
+107)  VERNON
+That's the day after the first one we watched.
+108)  LEE
+I found two more tapes.
+109)  CHRISTA
+Put it in.
+110)  CHRISTA
+Put it in.
+111)  
+Watch tape #3
+112)  LEE
+[lookat]It's a medical file for a woman named Correa.
+113)  
+Use combination
+114)  LEE
+I found this on the doctor's corpse. Think this combo will open that safe?
+115)  VERNON
+No, it's not the right format. This looks more like a locker combination.
+116)  LEE
+[lookat]This isn't the right combination.
+117)  LEE
+[lookat]Vernon and Christa already took everything we need.
+118)  LEE
+[lookat]Must've been from when that woman stabbed the doctor.
+119)  CHRISTA
+[to herself, frustrated] Goddammit, this is going to take forever.
+120)  
+Shoot
+121)  
+They got what they deserved.
+122)  
+They got what they deserved.
+123)  
+They got what they deserved.
+124)  LEE
+Looks like the sick system these bastards cooked up to protect themselves wound up destroying them.
+125)  VERNON
+Can't say I'll shed too many tears over it.
+126)  VERNON
+Come on Christa, let's get that safe opened.
+127)  VERNON
+Come on Christa, let's get that safe opened.
+128)  MOLLY
+My sister needs this medicine. Without it she'll die. Or she'll start showing symptoms and they'll take her away. I can't let that happen.
+129)  LEE
+[lookat]Looks pretty sturdy, no way we're gonna force that open.
+130)  VERNON
+We might be able to find something to pry it open, but it'll take time.
+131)  CHRISTA
+We don't have time! Omid needs that medicine! We have to get it open NOW!
+132)  LEE
+Do you think shooting it open would work?
+133)  VERNON
+Only thing that would accomplish is getting us all killed. So, no, I don't.
+134)  CHRISTA
+[quiet crying]
+135)  
+Can we bust it open?
+136)  
+Where else could we look?
+137)  
+Can we guess the combination?
+138)  LEE
+{ThinkingB}Maybe we should try looking somewhere else for medicine.
+139)  VERNON
+{AngryA}In Crawford? This place is too overrun. No, that safe is our best chance.
+140)  LEE
+{ThinkingA}Can we just guess the combination?
+141)  VERNON
+{AngryA}It's a four digit code. You do the math.
+142)  VERNON
+[sighs]{SadA}It'd be a hell of a lot quicker if we just knew the four digit combination.
+143)  VERNON
+[sighs]{SadA}It'd be a hell of a lot quicker if we just knew the four digit combination.
+144)  VERNON
+[sighs]{SadA}It'd be a hell of a lot quicker if we just knew the four digit combination.
+156)  LOGAN
+[reconsidering][pickup] Now if you like you can take some time with this, but I need you to come back no later than tomorrow. Or I'll have no choice but to inform Oberson myself. I'm sorry.
+157)  ANNA
+[stabbing the doctor in one move]Uhg!
+158)  LOGAN
+[pickup] [heavy breathing after being stabbed]
+159)  
+Camcorder
+160)  
+Safe
+161)  
+Medical File
+162)  
+Sonogram
+163)  
+Tape
+190)  
+Tape
+191)  
+Tape
+192)  
+Tape
+193)  
+Tape
+194)  
+Tape
+204)  
+Tape
+164)  
+Tapes
+165)  
+Blood
+166)  
+Watch
+167)  
+Hallway Door
+168)  LEE
+[lookat][to himself]Don't even wanna think about how much weight I've lost in the last few months.
+169)  LEE
+[lookat][to himself]Already cleaned out.
+170)  LEE
+[lookat]What about in here?
+171)  CHRISTA
+[pickup][preoccupied]Already looked. Empty.
+172)  LEE
+[lookat]Empty.
+173)  LEE
+Y'all already checked these drawers?
+174)  CHRISTA
+[pickup][preoccupied]Yes, Lee. Nothing in there worth taking.
+175)  LEE
+[to himself]Nothing in here, I guess.
+176)  LEE
+[to himself]It's the school's intercom system.
+177)  LEE
+[lookat][to himself]Not working.
+178)  LEE
+[lookat]Phones probably haven't worked in months.
+179)  LEE
+[lookat]Check those file cabinets?
+180)  VERNON
+[pickup]Yeah, but it looks like the files were being stored somewhere else.
+181)  LEE
+[lookat]Nothing in there.
+182)  LEE
+[lookat][to himself, morbidly amused while looking at a poster]The food pyramid. As if we have a choice, now.
+183)  LEE
+[lookat][to himself]I'll have to take time to rest later. I think.
+184)  LEE
+[lookat][to himself, looking at some milk cartons]WAY past the expiration date.
+185)  LEE
+[lookat][to himself]What is this, a copy machine? Not that it matters with no power around here.
+186)  LEE
+[lookat][to himself, looking at the water cooler]Bone dry.
+187)  LEE
+[lookat][to himself]Nothin'.
+188)  LEE
+[lookat][looking at various papers]Just a bunch of medical terms I don't understand. But nothing that looks like a combination.
+189)  LEE
+[lookat]Lots of words. But no numbers.
+195)  
+First Aid Kit
+196)  
+Clock
+197)  
+Drawers
+198)  
+Bed
+199)  
+Copier
+200)  
+Phone
+201)  
+Papers
+202)  LEE
+[pickup]Just a bunch of papers. No safe combination, though.
+203)  LEE
+[pickup][to himself, discovering it for the first time]A videotape.

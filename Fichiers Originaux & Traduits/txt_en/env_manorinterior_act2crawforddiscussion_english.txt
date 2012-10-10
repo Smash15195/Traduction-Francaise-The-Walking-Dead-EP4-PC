@@ -1,0 +1,534 @@
+1)  CHRISTA
+{AngryA}Why are you even still here?
+2)  VERNON
+{SadA}As well as can be expected under the circumstances. I did what I could for him, cleaned out the wound. {ThinkingA}But he’s got a real infection, running a fever. Without antibiotics...
+3)  KENNY
+[sighs] {SadA}You want the good news or the bad news?
+4)  LEE
+{ThinkingA}Omid’s doing okay?
+5)  MOLLY
+{AngryA}Hey, if your friend really can get that boat working, you’re taking me with you as payment for saving your asses. {ThinkingA}I figure that’s fair enough, don’t you?
+6)  MOLLY
+{AngryA}Will you quit pacing? You’re making everyone nervous.
+7)  LEE
+{ThinkingB}Well?
+8)  
+The good news.
+9)  
+The bad news
+18)  
+The bad news
+10)  LEE
+{SadA}I think we could all use some good news.
+11)  CHRISTA
+{DisgustA}Mostly?
+12)  KENNY
+{SadA}Good news is the boat’s seaworthy enough. In pretty good shape, mostly.
+13)  KENNY
+That’s the bad news. {SadB}Gas tank’s empty and her battery’s dead. We need to fix both before she’s taking us any place.
+14)  KENNY
+{ThinkingA}That’s it, that’s all she needs, some gas and a battery. Other than that she’s good to go.
+15)  LEE
+So what’s the good news?
+16)  KENNY
+{SadB}Bad news is she’s not taking us anywhere the shape she’s in right now. Gas tank’s empty and the battery’s dead.
+17)  LEE
+{ThinkingB}Let’s get the bad news out of the way first.
+19)  KENNY
+{AngryA}Guess that was too tough a question, so I'll make it easy for ya.
+20)  CHRISTA
+{ThinkingA}Well how are we supposed to get that stuff?
+191)  CHRISTA
+{ThinkingA}Well how are we supposed to get that stuff?
+21)  LEE
+Beats me. My job's to fix the boat, and I was kinda hoping y'all would have some ideas about where to look.
+22)  
+Let’s search the house again.
+23)  MOLLY
+Forget it. I’ve been over every inch of this place. Trust me, if I didn’t find it, it’s not there to be found.
+24)  LEE
+Maybe we should search the house again. I mean really search it this time. We’ll turn it upside down if we have to.
+25)  
+Let’s search the streets.
+192)  
+Let’s search the streets.
+26)  
+We should just stay put.
+197)  
+We should just stay put.
+27)  LEE
+{ThinkingA}We should go back out on the street, see what we can find.
+193)  LEE
+{ThinkingA}We should go back out on the street, see what we can find.
+28)  MOLLY
+{AngryA}That’s not going to work. Crawford took everything and brought it inside their walls. They siphoned every gas tank, stripped every battery. {AngryB}There’s nothing left out there, you saw that for yourselves.
+194)  MOLLY
+{AngryA}That’s not going to work. Crawford took everything and brought it inside their walls. They siphoned every gas tank, stripped every battery. {AngryB}There’s nothing left out there, you saw that for yourselves.
+29)  VERNON
+{NormalB}She’s right.
+195)  VERNON
+{NormalB}She’s right.
+30)  KENNY
+{AngryB}Plus, I don’t like the idea of just sitting around here waiting for whoever’s been stalking us on the radio to pay us a visit.
+200)  KENNY
+{AngryB}Plus, I don’t like the idea of just sitting around here waiting for whoever’s been stalking us on the radio to pay us a visit.
+31)  MOLLY
+{AngryA}That’s the least of your problems. Crawford’s been known to send out scouting parties from time to time. If those guys find you here... let’s just say I’ll be long gone if that happens.
+201)  MOLLY
+{AngryA}That’s the least of your problems. Crawford’s been known to send out scouting parties from time to time. If those guys find you here... let’s just say I’ll be long gone if that happens.
+32)  LEE
+{ThinkingB}Maybe we should just stay put, reconsider our options. That boat’s not going anywhere, we just need some time to figure out a plan.
+198)  LEE
+{ThinkingB}Maybe we should just stay put, reconsider our options. That boat’s not going anywhere, we just need some time to figure out a plan.
+33)  CHRISTA
+[pickup2]{AngryB}Time’s the one thing we don’t have! Not while Omid’s lying upstairs getting sicker by the minute. We need to do something, and we need to do it now!
+199)  CHRISTA
+[pickup2]{AngryB}Time’s the one thing we don’t have! Not while Omid’s lying upstairs getting sicker by the minute. We need to do something, and we need to do it now!
+34)  
+What about Crawford?
+203)  
+What about Crawford?
+35)  CHRISTA
+{AngryB}What the hell kind of a place are we talking about here?
+209)  CHRISTA
+{AngryB}What the hell kind of a place are we talking about here?
+36)  MOLLY
+{DisbeliefA}The worst kind. [beat] But I don’t see what other choice we have.
+210)  MOLLY
+{DisbeliefA}The worst kind. [beat] But I don’t see what other choice we have.
+37)  KENNY
+{AngryA}And just how exactly do you figure we do this?
+211)  KENNY
+{AngryA}And just how exactly do you figure we do this?
+38)  VERNON
+{AngryB}Now hold on a minute. I don’t think you have any idea what that place is like, or you wouldn’t even be suggesting it.
+206)  VERNON
+{AngryB}Now hold on a minute. I don’t think you have any idea what that place is like, or you wouldn’t even be suggesting it.
+39)  CHRISTA
+{AngryA}Surely we have to try. If there are people left in this city who are still alive, who still have supplies... what harm can it do to ask?
+207)  CHRISTA
+{AngryA}Surely we have to try. If there are people left in this city who are still alive, who still have supplies... what harm can it do to ask?
+40)  LEE
+{ThinkingB}Sounds like Crawford is the one place that has everything we need. Maybe we should try there.
+151)  LEE
+{ThinkingB}Sounds like Crawford is the one place that has everything we need. Maybe we should try there.
+204)  LEE
+{ThinkingB}Sounds like Crawford is the one place that has everything we need. Maybe we should try there.
+41)  VERNON
+{SadA}Trust me, you don’t know these people. I do. You show up there with a wounded man and a child, you’re putting a noose around their necks. Maybe your own, too.
+42)  KENNY
+{ThinkingA}Because from what I’ve heard that place ain’t exactly friendly to outsiders.
+212)  KENNY
+{ThinkingA}Because from what I’ve heard that place ain’t exactly friendly to outsiders.
+43)  MOLLY
+That's putting it mildly.
+213)  MOLLY
+That's putting it mildly.
+44)  
+We negotiate.
+220)  
+We negotiate.
+45)  
+We take what we need by force.
+223)  
+We take what we need by force.
+46)  
+We sneak in.
+47)  
+We sneak in.
+230)  
+We sneak in.
+48)  VERNON
+{ThinkingA}Negotiate? With Crawford? {AngryA}Once again I have to remind you, you have no idea what these people are like! They’ll take what they want and then decide whether or not to let any of you live.
+222)  VERNON
+{ThinkingA}Negotiate? With Crawford? {AngryA}Once again I have to remind you, you have no idea what these people are like! They’ll take what they want and then decide whether or not to let any of you live.
+49)  LEE
+{NormalB}We negotiate with them like civilized people. We must have something they’d be interested in taking in trade.
+221)  LEE
+{NormalB}We negotiate with them like civilized people. We must have something they’d be interested in taking in trade.
+50)  LEE
+{AngryA}We’re armed and we’ve got the numbers. I say we just go in there and take what we need by force.
+224)  LEE
+{AngryA}We’re armed and we’ve got the numbers. I say we just go in there and take what we need by force.
+51)  MOLLY
+{DisbeliefA}Okay, that is literally the dumbest idea I have ever heard. Crawford’s like a goddamn military base, {AngryA}they’ve got hundreds of people in there armed to the teeth, and that perimeter’s guarded day and night. {DisbeliefB}You’re gonna have to be smarter than that.
+225)  MOLLY
+{DisbeliefA}Okay, that is literally the dumbest idea I have ever heard. Crawford’s like a goddamn military base, {AngryA}they’ve got hundreds of people in there armed to the teeth, and that perimeter’s guarded day and night. {DisbeliefB}You’re gonna have to be smarter than that.
+52)  VERNON
+[pickup]{ThinkingA}Maybe we can be. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+226)  VERNON
+[pickup]{ThinkingA}Maybe we can be. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+53)  MOLLY
+Okay, that’s not bad. That's better.
+189)  MOLLY
+Okay, that’s not bad. That's better.
+218)  MOLLY
+Okay, that’s not bad. That's better.
+229)  MOLLY
+Okay, that’s not bad. That's better.
+54)  VERNON
+I’ve thought about it before, just never had the people to do it. But I think if we all work together, we could pull it off.
+61)  VERNON
+I’ve thought about it before, just never had the people to do it. But I think if we all work together, we could pull it off.
+55)  KENNY
+[skeptical] And what do you want in return for all this help you’re giving us?
+56)  VERNON
+Crawford doesn’t just have what you need for your boat, they’re also well-stocked with medical supplies. Medicine that my people could use, just as yours could.
+63)  VERNON
+Crawford doesn’t just have what you need for your boat, they’re also well-stocked with medical supplies. Medicine that my people could use, just as yours could.
+57)  CHRISTA
+[suddenly hopeful] We can do this. We have to!
+64)  CHRISTA
+[suddenly hopeful] We can do this. We have to!
+58)  LEE
+{AngryA}There’s got to be some way we can sneak in there undetected.
+231)  LEE
+{AngryA}There’s got to be some way we can sneak in there undetected.
+59)  VERNON
+{ThinkingA}There might actually be a way. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+66)  VERNON
+{ThinkingA}There might actually be a way. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+232)  VERNON
+{ThinkingA}There might actually be a way. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+60)  MOLLY
+{ThinkingB}That’s actually not the worst idea I’ve ever heard. I mean it’s close. But I don’t know... maybe it could work.
+72)  MOLLY
+{ThinkingB}That’s actually not the worst idea I’ve ever heard. I mean it’s close. But I don’t know... maybe it could work.
+219)  MOLLY
+{ThinkingB}That’s actually not the worst idea I’ve ever heard. I mean it’s close. But I don’t know... maybe it could work.
+235)  MOLLY
+{ThinkingB}That’s actually not the worst idea I’ve ever heard. I mean it’s close. But I don’t know... maybe it could work.
+62)  KENNY
+And what are you want in return? Because that boat’s not big enough to take all of us.
+65)  KENNY
+{AngryA}So, what, no-one has any ideas?
+214)  KENNY
+{AngryA}So, what, no-one has any ideas?
+67)  MOLLY
+That’s actually not the worst idea I’ve ever heard. It’s close, but not quite. I don’t know, maybe it could work.
+68)  VERNON
+{ThinkingA}I’ve thought about it before, just never had the people to do it. But I think if we all work together, we could pull it off.
+69)  KENNY
+[skeptical] {AngryA}And what do you want in return for all this help you’re giving us?
+70)  VERNON
+{NormalA}Crawford doesn’t just have what you need for your boat, they’re also well-stocked with medical supplies. {NormalB}Medicine that my people could use, just as yours could.
+71)  CHRISTA
+[suddenly hopeful] {HappyA}We can do this. We have to!
+73)  CLEMENTINE
+{FearB}Crawford.
+74)  BEN
+{FearA}Are we seriously talking about this? I mean, what about the risk?
+75)  CHRISTA
+{FearA}Be careful.
+76)  LEE
+{AngryA}Anyone else have a problem with this plan? Because we’re gonna need every one of us to pull this off.
+77)  VERNON
+{FearA}We should go tonight, under cover of dark. I'll go let my people know, give you all a chance to prepare. I’ll be back before midnight.
+78)  LEE
+{ThinkingB}Is what going to be dangerous?
+79)  VERNON
+{SadA}That’s how I’m still alive.
+80)  KENNY
+{AngryA}I don’t know about you, kid, but I’d rather take a chance on doing something than just sitting around here waiting to die. {AngryB}That boat out there’s an answered prayer, we just gotta push a little bit farther. Are you in or out?
+134)  KENNY
+{AngryA}I don’t know about you, kid, but I’d rather take a chance on doing something than just sitting around here waiting to die. {AngryB}That boat out there’s an answered prayer, we just gotta push a little bit farther. Are you in or out?
+137)  KENNY
+{AngryA}I don’t know about you, kid, but I’d rather take a chance on doing something than just sitting around here waiting to die. {AngryB}That boat out there’s an answered prayer, we just gotta push a little bit farther. Are you in or out?
+139)  KENNY
+{AngryA}I don’t know about you, kid, but I’d rather take a chance on doing something than just sitting around here waiting to die. {AngryB}That boat out there’s an answered prayer, we just gotta push a little bit farther. Are you in or out?
+81)  MOLLY
+I used to watch them from one of the bell towers just outside the perimeter. I’ve seen them carrying all kinds of stuff into that old Catholic School off of the town square. I think they’re using it as some kind of supply depot. There’s a good chance we’ll find what we need in there.
+82)  LEE
+{AngryA}I told you to stay in your room. How long have you been there?
+83)  CLEMENTINE
+{FearA}Is it going to be dangerous?
+84)  LEE
+{ThinkingA}How do we even know where they store their supplies?
+85)  
+Yes, it’ll be dangerous.
+86)  
+No, don’t worry.
+87)  LEE
+{SadA}I can’t lie to you, Clem. Yeah, it’s gonna be dangerous. {ThinkingB}But it’s the only way to get the things we need to make Omid better, and get the boat working. That’s why we have to do this. Do you understand?
+88)  CLEMENTINE
+{SadB}I don’t want anyone else to die.
+142)  CLEMENTINE
+{SadB}I don’t want anyone else to die.
+89)  LEE
+{FearA}No-one else is going to die. I promise.
+162)  LEE
+{FearA}No-one else is going to die. I promise.
+90)  CLEMENTINE
+{SadA}You can’t promise that.
+91)  LEE
+{SadB}No, I guess I can’t. Sorry.
+164)  LEE
+{SadB}No, I guess I can’t. Sorry.
+92)  LEE
+{ThinkingB}No, don’t worry. We have a good plan and good people. {NormalB}We’ll be in and out before they even know we were there. You trust me, don’t you?
+93)  CLEMENTINE
+[brightening a little] {ThinkingA}Yeah.
+94)  LEE
+{HappyA}That’s my girl.
+95)  CLEMENTINE
+{ThinkingA}I guess I should go get ready.
+96)  LEE
+It’s your bedtime yet, you can stay up a little longer.
+97)  CLEMENTINE
+I mean get ready to go to Crawford.
+98)  LEE
+{ThinkingB}Say what now?
+99)  CLEMENTINE
+{NormalB}You said you’d need all of us to do this. And you said I’m a big help, remember?
+100)  LEE
+[stymied] {DisgustA}Yeah, but- I mean, that’s not-
+101)  CLEMENTINE
+{ThinkingA}Molly said Crawford is the only place left in Savannah that still has people. That means it must be where my mom and dad are, right?
+102)  LEE
+[stuck for an answer] ...I guess.
+103)  CLEMENTINE
+I want to find them! That’s all I’ve ever wanted! I have to go with you! Please?
+104)  LEE
+{ThinkingB}Clementine, I think it’d be safer for you to stay here with Omid.
+105)  CLEMENTINE
+{SadA}But what if something happens to him while you’re gone?
+244)  CLEMENTINE
+{SadA}But what if something happens to him while you’re gone?
+106)  LEE
+{ThinkingA}What do you mean?
+107)  CLEMENTINE
+{FearA}He’s sick. If he doesn’t get better, and... you know. He might try to hurt me.
+242)  CLEMENTINE
+{FearA}He’s sick. If he doesn’t get better, and... you know. He might try to hurt me.
+108)  
+No. I'm sorry.
+109)  
+Yes. You can come.
+110)  LEE
+{AngryA}I know. I haven’t forgotten. I promise to look for them while I’m there. If I find them, I’ll bring them back with me.
+111)  CLEMENTINE
+{FearA}You don’t know what they look like.
+112)  CLEMENTINE
+{NormalB}Oh.
+113)  CLEMENTINE
+[sad] {SadB}But my mom and dad...
+114)  LEE
+{NormalB}Sure I do. I saw their picture when I was at your house, remember?
+115)  LEE
+{FearA}I’m sorry, Clem. Where I’m going, it’s just too dangerous. For children especially. Omid will be fine, we’ll be back before he gets any worse.
+243)  LEE
+{FearA}I’m sorry, Clem. Where I’m going, it’s just too dangerous. For children especially. Omid will be fine, we’ll be back before he gets any worse.
+116)  LEE
+{ThinkingB}It’s going to be okay, Clem. I promise, I’ll be back before you know it. Okay?
+117)  CLEMENTINE
+[disappointed] {SadA}Okay.
+118)  CLEMENTINE
+Okay. I'm gonna go get ready.
+119)  CLEMENTINE
+{ThinkingA}Stay close to you.
+120)  LEE
+{ThinkingA}And what else? The golden rule?
+121)  LEE
+[smiles] {ThinkingB}Stay close to me.
+122)  LEE
+{FearA}Okay, you can come. But you have to promise to stay quiet and do exactly what you’re told the whole time we’re there.
+123)  CLEMENTINE
+[excited] {HappyA}Okay!
+124)  
+How's Omid doing?
+125)  
+Christa, how are you holding up?
+126)  
+What's taking Kenny so long?
+127)  LEE
+[to himself]{DisgustA}What's taking Kenny so damn long? How hard can it be to look over a boat?
+128)  
+Everyone okay with this?
+129)  
+How do we know where to look?
+130)  
+Let's do it.
+131)  BEN
+[nervous]{FearA}Man, I don't know...
+132)  LEE
+Are we sure about this? We're taking a bit risk here.
+133)  BEN
+[nervous]Oh god...
+135)  LEE
+{ThinkingB}We can do this. I know it.
+136)  KENNY
+{AngryA}Hell yeah we can.
+138)  KENNY
+{NormalB}So... it's decided then? We're going to Crawford?
+140)  
+I don't know.
+143)  
+I don't know.
+141)  LEE
+{FearA}I can't lie to you Clem. I just don't know.
+144)  
+I'll look for them.
+145)  
+They won't be in Crawford.
+146)  
+That's not important right now.
+147)  LEE
+{ThinkingA}Christa, how are you holding up?
+148)  CHRISTA
+{SadA}I'm okay. Vernon did what he could for Omid. But he's got a real infection and he's running a hell of a fever. {SadB}I'm worried if we don't get some real medicine in him soon...
+149)  CHRISTA
+{ThinkingA}It'll take as long as it takes, Lee.
+150)  CHRISTA
+{ThinkingA}So what’s the good news?
+152)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+153)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+154)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+155)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+196)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+202)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+205)  CHRISTA
+{ThinkingA}Well, what about this Crawford place? Sounds like they'd have everything we need. Maybe we should try there.
+156)  VERNON
+I know the sewer system that runs beneath Crawford like the back of my hand. I think I could lead us through so we could pass under the perimeter and come up in the center of the town, where they keep their supplies. We could grab what we need and be back underground before anyone even knows we were there.
+157)  VERNON
+I know the sewer system that runs beneath Crawford like the back of my hand. I think I could lead us through so we could pass under the perimeter and come up in the center of the town, where they keep their supplies. We could grab what we need and be back underground before anyone even knows we were there.
+158)  VERNON
+I know the sewer system that runs beneath Crawford like the back of my hand. I think I could lead us through so we could pass under the perimeter and come up in the center of the town, where they keep their supplies. We could grab what we need and be back underground before anyone even knows we were there.
+159)  
+No one else is going to die.
+160)  
+Neither do I.
+161)  
+That could happen.
+163)  CLEMENTINE
+{AngryA}That's like the promise you made to me after Duck died. But you can't really promise that, can you?
+165)  LEE
+{ThinkingB}Neither do I, Clem. But sometimes we have to take that kind of risk.
+166)  LEE
+{ThinkingB}That could happen. But we have to take that risk, because it's just as dangerous not to.
+167)  LEE
+{SadA}I don't think I'll find them in Crawford, sweet pea.
+236)  LEE
+{SadA}I don't think I'll find them in Crawford, sweet pea.
+168)  LEE
+Well... {HappyA}they raised you, didn't they?
+247)  LEE
+Well... {HappyA}they raised you, didn't they?
+169)  LEE
+{ThinkingB}Because they're good people. And Crawford is a bad place, run by bad people. I don't think they would have stayed in a place like that.
+238)  LEE
+{ThinkingB}Because they're good people. And Crawford is a bad place, run by bad people. I don't think they would have stayed in a place like that.
+170)  CLEMENTINE
+{FearA}How do you know they're good, you've never met them?
+239)  CLEMENTINE
+{FearA}How do you know they're good, you've never met them?
+171)  CLEMENTINE
+{SadB}Why not?
+237)  CLEMENTINE
+{SadB}Why not?
+172)  CLEMENTINE
+[sadly] It seems like there's always something more important...
+173)  LEE
+Clementine, we're going to Crawford to do a job. To find the things we need to get the boat working and make Omid better. That's what we have to focus on.
+174)  
+Omid needs you here.
+177)  
+Omid needs you here.
+175)  CLEMENTINE
+{SadB}And, my mom and dad...
+176)  
+Okay, you can come.
+178)  CLEMENTINE
+[disappointed]{SadB}You don't think I should go, do you?
+179)  CLEMENTINE
+[disappointed]{SadB}You don't think I should go, do you?
+180)  VERNON
+[pickup]Trust me, you don’t know these people. I do. You showing up with a wounded man? Might as well put a noose around his neck. They don't exactly welcome children with open arms, either.
+264)  VERNON
+[pickup]Trust me, you don’t know these people. I do. You showing up with a wounded man? Might as well put a noose around his neck. They don't exactly welcome children with open arms, either.
+181)  LEE
+[pickup]But you need to promise me you'll stay safe. Okay?
+182)  VERNON
+[pickup] Trust me. You don't know these people, I do. You show up there, you're putting a noose around your neck.
+208)  VERNON
+[pickup] Trust me. You don't know these people, I do. You show up there, you're putting a noose around your neck.
+183)  LEE
+[pickup]Yeah, actually...
+186)  LEE
+[pickup]Yeah, actually...
+187)  LEE
+[pickup]Yeah, actually...
+216)  LEE
+[pickup]Yeah, actually...
+227)  LEE
+[pickup]Yeah, actually...
+233)  LEE
+[pickup]Yeah, actually...
+184)  VERNON
+[pickup] {SadA}I think I could lead us through so we could pass under the perimeter and right into the center, where they keep their supplies. {ThinkingA}We come up right underneath them, take them by surprise, grab what we need and get out before they even knew what hit them.
+188)  VERNON
+[pickup] {SadA}I think I could lead us through so we could pass under the perimeter and right into the center, where they keep their supplies. {ThinkingA}We come up right underneath them, take them by surprise, grab what we need and get out before they even knew what hit them.
+217)  VERNON
+[pickup] {SadA}I think I could lead us through so we could pass under the perimeter and right into the center, where they keep their supplies. {ThinkingA}We come up right underneath them, take them by surprise, grab what we need and get out before they even knew what hit them.
+228)  VERNON
+[pickup] {SadA}I think I could lead us through so we could pass under the perimeter and right into the center, where they keep their supplies. {ThinkingA}We come up right underneath them, take them by surprise, grab what we need and get out before they even knew what hit them.
+185)  VERNON
+[pickup]{NormalC}I think I could lead us through so we could pass under the perimeter and come up in the center of the town, where they keep their supplies. We could grab what we need and be back underground before anyone even knows we were there.
+234)  VERNON
+[pickup]{NormalC}I think I could lead us through so we could pass under the perimeter and come up in the center of the town, where they keep their supplies. We could grab what we need and be back underground before anyone even knows we were there.
+190)  VERNON
+There might actually be a way. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+215)  VERNON
+There might actually be a way. I know the sewer system that runs beneath Crawford like the back of my hand.  Y'all wouldn't happen to have a map by any chance?
+240)  
+I don't think they'll be there.
+241)  
+It might be safer here with Omid.
+245)  
+It's dangerous for children.
+246)  CLEMENTINE
+{thinkinga}Can’t I come with you?
+248)  CLEMENTINE
+{thinkinga}Can’t I come with you?
+251)  CLEMENTINE
+{thinkinga}Can’t I come with you?
+252)  CLEMENTINE
+{thinkinga}Can’t I come with you?
+249)  LEE
+Where I’m going, it’s just too dangerous. For children especially.
+250)  CLEMENTINE
+[a little upset] You said I’m supposed to {SadB}always stay close to you.
+253)  LEE
+No.
+255)  LEE
+No.
+254)  LEE
+{sadB}I'm sorry.
+256)  CLEMENTINE
+Please, Lee.
+257)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+258)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+259)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+260)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+261)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+262)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+263)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+265)  MOLLY
+{DisbeliefA}Okay, that is literally the dumbest idea I have ever heard. {DisbeliefB}You’re gonna have to be smarter than that.
+266)  VERNON
+{AngryB}Now hold on a minute.
+267)  VERNON
+{ThinkingA}Negotiate? With Crawford? They’ll take what they want and then decide whether or not to let any of you live.
