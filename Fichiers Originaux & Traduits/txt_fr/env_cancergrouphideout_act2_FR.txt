@@ -1,0 +1,426 @@
+1)  VERNON
+[calm/non-confrontational] {thinkingA}Qui êtes-vous?
+2)  
+Je ne veux pas de problèmes.
+3)  
+Je pourrais vous demander la même chose.
+4)  
+Personne.
+7)  LEE
+{fearA}Je ne veux pas de problèmes.
+8)  VERNON
+[pickup][nervous, voice trembling slightly]Nous non plus. {disgustA}C'est pourquoi vous feriez mieux de faire demi-tour et partir. M-Maintenant.
+9)  LEE
+{angryA}Je pourrais vous poser la même question.
+10)  VERNON
+[pickup][nervous, voice a little shakey]{angryA}Vous avez fait intrusion chez nous. {surprisedA}Et je suis celui qui tient le flingue. {angryA}Alors je vous le demande à nouveau. {disgustA}Qui êtes-vous?
+11)  LEE
+{thinkingA}Personne, je suis juste perdu, {sadA}et j'essaye de rentrer chez moi.
+12)  VERNON
+[pickup][nervous]{thinkingA}Ouais, eh bien, vous avez du prendre une mauvaise route. {angryA}Ici c'est chez NOUS. Et vous n'êtes pas bienvenu.
+13)  VERNON
+[more agitated, nervous] {disgustA}Je vous ai demandé : qui êtes-vous?
+14)  VERNON
+[more agitated, nervous] {disgustA}Je vous ai demandé : qui êtes-vous?
+15)  LEE
+{thinkingA}Ecoutez, je suis vraiement désolé de vous avoir dérangés.{surpriseA} Je vais m'en aller.
+16)  BRIE
+{angryC}Tu ne peux pas le laisser partir.{angryD} Il vient de Crawford! S'il y retourne et qu'il les informe de notre présence ici...
+17)  VERNON
+[pickup][nervous, voice tremivling]{disgustA}Etes-vous de Crawford? Ne-Ne me mentez pas, je le saurai !
+18)  LEE
+{sadA}Non, je n'ai rien à voir avec tout ça, je le promets.
+19)  BRIE
+{angryD}Conneries !
+20)  LEE
+{thinkingA}Je ne suis pas d'ici. {normalB}Je suis d'Athens, j'ai grandi à Macon.
+21)  VERNON
+[softening/concerned] {happyA}J'ai un frère à Macon. {fearB}Vous y étiez ? Comment ça se passe là-bas ? Aussi mal qu'ici?
+22)  LEE
+[grim] {sadB}Je suis désolé.
+23)  BRIE
+[still highly suspicious] {angryC}Tu ne peux pas avoir confiance en lui, Vernon. {angryD}Tu ne peux pas le laisser partir.
+24)  VERNON
+[pickup][nervous, shakey] {fearD}Que-Que veux-tu que je fasse ? Lui tirer dans la tête ?
+25)  BRIE
+{angryB}Pourquoi pas? {angryC}Ce serait déjà plus de pitié que celle montrée par ceux de Crawford à notre égard. {fearC}Réfléchis, Vernon! Que penses-tu qu'ils feront s'ils découvrent que nous sommes cachés ici, juste en-dessous de leurs pieds ?
+26)  VERNON
+[a grim resolve] {angryA}Merde, tu as raison. {sadB}Je suis désolé mon ami, je ne peux pas prendre ce risque.
+27)  
+Il faut qu'on en parle.
+29)  
+Il faut qu'on en parle.
+28)  
+[Threaten him]
+31)  LEE
+{normalD}Ecoutez, vous ne voulez pas vraiment faire ça. {fearC}Parlons-en, OK?
+32)  VERNON
+[pickup][nervous]{angryA}Parler de quoi? {angryB}Vous ne nous dites même pas comment vous vous appelez.
+33)  LEE
+{fearA}Mon nom est Lee. Je suis professeur d'histoire. Et je ne veux pas mourir aujourd'hui. {thinkingA}Et je ne pense pas non plus que vous vouliez me tuer.
+34)  VERNON
+[pickup][nervous]{fearD}Ne. N'approchez pas  {disgustA}ou je tire !
+35)  LEE
+[calm/negotiating] {happyB}Du calme, prenons juste le temps d'en parler.
+36)  BRIE
+[increasingly agitated] {fearC}Vernon, qu'est-ce que tu fais ? Tue-le!
+37)  LEE
+{fearA}Personne ne doit mourir. Il faut qu'on se calme.
+38)  LEE
+[totally genuine] Il y a une petite fille là-haut qui compte sur moi. Elle s'appelle Clémentine. Elle a 8 ans. Elle n'a plus que moi. Si je ne reviens pas... [too painful to contemplate] Si vous me tuez, vous la tuez également.
+39)  BRIE
+[panicking] Ne l'écoute pas, il essaye de t'embrouiller ! Tue-le !
+40)  LEE
+{fearA}Ca va. C'est OK.
+41)  BRIE
+{fearC}Vernon, bon sang, que fais-tu?!
+42)  BRIE
+{angryD}Vernon!
+43)  LEE
+Relax. Je vous ai dit que je ne voulais pas de problèmes.
+134)  LEE
+Relax. Je vous ai dit que je ne voulais pas de problèmes.
+44)  LEE
+{thinkingA}Relax. Je ne suis pas ici pour blesser quelqu'un.
+45)  LEE
+{surpriseA}Tu me menaces, vieux débris? {angryB}Parce que tu ne vas pas aimer ce qui va ce passer. {angryC}Dépose ce putain de flingue avant que je me fâche vraiment !
+46)  BRIE
+{fearA}Il bluffe.
+47)  LEE
+{angryC}Ah vous croyez ? Essayez pour voir.
+48)  LEE
+[voice rising, threatening] J'ai une petite fille là-haut qui dépend de moi. Si vous pensez que je ne ferai pas tout pour la rejoindre, c'est une grosse erreur.
+49)  VERNON
+[nervous/afraid] {angryB}Reculez ou je jure que je vais tirer !
+139)  VERNON
+[nervous/afraid] {angryB}Reculez ou je jure que je vais tirer !
+140)  VERNON
+[nervous/afraid] {angryB}Reculez ou je jure que je vais tirer !
+50)  LEE
+{thinkingB}Non. Je ne pense pas. Je reconnais un tueur quand je le vois. {angryA}Tu en es loin. {angryB}Tu n'aurais pas le cran. [barking] {angryD}Dépose ce putain de flingue. MAINTENANT.
+51)  BRIE
+{fearC}Mon Dieu. Vernon, qu'as-tu fait ?
+52)  LEE
+Vous avez pris la bonne décision.
+53)  LEE
+Ca va maintenant.
+54)  BRIE
+{fearC}Je te l'ai dit, c'est un menteur! Il est des leurs! {angryD}Tue-le avant qu'il ne nous tue tous!
+55)  LEE
+Mais qui êtes-vous ?
+56)  VERNON
+[pickup][still a little nervious]{fearB}Vous n'êtes vraiment pas de Crawford?
+57)  LEE
+{normalD}Non. Vraiment pas.
+58)  VERNON
+[pickup][reluctantly] {fearA}Eh bien... nous le sommes. Ou l'étions. {fearB}Nous nous sommes échappés quand ils ont commencé à fermer les lieux, {disgustA}à se débarrasser des vieux et des malades pour que leur parfaite société de survivants ne soit pas menacée. {angryA}Il n'y a pas de place pour la faiblesse ou la vulnérabilité dans leur petite race supérieure.
+59)  LEE
+{thinkingA}Vous n'avez pas l'air si vieux. Vous êtes ... malade ?
+196)  LEE
+{thinkingA}Vous n'avez pas l'air si vieux. Vous êtes ... malade ?
+60)  BRIE
+J'étais malade. Nous appartenons tous à un groupe de survivants du cancer qui se rencontrait ici à l'hôpital.
+187)  VERNON
+J'étais malade. Nous appartenons tous à un groupe de survivants du cancer qui se rencontrait ici à l'hôpital.
+61)  VERNON
+{thinkingA}Nous sommes en rémission. Mais ça n'a pas suffit pour Crawford. {normalA}Ils avaient déjà descendu 5 de nos membres avant que le reste parvienne à descendre se cacher ici. Cette vieille installation a été abandonnnée depuis des années.
+62)  LEE
+{thinkingA}C'est quoi ici, une morgue?
+200)  LEE
+{thinkingA}C'est quoi ici, une morgue?
+63)  VERNON
+{thinkingA}Oui. C'est assez ironique d'avoir trouvé cet endroit comme lieu de survie. Comment avez-vous fait pour arriver ici ?
+64)  LEE
+{normalD}Une partie des miens s'est retrouvée coincé par des marcheurs dans la rue, je suis descendu ici pour essayer de m'échapper. {sadA}Maintenant je veux juste sortir d'ici pour les retrouver.
+65)  VERNON
+{happyA}Ce système d'égout parcourt toute la ville, {happyB}il vous mènera n'importe où.
+146)  VERNON
+{happyA}Ce système d'égout parcourt toute la ville, {happyB}il vous mènera n'importe où.
+149)  VERNON
+{happyA}Ce système d'égout parcourt toute la ville, {happyB}il vous mènera n'importe où.
+160)  VERNON
+{happyA}Ce système d'égout parcourt toute la ville, {happyB}il vous mènera n'importe où.
+66)  
+Je me débrouillerai bien tout seul.
+67)  
+Pourriez-vous me montrer le bon chemin pour rentrer ?
+68)  BOYD
+Vern, you’re not just going to let him go back out there alone, are you? Those sewers are like a maze, he’s got no chance of finding his way back without a guide.
+212)  BOYD
+Vern, you’re not just going to let him go back out there alone, are you? Those sewers are like a maze, he’s got no chance of finding his way back without a guide.
+69)  BRIE
+He found his way here easily enough, didn’t he?
+70)  LEE
+I wouldn’t exactly call it easy. You know, maybe I could use a little help.
+71)  VERNON
+{sadB}Look, I’d like to help you. But we’ve all got our own problems. Two of our group are sick and need constant care. And I’m the only doctor here.
+162)  VERNON
+{sadB}Look, I’d like to help you. But we’ve all got our own problems. Two of our group are sick and need constant care. And I’m the only doctor here.
+72)  BRIE
+{angryC}Besides, why should we help you?
+161)  BRIE
+{angryC}Besides, why should we help you?
+204)  BRIE
+{angryC}Besides, why should we help you?
+213)  BRIE
+{angryC}Besides, why should we help you?
+73)  LEE
+{thinkingB}Those sewers are like a damn maze. Any chance you could help me find my way back?
+74)  VERNON
+Look, I’d like to help you. But we’ve all got our own problems. Two of our group are sick and need constant care. And I’m the only doctor here.
+75)  BRIE
+Besides, why should we help you?
+76)  
+If you don’t, I’ll kill you.
+77)  LEE
+{normalD}Look, I’m sorry if I scared you. {normalA}I just want to get back to my people. {fearA}Back to Clementine.
+78)  VERNON
+{sadB}She’s your daughter?
+79)  
+Yes
+80)  
+No
+81)  LEE
+{fearA}Yeah. She’s probably already wondering where I am.
+82)  VERNON
+{thinkingA}Well we can’t have that, can we?
+83)  BRIE
+{fearC}Vern, what the hell are you doing?
+84)  VERNON
+{sadA}It’s all right, Brie. [to Lee] I had a daughter too.{sadB} Lost her in the first days. {disgustA}I’ll be damned if I’ll just sit back and let that happen to someone else.
+85)  CLIVE
+We need you here!
+90)  CLIVE
+We need you here!
+217)  CLIVE
+We need you here!
+86)  VERNON
+{normalC}Don’t worry. {happyB}I’ll be back before you know it. [to Lee] Let’s go see about your daughter.
+87)  LEE
+{sadA}No. She lost her real parents. I’m doing what I can.
+88)  BRIE
+{fearB}You’re not seriously considering going with him.
+215)  BRIE
+{fearB}You’re not seriously considering going with him.
+89)  VERNON
+{sadA}It’s all right, Brie. [to Lee] I had a daughter.{sadB}  Lost her in the first days. {disgustA}I’ll be damned if I’ll just sit back and let that happen to some other little girl.
+216)  VERNON
+{sadA}It’s all right, Brie. [to Lee] I had a daughter.{sadB}  Lost her in the first days. {disgustA}I’ll be damned if I’ll just sit back and let that happen to some other little girl.
+91)  VERNON
+{normalC}Don’t worry.{happyB} I’ll be back before you know it. [to Lee] Let’s go.
+218)  VERNON
+{normalC}Don’t worry.{happyB} I’ll be back before you know it. [to Lee] Let’s go.
+92)  LEE
+{fearA}If you’ve got sick people here, maybe I can help. Our group has medical supplies.
+93)  VERNON
+{thinkingA}What kind of medical supplies?
+94)  LEE
+{fearA}I don’t know, all kinds. I’m sure there’s something you could use. {happyA}We’d be happy to trade some for a guide back to where we’re staying.
+95)  BOYD
+Vern. We need medicine. Joyce is in a lot of pain, I can’t bear to see her like this. Maybe it’s worth the risk.
+96)  VERNON
+{thinkingA}Maybe so.
+100)  VERNON
+{thinkingA}Maybe so.
+97)  BRIE
+{AngryD}Vernon, you can’t trust him.{FearD} He burst into our home and threatened us, and now he just happens to have exactly that we need? {angryD}He’s lying.
+101)  BRIE
+{AngryD}Vernon, you can’t trust him.{FearD} He burst into our home and threatened us, and now he just happens to have exactly that we need? {angryD}He’s lying.
+98)  VERNON
+{angryA}Sorry, friend. But Brie’s right.{thinkingA} Maybe if you’d handled yourself different. But as things stand, I can’t help you.
+102)  VERNON
+{angryA}Sorry, friend. But Brie’s right.{thinkingA} Maybe if you’d handled yourself different. But as things stand, I can’t help you.
+99)  LEE
+We have a man wounded back where we’re staying. He could use a doctor.
+103)  VERNON
+How badly wounded? He’s not bitten is he? Because you know...
+120)  VERNON
+How badly wounded? He’s not bitten is he? Because you know...
+104)  LEE
+He’s not bitten. He busted his leg when he took a fall. If you’re a doctor, we could sure use your help.
+119)  LEE
+He’s not bitten. He busted his leg when he took a fall. If you’re a doctor, we could sure use your help.
+105)  BRIE
+{fearA}You’re not seriously considering going with him.
+123)  BRIE
+{fearA}You’re not seriously considering going with him.
+106)  VERNON
+He conducted himself like a gentleman. And I took an oath.
+122)  VERNON
+He conducted himself like a gentleman. And I took an oath.
+107)  BRIE
+Vern. Don’t do this. Please. We need you.
+124)  BRIE
+Vern. Don’t do this. Please. We need you.
+108)  VERNON
+Don’t worry. I’ll be back before you know it. [to Lee] Let’s go.
+121)  VERNON
+Don’t worry. I’ll be back before you know it. [to Lee] Let’s go.
+109)  VERNON
+No. I’m sorry. Maybe if you hadn’t barged in here and scared the hell out of my people the way you did. But I’ve seen too many like you to risk trusting you.
+125)  VERNON
+No. I’m sorry. Maybe if you hadn’t barged in here and scared the hell out of my people the way you did. But I’ve seen too many like you to risk trusting you.
+110)  VERNON
+{happyA}It’s all right, Brie.
+111)  LEE
+{thinkingA}You can either show me the way back, or die right here. {angryA}What’s it gonna be?
+112)  BRIE
+[fuming] {angryD}You son of a bitch.
+113)  LEE
+{angryA}Sorry, but it’s like you said, we’ve all got our own problems.
+114)  LEE
+[gesturing with his gun, menacing]{normalB}Because this is your other option.
+115)  LEE
+{normalB}Deal.
+116)  VERNON
+{happyB}I’ll show you the way back to your people. {angryA}And then I hope I never see you again.
+117)  LEE
+[gesturing with his gun, menacing]{normalD}I guess this is your only other option, then.
+118)  LEE
+[pleading]{fearA}No, wait, listen to me.
+126)  LEE
+{thinkingA}Thanks, I think I can figure out my own way back.
+127)  BRIE
+{angryB}Where else can he be from? Everywhere else around here is dead.
+128)  VERNON
+[menacing]{angryB}I think you'd better start talkin'.
+129)  LEE
+{thinkingA}I came here with a small group hoping to find a boat. {normalD}We just want to get out of here. {thinkingA}How about you just let me go?
+130)  VERNON
+[pickup]{happyB}[cold, hopeless]Ain't no boats around here. {angryA}Crawford took everything.
+131)  LEE
+{normalD}Look, I got cornered down here. {sadA}All I want is to get back out to the streets and find my group.
+133)  BRIE
+See?!
+135)  LEE
+{thinkingB}Yeah, I heard.
+136)  
+I'm not from Crawford.
+137)  LEE
+[calm/negotiating]{thinkingA}I’m not from Crawford, but I saw what they did up there. {disgustB}It made me sick. {normalD}I’m not like them. And I don’t think you are either. {sadA}I think you’re a good man.
+138)  
+There's a girl who needs me.
+141)  LEE
+{angryA}Now, tell me. Who the hell are you people?
+142)  
+Walkers.
+143)  
+We were looking for a boat.
+144)  LEE
+I told you...
+145)  LEE
+{normalD}My group and I were up by the river looking for a boat. Now I just want to just get out of here and find them again.
+147)  
+That's not important.
+148)  LEE
+{angryA}That's not important right now. {thinkingA}What's important to me is that I get back to my own people.
+151)  VERNON
+[pickup] {thinkingA}Unless... {surprisedA}is anyone in your group sick? Or injured?
+152)  LEE
+[pickup] 	{SadA}Yeah. We got a man hurt pretty bad.
+153)  VERNON
+{sadB}I took an oath, Brie.
+154)  
+I'm not from around here.
+155)  
+We're just looking for a boat.
+156)  
+I'm just trying to get out of here.
+157)  
+We can help you, we have medicine. [LIE]
+158)  
+I have to get back to Clementine.
+159)  VERNON
+{thinkingA}If you don't want to answer our questions {disgustA}I think it's best you leave.
+163)  VERNON
+{SadA}You're not going to be able get out of here on your own. But we’ve all got our own problems. {sadB}Two of our group are sick and need constant care. And I’m the only doctor here.
+211)  VERNON
+{SadA}You're not going to be able get out of here on your own. But we’ve all got our own problems. {sadB}Two of our group are sick and need constant care. And I’m the only doctor here.
+164)  BRIE
+[panicking] {fearC}Vern, what are you doing?
+165)  VERNON
+[calm/confident] {disgustA}Sorry friend, I'm not buying it.
+166)  VERNON
+{normalA}I've seen my share of murderers since this all started. Seen too many.  If he was the type to do violence he'd have done it already. [to Lee] {angryA}I'm calling your bluff. Your move.
+167)  CLIVE
+[pickup] [sounds too much like Fennoy, this is a black guy but it's not Lee, can we get someone else to read this?] We need you here!
+168)  VERNON
+{happyA}Don't worry. I'll be alright.
+169)  
+Gun
+170)  LEE
+[lookat][softly, amazed]{thinkingB}What the hell...
+219)  LEE
+[lookat][softly, amazed]{thinkingB}What the hell...
+171)  LEE
+[lookat]{normalD}Must've been one of those old nuclear fallout shelters.
+220)  LEE
+[lookat]{normalD}Must've been one of those old nuclear fallout shelters.
+172)  LEE
+[lookat]{surpriseB}Look at all this. It's enough to keep people alive for months.
+173)  LEE
+[lookat]{thinkingA}Wonder how much of this was left down here from the 60's.
+174)  LEE
+[lookat]{thinkingA}This would be enough to keep everyone at the house fed for a while. {normalD}If only I could GET to the house.
+175)  LEE
+[lookat]{surpriseA}Wonder if someone's living down here.
+176)  LEE
+[lookat]{thinkingA}If someone IS staying here, I don't wanna be around when they get back.
+177)  LEE
+[lookat]{normalB}Locked.
+178)  LEE
+[lookat]{normalD}That's where I came in.
+189)  LEE
+[lookat]{normalD}That's where I came in.
+179)  
+Look At
+180)  
+Exit
+181)  LEE
+[lookat][quitely]{thinkingB}Shit. Those things are still out there.
+182)  LEE
+[lookat][softly]{fearA}Maybe it's time I find a way out of here.
+183)  
+Door
+206)  
+Door
+184)  
+Food
+207)  
+Food
+185)  
+Beds
+208)  
+Beds
+186)  
+Drawers
+209)  
+Drawers
+188)  
+Grab
+190)  
+Calmly Take
+191)  LEE
+[pickup] {thinkingA}Guess you'll just have to take my word for it. Who the hell are you people?
+192)  VERNON
+[pickup][nervous]{angryA}Why should we tell you anything?
+193)  VERNON
+[pickup][nervous]{thinkingA}You say you're not from Crawford, but you sure as hell act like it.
+194)  LEE
+[pickup] {angryA}Because now I'm the one holding the gun. Start talking.
+195)  VERNON
+[pickup] [grudgingly]{fearA} We are from Crawford. Or were. {fearB}We got out of there when they started sealing up the place, {disgustA}started weeding out the sick and the old so their perfect survivor society wouldn’t be threatened. [bitter] {angryA}No room for weakness or vulnerability in their little master race.
+197)  VERNON
+[pickup] [grudgingly] {thinkingA}Were sick. We belonged to a cancer survivors group that used to meet at the hospital here. Now we're in remission. But that wasn't good enough for Crawford. {normalA}They'd already rounded up five of us before we managed to hole up and hide down here.
+198)  LEE
+[pickup] {angryA}My friend here asked you a question.
+199)  VERNON
+[pickup][nervous]{thinkingA}Yeah, irony's always top of my list when I'm looking for a place to survive. Now I don't care if you have a gun or not, I want to know how you found your way down here.
+201)  VERNON
+[pickup] You expect us to help you, after the way you busted in here and terrorized us?
+202)  LEE
+[pickup] Hey, if I got in your face a little that's too bad. All this shit that's gone down has made us all a little punchy. I just want to get home.
+203)  VERNON
+[pickup] I hear you. But we've all got our own problems. Two of our people are sick and need constant care. And I'm the only doctor here.
+205)  VERNON
+[pickup][nervous, voice trembling]Who... who are you?
