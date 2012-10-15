@@ -1,0 +1,534 @@
+1)  CHRISTA
+{AngryA}Et vous êtes encore là ?
+2)  VERNON
+{SadA}Autant que possible vu la situation. J'ai fait ce que j'ai pu, j'ai désinfecté la plaie. {ThinkingA}Mais il est vraiment infecté, il a de la fièvre. Et sans antibiotiques...
+3)  KENNY
+[sighs] {SadA}Vous voulez la bonne ou la mauvaise nouvelle ?
+4)  LEE
+{ThinkingA}Comment va Omid ?
+5)  MOLLY
+{AngryA}Hey, si votre ami peut vraiment faire fonctionner ce bateau, alors je viendrai avec vous, c'est le tarif à payer pour vous avoir sauvé. {ThinkingA}Je pense que c'est honnête, non ?
+6)  MOLLY
+{AngryA}Vous allez arrêter de gigoter ? Vous énervez tout le monde.
+7)  LEE
+{ThinkingB}Alors ?
+8)  
+La bonne nouvelle.
+9)  
+La mauvaise nouvelle.
+18)  
+La mauvaise.
+10)  LEE
+{SadA}Je crois qu'une bonne nouvelle nous ferait du bien.
+11)  CHRISTA
+{DisgustA}A peu près ?
+12)  KENNY
+{SadA}La bonne c'est que le bateau est utilisable. Il est à peu près en état.
+13)  KENNY
+Ca c'est la mauvaise. {SadB}Le réservoir est vide et la batterie est morte. Il faut se charger de ça avant d'aller où que ce soit.
+14)  KENNY
+{ThinkingA}Voilà tout, il lui faut simplement de l'essence et une batterie. A part ça il est prêt à larguer les amarres.
+15)  LEE
+Alors c'est quoi la bonne nouvelle ?
+16)  KENNY
+{SadB}La mauvaise c'est qu'en l'état personne n'ira nulle part. Le réservoir est vide et la batterie est morte.
+17)  LEE
+{ThinkingB}Débarrassons-nous de la mauvaise nouvelle.
+19)  KENNY
+{AngryA}Bon on dirait que c'est une question un peu difficile, alors je vais vous faciliter les choses.
+20)  CHRISTA
+{ThinkingA}Et comment on est censé se les procurer ?
+191)  CHRISTA
+{ThinkingA}Et comment on est censé se les procurer ?
+21)  LEE
+J'en sais rien. Mon boulot c'est de réparer ce bateau, et j'espérais que vous auriez des idées sur où chercher.
+22)  
+Fouillons encore la maison.
+23)  MOLLY
+Laissez tomber. J'ai fouillé chaque recoin de cette maison. Croyez-moi, si je n'ai rien trouvé, c'est qu'il n'y a rien ici.
+24)  LEE
+On devrait peut-être fouiller encore la maison. La fouiller de fond en comble. Quitte à la retourner s'il le faut.
+25)  
+Allons fouiller dans les rues.
+192)  
+Allons fouiller dans les rues.
+26)  
+On devrait rester ici.
+197)  
+On devrait rester ici.
+27)  LEE
+{ThinkingA}On devrait retrouner dehors, voir ce qu'on peut trouver.
+193)  LEE
+{ThinkingA}On devrait retrouner dehors, voir ce qu'on peut trouver.
+28)  MOLLY
+{AngryA}Ca ne marchera pas. Les types de Crawford ont tout ramené dans leur camp. Ils ont siphoné chaque réservoir, retiré chaque batterie. {AngryB}Il n'y a plus rien là-bas, comme vous avez pu le constater.
+194)  MOLLY
+{AngryA}Ca ne marchera pas. Les types de Crawford ont tout ramené dans leur camp. Ils ont siphoné chaque réservoir, retiré chaque batterie. {AngryB}Il n'y a plus rien là-bas, comme vous avez pu le constater.
+29)  VERNON
+{NormalB}Elle a raison.
+195)  VERNON
+{NormalB}Elle a raison.
+30)  KENNY
+{AngryB}En plus, je n'ai pas envie de rester planté ici en attendant que je-ne-sais-qui qui nous a espionnés nous rende une visite.
+200)  KENNY
+{AngryB}En plus, je n'ai pas envie de rester planté ici en attendant que je-ne-sais-qui qui nous a espionnés nous rende une visite.
+31)  MOLLY
+{AngryA}Ca c'est pas un problème. Les gars de Carwford envoient des éclaireurs de temps en temps. Si ces types vous trouvent... disons que je serai loin si ça devait arriver.
+201)  MOLLY
+{AngryA}Ca c'est pas un problème. Les gars de Carwford envoient des éclaireurs de temps en temps. Si ces types vous trouvent... disons que je serai loin si ça devait arriver.
+32)  LEE
+{ThinkingB}On devrait peut-être rester ici, et reconsidérer nos choix. Ce bateau ne va pas se volatiliser, il nous faut un peu plus de temps pour élaborer un plan.
+198)  LEE
+{ThinkingB}On devrait peut-être rester ici, et reconsidérer nos choix. Ce bateau ne va pas se volatiliser, il nous faut un peu plus de temps pour élaborer un plan.
+33)  CHRISTA
+[pickup2]{AngryB}C'est bien du temps dont on manque ! L'état d'Omid s'aggrave à chaque minute. Il faut qu'on fasse quelque chose, et vite !
+199)  CHRISTA
+[pickup2]{AngryB}C'est bien du temps dont on manque ! L'état d'Omid s'aggrave à chaque minute. Il faut qu'on fasse quelque chose, et vite !
+34)  
+Et Crawford ?
+203)  
+Et Crawford ?
+35)  CHRISTA
+{AngryB}Mais c'est quel genre d'endroit ?
+209)  CHRISTA
+{AngryB}Mais c'est quel genre d'endroit ?
+36)  MOLLY
+{DisbeliefA}La pire espèce. [beat] Mais je ne vois pas d'autres solutions.
+210)  MOLLY
+{DisbeliefA}La pire espèce. [beat] Mais je ne vois pas d'autres solutions.
+37)  KENNY
+{AngryA}Et comment on s'y prend au juste ?
+211)  KENNY
+{AngryA}Et comment on s'y prend au juste ?
+38)  VERNON
+{AngryB}Euh, une minute. Vous n'avez aucune idée de ce qu'il s'agit, car sinon vous n'y penseriez même pas.
+206)  VERNON
+{AngryB}Euh, une minute. Vous n'avez aucune idée de ce qu'il s'agit, car sinon vous n'y penseriez même pas.
+39)  CHRISTA
+{AngryA}Il faut qu'on essaie. S'il y a encore des gens en vie dans cette ville, des gens qui ont du matériel... où est le mal à leur demander ?
+207)  CHRISTA
+{AngryA}Il faut qu'on essaie. S'il y a encore des gens en vie dans cette ville, des gens qui ont du matériel... où est le mal à leur demander ?
+40)  LEE
+{ThinkingB}On dirait bien qu'on trouvera tout ce dont on a besoin à Crawford. On devrait essayer là-bas.
+151)  LEE
+{ThinkingB}On dirait bien qu'on trouvera tout ce dont on a besoin à Crawford. On devrait essayer là-bas.
+204)  LEE
+{ThinkingB}On dirait bien qu'on trouvera tout ce dont on a besoin à Crawford. On devrait essayer là-bas.
+41)  VERNON
+{SadA}Croyez-moi, vous ne connaissez pas ces gens. Moi oui. Vous vous pointez là-bas avec un blessé et une fillette, c'est comme si vous leur passiez la corde au cou. Ainsi qu'à vous.
+42)  KENNY
+{ThinkingA}Parce que d'après ce que j'en ai entendu, cet endroit est pas vraiment du genre amical.
+212)  KENNY
+{ThinkingA}Parce que d'après ce que j'en ai entendu, cet endroit est pas vraiment du genre amical.
+43)  MOLLY
+C'est rien de le dire.
+213)  MOLLY
+C'est rien de le dire.
+44)  
+On négocie.
+220)  
+On négocie.
+45)  
+On prend ce dont on a besoin par la force.
+223)  
+On prend ce dont on a besoin par la force.
+46)  
+On se faufile dans leur camp.
+47)  
+On se faufile dans leur camp.
+230)  
+On se faufile dans leur camp.
+48)  VERNON
+{ThinkingA}On négocie ? A Crawford? {AngryA}Une fois de plus je vous rappelle que vous n'avez aucune idée de qui sont ces gens ! Ils prendront ce qu'ils veulent et décideront ensuite s'ils vous laissent en vie ou non.
+222)  VERNON
+{ThinkingA}On négocie ? A Crawford? {AngryA}Une fois de plus je vous rappelle que vous n'avez aucune idée de qui sont ces gens ! Ils prendront ce qu'ils veulent et décideront ensuite s'ils vous laissent en vie ou non.
+49)  LEE
+{NormalB}On négocie avec eux comme des gens civilisés. On a sûrement quelque chose à échanger qui les intéressera.
+221)  LEE
+{NormalB}On négocie avec eux comme des gens civilisés. On a sûrement quelque chose à échanger qui les intéressera.
+50)  LEE
+{AngryA}On est armés et nombreux. On se rend là-bas et on se sert.
+224)  LEE
+{AngryA}On est armés et nombreux. On se rend là-bas et on se sert.
+51)  MOLLY
+{DisbeliefA}Et bien c'est l'idée la plus débile que j'ai jamais entendue. Crawford est comme une putain de base militaire, {AngryA}ils sont des centaines là-dedans, armés jusqu'aux dents, et ils gardent leur périmètre jour et nuit. {DisbeliefB}Il va falloir être plus malin que ça.
+225)  MOLLY
+{DisbeliefA}Et bien c'est l'idée la plus débile que j'ai jamais entendue. Crawford est comme une putain de base militaire, {AngryA}ils sont des centaines là-dedans, armés jusqu'aux dents, et ils gardent leur périmètre jour et nuit. {DisbeliefB}Il va falloir être plus malin que ça.
+52)  VERNON
+[pickup]{ThinkingA}Il y a moyen. Je connais le réseau des égoûts de Crawford comme ma poche.  Vous n'auriez pas une carte à tout hasard ?
+226)  VERNON
+[pickup]{ThinkingA}Il y a moyen. Je connais le réseau des égoûts de Crawford comme ma poche.  Vous n'auriez pas une carte à tout hasard ?
+53)  MOLLY
+En effet c'est pas mal. C'est mieux.
+189)  MOLLY
+En effet c'est pas mal. C'est mieux.
+218)  MOLLY
+En effet c'est pas mal. C'est mieux.
+229)  MOLLY
+En effet c'est pas mal. C'est mieux.
+54)  VERNON
+J'y ai déjà réfléchi, mais jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
+61)  VERNON
+J'y ai déjà réfléchi, mais jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
+55)  KENNY
+[skeptical] Et que voulez-vous en échange de votre aide ?
+56)  VERNON
+En plus du matériel pour votre bateau, il y a aussi beaucoup de matériel médical à Carwford. Des médicaments que mes amis pourraient prendre, tout comme les vôtres.
+63)  VERNON
+En plus du matériel pour votre bateau, il y a aussi beaucoup de matériel médical à Carwford. Des médicaments que mes amis pourraient prendre, tout comme les vôtres.
+57)  CHRISTA
+[suddenly hopeful] On peut le faire. On doit le faire !
+64)  CHRISTA
+[suddenly hopeful] On peut le faire. On doit le faire !
+58)  LEE
+{AngryA}Il doit y avoir moyen de s'infiltrer dans leur camp.
+231)  LEE
+{AngryA}Il doit y avoir moyen de s'infiltrer dans leur camp.
+59)  VERNON
+{ThinkingA}Il peut y avoir moyen. Je connais le réseau des egoûts de Crawford comme ma poche.  Vous n'auriez pas une carte à tout hasard ?
+66)  VERNON
+{ThinkingA}Il peut y avoir moyen. Je connais le réseau des egoûts de Crawford comme ma poche.  Vous n'auriez pas une carte à tout hasard ?
+232)  VERNON
+{ThinkingA}Il peut y avoir moyen. Je connais le réseau des egoûts de Crawford comme ma poche.  Vous n'auriez pas une carte à tout hasard ?
+60)  MOLLY
+{ThinkingB}En fait c'est pas la pire idée du monde. Enfin c'est pas loin. Mais je ne sais pas... ça pourrait marcher.
+72)  MOLLY
+{ThinkingB}En fait c'est pas la pire idée du monde. Enfin c'est pas loin. Mais je ne sais pas... ça pourrait marcher.
+219)  MOLLY
+{ThinkingB}En fait c'est pas la pire idée du monde. Enfin c'est pas loin. Mais je ne sais pas... ça pourrait marcher.
+235)  MOLLY
+{ThinkingB}En fait c'est pas la pire idée du monde. Enfin c'est pas loin. Mais je ne sais pas... ça pourrait marcher.
+62)  KENNY
+Et vous voulez quoi en retour ? Parce que ce bateau est trop petit pour tous nous emmener.
+65)  KENNY
+{AngryA}Et bien, quoi, personne n'a d'idée ?
+214)  KENNY
+{AngryA}Et bien, quoi, personne n'a d'idée ?
+67)  MOLLY
+En fait c'est pas la pire idée du monde. Enfin c'est pas loin. Mais je ne sais pas... ça pourrait marcher.
+68)  VERNON
+{ThinkingA}J'y ai déjà réfléchi, mais jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
+69)  KENNY
+[skeptical] {AngryA}Et que voulez-vous en échange de votre aide ?
+70)  VERNON
+{NormalA}En plus du matériel pour votre bateau, il y a aussi beaucoup de matériel médical à Carwford. {NormalB}Des médicaments que mes amis pourraient prendre, tout comme les vôtres.
+71)  CHRISTA
+[suddenly hopeful] {HappyA}On peut le faire. On doit le faire !
+73)  CLEMENTINE
+{FearB}Crawford.
+74)  BEN
+{FearA}Vous êtes sérieux ? Je veux dire, c'est dangereux ?
+75)  CHRISTA
+{FearA}Faites attention.
+76)  LEE
+{AngryA}Quelqu'un d'autre n'est pas d'accord avec ce plan? Parce qu'on va avoir besoin de tout le monde pour y arriver.
+77)  VERNON
+{FearA}On devrait y aller ce soir. Je vais le dire à mon groupe, ça vous laissera le temps de vous préparer. Je reviendrai avant minuit.
+78)  LEE
+{ThinkingB}Qu'est-ce qui est dangereux ?
+79)  VERNON
+{SadA}C'est comme ça que je suis toujours en vie.
+80)  KENNY
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+134)  KENNY
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+137)  KENNY
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+139)  KENNY
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+81)  MOLLY
+Je les surveillais du haut des clochers juste à côté de leur clôture. Je les ai vus transporter toute sorte de matériels dans l'ancienne école privée à côté du jardin public. Je crois qu'ils s'en servent comme d'un entrepôt. Il y a des chances pour qu'on trouve ce qu'on cherche là-bas.
+82)  LEE
+{AngryA}Je t'ai dit de rester dans ta chambre. Depuis quand es-tu ici ?
+83)  CLEMENTINE
+{FearA}Est-ce que ça va être dangereux ?
+84)  LEE
+{ThinkingA}Et comment est-ce qu'on devine où ils cachent leurs fournitures ?
+85)  
+Oui, ça va être dangereux.
+86)  
+Non, ne t'inquiète pas.
+87)  LEE
+{SadA}Je ne peux pas te mentir, Clém. Ouais, ça va être dangereux. {ThinkingB}Mais c'est la seule façon d'avoir les affaires pour soigner Omid, et réparer le bateau. C'est pour ça qu'on doit le faire. Tu comprends ?
+88)  CLEMENTINE
+{SadB}Je veux plus que d'autres gens meurent.
+142)  CLEMENTINE
+{SadB}Je veux plus que d'autres gens meurent.
+89)  LEE
+{FearA}Personne ne mourra. Je te le promets.
+162)  LEE
+{FearA}Personne ne mourra. Je te le promets.
+90)  CLEMENTINE
+{SadA}Tu peux pas promettre ça.
+91)  LEE
+{SadB}Non, tu as raison. Désolé.
+164)  LEE
+{SadB}Non, tu as raison. Désolé.
+92)  LEE
+{ThinkingB}Non, ne t'inquiète pas. On a un bon plan, avec des bonnes personnes. {NormalB}On entrera et on repartira avant qu'ils ne nous aient vus. Tu me crois, hein ?
+93)  CLEMENTINE
+[brightening a little] {ThinkingA}Ouais.
+94)  LEE
+{HappyA}Gentille fille.
+95)  CLEMENTINE
+{ThinkingA}Je vais aller me préparer.
+96)  LEE
+C'est pas encore l'heure d'aller au lit, tu peux rester un peu plus.
+97)  CLEMENTINE
+Je veux dire me préparer pour Crawford.
+98)  LEE
+{ThinkingB}Quoi ?
+99)  CLEMENTINE
+{NormalB}Tu as dit qu'on devait tous traviller ensemble. Et tu as dit que j'étais vraiment utile tu te souviens ?
+100)  LEE
+[stymied] {DisgustA}Ouais, mais -enfin- non.
+101)  CLEMENTINE
+{ThinkingA}Molly a dit que Crawford est le dernier endroit de Savannah où il y a des gens en vie. Ca veut dire que ça doit être là que sont mon papa et ma maman, hein ?
+102)  LEE
+[stuck for an answer] ...je crois.
+103)  CLEMENTINE
+Je veux les retrouver ! C'est tout ce que je veux ! Je dois venir avec toi ! Je peux ?
+104)  LEE
+{ThinkingB}Clémentine, c'est plus sage que tu restes ici avec Omid.
+105)  CLEMENTINE
+{SadA}Et si quelque chose lui arrive pendant que tu es parti ?
+244)  CLEMENTINE
+{SadA}Et si quelque chose lui arrive pendant que tu es parti ?
+106)  LEE
+{ThinkingA}Comment ça ?
+107)  CLEMENTINE
+{FearA}Il est malade. S'il ne va pas mieux, et si... tu vois ce que je veux dire. Il pourrait m'attaquer.
+242)  CLEMENTINE
+{FearA}Il est malade. S'il ne va pas mieux, et si... tu vois ce que je veux dire. Il pourrait m'attaquer.
+108)  
+Non. Je suis désolé.
+109)  
+Oui. Tu peux venir.
+110)  LEE
+{AngryA}Je sais. Je n'ai pas oublié. Je te promets que je les chercherai pendant que je suis là-bas. Et si je les trouve, je les ramènerai avec moi.
+111)  CLEMENTINE
+{FearA}Tu ne sais pas à quoi ils ressemblent.
+112)  CLEMENTINE
+{NormalB}Oh.
+113)  CLEMENTINE
+[sad] {SadB}Mais mon papa et ma maman...
+114)  LEE
+{NormalB}Bien sûr que si. J'ai vu leur photo dans ta maison, tu te rappelles ?
+115)  LEE
+{FearA}Je suis désolé Clém. Là où je vais, c'est trop dangereux. Surtout pour les enfants. Omid va s'en tirer, on sera de retour avant que son état ne s'aggrave.
+243)  LEE
+{FearA}Je suis désolé Clém. Là où je vais, c'est trop dangereux. Surtout pour les enfants. Omid va s'en tirer, on sera de retour avant que son état ne s'aggrave.
+116)  LEE
+{ThinkingB}Tout ira bien, Clém. Je te le promets, je serai de retour avant que tu aies le temps de dire ouf. D'accord ?
+117)  CLEMENTINE
+[disappointed] {SadA}D'accord.
+118)  CLEMENTINE
+D'accord. Je vais me préparer.
+119)  CLEMENTINE
+{ThinkingA}Rester près de toi.
+120)  LEE
+{ThinkingA}Et quoi d'autre ? La règle d'or ?
+121)  LEE
+[smiles] {ThinkingB}Rester près de moi.
+122)  LEE
+{FearA}Très bien, tu peux venir. Mais tui vas me promettre de rester sage et de faire exactement ce que je te dis pendant tout le voyage.
+123)  CLEMENTINE
+[excited] {HappyA}D'accord !
+124)  
+Comment va Omid ?
+125)  
+Christa, comment ça va ?
+126)  
+Qu'est-ce qu'il fout Kenny ?
+127)  LEE
+[to himself]{DisgustA}Mais qu'est-ce qu'il fout Kenny ? C'est si long que ça d'inspecter un bateau ?
+128)  
+Ca convient à tout le monde ?
+129)  
+Comment savoir où chercher ?
+130)  
+Allons-y.
+131)  BEN
+[nervous]{FearA}Et ben, j'en sais rien...
+132)  LEE
+Est-ce qu'on en est certains ? C'est une sacrée prise de risque.
+133)  BEN
+[nervous]Oh mon Dieu...
+135)  LEE
+{ThinkingB}On peut le faire. J'en suis sûr.
+136)  KENNY
+{AngryA}Et comment qu'on peut.
+138)  KENNY
+{NormalB}Donc... c'est décidé ? On va à Crawford ?
+140)  
+J'en sais rien.
+143)  
+J'en sais rien.
+141)  LEE
+{FearA}Je ne vais pas te mentir Clém. J'en sais rien.
+144)  
+Je vais les chercher.
+145)  
+Ils ne seront pas à Crawford.
+146)  
+C'est pas ça qui compte pour l'instant.
+147)  LEE
+{ThinkingA}Christa, comment ça va ?
+148)  CHRISTA
+{SadA}Je vais bien. Vernon a fait ce qu'il a pu pour Omid. Mais il est vraiment infecté et a une fièvre de cheval. {SadB}Je vais vraiment m'inquiéter si on ne lui trouve pas de médicaments rapidement...
+149)  CHRISTA
+{ThinkingA}Ca prendra le temps que ça prendra, Lee.
+150)  CHRISTA
+{ThinkingA}Alors c'est quoi la bonne nouvelle ?
+152)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+153)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+154)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+155)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+196)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+202)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+205)  CHRISTA
+{ThinkingA}Et bien, pourquoi pas ce quartier, Crawford ? On dirait bien qu'ils disposent de tout ce dont on a besoin. On devrait essayer là-bas.
+156)  VERNON
+Je connais le système d'égoûts de Crawford comme ma poche. Je pense que je pourrai nous guider pour qu'on passe sous leur clotûre et remonter au centre, là où ils gardent leurs réserves. On pourra prendre ce qu'on veut et revenir par le même chemin avant qu'ils ne se rendent compte de quoi que ce soit.
+157)  VERNON
+Je connais le système d'égoûts de Crawford comme ma poche. Je pense que je pourrai nous guider pour qu'on passe sous leur clotûre et remonter au centre, là où ils gardent leurs réserves. On pourra prendre ce qu'on veut et revenir par le même chemin avant qu'ils ne se rendent compte de quoi que ce soit.
+158)  VERNON
+Je connais le système d'égoûts de Crawford comme ma poche. Je pense que je pourrai nous guider pour qu'on passe sous leur clotûre et remonter au centre, là où ils gardent leurs réserves. On pourra prendre ce qu'on veut et revenir par le même chemin avant qu'ils ne se rendent compte de quoi que ce soit.
+159)  
+Personne d'autre ne mourra.
+160)  
+Moi non plus.
+161)  
+Ca pourrait arriver.
+163)  CLEMENTINE
+{AngryA}C'est comme la promesse que tu m'as faite quand Duck est mort. Mais tu ne peux pas vraiment promettre ça n'est-ce pas ?
+165)  LEE
+{ThinkingB}Moi non plus, Clem. Mais parfois on doit prendre ce genre de risques.
+166)  LEE
+{ThinkingB}Ca pourrait arriver. Mais on doit courir ce risque parce que c'est tout aussi dangereux de ne rien faire.
+167)  LEE
+{SadA}Je ne pense pas qu'on les trouvera à Crawford, ma puce.
+236)  LEE
+{SadA}Je ne pense pas qu'on les trouvera à Crawford, ma puce.
+168)  LEE
+Et bien... {HappyA}ils t'ont élevée n'est-ce pas ?
+247)  LEE
+Et bien... {HappyA}ils t'ont élevée n'est-ce pas ?
+169)  LEE
+{ThinkingB}Parce que ce sont des gentils. Et Crawford est un endroit malsain, avec des méchantes personnes. Je ne crois pas qu'ils seraient restés dans un endroit pareil.
+238)  LEE
+{ThinkingB}Parce que ce sont des gentils. Et Crawford est un endroit malsain, avec des méchantes personnes. Je ne crois pas qu'ils seraient restés dans un endroit pareil.
+170)  CLEMENTINE
+{FearA}Comment tu sais qu'ils sont gentils, tu ne les as jamais vus ?
+239)  CLEMENTINE
+{FearA}HComment tu sais qu'ils sont gentils, tu ne les as jamais vus ?
+171)  CLEMENTINE
+{SadB}Pourquoi ?
+237)  CLEMENTINE
+{SadB}Pourquoi ?
+172)  CLEMENTINE
+[sadly] Il y a toujours quelque chose de plus important...
+173)  LEE
+Clémentine, on a quelque chose à faire à Crawford. On va chercher de quoi réparer le bateau et soigner Omid. C'est ça qui importe.
+174)  
+Omid a besoin de toi.
+177)  
+Omid a besoin de toi.
+175)  CLEMENTINE
+{SadB}Et puis mon papa et ma maman..
+176)  
+Très bien, tu peux venir.
+178)  CLEMENTINE
+[disappointed]{SadB}Tu te dis que je ne devrais pas venir, c'est ça ?
+179)  CLEMENTINE
+[disappointed]{SadB}Tu te dis que je ne devrais pas venir, c'est ça ?
+180)  VERNON
+[pickup]Croyez-moi, vous ne connaissez pas ces gens-là. Moi oui. Vous vous pointez avec un blessé ? Autant lui passer directement la corde au cou. Et ils ne sont pas non plus du genre à accueillir les enfants à bras ouverts.
+264)  VERNON
+[pickup]Croyez-moi, vous ne connaissez pas ces gens-là. Moi oui. Vous vous pointez avec un blessé ? Autant lui passer directement la corde au cou. Et ils ne sont pas non plus du genre à accueillir les enfants à bras ouverts.
+181)  LEE
+[pickup]Mais tu dois me jurer que tu resteras à l'abri, d'accord ?
+182)  VERNON
+[pickup] Croyez-moi, vous ne connaissez pas ces gens-là. Moi oui. Se pointer là-bas c'est du suicide.
+208)  VERNON
+[pickup] Croyez-moi, vous ne connaissez pas ces gens-là. Moi oui. Se pointer là-bas c'est du suicide.
+183)  LEE
+[pickup]Ouais, ben en fait...
+186)  LEE
+[pickup]Ouais, ben en fait...
+187)  LEE
+[pickup]Ouais, ben en fait...
+216)  LEE
+[pickup]Ouais, ben en fait...
+227)  LEE
+[pickup]Ouais, ben en fait...
+233)  LEE
+[pickup]Ouais, ben en fait...
+184)  VERNON
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+188)  VERNON
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+217)  VERNON
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+228)  VERNON
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+185)  VERNON
+[pickup]{NormalC}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+234)  VERNON
+[pickup]{NormalC}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+190)  VERNON
+En fait il y a peut-être une solution. Je connais le réseau d'égoûts sous Crawford comme ma poche. Vous n'auriez pas un plan à tout hasard ?
+215)  VERNON
+En fait il y a peut-être une solution. Je connais le réseau d'égoûts sous Crawford comme ma poche. Vous n'auriez pas un plan à tout hasard ?
+240)  
+Je ne pense pas qu'on les trouvera là-bas.
+241)  
+Tu seras à l'abri avec Omid.
+245)  
+C'est dangereux pour les enfants.
+246)  CLEMENTINE
+{thinkinga}Je ne peux pas venir avec toi ?
+248)  CLEMENTINE
+{thinkinga}Je ne peux pas venir avec toi ?
+251)  CLEMENTINE
+{thinkinga}Je ne peux pas venir avec toi ?
+252)  CLEMENTINE
+{thinkinga}Je ne peux pas venir avec toi ?
+249)  LEE
+Là où je vais, c'est trop dangereux. Surtout pour les enfants.
+250)  CLEMENTINE
+[a little upset] Mais tu dis que je dois toujours {SadB}rester près de toi.
+253)  LEE
+Non.
+255)  LEE
+Non.
+254)  LEE
+{sadB}Désolé.
+256)  CLEMENTINE
+S'il te plaît, Lee.
+257)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+258)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+259)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+260)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+261)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+262)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+263)  <<DATE
+1348098950>>) [jasonEdits]Edited exchange.
+265)  MOLLY
+{DisbeliefA}Et bien, c'est l'idée la plus débile que j'ai jamais entendue. {DisbeliefB}Il va falloir être plus malin que ça.
+266)  VERNON
+{AngryB}Attendez une minute.
+267)  VERNON
+{ThinkingA}On négocie ? A Crawford ? Ils vous prendront ce qu'ils veulent avant de décider de vous laisser en vie ou non.
