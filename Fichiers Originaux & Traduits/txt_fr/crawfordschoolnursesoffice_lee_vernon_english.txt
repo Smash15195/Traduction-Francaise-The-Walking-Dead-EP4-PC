@@ -7,7 +7,7 @@ Oui mais Molly est partie et l'a prise. Elle a dit qu'elle allait revenir, mais 
 4)  LEE
 J'y travaille.
 5)  LEE
-{normalD}Hé Vernon?
+{normalD}Hé, Vernon ?
 6)  LEE
 {normalD}Ca avance ?
 7)  VERNON
@@ -15,13 +15,13 @@ J'y travaille.
 8)  LEE
 {happyA}Je vais voir si je trouve quelque chose qui peut nous aider à ouvrir ce coffre.
 9)  VERNON
-{thinkingA}Ecoute, nous n'avons pas le temps de glander. Il faut ouvrir ce coffre.
+{thinkingA}Ecoute, nous n'avons pas de temps à perdre. Il faut ouvrir ce coffre.
 10)  
 Salut.
 11)  LEE
 {happyA}Molly m'a aidé à récupérer la batterie dont nous avons besoin.
 12)  VERNON
-{thinkingA}Elle est partie .... avec la batterie ?
+{thinkingA}Elle est partie.... avec la batterie ?
 13)  VERNON
 {happyA}C'est super, ça en fait un de récupéré. Où est-elle ?
 14)  VERNON
@@ -31,9 +31,9 @@ Salut.
 16)  LEE
 {normalD}Oui. Ne t'inquiète pas, {thinkingA}elle reviendra.
 17)  LEE
-{fearA}Combien de temps pensez-vous qu'il reste à Omid, doc?
+{fearA}Combien de temps pensez-vous qu'il reste à Omid, doc ?
 18)  VERNON
-{sadB}Vous voulez mon avis médical ? {thinkingA}Au plus vite il aura des antibiotiques puissants pour combattre l'infection, au mieux ce sera. C'est tout ce que je peux dire.
+{sadB}Vous voulez mon avis médical ? {thinkingA}Plus vite il y aura des antibiotiques puissants pour combattre l'infection, au mieux ce sera. C'est tout ce que je peux dire.
 19)  LEE
 {happyA}Hé doc, je voulais vous remercier d'être venu avec nous et pour tout ce que vous faites. J'apprécie vraiment.
 24)  LEE
