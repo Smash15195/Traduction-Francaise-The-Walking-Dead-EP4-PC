@@ -1,0 +1,70 @@
+1)  LEE
+{normalC} Hé, Christa ?
+2)  CHRISTA
+{normalB}Oui ?
+3)  
+Ca avance ?
+4)  
+A propos de Clémentine...
+5)  
+Tu te sens bien ?
+6)  
+Je ferais mieux d'y aller
+7)  
+Attends
+8)  LEE
+{normalD}Ok.
+9)  CHRISTA
+{sadA}Ecoute Lee, je veux simplement retourner chez Omid. Laisse-moi faire ce que je dois, ok ?
+10)  LEE
+{normalD}Christa--
+11)  CHRISTA
+[pickup2]{angryB}Je suis occupée, Lee. Laisse-moi travailler.
+12)  CHRISTA
+[frustrated] {angryA}Non ! {worriedA}Sans la combinaison, je ne sais pas comment nous allons ouvrir ce fichu truc. [fearful] Si nous ne retournons pas rapidement chez Omid avec des médicaments...
+13)  LEE
+{sadA}Ca va. Nous trouverons un moyen.
+14)  LEE
+{fearA}Tu as raison. Je suis désolé.
+26)  LEE
+{fearA}Tu as raison. Je suis désolé.
+15)  CHRISTA
+[insistent] {SadA}Ca n'arrivera pas. {angryA}Tu m'entends ? {angryB}Ca n'arrivera PAS. {angryC}Nous rapporterons ces médicaments à Omid et il ira bien. [upset] Il ira BIEN !
+27)  CHRISTA
+[insistent] {SadA}Ca n'arrivera pas. {angryA}Tu m'entends ? {angryB}Ca n'arrivera PAS. {angryC}Nous rapporterons ces médicaments à Omid et il ira bien. [upset] Il ira BIEN !
+16)  LEE
+{normalD}Parce que la laisser seule avec Omid n'était pas très rassurant.
+17)  CHRISTA
+{thinkingA}Alors pourquoi l'as-tu fait ?
+18)  CHRISTA
+[accusatory] {angryA}Tu veux dire quoi là ?
+19)  LEE
+{SadA}Ne le prends pas mal, Christa, mais Omid est très malade. {fearA}S'il devait mourir, avec Clémentine seule dans cette maison avec lui...
+20)  LEE
+{thinkingA}J'espère que j'ai fait le bon choix en emmenant Clémentine avec nous. {fearA}Cet endroit n'est pas vraiment sûr.
+21)  CHRISTA
+{thinkingA}Pourquoi ne le serait-elle pas ?
+22)  LEE
+{SadA}Je sais, je sais. Je veux juste qu'elle soit en sécurité.
+23)  LEE
+{sadA}J'espère que j'ai fait le bon choix en laissant Clémentine à la maison.
+24)  CHRISTA
+{thinkingA}Que pouvais-tu faire d'autre ? L'emmener dans cette dangereuse mission ?
+25)  LEE
+{sadA}Ne le prends pas mal, Christa, mais Omid est très malade. {fearA}S'il devait mourir, avec Clémentine seule dans cette maison avec lui...
+28)  CHRISTA
+{angryC}Allons, tu as déterré la carcasse d'un chien en décomposition ! {angryB}Je suis étonnée qu'on ne se soit pas TOUS mis à vomir. {sadA}Lee, je vais bien. {SadB}Arrête de t'inquiéter pour moi, ok ? Pense à Omid, nous devons lui amener ces médicaments !
+29)  LEE
+{fearA}Tu as juste l'air un peu pâle depuis quelques jours. Et puis tu as vomi...
+30)  LEE
+{fearA}Tu te sens bien ?
+31)  CHRISTA
+{angryA}Ca va. Pourquoi tu me demandes ça ?
+32)  CHRISTA
+{angryA}Oui, pareil ici.
+33)  LEE
+{SadA}J'ai des trucs à faire.
+34)  CHRISTA
+{angryA}Excuse-moi, mais je suis un peu occupée, j'essaye d'ouvrir ce coffre. {sadA}Omid a besoin de ces médicaments.
+35)  LEE
+{thinkingA}Ca avance avec le coffre ?
