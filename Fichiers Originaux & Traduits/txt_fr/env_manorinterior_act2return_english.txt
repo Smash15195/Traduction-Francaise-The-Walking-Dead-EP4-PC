@@ -1,17 +1,17 @@
 1)  MOLLY
-[guilty/self-conscious] Oh salut. Tu t'en es sorti.
+[guilty/self-conscious] Oh salut. Vous vous en êtes sorti.
 2)  LEE
-[calling out] Clémentine ? Clem ?
+[calling out] Clémentine ? Clém ?
 3)  VERNON
 [suspicious/wary] Qui est-ce ?
 4)  LEE
 Molly ?
 5)  MOLLY
-Il ne vous a pas parlé de moi ? Je suppose que c'est compréhensible. Je suis celle qui l'a sonné quand il a essayé de me sauter dessus par surprise près de la rivière. C'est qui le fossile ?
+Il ne vous a pas parlé de moi ? Je suppose que c'est compréhensible. Je suis celle qui lui a mis une raclée quand il a essayé de me sauter dessus par surprise près de la rivière. C'est qui le fossile ?
 6)  MOLLY
 Il ne vous a pas parlé de moi ? Je suis celle qui a sauvé ses fesses près de la rivière. C'est qui le fossile ?
 7)  MOLLY
-Elle ne doit pas être loin. Du calme, je l'ai ramenée ici avec Kenny en toute sécurité. Si tu veux me remercier, ne te prive pas.
+Elle ne doit pas être loin. Du calme, je l'ai ramenée ici avec Kenny en toute sécurité. Si vous voulez me remercier, ne vous en privez pas.
 8)  LEE
 Où est Clémentine ?
 86)  LEE
@@ -21,11 +21,11 @@ Où est Clémentine ?
 9)  LEE
 Voici Vernon, il est médecin, il m'a aidé à revenir ici quand nous avons été séparés.
 10)  VERNON
-[bitter]Ce n'était clairement pas mon choix, je sous assure.
+[bitter]Ce n'était clairement pas mon choix, je vous assure.
 11)  LEE
-Que faisais-tu ?
+Vous faisiez quoi ?
 139)  
-Que faisais-tu ?
+Vous faisiez quoi ?
 12)  MOLLY
 Je jetais un coup oeil. Je me disais que vous auriez peut-être quelque chose à me donner pour me remercier d'avoir ramené vos amis sains et saufs.  
 13)  VERNON
@@ -63,13 +63,13 @@ Voici Vernon, il est médecin.
 26)  CHRISTA
 [puzzled] {feara}Quelle réserve ?
 27)  VERNON
-[sarcastic/skeptical] Bien, je vois. Vous vous enfoncez de plus en plus, non ?
+[sarcastic/skeptical] Bien, je vois. C'est de mieux en mieux, hein ?
 28)  LEE
 [caught in a lie] Désolé, doc. Il fallait que je vous fasse venir d'une manière ou d'une autre.
 29)  VERNON
 [urgency]Je vais voir ce que je peux faire. Amenez-moi près de lui.
 30)  CHRISTA
-[urgency]{worrieda}Il faut que vous nous aidiez... s'il vous plaît ?
+[urgency]{worrieda}Il faut que vous nous aidiez... je vous en prie ?
 31)  VERNON
 [pickup] [urgency]Je travaille mieux sans public. Pourquoi n'allez-vous pas chercher votre petite fille ?
 32)  VERNON
@@ -99,7 +99,7 @@ Te saouler n'aidera personne.
 43)  LEE
 Kenny ! Donne-moi cette foutue bouteille !
 44)  KENNY
-Ouais, ben, et alors ? On est tous baisés !
+Ouais, ben, et alors ? On est tous foutus !
 45)  LEE
 [to Ben/accusatory] Mais bordel à quoi tu pensais, comment tu as pu laisser Kenny se mettre dans cet état ?
 54)  LEE
@@ -143,13 +143,13 @@ Quelqu'un a vu Clémentine ?
 65)  KENNY
 Qu'est-ce que j'en sais. Elle doit être dans le coin.
 66)  BEN
-[pickup][sighs]Bof.
+[pickup][sighs]Je sais pas trop.
 134)  BEN
-[pickup][sighs]Bof.
+[pickup][sighs]Je sais pas trop.
 67)  LEE
-[pickup] {angrya}[firm]Tu ravales ta connerie de "bof". Et tu me dis où elle est, maintenant.
+[pickup] {angrya}[firm]Tu ravales ta connerie de "je sais pas trop". Et tu me dis où elle est, maintenant.
 133)  LEE
-[pickup] {angrya}[firm]Tu ravales ta connerie de "bof". Et tu me dis où elle est, maintenant.
+[pickup] {angrya}[firm]Tu ravales ta connerie de "je sais pas trop". Et tu me dis où elle est, maintenant.
 68)  BEN
 {sada}Je suis désolé, mec. Quand Omid s'est mis à aller plus mal, Christa m'a demandé de venir l'aider.
 69)  LEE
@@ -175,35 +175,35 @@ Frapper
 79)  LEE
 {normalc}[to himself, worried]Non, je dois trouver Clémentine.
 81)  LEE
-[calling up the the attic] Molly, tu es là ?
+[calling up the the attic] Molly, vous êtes là ?
 82)  LEE
-{thinkinga}Qu'est-ce que tu fais ?
+{thinkinga}Que faisiez-vous ?
 83)  MOLLY
-{normalA}Oh, tu sais. Je fouine un peu.
+{normalA}Oh, vous savez. Je fouinais un peu.
 84)  LEE
-{normalc}Tu ne trouveras rien, nous avons déjà tout fouillé.
+{normalc}Vous ne trouverez rien, nous avons déjà tout fouillé.
 85)  MOLLY
-{normalb}Tu serais étonné de tout ce que les gens ratent. Tu peux me croire, je fais ça depuis un moment.
+{normalb}Vous seriez étonné de tout ce que les gens ratent. Vous pouvez me croire, je fais ça depuis un moment.
 87)  MOLLY
 Je n'en sais rien, je ne suis pas sa baby-sitter.
 88)  LEE
-{normalc}Les autres en-bas ont dit qu'elle était ici avec toi.
+{normalc}Les autres en-bas ont dit qu'elle était ici avec vous.
 89)  MOLLY
-{normala}Oui à un moment, mais elle s'ennuyait et elle est partie. {angrya}Je te l'ai dit, je ne suis pas sa baby-sitter.
+{normala}Oui à un moment, mais elle s'ennuyait et elle est partie. {angrya}Je vous l'ai dit, je ne suis pas sa baby-sitter.
 90)  LEE
-{angrya}[very stern] Hé ! Tu trouves que j'ai l'air d'avoir envie de plaisanter ? Où est-elle allée ?
+{angrya}[very stern] Hé ! Vous trouvez que j'ai l'air d'avoir envie de plaisanter ? Où est-elle allée ?
 93)  LEE
-{angrya}[very stern] Hé ! Tu trouves que j'ai l'air d'avoir envie de plaisanter ? Où est-elle allée ?
+{angrya}[very stern] Hé ! Vous trouvez que j'ai l'air d'avoir envie de plaisanter ? Où est-elle allée ?
 91)  MOLLY
 {thinkinga}[sighs, remembering] Il me semble qu'elle a parlé d'aller jouer dans le jardin.
 92)  LEE
 {feara}[worried] Merde...
 94)  MOLLY
-{thinkinga}[sighs, remembering] La dernière fois que je l'ai vue, elle était en-bas avec ton copain le plouc et le petit étudiant qui traîne avec lui. Pourquoi tu ne vas pas les gonfler eux ?
+{thinkinga}[sighs, remembering] La dernière fois que je l'ai vue, elle était en-bas avec votre copain le plouc et le petit étudiant qui traîne avec lui. Pourquoi n'allez-vous pas les ennuyer eux ?
 95)  MOLLY
-[callng back down, busy]Je te l'ai dit, la gamine n'est pas avec moi. Va demander à tes potes et arrête de me gonfler !
+[callng back down, busy]Je vous l'ai dit, la gamine n'est pas avec moi. Allez demander à vos potes et arrêtez de m'ennuyer !
 101)  MOLLY
-[callng back down, busy]Je te l'ai dit, la gamine n'est pas avec moi. Va demander à tes potes et arrête de me gonfler !
+[callng back down, busy]Je vous l'ai dit, la gamine n'est pas avec moi. Allez demander à vos potes et arrêtez de m'ennuyer !
 96)  LEE
 [calling up to the attic] Molly ?
 97)  LEE
@@ -215,9 +215,9 @@ Je n'en sais rien, je ne suis pas sa baby-sitter.
 184)  LEE
 [calling up to the attic] Molly ?
 98)  MOLLY
-[calling back down, busy]Je te l'ai dit, la gamine n'est pas avec moi. Va vérifier dans le jardin et arrête de me gonfler !
+[calling back down, busy]Je vous l'ai dit, la gamine n'est pas avec moi. Allez vérifier dans le jardin et arrêtez de m'ennuyer !
 103)  MOLLY
-[calling back down, busy]Je te l'ai dit, la gamine n'est pas avec moi. Va vérifier dans le jardin et arrête de me gonfler !
+[calling back down, busy]Je vous l'ai dit, la gamine n'est pas avec moi. Allez vérifier dans le jardin et arrêtez de m'ennuyer !
 99)  LEE
 [calling up]
 104)  LEE
@@ -239,7 +239,7 @@ Ce serait bien si Kenny ou Ben pouvait résumer le danger. (les rôdeurs, la voix 
 112)  LEE
 [mild concern] Clémentine ? Tu es là ?
 113)  LEE
-[medium concern]Clem ? Clémentine ?
+[medium concern]Clém ? Clémentine ?
 114)  LEE
 [medium concern]Clémentine, où es-tu ?
 115)  LEE
@@ -333,7 +333,7 @@ Porte
 161)  LEE
 {normalb}[concerned, to himself] Je n'ai pas le temps pour ça. Je dois m'assurer que Clémentine est avec Kenny.
 162)  LEE
-{normalb}[concerned, to himself]Je n'ai pas le temps de fouiller. Je dois m'assurer que Kenny et Ben savent où est Clem.
+{normalb}[concerned, to himself]Je n'ai pas le temps de fouiller. Je dois m'assurer que Kenny et Ben savent où est Clém.
 164)  LEE
 {normalb}[concerned, to himself] Ce n'est vraiment pas le moment de fouiller. Je dois aller voir dans le jardin si Clémentine va bien.
 165)  LEE
@@ -357,7 +357,7 @@ Porte
 175)  LEE
 {normalb}[concerned, to himself]C'est par là que Clémentine est passée l'autre fois.
 176)  LEE
-{normalb}[calling out, worried]Clem ? Tu es là ?
+{normalb}[calling out, worried]Clém ? Tu es là ?
 177)  
 Porte de la chambre principale
 178)  
@@ -371,7 +371,7 @@ Porte du bureau
 182)  
 Porte de la salle de bain
 183)  LEE
-[pickup][concerned, to himself]Clem ? 
+[pickup][concerned, to himself]Clém ? 
 185)  LEE
 [pickup]{thinkinga}Tu es sûr que Clémentine est là-haut avec Molly ?
 186)  BEN
@@ -389,19 +389,19 @@ Ouvrir
 193)  LEE
 [pickup] Clémentine ?
 190)  LEE
-[pickup] Clem ? Tu es là-dedans ?
+[pickup] Clém ? Tu es là-dedans ?
 191)  LEE
 [pickup] Clémentine ? [sighs] Elle n'est pas ici non plus.
 192)  LEE
 Clémentine ?
 194)  LEE
-[pickup]  Clem ?
+[pickup]  Clém ?
 195)  LEE
 [pickup]Clémentine ?
 223)  LEE
 [pickup]Clémentine ? 
 196)  LEE
-[pickup][lookat][Clem's]Pas ici.
+[pickup][lookat][Clém's]Pas ici.
 197)  LEE
 [pickup] [sigh] [calling out] Clémentine?
 198)  
@@ -441,7 +441,7 @@ Dessin de Clémentine
 214)  LEE
 [pickup][to himself, slight urgency]J'aurai le temps de me reposer plus tard
 215)  LEE
-[pickup][to himself, slight urgency]Les dessins de Clem. Mais où est-elle ?
+[pickup][to himself, slight urgency]Les dessins de Clém. Mais où est-elle ?
 216)  LEE
 [pickup][to himself, slight urgency]Je ne la vois pas dehors.
 221)  LEE
@@ -459,7 +459,7 @@ Fenêtre du bureau
 231)  
 Sofa
 232)  MOLLY
-[pickup]Je pense que tu as quelque chose qui m'appartient.
+[pickup]Je pense que vous avez quelque chose qui m'appartient.
 233)  
 Poêle
 234)  
