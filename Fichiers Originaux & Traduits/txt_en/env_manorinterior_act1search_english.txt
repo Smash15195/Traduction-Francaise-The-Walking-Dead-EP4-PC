@@ -1,554 +1,554 @@
 1)  OMID
-{painA}[pain of leg movement] Argh!
+{painA}[pain of leg movement] 
 2)  CHRISTA
-{angrya}So, when were you going to tell us about the radio?
+{angrya}Quand comptiez vous nous parler de la radio ?
 3)  CHRISTA
-{sadA}Sorry! Sorry!
+{sadA}Pardon ! Pardon !
 4)  OMID
-{normalb}No, it’s okay. I’m good. {happya}Feel better already just being off my feet. Thanks, babe.
+{normalb}Ca va, je vais bien. {happya}Rien que d'être allongé fait du bien. Merci, bébé.
 5)  KENNY
-{angrya}Tell you what?
+{angrya}Pour dire quoi ?
 6)  
-I didn’t want to worry anyone.
+Je voulais alarmer personne.
 7)  
-I didn’t know. [LIE]
+Je ne savais pas. [MENTIR]
 8)  
-I only found out yesterday.
+Ca date juste d'hier.
 9)  LEE
-I didn’t see the point in worrying anyone. Not until I figured out who it was.
+Je voyais pas l'intérêt d'être alarmiste tant que j'en savais pas plus.
 10)  CHRISTA
-{angryA}I don’t like people keeping secrets. {angryb} I especially don’t like it when they think it’s for my own good.
+{angryA}J'aime pas les gens trop discrets. {angryb} Surtout quand ils pensent que c'est pour mon bien.
 11)  KENNY
-{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+{angrya}On s'en branle de la radio ! {angryb}Ceux qui ont fait sonner la cloche pour attirer les morts sur nous m'inquiètent plus ! {disgusta}On aurait dit qu'ils voulaient pas qu'on atteigne le fleuve !
 142)  KENNY
-{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+{angrya}On s'en branle de la radio ! {angryb}Ceux qui ont fait sonner la cloche pour attirer les morts sur nous m'inquiètent plus ! {disgusta}On aurait dit qu'ils voulaient pas qu'on atteigne le fleuve !
 143)  KENNY
-{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+{angrya}On s'en branle de la radio ! {angryb}Ceux qui ont fait sonner la cloche pour attirer les morts sur nous m'inquiètent plus ! {disgusta}On aurait dit qu'ils voulaient pas qu'on atteigne le fleuve !
 206)  KENNY
-{angrya}Who gives a shit about the damn radio? {angryb}I’m more worried about whoever it was out there ringing that bell and bringing the dead down on top of us! {disgusta}It’s like they didn’t want us to make it to the river!
+{angrya}On s'en branle de la radio ! {angryb}Ceux qui ont fait sonner la cloche pour attirer les morts sur nous m'inquiètent plus ! {disgusta}On aurait dit qu'ils voulaient pas qu'on atteigne le fleuve !
 12)  CHRISTA
-{angryb}Christ, use your head, Kenny! It’s  the same guy! {angrya}He could see exactly where we were from up in that bell tower!
+{angryb}Bon sang, réfléchissez, Kenny! C'est le même type ! {angrya}Il pouvait voir notre position de la tour !
 13)  KENNY
-{angryb}That doesn’t make any damn sense. {angrya}If it was the same guy, why would he warn us?
+{angryb}Ca n'a aucun sens. {angrya}Pourquoi il nous aurait averti si c'était lui ?
 14)  LEE
-I was going to tell you. Kenny and I only found out yesterday.
+J'allais vous le dire. On s'en est rendu compte hier avec Kenny.
 15)  CHRISTA
-{angrya}So both of you were keeping it from the rest of us? {normalA}Great. {angryA}
+{angrya}Et vous gardiez ça pour vous deux ? {normalA}Génial. {angryA}
 16)  KENNY
-Lady, I’m running out of ways to tell you how much I don’t care about your opinion.
+Je me fous de votre avis. Je dois vous le dire comment, madame ?
 17)  CHRISTA
-There’s that Southern charm again.
+Revoilà son charme de sudiste.
 18)  KENNY
-Hey. Fuck you.
+Je vous emmerde.
 19)  LEE
-All right, enough! Both of you!
+Ok, ça suffit vous deux !
 20)  CHRISTA
-{thinkingA}Nothing to say for yourself? {angrya}Great, {thinkingA}that inspires confidence.
+{thinkingA}Vous n'avez rien à dire ? {angrya}Génial, {thinkingA}la confiance règne.
 21)  KENNY
-{angrya}What does it matter about the damn radio? {angryb}What matters is that there’s someone out there trying to mess with us, ringing those bells!
+{angrya}Cette putain de radio n'a aucun intérêt ! {angryb}Ce qui compte c'est qu'on a essayé de nous avoir avec ces cloches !
 22)  CHRISTA
-[pickup][concerned]What if they're the same guy?
+[pickup][concerned]Et si c'était le même type ?
 269)  CHRISTA
-[pickup][concerned]What if they're the same guy?
+[pickup][concerned]Et si c'était le même type ?
 23)  KENNY
-{angryb}Bullshit! They warned us about our own trap? {angrya}What kind of sense does that make?
+{angryb}N'importe quoi ! Ils nous auraient prévenu de leur propre piège ? {angrya}Quel intérêt ?
 24)  CHRISTA
-{angryA}	So you don’t know who that voice was?
+{angryA} Donc vous ne savez pas qui c'était ?
 25)  LEE
-I didn’t know myself until it just started working out there on the street!
+J'en savais rien avant qu'elle s'allume dans la rue !
 26)  LEE
-No idea.
+Aucune idée.
 27)  CHRISTA
-Why don’t I believe you?
+Pourquoi je vous crois pas ?
 28)  LEE
-I don’t know and I don’t care. Believe what you want, makes no difference to me.
+Je sais pas et je m'en fous. Croyez ce que vous voulez.
 29)  KENNY
-Who gives a shit about the radio? I’m more concerned with who was out there ringing those bells on us and trying to keep us from making it to the river!
+{angrya}On s'en branle de la radio ! {angryb}Ceux qui ont fait sonner la cloche pour attirer les morts sur nous m'inquiètent plus ! {disgusta}On aurait dit qu'ils voulaient pas qu'on atteigne le fleuve !
 125)  KENNY
-Who gives a shit about the radio? I’m more concerned with who was out there ringing those bells on us and trying to keep us from making it to the river!
+{angrya}On s'en branle de la radio ! {angryb}Ceux qui ont fait sonner la cloche pour attirer les morts sur nous m'inquiètent plus ! {disgusta}On aurait dit qu'ils voulaient pas qu'on atteigne le fleuve !
 30)  CHRISTA
-{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+{thinkingA}Et pourquoi ce serait pas le même type ? {angrya}Il était suffisament proche de nous pour nous voir dans la rue. {thinkingA}Et on a vu personne d'autre que ce gars dans le clocher.
 145)  CHRISTA
-{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+{thinkingA}Et pourquoi ce serait pas le même type ? {angrya}Il était suffisament proche de nous pour nous voir dans la rue. {thinkingA}Et on a vu personne d'autre que ce gars dans le clocher.
 205)  CHRISTA
-{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+{thinkingA}Et pourquoi ce serait pas le même type ? {angrya}Il était suffisament proche de nous pour nous voir dans la rue. {thinkingA}Et on a vu personne d'autre que ce gars dans le clocher.
 268)  CHRISTA
-{thinkingA}What makes you think it’s not the same person? {angrya}Whoever was on the radio was close enough to see us in the street. {thinkingA}And we didn’t see anyone else other than the guy in the bell tower.
+{thinkingA}Et pourquoi ce serait pas le même type ? {angrya}Il était suffisament proche de nous pour nous voir dans la rue. {thinkingA}Et on a vu personne d'autre que ce gars dans le clocher.
 31)  KENNY
-{angryb}Because that doesn’t make a lick of damn sense. {angrya}Why would they bring out the dead like that and then try to {angryb}warn us about it?
+{angryb}Parce que ça n'a aucun sens. {angrya}Pourquoi ils auraient attiré les morts pour ensuite {angryb}nous prévenir ?
 144)  KENNY
-{angryb}Because that doesn’t make a lick of damn sense. {angrya}Why would they bring out the dead like that and then try to {angryb}warn us about it?
+{{angryb}Parce que ça n'a aucun sens. {angrya}Pourquoi ils auraient attiré les morts pour ensuite {angryb}nous prévenir ?
 204)  KENNY
-{angryb}Because that doesn’t make a lick of damn sense. {angrya}Why would they bring out the dead like that and then try to {angryb}warn us about it?
+{angryb}Parce que ça n'a aucun sens. {angrya}Pourquoi ils auraient attiré les morts pour ensuite {angryb}nous prévenir ?
 32)  CHRISTA
-{angryb}Damned if I know! {thinkingA}Maybe they were just trying to mess with us! Wouldn’t be the most screwed-up thing I’ve seen these past few weeks, I can tell you.
+{angryb}Si je savais ! {thinkingA}Ils veulent sans doute nous faire marcher ! Ce serait pas le truc le plus tordu que j'ai vu depuis le début, je peux vous le dire.
 123)  CHRISTA
-{angryb}Damned if I know! {thinkingA}Maybe they were just trying to mess with us! Wouldn’t be the most screwed-up thing I’ve seen these past few weeks, I can tell you.
+{angryb}Si je savais ! {thinkingA}Ils veulent sans doute nous faire marcher ! Ce serait pas le truc le plus tordu que j'ai vu depuis le début, je peux vous le dire.
 33)  CHRISTA
-[pickup2]{ThinkingA}How much sense does anything make any more? {angrya}In case you haven’t noticed there’s a lot of twisted folks out there these days. {ThinkingA}At least the dead don’t play games with you.
+[pickup2]{ThinkingA}Plus rien n'a de sens ! {angrya}Au cas où vous l'auriez pas vu, y'a un paquet de tarés dehors ces temps-ci. {ThinkingA}Au moins les morts ne jouent pas avec nous.
 34)  
-I think they were helping us.
+Je crois qu'ils nous aidaient.
 35)  
-They weren’t friendly.
+Ils n'étaient pas amicaux.
 36)  
-They're stalking us.
+Ils nous surveillent.
 37)  LEE
-Whoever that was on the radio, I think they were trying to help us. They did warn us, didn't they?
+Peu importe, je crois que le type de la radio nous aidait. Il nous ont prévenu, non ?
 38)  CHRISTA
-{thinkingA}Maybe you’re right. {angrya}But whoever it was, they're watching us. Following us. And they don't want us to know who they are. I can’t think of any explanation for that that would make me feel better. {thinkingA}Can you?
+{thinkingA}C'est sans doute ça. {angrya}En tout cas, ils nous surveillent, nous suivent, et veulent rester incognito. Je n'ai aucune explication rassurante. {thinkingA}Et vous ?
 39)  LEE
-I don’t know who it was. All I know is, they’re no friend of ours.
+Je sais pas qui c'était. Pas des amis, je pense.
 40)  KENNY
-{angrya}Damn right. I’m telling you, they don’t want us getting to the river. {thinkingA}Maybe they want those boats all to themselves. {angrya}Well, we’ll see about that.
+{angrya}Exactement. Ils ne veulent pas qu'on aille au fleuve, je vous dis. {thinkingA}Ils veulent garder les bateaux pour eux, sans doute. {angrya}Et bien on va voir ça.
 41)  CHRISTA
-{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+{angrya}Je ne sors pas avant un bon moment. {fearA}Omid a besoin de repos.
 200)  CHRISTA
-{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+{angrya}Je ne sors pas avant un bon moment. {fearA}Omid a besoin de repos.
 201)  CHRISTA
-{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+{angrya}Je ne sors pas avant un bon moment. {fearA}Omid a besoin de repos.
 209)  CHRISTA
-{angrya}I’m not going back out there any time soon. {fearA}Omid needs to rest.
+{angrya}Je ne sors pas avant un bon moment. {fearA}Omid a besoin de repos.
 42)  KENNY
-{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+{thinkingA}Tant mieux pour vous. Moi je vais pas attendre que quelqu'un mette la main sur ces bateaux, {angrya}c'est notre porte de sortie.
 158)  KENNY
-{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+{thinkingA}Tant mieux pour vous. Moi je vais pas attendre que quelqu'un mette la main sur ces bateaux, {angrya}c'est notre porte de sortie.
 160)  KENNY
-{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+{thinkingA}Tant mieux pour vous. Moi je vais pas attendre que quelqu'un mette la main sur ces bateaux, {angrya}c'est notre porte de sortie.
 161)  KENNY
-{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+{thinkingA}Tant mieux pour vous. Moi je vais pas attendre que quelqu'un mette la main sur ces bateaux, {angrya}c'est notre porte de sortie.
 163)  KENNY
-{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+{thinkingA}Tant mieux pour vous. Moi je vais pas attendre que quelqu'un mette la main sur ces bateaux, {angrya}c'est notre porte de sortie.
 165)  KENNY
-{thinkingA}Suit yourselves. But I’m not gonna wait around too long for someone else to grab up those boats, {angrya}that’s our ticket out of here.
+{thinkingA}Tant mieux pour vous. Moi je vais pas attendre que quelqu'un mette la main sur ces bateaux, {angrya}c'est notre porte de sortie.
 43)  LEE
-I think we could all use a little time to rest up and gather our thoughts, Kenny. At least until those walkers outside wander off and Omid’s feeling better.
+On aurait bien besoin de se reposer et de faire le point, Kenny. Au moins tant que les marcheurs rôdent et qu'Omid se sent pas mieux.
 44)  LEE
-Whoever it was, seems like they’re following us. And I don’t like being followed.
+Peu importe qui ils sont, on dirait qu'ils nous suivent. Et j'aime pas ça.
 207)  LEE
-Whoever it was, seems like they’re following us. And I don’t like being followed.
+Peu importe qui ils sont, on dirait qu'ils nous suivent. Et j'aime pas ça.
 45)  KENNY
-{angryb}All the more reason to get on a damn boat, where we can’t be followed.
+{angryb}Raison de plus pour prendre un bateau. On pourra pas nous suivre.
 208)  KENNY
-{angryb}All the more reason to get on a damn boat, where we can’t be followed.
+{angryb}Raison de plus pour prendre un bateau. On pourra pas nous suivre.
 46)  LEE
-I’m with Kenny on that. Once it’s quieted down outside we’ll all head out to the river together. Deal?
+Je suis d'accord avec Kenny. Quand ce sera plus calme dehors on fonce tous au fleuve. Ok ?
 157)  LEE
-I’m with Kenny on that. Once it’s quieted down outside we’ll all head out to the river together. Deal?
+Je suis d'accord avec Kenny. Quand ce sera plus calme dehors on fonce tous au fleuve. Ok ?
 47)  KENNY
-{normalb}He’d best feel better quick. {thinkinga}I ain’t gonna wait around here too long.
+{normalb}Il a intérêt à se dépêcher. {thinkinga}Je vais pas attendre dix ans.
 48)  BEN
-{normalB}Place seems secure at least.
+{normalB}Ca semble calme ici.
 49)  CHRISTA
-[pickup2]{thinkingA}I'll feel better when we know that for sure. We need to check the whole house.
+[pickup2]{thinkingA}Vaudrait mieux en être sûr. Il faut fouiller toute la maison.
 50)  LEE
-Okay.
+D'accord.
 277)  LEE
-Okay.
+D'accord.
 51)  CLEMENTINE
-{happyb}[eager] Can I help? What if there’s another locked door?
+{happyb}[eager] Je peux vous aider ? En cas de porte verrouillée ?
 52)  LEE
-[playful] I think you’ve been helpful enough for one day, kiddo. Why don’t you just see if Christa and Omid need anything, okay?
+[playful] Tu as été assez utile pour aujourd'hui, petite. Va voir si Christa et Omid n'ont besoin de rien, d'accord ?
 53)  CLEMENTINE
-[slightly dejected but okay] {sada}Okay.
+[slightly dejected but okay] {sada}D'accord.
 176)  CLEMENTINE
-[slightly dejected but okay] {sada}Okay.
+[slightly dejected but okay] {sada}D'accord.
 177)  CLEMENTINE
-[slightly dejected but okay] {sada}Okay.
+[slightly dejected but okay] {sada}D'accord.
 54)  CLEMENTINE
-[despondent] {sadB}I guess you don’t want my help, huh?
+[despondent] {sadB}Tu veux pas que je t'aide, hein ?
 55)  LEE
-Hey, I’m sorry if I went off on you a little. You know it’s only because I want you to be safe. Look, I gotta check the house. Just stay with Christa and Omid, okay?
+Désolé si je me suis énervé contre toi. C'est simplement que je veux te protéger. Je vais vérifier la maison, reste avec Christa et Omid, ok ?
 56)  CLEMENTINE
-{normalA}Is there anything I can do?
+{normalA}Je peux faire quelque chose ?
 57)  LEE
-Thanks, I got it. Hang out with Christa and Omid until I get back, okay?
+J'ai compris, merci. Reste avec Christa et Omid jusqu'à mon retour, ok ?
 58)  CLEMENTINE
-{sadB}Lee... I’m sorry.
+{sadB}Lee... Excuse-moi.
 59)  LEE
-What for?
+Pour quoi ?
 60)  CLEMENTINE
-{sadA}Going through the door like that, without checking first. I{sadb} guess that was pretty dumb, huh?
+{sadA}D'être entrée comme ça, sans faire attention. C'était{sadb} plutôt idiot, hein ?
 61)  LEE
-It wasn’t dumb, just a little reckless. We all have to be careful, you know how dangerous it can be. There could be something around every corner.
+Non, juste un peu soudain. Il faut faire attention. Le danger peut être grand et survenir n'importe où.
 62)  CLEMENTINE
-[contrite] I know. It won’t happen again.
+[contrite] Je sais. Je le ferais plus.
 63)  LEE
-[trying to cheer her up] Just ask me first, next time you’re gonna go outsmart all the grown-ups. Okay?
+[trying to cheer her up] Demande moi la prochaine fois que tu voudras impressionner les grands. D'accord ?
 64)  CLEMENTINE
-[brightening] {happyb}Okay.
+[brightening] {happyb}D'accord.
 65)  CHRISTA
-[pickup2]{angryb}That there’s someone else on the other end of that thing! {angrya}You didn’t think that might have been worth sharing with the rest of us?
+[pickup2]{angryb}Qu'il y avait quelqu'un à l'autre bout de ce truc ! {angrya}Vous pensiez pas que ça valait la peine de nous le dire ?
 66)  CHRISTA
-[pickup2]{angryb}That it’s working!
+[pickup2]{angryb}Qu'elle fonctionne !
 67)  CHRISTA
-[quietly]{normalB}Yeah, for now. {sadA}But I’m really worried his leg might’ve gotten infected. {normalB}Don’t suppose you turned up any meds while you were poking around?
+[quietly]{normalB}Ouais, pour l'instant. {sadA}Mais je crains que sa jambe ne se soit infectée. {normalB}J'imagine que vous n'avez pas trouvé de médocs ?
 68)  LEE
-{sadA}Is he okay?
+{sadA}Comment il va ?
 69)  LEE
-{normalb}Well, the place ain’t got much. We should be okay here for a while, at least until it quiets down outside.
+{normalb}Bon, y'a pas grand chose ici. Ca devrait aller le temps que ça calme dehors.
 70)  CHRISTA
-{normalA}Good. {normalb}Thanks.
+{normalA}Bien. {normalb}Merci.
 71)  CHRISTA
-{normalA}I was just asking Clementine if she knows who the man on her radio is. {happyA}It’s okay, honey, you can tell us. {sada}Who is he? What does he want?
+{normalA}Je demandais à Clémentine si elle savait qui était l'homme de la radio. {happyA}Ca va, chérie, tu peux nous le dire. {sada}C'est qui ? Que veut-il ?
 72)  
-Go ahead, Clem.
+Parle, Clem.
 73)  
-We want an answer, Clementine!
+On veut une réponse, Clémentine!
 74)  
-Back off, Christa.
+Stop, Christa.
 76)  CLEMENTINE
-{sada}I told him I was trying to find my parents, and that they were in Savannah. {sadb}He really seems nice, I think he wants to help me find them.
+{sada}Je lui ai dit que je cherchais mes parents à Savannah. {sadb}Il est gentil, je crois qu'il veut m'aider à les retrouver.
 131)  CLEMENTINE
-{sada}I told him I was trying to find my parents, and that they were in Savannah. {sadb}He really seems nice, I think he wants to help me find them.
+{sada}Je lui ai dit que je cherchais mes parents à Savannah. {sadb}Il est gentil, je crois qu'il veut m'aider à les retrouver.
 77)  CHRISTA
-{fearA}Clementine. Honey, trust me, that’s not what he wants. {angryA}He-[interrupted]
+{fearA}Clémentine, ce n'est pas ce qu'il veut, crois moi. {angryA}He-[interrupted]
 130)  CHRISTA
-{fearA}Clementine. Honey, trust me, that’s not what he wants. {angryA}He-[interrupted]
+{fearA}Clémentine, ce n'est pas ce qu'il veut, crois moi. {angryA}He-[interrupted]
 78)  CLEMENTINE
-[unsure] {fearB}It’s... just a friend. I don’t think he wants to hurt us.
+[unsure] {fearB}C'est... juste un copain. Il veut pas nous faire de mal.
 132)  CLEMENTINE
-[unsure] {fearB}It’s... just a friend. I don’t think he wants to hurt us.
+[unsure] {fearB}C'est... juste un copain. Il veut pas nous faire de mal.
 79)  CHRISTA
-{normalB}What has he been saying to you? {thinkingA}What have you been saying to him?
+{normalB}Qu'est-ce qu'il t'a raconté ? {thinkingA}Que lui as-tu dit ?
 129)  CHRISTA
-{normalB}What has he been saying to you? {thinkingA}What have you been saying to him?
+{normalB}Qu'est-ce qu'il t'a raconté ? {thinkingA}Que lui as-tu dit ?
 80)  LEE
-Go ahead, Clem. It’s okay. You’re not in any trouble.
+Parle, Clem. Ca va. On te fera pas d'ennuis.
 81)  LEE
-[forceful/angry] Clementine! Christa asked you a question! And both of us would like an answer. Who have you been talking to?
+[forceful/angry] Clémentine! Christa t'a posé une question ! Et on veut une réponse. A qui tu parlais ?
 82)  CLEMENTINE
-[pickup] [shaken] {fearB}I don’t know! He said he was a friend! {fearA}He said he could help me find my mom and dad! {sada}I told him we were looking for them in Savannah.
+[pickup] [shaken] {fearB}Je sais pas ! Il a dit que c'était un copain ! {fearA}Qu'il pouvait m'aider à retrouver mes parents ! {sada}Je lui ai dit qu'on les cherchait à Savannah.
 83)  LEE
-Clementine. Look at me. What else have told this man?
+Clémentine. Regarde moi. Il a dit quoi d'autre ?
 84)  LEE
-Back off, Christa. Can’t you see you’re scaring her? She hasn’t done anything wrong.
+Stop, Christa. Vous voyez pas que vous l'effrayez ? Elle n'a rien fait de mal.
 85)  LEE
-{normalb}[lookat][calling to Christa in the next room] This room looks secure.
+{normalb}[lookat][calling to Christa in the next room] Cette pièce est clean.
 86)  LEE
-[lookat][to himself] Just hope there aren't any surprises behind the other doors.
+[lookat][to himself] J'espère que j'aurais pas de surprise derrière les autres portes.
 88)  LEE
-[lookat][to himself] Just hope there aren't any surprises behind the other doors.
+[lookat][to himself] J'espère que j'aurais pas de surprise derrière les autres portes.
 95)  LEE
-[lookat][to himself] Just hope there aren't any surprises behind the other doors.
+[lookat][to himself] J'espère que j'aurais pas de surprise derrière les autres portes.
 87)  LEE
-{normalb}[lookat][to himself]Nothing hiding in here.
+{normalb}[lookat][to himself]Rien ici.
 89)  LEE
-[lookat] [to himself]Just one more to check.
+[lookat] [to himself]Plus qu'une à vérifier.
 90)  LEE
-[lookat] [to himself]Just one more to check.
+[lookat] [to himself]Plus qu'une à vérifier.
 91)  LEE
-[lookat] [to himself]Just one more to check.
+[lookat] [to himself]Plus qu'une à vérifier.
 92)  LEE
-[lookat] [to himself]Just one more to check.
+[lookat] [to himself]Plus qu'une à vérifier.
 98)  LEE
-[lookat] [to himself]Just one more to check.
+[lookat] [to himself]Plus qu'une à vérifier.
 99)  LEE
-[lookat] [to himself]Just one more to check.
+[lookat] [to himself]Plus qu'une à vérifier.
 93)  LEE
-{normalb}[lookat][calling out to Christa in the next room]That’s the last room, looks like downstairs is secure.
+{normalb}[lookat][calling out to Christa in the next room]C'est la dernière pièce, on dirait que y'a rien en bas.
 94)  LEE
-{normalb}[lookat][calling out to Christa in the next room]That’s the last room, looks like downstairs is secure.
+{normalb}[lookat][calling out to Christa in the next room]C'est la dernière pièce, on dirait que y'a rien en bas.
 270)  LEE
-{normalb}[lookat][calling out to Christa in the next room]That’s the last room, looks like downstairs is secure.
+{normalb}[lookat][calling out to Christa in the next room]C'est la dernière pièce, on dirait que y'a rien en bas.
 96)  LEE
-{normalb}[lookat][calling out to Christa in the next room] All clear in here.
+{normalb}[lookat][calling out to Christa in the next room] Tout va bien ici.
 97)  LEE
-{normalb}[lookat]Nothing in the closet. Looks like downstairs is secure.
+{normalb}[lookat]Rien dans les toilettes. On dirait que y'a rien en bas.
 100)  
-Look At
+Regarder
 102)  
-Look At
+Regarder
 101)  
-Take
+Prendre
 103)  
-Take
+Prendre
 104)  LEE
-{normalb}[lookat]It's just a bag of dog food.
+{normalb}[lookat]C'est de la bouffe pour chien.
 105)  LEE
-Nah, just dog food. And there's some whiskey in the back.
+Non, rien que de la bouffe pour chien. Et y'a un peu de whisky derrière.
 106)  LEE
-Nah, just some dog food.
+Non, que de la bouffe pour chien.
 107)  LEE
-No, nothing. Sorry.
+Non, rien. Désolé.
 108)  LEE
-Nah, just some whiskey.
+Non, que du whisky.
 109)  CHRISTA
-[pickup2]{sadA}I’m not saying she intended to. {angryA}But she’s just a kid, she doesn't know any better. {sadA}You never told her not to talk to strangers? {normalB} I mean these days more than ever...
+[pickup2]{sadA}Je dis pas qu'elle l'a fait exprès. {angryA}Mais c'est qu'une enfant, elle ne sait pas comment réagir. {sadA}Vous lui avez jamais appris à ne pas parler aux inconnus ? {normalB} Surtout de nos jours...
 110)  LEE
-Clem, honey. Who is the man you’ve been talking to? It’s okay, you’re not in any trouble. We just need to know.
+Clem, chérie. Qui est l'homme à qui tu parlais ? Ca va, tu n'auras pas d'ennuis, on veut simplement savoir.
 111)  CLEMENTINE
-{sada}I don’t know. {happya}But he really seems nice. {normala} I think he wants to help us.
+{sada}Je sais pas. {happya}Mais il a l'air gentil. {normala} Je crois qu'il veut nous aider.
 112)  LEE
-Help us how? Clementine, what exactly have you told him?
+Nous aider comment ? Tu lui as dit quoi exactement ?
 113)  CLEMENTINE
-{normalA}I told him that we were looking for my mom and dad, and that they were in Savannah. {happya}He said he thinks he might know where to look for them.
+{normalA}Je lui ai dit qu'on recherchait mes parents et qu'ils étaient à Savannah. {happya}Il a dit qu'il pourrait savoir où les retrouver.
 114)  LEE
-Have you told him anything else about us?
+Tu lui as dit autre chose sur nous ?
 115)  LEE
-Clementine, try to think. This is important. What else have you told him?
+Clémentine, essaye de te souvenir. C'est important. Que lui as-tu dit d'autre ?
 116)  BEN
-{feara}Kenny said he thought he heard something up there, went to go look.
+{feara}Kenny a dit qu'il avait cru entrendre un truc là haut, il est allé voir.
 117)  LEE
-He’s up there?
+Il est en haut ?
 118)  BEN
-{fearb}I can’t get him to come down.
+{fearb}J'arrive pas à le faire descendre.
 119)  LEE
-Stay here.
+Reste là.
 120)  BEN
-{fearb}[urgent/freaked out] Lee, you need to get up here now.
+{fearb}[urgent/freaked out] Lee, venez voir.
 121)  LEE
-What’s wrong?
+Qu'est-ce qui va pas ?
 122)  BEN
-{sadA}It’s Kenny.
+{sadA}C'est Kenny.
 124)  CHRISTA
-[pickup2][impatient]{angryb}Well?
+[pickup2][impatient]{angryb}Et bien ?
 126)  KENNY
-Because that doesn’t make a lick of damn sense. Why would they bring out the dead like that and then try to warn us about it?
+Parce que ça n'a aucun sens. Pourquoi ils auraient attiré les morts pour ensuite nous prévenir ?
 127)  CHRISTA
-What makes you think it’s not the same person? Whoever was on the radio, he was close enough to see us in the street. And we didn’t see anyone else other than the guy Lee spotted up in the bell tower.
+Qu'est-ce qui vous fait croire que ce n'est pas le même type ? Celui de la radio était assez proche de nous pour nous voir. Et on a vu personne d'autre que le type apperçu par Lee sur le clocher.
 128)  CLEMENTINE
-[satisfied]{happya}Okay.
+[satisfied]{happya}D'accord.
 173)  CLEMENTINE
-[satisfied]{happya}Okay.
+[satisfied]{happya}D'accord.
 133)  LEE
-{thinkinga}[lookat]Kenny and Ben have the second floor covered, I should finish checking down here.
+{thinkinga}[lookat]Kenny et Ben inspectent l'étage, je devrais finir la ronde ici.
 134)  LEE
-{normala}[lookat]I should finish checking the house before heading back outside.
+{normala}[lookat]Je devrais finir d'inspecter la maison avant de retourner dehors.
 135)  LEE
-{disgusta}[lookat]Hope we never get desperate enough for food that this starts to look appetizing.
+{disgusta}[lookat]J'espère que j'aurais jamais assez faim pour trouver ça appétissant.
 136)  LEE
-{disgusta}[lookat]I'm not THAT hungry. {normalb}Besides, I need to finish checking the downstairs.
+{disgusta}[lookat]J'ai pas AUSSI faim que ça. {normalb}De plus, je dois finir de vérifier le RDC.
 137)  LEE
-{thinkinga}[lookat]Whoever cleared this place out left behind two bottles of whiskey?{happya} Looks like someone didn't have their priorities straight.
+{thinkinga}[lookat]Celui qui a pillé la maison a laissé deux bouteilles de whisky ?{happya} On dirait qu'il n'a pas le sens des priorités.
 138)  LEE
-{thinkinga}[lookat]Probably not the best idea right now. I need to stay frosty.
+{thinkinga}[lookat]C'est sans doute pas une bonne idée. Il faut que je reste sobre.
 139)  CHRISTA
-{normalb}We'll have time to talk later. Just let me know when you're done searching the house.
+{normalb}On discutera plus tard. Dîtes moi quand vous aurez fini de vérifier la maison.
 140)  OMID
-{paina}Man, this leg is killing me! Let me know if you find some meds, okay? Painkillers or something.
+{paina}Ma jambe me tue ! Dîtes moi si vous trouvez un genre d'analgésique, d'accord ?
 141)  CLEMENTINE
-{feara}I hope this house is safe. {normalb}Have you checked all the rooms to make sure?
+{feara}J'espère qu'on est en sécurité ici. {normalb}Tu as vérifié toutes les pièces pour être sûr ?
 146)  LEE
 {normalb}Christa--
 147)  LEE
-{normalb}Omid, you alright?
+{normalb}Omid, vous allez bien ?
 148)  LEE
-{normala}Holding up okay?
+{normala}Tenez bon, d'accord ?
 149)  LEE
-{normalb}No, but I'll take care of it.
+{normalb}Non mais je vais m'en charger.
 150)  
-Backyard Door
+Porte du jardin
 224)  
-Backyard Door
+Porte du jardin
 151)  
-Door
+Porte
 152)  
-Door
+Porte
 153)  
-Door
+Porte
 154)  
-I agree with Kenny.
+D'accord avec Kenny.
 155)  
-Let's rest up.
+Reposons-nous.
 156)  
-We need to go find Chuck.
+Il faut retrouver Chuck.
 159)  LEE
-We need to make sure Chuck is okay. Once it’s quieted down outside we’ll all head towards the river and see if we can find him. Deal?
+Il faut s'assurer que Chuck va bien. Une fois que le calme sera revenu dehors, on ira voir si on le trouve vers le fleuve. Ok ?
 162)  BEN
-{normalA}Look, why don't we just stay here a little longer? {fearA}Omid needs rest, and we need to wait for the walkers outside to thin out.
+{normalA}Ecoutez, et si on restait un si un peu plus ? {fearA}Il faut laisser Omid se reposer et que les marcheurs à l'extérieur se dispersent.
 164)  BEN
-{normalA}Look, why don't we just stay here a little longer? {fearA}Omid needs rest, and we need to wait for the walkers outside to thin out.
+{normalA}Ecoutez, et si on restait un si un peu plus ? {fearA}Il faut laisser Omid se reposer et que les marcheurs à l'extérieur se dispersent.
 166)  
-I'm sorry I yelled.
+Désolé d'avoir crié.
 167)  
-Just stay with Christa.
+Reste avec Christa.
 168)  LEE
-Just stay with Christa and Omid, okay?
+Reste avec Christa et Omid, d'accord ?
 169)  CLEMENTINE
-[disappointed]Okay.
+[disappointed]Ok.
 171)  CLEMENTINE
-[disappointed]Okay.
+[disappointed]Ok.
 174)  CLEMENTINE
-[disappointed]Okay.
+[disappointed]Ok.
 175)  CLEMENTINE
-[disappointed]Okay.
+[disappointed]Ok.
 170)  LEE
-You’ve been helpful enough for one day. Just stay close to Christa while I check the house, okay?
+T'en a assez fait pour aujourd'hui. Reste près de Christa pendant que j'inspecte la maison, d'accord ?
 172)  
-You've been helpful enough.
+T'en a assez fait.
 178)  LEE
-[calling out][lookat]Kitchen looks clear.
+[calling out][lookat]Rien dans la cuisine.
 179)  LEE
-[calling out][lookat]Front door's locked up tight. Don't think anything's gonna get through there.
+[calling out][lookat]La porte d'entrée est bien verrouillée. Rien ne passera par ici.
 180)  LEE
-[calling out][lookat]Nothin' in the dining room.
+[calling out][lookat]Rien dans le salle à manger.
 181)  LEE
-[to himself][lookat]Better check the front door and that closet.
+[to himself][lookat]Je devrais vérifier la porte d'entrée et ces toilettes.
 182)  LEE
-[to himself][lookat]Better check that front door.
+[to himself][lookat]Je devrais vérifier la porte d'entrée.
 183)  LEE
-[to himself][lookat]Hope there's nothing in that closet.
+[to himself][lookat]J'espère qu'il y a rien dans ces toilettes.
 184)  LEE
-[to himself][lookat]Better check the other rooms.
+[to himself][lookat]Je devrais vérifier les autres pièces.
 185)  LEE
-[to himself][lookat]Locked up tight. No danger there, I guess.
+[to himself][lookat]C'est bien fermé. Rien à craindre par ici, j'imagine.
 186)  LEE
-[calling out][lookat]Nothing in here.
+[calling out][lookat]Rien ici.
 187)  CHRISTA
-[calling out][pickup]How's it coming?
+[calling out][pickup]Ca avance ?
 188)  LEE
-[to himself][lookat]I'd better go check in with Christa and Clem.
+[to himself][lookat]Je devrais retourner voir Christa et Clem.
 189)  LEE
-{normalb}[lookat]Must've stopped working a while ago.
+{normalb}[lookat]Ils ont dû arrêter les travaux depuis un moment.
 190)  LEE
-{normalb}[lookat]All cleaned out.
+{normalb}[lookat]Tout est ok.
 191)  LEE
-{normalb}[lookat]All empty.
+{normalb}[lookat]C'est vide.
 192)  LEE
-{normalb}[lookat]Nothin'. Of course.
+{normalb}[lookat]Rien. Bien sûr.
 193)  LEE
-{normalb}[lookat]Looks expensive. {thinkinga}And heavy. Doubt any looters would be able to haul that thing too far.
+{normalb}[lookat]Ca à l'air cher. {thinkinga}Et lourd. Je doute que des pilleurs puissent traîner ce truc très loin.
 194)  LEE
-{normalb}[lookat]No dinner for us, I guess.
+{normalb}[lookat]Rien à manger pour nous, j'imagine.
 195)  LEE
-{normalb}[lookat]Top of the line. Too bad it's electric.
+{normalb}[lookat]Du haut de gamme. C'est électrique, dommage.
 196)  LEE
-{normalb}[lookat]No power.
+{normalb}[lookat]Ca ne s'allume pas.
 197)  LEE
-{normalb}[lookat]Nothing. Water's off.
+{normalb}[lookat]Rien. Y'a pas d'eau.
 198)  LEE
-{normalb}[lookat]Better wait for those walkers in the street to thin out a bit more before going anywhere.
+{normalb}[lookat]Vaudrait mieux attendre que les marcheurs se dispersent avant de sortir.
 199)  LEE
-{normalb}[lookat]I'm done with doggie doors.
+{normalb}[lookat]J'en ai fini avec l'entrée du chien.
 202)  
-Stairs
+Escaliers
 203)  
-Bottle of Whiskey
+Bouteille de Whisky
 216)  
-Bottle of Whiskey
+Bouteille de Whisky
 210)  KENNY
-Alright, fine. I hope you know what the fuck you're doing.
+Très bien. J'espère que vous savez ce que vous foutez.
 211)  BEN
-LEE!
+LEE !
 212)  BEN
-[processed to be upstairs] LEE!
+[processed to be upstairs] LEE !
 213)  BEN
-[processed to be upstairs] LEE!
+[processed to be upstairs] LEE !
 214)  BEN
-[processed to be upstairs] LEE!
+[processed to be upstairs] LEE !
 215)  BEN
-[processed to be upstairs] LEE!
+[processed to be upstairs] LEE !
 217)  
-Grandfather Clock
+Horloge de Grand-père
 218)  
 Cabinets
 219)  
-Hutch
+Clapier
 220)  
 Table
 221)  
-Stove
+Fourneau
 222)  
-Microwave
+Micro-onde
 223)  
-Sink
+Evier
 225)  
-Pet Door
+Entrée du chien
 226)  KENNY
-[pickup][sighs]Alright, fine. [to Ben]You and me’ll take the upstairs - Lee, you’ve got down here. Make sure you check every door, understand?
+[pickup][sighs]Très bien. [to Ben]Toi et moi on va monter - Lee, reste en bas. Vérifie chaque porte, compris ?
 227)  
 Portrait
 228)  
-About this boat plan...
+A propos du bateau...
 229)  LEE
-[pickup]What do you guys think about this plan of Kenny's?
+[pickup]Qu'est-ce que vous pensez du plan de Kenny ?
 230)  CHRISTA
-[pickup][neutral, not pissy]The guy's losing it. Look Lee, I know he's your friend and all, but you need to be careful.  That man is on the edge. And I don't know if I want to be around when he goes over it.
+[pickup][neutral, not pissy]Il lui échappe. Je sais que c'est votre ami mais vous devez être prudent.  Il est à bout. Et je ne veux pas être là quand il pétera un câble.
 231)  OMID
-[pickup][tired]Look Lee, I know he's your bro and all, but you need to be careful. That guy's going through some heavy shit right now. He's on the verge.
+[pickup][tired]Ecoutez Lee, je sais que c'est votre pote mais vous devez être prudent. Il s'est mis dans un sacré merdier. Il est à bout.
 232)  CHRISTA
-[pickup][to Omid, calm]Why don't you just worry about feeling better, okay?
+[pickup][to Omid, calm]Contente-toi d'aller mieux, d'accord ?
 233)  
-Your leg feeling better?
+Comment va votre jambe ?
 234)  OMID
-[pickup][tired]Yeah. Still hurts like hell, though. Trying not to think about it, to be honest.
+[pickup][tired]Ca fait un mal de chien. J'essaye de pas y penser, à vrai dire.
 235)  LEE
-[pickup]How's that couch treating you, Omid? Leg feeling better yet?
+[pickup]Il est confortable ce canapé, Omid ? Votre jambe va mieux ?
 236)  LEE
-[pickup][light, sharing an inside joke with Omid]Must hurt like hell. Just do what I do. Close your eyes and think of Quantrill's Raid.
+[pickup][light, sharing an inside joke with Omid]Ca doit faire un mal de chien. Faîtes comme moi, fermez les yeux et imaginez le raid de Quantrill.
 237)  OMID
-[pickup][tired, but amused at Lee's inside joke]Heh, yeah. I'll try that.
+[pickup][tired, but amused at Lee's inside joke]Ouais. Je vais essayer.
 238)  LEE
-[pickup][understands]I feel you.
+[pickup][understands]Je comprends.
 239)  OMID
-[pickup][tired]Yeah, kinda sweet actually. And old. Probably dates back to the late 19th century.
+[pickup][tired]Ouais, il est plutôt moelleux. Et vieux. Il date sans doute de la fin du XIXeme.
 240)  CHRISTA
-[pickup][not pissy]I'll like it a lot better when we know for sure it's safe.
+[pickup][not pissy]Je vais l'apprécier d'autant plus quand on saura si elle est sans danger.
 241)  LEE
-[pickup] Finding this house was a hell of a stroke of luck.
+[pickup] On a vraiment eu du bol de trouver cette maison.
 242)  
-Sit tight.
+Restez là.
 243)  LEE
-[pickup]Sit tight. I'll keep checking the first floor to make sure it's safe.
+[pickup]Restez là, je vais inspecter le RDC.
 244)  CHRISTA
-[pickup]Thanks, Lee.
+[pickup]Merci, Lee.
 245)  CHRISTA
-[pickup]Lee, will you please check the rest of the house? I'd feel better if I knew it was safe.
+[pickup]Lee, vous voulez bien vérifier le reste de la maison ? Ca me rassurerait.
 246)  LEE
-[pickup]Not done searching the first floor yet. But so far so good.
+[pickup]J'ai pas encore fini de fouiller le RDC. Mais RAS pour l'instant.
 247)  LEE
-[pickup]Hey guys.
+[pickup]Salut les gars.
 272)  LEE
-[pickup]Hey guys.
+[pickup]Salut les gars.
 248)  CHRISTA
-[pickup]How's the house looking?
+[pickup]La maison vous parraît bien ?
 249)  LEE
-[pickup][startled]Jesus!
+[pickup][startled]Putain !
 255)  LEE
-[pickup][startled]Jesus!
+[pickup][startled]Putain !
 250)  CLEMENTINE
-[pickup][worried]What? What happened?
+[pickup][worried]Quoi ? Qu'est-ce qu'il y a ?
 252)  CLEMENTINE
-[pickup][worried]What? What happened?
+[pickup][worried]Quoi ? Qu'est-ce qu'il y a ?
 253)  CLEMENTINE
-[pickup][worried]What? What happened?
+[pickup][worried]Quoi ? Qu'est-ce qu'il y a ?
 251)  LEE
-[pickup][slightly out of breath]It's nothing. Just... nothing.
+[pickup][slightly out of breath]C'est rien. C'est... rien.
 254)  LEE
-[pickup][slightly out of breath]It's nothing. Just... nothing.
+[pickup][slightly out of breath]C'est rien. C'est... rien.
 256)  LEE
-[pickup][looking at some bad art]Not exactly my style...
+[pickup][looking at some bad art]C'est pas vraiment mon style...
 257)  LEE
-[pickup][disappointed]More plastic fruit.
+[pickup][disappointed]Encore des fruits en plastique.
 258)  OMID
-{Body-A}{PainA}I’m all right.
+{Body-A}{PainA}Je vais très bien.
 259)  OMID
-{Body-A}{PainA}Okay. {HappyA}Thanks, man.
+{Body-A}{PainA}Ok. {HappyA}Merci.
 260)  LEE
-[pickup] Kenny's solid. He's just been through a lot, that's all.
+[pickup] Kenny est solide. Il en a bavé c'est tout.
 261)  CHRISTA
-[pickup] I hope you're right. For all our sakes.
+[pickup] J'espère que vous avez raison. Pour nous tous.
 262)  CHRISTA
-[pickup] I'd like to believe that. Really I would.
+[pickup] J'aimerais le croire. Vraiment.
 263)  LEE
-[pickup] I'll make sure. But right now it feels like just the break we needed. Maybe our luck's starting to turn around.
+[pickup] Je vais m'en assurer. Pour l'instant c'est l'idéal. Peut-être que notre chance va tourner.
 264)  LEE
-[pickup] Back off, Christa. She hasn't done anything wrong.
+[pickup] Stop, Christa. Elle n'a rien fait de mal.
 265)  
-Paintings
+Peintures
 266)  
-Dog Food
+Nourriture pour chien
 267)  
-Refrigerator
+Réfrigérateur
 271)  
-Christa and Omid
+Christa et Omid
 273)  LEE
-Hey.
+Salut.
 274)  CHRISTA
-Hey.
+Salut.
 275)  LEE
 [sighs]
 276)  
-Drawing
+Dessin
 278)  
-About this house...
+A propos de la maison...
