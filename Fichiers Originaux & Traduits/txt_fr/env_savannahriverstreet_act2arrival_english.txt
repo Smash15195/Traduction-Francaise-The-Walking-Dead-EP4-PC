@@ -1,0 +1,352 @@
+1)  KENNY
+{angrya}[grunt] Hmph. Continuons à avancer.
+2)  LEE
+A propos de ce qui s'est passé là-bas. Dans le grenier.
+3)  LEE
+Eh bien... tu veux qu'on en parle ?
+4)  KENNY
+{angrya}De quoi ?
+5)  LEE
+Tu es sûr, mec ? Je veux dire-
+6)  KENNY
+{angrya}[focused/stoic] Non.
+7)  KENNY
+C'est quoi ça ?
+8)  KENNY
+[quietly] Fils de pute. Ce salaud joue encore avec nous. C'est un autre piège.
+9)  KENNY
+{angryb}[ignoring him/focused] La rivière est droit devant.
+10)  LEE
+[quitely] Non. Ecoute. Ce n'est pas la même cloche qu'avant. Celle-là est plus loin. Quoi que ce soit, ça va attirer les zombies par là.
+11)  KENNY
+{angryb}Peu importe, mec. {angryc}Si je trouve qui fait ça, c'est moi qui vais leur sonner les cloches.
+116)  KENNY
+{angryb}Peu importe, mec. {angryc}Si je trouve qui fait ça, c'est moi qui vais leur sonner les cloches.
+119)  KENNY
+{angryb}Peu importe, mec. {angryc}Si je trouve qui fait ça, c'est moi qui vais leur sonner les cloches.
+12)  LEE
+Quoi que ce soit, ça va attirer les zombies vers là-bas, pas ici. Il nous rend peut-être service.
+13)  LEE
+Bien dit.
+117)  LEE
+Bien dit.
+118)  LEE
+Bien dit.
+14)  LEE
+Il n'y a toujours rien qui bouge derrière nous, je pense que nous--
+15)  KENNY
+{angrya}Il faut qu'il y ait un bateau...{fearA} il le faut.
+16)  LEE
+Kenny, mec... je ne pense pas. On doit peut-être élaborer un nouveau plan.
+17)  LEE
+Kenny, mec, retournons à la maison pour le dire aux autres. On élaborera un nouveau plan.
+18)  
+Regarder au travers
+19)  LEE
+{normalc}[lookat]Super. Il faut une pièce pour que ça marche.
+20)  LEE
+{normalb}[lookat]Je ne verrai rien du tout si je ne trouve pas une pièce.
+21)  LEE
+{thinkinga}[lookat]Que veulent dire ces inscriptions ? Il y en a partout.
+149)  LEE
+{thinkinga}[lookat]Que veulent dire ces inscriptions ? Il y en a partout.
+22)  LEE
+{thinkinga}[lookat]Peut-être des balises militaires. {normalb}Mais que veulent-elles dire ?
+150)  LEE
+{thinkinga}[lookat]Peut-être des balises militaires. {normalb}Mais que veulent-elles dire ?
+23)  LEE
+{thinkinga}[lookat]L'essence a été siphonnée, les pneus enlevés, il manque des pièces du moteur...
+24)  LEE
+{disgusta}[lookat]On dirait que ce truc a été complètement dépouillé.
+25)  LEE
+[horrified, to himself] C'est pas vrai ? Qu'est-ce que ça signifie, une sorte d'avertissement ? Qui ferait une chose pareille ?
+26)  LEE
+[to himself]On dirait qu'ils ont essayé de barricader la rue. C'est plutôt réussi.
+27)  LEE
+{normala}[lookat]C'est un bon endroit pour chercher de la monnaie.
+28)  LEE
+[to himself] [lookat]Vide. Ouais, ça aurait été trop facile.
+29)  LEE
+{happya}[to himself][lookat]Salut, beauté.
+30)  
+Ouvrir
+35)  
+Ouvrir
+31)  
+Regarder
+34)  
+Regarder
+56)  
+Regarder
+68)  
+Regarder
+32)  LEE
+{normalb}[lookat]Rien. Quelqu'un a déjà vidé cet endroit.
+176)  LEE
+{normalb}[lookat]Rien. Quelqu'un a déjà vidé cet endroit.
+33)  LEE
+{normalb}[lookat]Ca a toujours l'air intact.
+36)  LEE
+{normalb}[lookat]Fermé.
+37)  
+Frapper
+42)  
+Frapper
+38)  LEE
+{happya}Jackpot !
+39)  LEE
+{normala}[lookat]J'ai déjà ce dont j'avais besoin.
+174)  LEE
+{normala}[lookat]J'ai déjà ce dont j'avais besoin.
+40)  LEE
+{normalb}[lookat]Toujours fermé.
+41)  LEE
+{normalb}[lookat]Quelqu'un a déjà pillé cet endroit.
+43)  LEE
+{normalb}[lookat]Zut, c'est du costaud.
+44)  LEE
+{thinkinga}[lookat]Ca ne va pas marcher.
+45)  KENNY
+[frustrated] {angryc}Merde !
+46)  LEE
+Il y a un problème avec le bateau ?
+47)  KENNY
+{angryb}[dejected] Ca ne va pas marcher. La coque est fendue en-dessous de la ligne de flottaison, en plus quelqu'un a retiré la batterie.
+48)  LEE
+Voyons voir.
+49)  LEE
+{normalb}[lookat]Je ne peux pas l'atteindre.
+50)  LEE
+{normalb}[lookat]Juste une boîte de conserve vide.
+51)  LEE
+[lookat]{normalb}Je ne pense pas qu'on trouvera un bateau ici.
+52)  LEE
+{normala}[lookat]Il y a peut-être de la monnaie dans le tiroir.
+175)  LEE
+{normala}[lookat]Il y a peut-être de la monnaie dans le tiroir.
+53)  LEE
+{thinkinga}[lookat]Une de ces barrières en béton qu'on trouve sur les autoroutes.
+54)  LEE
+{normalb}[lookat]On dirait que toute la ville a été barricadée. Ca n'a pas changé grand chose.
+55)  LEE
+{thinkinga}[lookat]Ca a dû prendre des semaines pour boucher toutes ces fenêtres.
+57)  
+Tirer
+69)  
+Tirer
+58)  LEE
+{thinkinga}[lookat]Il ne vaut mieux pas. {normalb}Un coup de feu attirerait plus de rôdeurs.
+59)  KENNY
+[desperate/hanging on] {angryb}C'est CA le plan, Lee ! C'est notre meilleure et seule alternative ! {angryc}Tu l'as dit toi-même quand nous étions à la maison ! {angryd}Tu étais d'accord avec moi !
+60)  KENNY
+[desperate/frustrated]{angryc}C'est CA le plan ! C'est le seul que nous ayons, et le critiquer devant tout le monde comme tu l'as fait à la maison n'aide pas vraiment. {angrya}Alors va chier, je n'abandonnerai pas si facilement.
+61)  KENNY
+{normalC}Il y a peut-être encore moyen de réparer celui-là.
+62)  LEE
+[highly skeptical] Vraiment ?
+63)  KENNY
+{angryb}[snapping] Tu as une meilleure idée ?
+64)  LEE
+Je pense qu'on ne doit pas trop s'éloigner l'un de l'autre.
+65)  KENNY
+{normalA}Ce ne sera pas nécessaire. Tu vois ce télescope ? Tu peux voir toute la rive depuis ici. Regarde ce que tu peux trouver.
+66)  LEE
+[skeptical but willing to try] Ok.
+67)  LEE
+Ouais, mais c'était avant que nous--
+70)  LEE
+[lookat]{normalA}Clémentine et moi avons eu assez d'entraînement sur cible.
+71)  LEE
+[lookat]{normalA}Non, je ne veux pas attirer plus l'attention.
+72)  
+Tu veux discuter ?
+73)  
+Tu penses qu'ils sont en sécurité à la maison ?
+74)  
+Je ne pense pas.
+75)  
+Il est temps de passer au plan B.
+76)  
+Rentrons.
+77)  LEE
+Tu en es sûr ? Ca n'en a pas l'air pour moi. Nous devons peut-être penser à un plan B.
+79)  KENNY
+{normalc}[cooling off] Je vais vérifier. Va voir plus loin sur la rive. Il y a peut-être quelque chose à l'autre bout.
+80)  
+Quoi ? Tu es sérieux ?
+81)  
+Tu ferais mieux d'avoir raison.
+93)  LEE
+Tu ferais mieux d'avoir raison.
+82)  
+Ce bateau est foutu.
+83)  LEE
+Oh mon Dieu.
+84)  LEE
+La rivière est encore loin ?
+85)  KENNY
+[determined/focused] Elle devrait être à quelques blocs devant nous.
+86)  LEE
+"Quelques blocs" n'a plus vraiment le même sens qu'avant.
+87)  KENNY
+Ca a l'air calme.
+88)  LEE
+Pour le moment.
+89)  LEE
+Tu penses que tout le monde est en sécurité à la maison ?
+90)  KENNY
+{angrya}[grim] Autant qu'on puisse l'être ces derniers temps, je suppose.
+91)  LEE
+Je déteste laisser Clémentine toute seule. Comme si on n'avait pas assez de problèmes avec les zombies, maintenant il y a ce taré à la radio qui nous traque.
+92)  KENNY
+{normalA}Ce ne sera plus un problème quand nous serons sur l'eau. La rivière n'est qu'à quelques blocs là-devant.
+94)  KENNY
+{angryb}J'ai dit peut-être. Alors n'en rajoute pas. Je suis capitaine de pêche, pas magicien.
+95)  LEE
+Kenny. Arrête de rêver. Ce bateau est complètement foutu.
+96)  KENNY
+{angrya}Oh ouais ? {angryb}Tu en connais un rayon sur les bateau, n'est-ce pas ?
+97)  LEE
+{normalb}[lookat]Cette barricade joue bien son rôle, je n'ai pas du tout envie d'aller plus loin.
+98)  LEE
+{normala}[lookat]Pittoresque.
+99)  LEE
+Tu ne peux pas le réparer ?
+100)  KENNY
+{angrya}Je suis bon, mais pas à ce point. Et toi ? Tu as eu plus de chance ?
+101)  LEE
+{normalb}Tu as une pièce sur toi ?
+102)  KENNY
+{thinkinga}Je n'utilise plus trop de monnaie ces derniers temps. {normalb}Tu en trouveras peut-être une quelque part dans la rue.
+103)  KENNY
+{angrya}Je vais te dire - si un jour j'ai besoin de l'avis d'un expert sur l'histoire de l'Amérique - ou sur comment commettre des meurtres - je te demanderai à coup sûr. Mais si tu me laissais gérer les histoires de bateaux ?
+104)  KENNY
+Je vais te dire - si un jour j'ai besoin de l'avis d'un expert sur l'histoire de l'Amérique je te demanderai à coup sûr. Mais si tu me laissais gérer les histoires de bateaux ?
+105)  LEE
+{disgusta}[lookat]Utiliser des zombies comme épouvantails ? Quel cinglé a pu faire ça ?
+178)  LEE
+{disgusta}[lookat]Utiliser des zombies comme épouvantails ? Quel cinglé a pu faire ça ?
+106)  LEE
+{sada}[lookat]Un destin pire que la mort...
+107)  
+Utiliser pièce
+108)  LEE
+Reste sur tes gardes. Chuck pourrais nous attendre par ici.
+109)  KENNY
+{angrya}[not really listening]Ouais... bien sûr.
+110)  
+Peut-être qu'ils nous rendent service.
+111)  LEE
+Je ne sais pas, mais la personne qui fait sonner ces cloches pourrait nous rendre service.
+112)  
+Ils essayent peut-être de nous distraire.
+113)  LEE
+Peut-être que celui qui fait sonner les cloches essaye de nous distraire. De créer une diversion.
+114)  
+Je n'en ai aucune idée.
+115)  LEE
+Je n'en ai aucune idée. Mais il y a bien quelqu'un qui fait sonner ces cloches.
+120)  
+Attendre
+122)  LEE
+[to himself]Il vaut peut-être mieux le laisser faire ses trucs.
+123)  LEE
+{normalb}Je vais jeter un coup d'oeil dans le coin, ok ?
+124)  LEE
+{normalb}[to himself][lookat]Ca a dû être un sacré naufrage.
+125)  
+Caisse enregistreuse
+126)  
+Distributeur de journaux
+127)  
+Télescope
+128)  
+Barricade
+129)  
+Sortie de secours
+130)  
+Boîte de conserve
+131)  
+Inscriptions
+132)  
+Fais attention à Chuck.
+133)  
+Plaque d'égout
+134)  LEE
+[pickup][to himself]Je ferais peut-être mieux de regarder dans ce télescope... avant qu'il ne se brise vraiment.
+135)  KENNY
+[pickup][impatient]Tu attends quoi ? Il faut regarder dans ce télescope s'il y a d'autres bateaux.
+136)  
+Rôdeurs
+137)  
+Bannière
+138)  LEE
+[pickup][to himself]Pas vraiment un message de bienvenue.
+139)  LEE
+[pickup]"Restez à l'écart"... restez à l'écart de quoi ?
+140)  
+Voiture
+141)  
+Caddie
+142)  
+Planches
+143)  
+Camion
+144)  LEE
+[pickup]Quelqu'un a dû essayer de mettre son bateau à l'eau. Seulement les choses ne se sont pas passées comme prévu.
+145)  LEE
+[pickup]Ils ont vraiment fait ça en toute hâte.
+146)  
+Bateau coulé
+167)  
+Bateau coulé
+147)  LEE
+[pickup][quietly, trying not to upset Kenny]Mon Dieu.
+148)  LEE
+[pickup][quietly, trying not to upset Kenny]C'est honteux...
+151)  
+Kiosque à journaux
+152)  LEE
+[pickup]On dirait un kiosque à journaux abandonné.
+153)  LEE
+[pickup]C'est une vieille caisse enregistreuse. Je ne pense pas que l'argent soit encore très utile actuellement.
+177)  LEE
+[pickup]C'est une vieille caisse enregistreuse. Je ne pense pas que l'argent soit encore très utile actuellement.
+154)  LEE
+[pickup][while looking through a telelscope for boats]Abandonné, comme tout le reste dans cette ville.
+158)  LEE
+[pickup][while looking through a telelscope for boats]Abandonné, comme tout le reste dans cette ville.
+155)  LEE
+[pickup][while looking through a telelscope for boats]Rien.
+159)  LEE
+[pickup][while looking through a telelscope for boats]Rien.
+156)  LEE
+[pickup][while looking through a telelscope for boats, to himself]Aucun signe d'un bateau par ici.
+157)  LEE
+[pickup][while looking through telescope, finding a sunken boat]Celui-là n'est pas réparable.
+160)  LEE
+[pickup][looking through a telescope for boats]Plein de quais. Pas de bateaux.
+161)  LEE
+[pickup][looking through the telescope for boats]Rien à part de l'eau. Pas un seul bateau.
+162)  LEE
+[pickup][looking through a telescope for boats]Le pont du mémorial de Talmadge. Je n'ose pas imaginer le nombre de personnes qui a essayé de s'échapper par là quand la ville est tombée.
+163)  LEE
+[pickup][looking through a telescope]Juste un pont abandonné.
+164)  LEE
+[pickup][to himself]{normalb}Je devrais probablement rester près de Kenny. C'est trop dangereux par là.
+165)  
+Bâtiment
+171)  
+Bâtiment
+166)  
+En aval
+168)  
+Quais
+169)  
+En amont
+170)  
+Pont
+172)  LEE
+Hé, Kenny...
+173)  KENNY
+Qu'est-ce que--qu'est-ce que c'est ça !?
