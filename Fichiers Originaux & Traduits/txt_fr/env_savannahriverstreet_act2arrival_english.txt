@@ -13,11 +13,11 @@ Tu es sûr, mec ? Je veux dire-
 7)  KENNY
 C'est quoi ça ?
 8)  KENNY
-[quietly] Fils de pute. Ce salaud joue encore avec nous. C'est un autre piège.
+[quietly] Le fils de pute. Ce salaud joue encore avec nous. C'est un autre piège.
 9)  KENNY
 {angryb}[ignoring him/focused] La rivière est droit devant.
 10)  LEE
-[quitely] Non. Ecoute. Ce n'est pas la même cloche qu'avant. Celle-là est plus loin. Quoi que ce soit, ça va attirer les zombies par là.
+[quitely] Non. Ecoute. Ce n'est pas la même cloche qu'avant. Celle-là est plus loin. Quoi que ce soit, ça va attirer les zombies dans le coin.
 11)  KENNY
 {angryb}Peu importe, mec. {angryc}Si je trouve qui fait ça, c'est moi qui vais leur sonner les cloches.
 116)  KENNY
@@ -81,9 +81,9 @@ Regarder
 68)  
 Regarder
 32)  LEE
-{normalb}[lookat]Rien. Quelqu'un a déjà vidé cet endroit.
+{normalb}[lookat]Rien. Quelqu'un a déjà ratissé cet endroit.
 176)  LEE
-{normalb}[lookat]Rien. Quelqu'un a déjà vidé cet endroit.
+{normalb}[lookat]Rien. Quelqu'un a déjà ratissé cet endroit.
 33)  LEE
 {normalb}[lookat]Ca a toujours l'air intact.
 36)  LEE
@@ -103,7 +103,7 @@ Frapper
 41)  LEE
 {normalb}[lookat]Quelqu'un a déjà pillé cet endroit.
 43)  LEE
-{normalb}[lookat]Zut, c'est du costaud.
+{normalb}[lookat]Merde, c'est du solide.
 44)  LEE
 {thinkinga}[lookat]Ca ne va pas marcher.
 45)  KENNY
@@ -195,7 +195,7 @@ Pour le moment.
 89)  LEE
 Tu penses que tout le monde est en sécurité à la maison ?
 90)  KENNY
-{angrya}[grim] Autant qu'on puisse l'être ces derniers temps, je suppose.
+{angrya}[grim] Autant qu'on puisse l'être ces derniers temps, j'imagine.
 91)  LEE
 Je déteste laisser Clémentine toute seule. Comme si on n'avait pas assez de problèmes avec les zombies, maintenant il y a ce taré à la radio qui nous traque.
 92)  KENNY
@@ -205,7 +205,7 @@ Je déteste laisser Clémentine toute seule. Comme si on n'avait pas assez de prob
 95)  LEE
 Kenny. Arrête de rêver. Ce bateau est complètement foutu.
 96)  KENNY
-{angrya}Oh ouais ? {angryb}Tu en connais un rayon sur les bateau, n'est-ce pas ?
+{angrya}Ah ouais ? {angryb}Tu en connais un rayon sur les bateau, c'est ça ?!
 97)  LEE
 {normalb}[lookat]Cette barricade joue bien son rôle, je n'ai pas du tout envie d'aller plus loin.
 98)  LEE
@@ -321,13 +321,13 @@ Kiosque à journaux
 159)  LEE
 [pickup][while looking through a telelscope for boats]Rien.
 156)  LEE
-[pickup][while looking through a telelscope for boats, to himself]Aucun signe d'un bateau par ici.
+[pickup][while looking through a telelscope for boats, to himself]Aucun signe d'un bateau dans le coin.
 157)  LEE
 [pickup][while looking through telescope, finding a sunken boat]Celui-là n'est pas réparable.
 160)  LEE
-[pickup][looking through a telescope for boats]Plein de quais. Pas de bateaux.
+[pickup][looking through a telescope for boats]Un tas de quais. Pas un seul bateau.
 161)  LEE
-[pickup][looking through the telescope for boats]Rien à part de l'eau. Pas un seul bateau.
+[pickup][looking through the telescope for boats]Rien à part de l'eau. Pas un seul bateau à l'horizon.
 162)  LEE
 [pickup][looking through a telescope for boats]Le pont du mémorial de Talmadge. Je n'ose pas imaginer le nombre de personnes qui a essayé de s'échapper par là quand la ville est tombée.
 163)  LEE
@@ -349,4 +349,4 @@ Pont
 172)  LEE
 Hé, Kenny...
 173)  KENNY
-Qu'est-ce que--qu'est-ce que c'est ça !?
+Bordel qu'est-ce... Qu'est-ce que c'est que ce truc !?
