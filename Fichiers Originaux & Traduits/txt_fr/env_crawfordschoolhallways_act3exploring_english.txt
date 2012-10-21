@@ -1,0 +1,578 @@
+1)  MOLLY
+Vous en avez mis du temps.
+2)  MOLLY
+Prêt ?
+3)  
+Allons-y.
+7)  LEE
+Allons-y.
+4)  
+Pas encore.
+5)  LEE
+Pas tout de suite. Je vais inspecter les alentours un peu plus.
+6)  MOLLY
+[sarcastic] Super. Prenez votre temps. C'est pas comme si on était pressés.
+8)  LEE
+Quand vous voulez.
+9)  MOLLY
+Bon, après cette porte le garage devrait se trouver au bout de l'impasse, au fond. Tâchons de ne pas nous attarder, compris ? On entre à l'intérieur, on chope cette batterie, et on ramène nos fesses ici.
+10)  MOLLY
+A trois. Un... deux... TROIS !
+11)  MOLLY
+Plus tard. J'ai quelque chose à faire.
+12)  LEE
+{angryA} Voyons.
+13)  MOLLY
+Ouais, je vais la garder, histoire de m'assurer que vous ne partiez pas sans moi. Je vous retrouve dans la salle !
+14)  MOLLY
+Je vous rejoindrai.
+15)  LEE
+[stunned] Quoi ?
+16)  LEE
+Attendez ! Vous avez toujours la batterie !
+17)  LEE
+Bon dieu ! Mais qu'est-ce qu'elle peut bien faire ?
+18)  LEE
+Molly !
+19)  LEE
+Vous avez besoin d'aide les gars ?
+20)  VERNON
+Je crois qu'on y est presque, merci.
+21)  CHRISTA
+Tu n'as pas ta mission à faire ? Il nous faut cette batterie. Vas-y, on gère.
+22)  LEE
+D'accord.
+23)  LEE
+Vous êtes sûrs que vous ne voulez pas d'aide ?
+24)  CHRISTA
+On s'en occupe, Lee. T'inquiète pas.
+265)  CHRISTA
+On s'en occupe, Lee. T'inquiète pas.
+25)  LEE
+[under his breath] Merde.
+26)  LEE
+[under his breath, to himself] Christa et Vernon sont sûrement piégés à l'intérieur.
+27)  CHRISTA
+[muffled, from inside] Lee ??
+28)  LEE
+Christa ? Vernon ? Vous êtes là ?
+29)  VERNON
+[muffled, from inside] Dieu merci !
+30)  VERNON
+Vite, entrez !
+31)  MOLLY
+Je me suis promenée.
+32)  LEE
+C'est quoi ça ?
+33)  LEE
+Bon Dieu. Vous m'avez foutu les jetons. Mais où vous étiez ?
+34)  MOLLY
+[stunned/denying] Quoi ? Qui vous a dit ça ?
+183)  MOLLY
+[stunned/denying] Quoi ? Qui vous a dit ça ?
+35)  LEE
+Arrêtez votre numéro, Molly. Je sais que vous venez de Crawford.
+36)  LEE
+Je vous ai vue sur une vidéo de surveillance. Pourquoi avez-vous menti ?
+37)  MOLLY
+Rien.
+60)  MOLLY
+Rien.
+63)  MOLLY
+Rien.
+38)  MOLLY
+Hey, d'après ce qu'on dit vous n'êtes pas vraiment un exemple de vérité non plus. Et puis je n'ai pas menti.
+47)  MOLLY
+Hey, d'après ce qu'on dit vous n'êtes pas vraiment un exemple de vérité non plus. Et puis je n'ai pas menti.
+39)  LEE
+Je vous ai demandé d'où vous connaissiez Crawford, et vous avez dit "juste des rumeurs".
+40)  MOLLY
+J'ai dit qu'il y avait des rumeurs à propos de Crawford, mais je n'ai jamais dit que je tenais mes infos de là. Je ne vous ai jamais menti. Et quand bien même je l'aurais fait ? Je ne vous dois rien.
+41)  LEE
+C'est qui sur cette photo, Molly ? C'est votre soeur ? C'est ça que vous êtes allée chercher ?
+42)  MOLLY
+[caught off-guard/defensive] Allez vous faire foutre. Je ne vous connais même pas.
+43)  LEE
+Vous m'avez sauvé deux fois, et pourtant vous me cachez la vérité ?
+44)  MOLLY
+[defenses breaking down] On est obligés de s'engueuler maintenant ?
+45)  LEE
+A vous de le dire.
+46)  MOLLY
+Je n'ai pas menti.
+48)  MOLLY
+[increasingly emotional] Je vivais ici avec ma soeur. Elle avait quatorze ans. Quand les morts sont revenus et que les gens se sont barricadés à Crawford, c'était plutôt pas mal. Nous étions à l'abri, avec tout ce qu'il fallait pour survivre.
+49)  MOLLY
+[emotional] Et puis les règles ont été mises au point. Tous ceux qui pouvaient justifier de leur utilité pouvaient rester. Pas ceux qui avaient besoin de soins. Ma soeur était diabétique, ce qui d'après les règles de Crawford, en faisait un boulet.
+50)  MOLLY
+[emotional] Je ne l'ai dit à personne, je l'ai gardé pour moi autant que possible. Mais j'ai fini par ne plus pouvoir la protéger. [starting to cry] C'est alors que je suis sortie. A Crawford, isl parlaient souvent de leurs règles, que c'était toujours mieux que de devenir "lun d'entre eux". Mais j'ai vu ce que eux étaient déjà devenus. Mon seul regret c'est de ne pas avoir vu ça plus tôt. Avant qu'ils ne me prennent ma soeur.
+51)  MOLLY
+[emotional] J'aurais du l'éloigner de cet endroit bien avant, on aurait pu s'en sortir dehors. J'aurais pu la protéger. J'aurais dû.
+52)  LEE
+Comment elle s'appelait ?
+53)  MOLLY
+[still tearful/upset] C'est tout ce qu'il me reste d'elle.
+54)  MOLLY
+Je n'ai pas eu le temps de la récupérer avant de partir d'ici. [defensive/upset] Je la voulais, point, d'accord ?
+55)  LEE
+Ca va, Molly. Je comprends. Elle est jolie.
+56)  MOLLY
+Vous l'auriez aimée.
+57)  LEE
+Si elle te ressemblait, je l'aurais adorée.
+58)  MOLLY
+Mais qu'est-ce que...?
+64)  MOLLY
+Mais qu'est-ce que...?
+59)  LEE
+Je crois que ça veut dire qu'il faut foutre le camp d'ici.
+65)  LEE
+Je crois que ça veut dire qu'il faut foutre le camp d'ici.
+61)  LEE
+[suspicious] Vous êtes sûre que vous n'avez rien à me dire ?
+62)  MOLLY
+[hard] Ouais, je suis sûre. C'est bon ?
+66)  MOLLY
+[struggling] Lee ! Tirez sur cet enfoiré !
+67)  LEE
+[impending dread] Oh non...
+68)  MOLLY
+[to Lee and Ben] Allez ! Courez !
+69)  LEE
+[startled] Merde ! Ben !
+70)  BEN
+[spooked] Aaaaah !
+71)  LEE
+Merde !
+72)  BEN
+Ben je l'ai trouvée,  elle était coincée dans une poignée de portes dans le couloir là.
+73)  BEN
+Non, Kenny est avec elle. On n'arrive toujours pas à ouvrir cette porte, alors il m'a envoyé chercher quelque chose à utiliser pour forcer la serrure. J'ai trouvé ça.
+74)  LEE
+Euh, Ben... où as-tu eu ça ?
+75)  LEE
+[startled] Tu as laissé Clémentine seule ?
+76)  BEN
+Kenny et moi on n'arrive toujours pas à ouvrir la porte du dépôt d'armes. Il m'a envoyé chercher un truc à utiliser pour péter la serrure. J'ai trouvé ça.
+153)  BEN
+Kenny et moi on n'arrive toujours pas à ouvrir la porte du dépôt d'armes. Il m'a envoyé chercher un truc à utiliser pour péter la serrure. J'ai trouvé ça.
+161)  BEN
+Kenny et moi on n'arrive toujours pas à ouvrir la porte du dépôt d'armes. Il m'a envoyé chercher un truc à utiliser pour péter la serrure. J'ai trouvé ça.
+162)  BEN
+Kenny et moi on n'arrive toujours pas à ouvrir la porte du dépôt d'armes. Il m'a envoyé chercher un truc à utiliser pour péter la serrure. J'ai trouvé ça.
+77)  MOLLY
+Joli tir.
+78)  LEE
+Vous me remercierez plus tard, filons !
+79)  LEE
+Ben, il faut y aller. Ben !
+80)  LEE
+Bouge-toi !
+81)  MOLLY
+Merci.
+82)  LEE
+C'était pas moi...
+83)  LEE
+Clémentine!
+84)  MOLLY
+[impressed] Bien vu gamin. Joli tir.
+85)  CLEMENTINE
+[still a bit shocked] Merci...
+86)  CHRISTA
+[shouting] Allez !
+87)  CHRISTA
+[shouting] Allez !
+88)  CHRISTA
+[shouting] Allez !
+89)  MOLLY
+[agony/shrieking] Aaaaaaargh !
+90)  KENNY
+Un coup de main ?
+91)  LEE
+[to himself] [lookat]Ca doit être le couloir allant vers la cour de récréation, là où l'essence est stockée selon Brie.
+125)  LEE
+[to himself] [lookat]Ca doit être le couloir allant vers la cour de récréation, là où l'essence est stockée selon Brie.
+92)  LEE
+[to himself] [lookat]Ca ne fait pas assez longtemps. Je ferais mieux de laisser Kenny et Brie tranquilles.
+128)  LEE
+[to himself] [lookat]Ca ne fait pas assez longtemps. Je ferais mieux de laisser Kenny et Brie tranquilles.
+93)  LEE
+[to himself][lookat]Je vais leur donner un peu plus de temps.
+129)  LEE
+[to himself][lookat]Je vais leur donner un peu plus de temps.
+94)  LEE
+[to himself] [lookat]On dirait qu'il y a une chiée de zombies dehors.
+126)  LEE
+[to himself] [lookat]On dirait qu'il y a une chiée de zombies dehors.
+95)  LEE
+[to himself][lookat]Je devrais plutôt le laisser.
+130)  LEE
+[to himself][lookat]Je devrais plutôt le laisser.
+96)  
+Examiner
+108)  
+Examiner
+120)  
+Examiner
+121)  
+Examiner
+124)  
+Examiner
+133)  
+Examiner
+237)  
+Examiner
+244)  
+Examiner
+256)  
+Examiner
+97)  
+Ouvrir
+127)  
+Ouvrir
+135)  
+Ouvrir
+98)  KENNY
+Merde ! Les portes ne se ferment pas !
+99)  BRIE
+Lee, fais quelque chose !
+100)  KENNY
+Lee, donne-moi la hachette !
+101)  LEE
+Tu crois que ça va tenir ?
+102)  KENNY
+Ca a intérêt.
+103)  BRIE
+[terrified] Ils sont si nombreux...
+104)  LEE
+Vous avez l'essence !
+105)  KENNY
+C'est pas encore gagné. Foutons le camp dans la salle de classe. Donne nous un coup de main avec ces bidons, ils pèsent une tonne.
+106)  MOLLY
+Venez, la porte menant au garage est par ici.
+107)  LEE
+[to himself]Merde !
+109)  
+Grimper
+122)  
+Grimper
+110)  LEE
+[lookat]C'est trop haut, je ne peux pas l'atteindre.
+111)  
+Appeler
+112)  LEE
+[calling out]Molly ? Vous êtes là ?
+113)  LEE
+[calling out]Molly ? Vous êtes là ?
+114)  LEE
+[calling out]Molly !
+115)  LEE
+[to himself]Mais qu'est-ce qu'elle fout ?
+116)  LEE
+[to himself][lookat]La ruelle est envahie. M'est avis que je n'y retournerai pas.
+117)  LEE
+Marche pas. Evidemment.
+118)  LEE
+[to himself]Ca doit être vide. Les gens de Crawford ont sûrement enfermé ça quelque part.
+119)  LEE
+[to himself]Je ne retourne pas dans les égoûts tant qu'on n'a pas ce qu'on est venus chercher.
+123)  LEE
+[to himself]Elles ne valent rien. Elles ont déjà été utilisées.
+240)  LEE
+[to himself]Elles ne valent rien. Elles ont déjà été utilisées..
+131)  LEE
+[quietly, to himself] [lookat]Je n'irai pas là.
+134)  LEE
+[quietly, to himself] [lookat]Je n'irai pas là.
+132)  LEE
+[being eaten alive]AAAHHHHHHH ! NOON ! AAAAAGGGGGHHHH.
+136)  LEE
+[being eaten alive]AAAHHHHHHH! NOON ! AAAAAGGGGGHHHH.
+137)  LEE
+Logan. Ca doit être son casier.
+139)  LEE
+Logan. Ca doit être son casier.
+141)  LEE
+Logan. Ca doit être son casier.
+138)  LEE
+[to himself]Dommage que je ne connaisse aucune combinaison.
+140)  LEE
+[to himself]Dommage que je ne connaisse aucune combinaison.
+142)  LEE
+Une autre cassette. La combinaison du coffre doit être dessus.
+290)  LEE
+Une autre cassette. La combinaison du coffre doit être dessus.
+143)  LEE
+[to himself] Impossible de l'ouvrir sans la combinaison.
+144)  MOLLY
+Vous êtes prêt ?
+145)  
+Je comprends.
+146)  
+je m'en fous.
+147)  
+Allons-y.
+148)  
+Allons-y.
+149)  BEN
+Désolé désolé ! J'ai été surpris par les cloches. Et après j'ai entendu quelqu'un arriver...
+150)  
+Qu'est-ce que tu fous ?!
+151)  MOLLY
+[startled] Mon Dieu !
+152)  LEE
+Putain maiq qu'est-ce que tu fais ?
+155)  
+Ca va Ben.
+159)  
+Ca va Ben.
+157)  LEE
+[recovering from shock] On va bien. Vous avez pu ouvrir cette porte dans la salle ?
+158)  BEN
+Pas encore. Kenny m'a envoyé chercher un truc pour péter la serrure. J'ai trouvé ça.
+160)  MOLLY
+[recovering from shock] Et qu'est-ce que tu fais ici au juste ?
+163)  MOLLY
+[recovering from shock] Et qu'est-ce que tu fais ici au juste ?
+164)  MOLLY
+[calling out]La ruelle du garage est juste ici. Vous venez ou non ?
+165)  LEE
+[calling out]Il y a quelqu'un ?
+166)  LEE
+[to himself]C'est bien la porte du garage. Mais où est Molly ?
+167)  
+Où est Clémentine?
+168)  
+Vous avez ouvert la porte ?
+169)  MOLLY
+[sucking it up] Ouais, ben... vous êtes pas le seul, vous savez ?
+170)  LEE
+Je me fiche de votre vie, Molly.
+171)  LEE
+Je suis navré pour ce qui est arrivé à votre soeur. Mais là tout de suite je veux faire le boulot et retourner à la maison.
+172)  LEE
+Mais dans notre groupe, on a nos propres problèmes, vous voyez ?
+173)  MOLLY
+Alors il ne fallait rien me demander.
+174)  MOLLY
+Hey. C'est vous qui demandez.
+175)  MOLLY
+C'est parti.
+176)  LEE
+[pickup][lookat]On dirait qu'ils ont utilisé certaines pièces pour enfermer les zombies. Mieux vaut ne pas les déranger.
+177)  LEE
+Des douilles partout. Il s'est passé quelque chose de vilain ici.
+238)  LEE
+Des douilles partout. Il s'est passé quelque chose de vilain ici.
+178)  LEE
+[to himself][lookat]Cet endroit est vraiment endommagé.
+179)  LEE
+[to himself][lookat]Ca doit être la porte donnant sur la ruelle du garage. Mais où est passée Molly ?
+180)  MOLLY
+Quoi ?
+181)  LEE
+Vous avez dit n'être jamais venue ici. Mais c'était faux, n'est-ce pas ?
+182)  LEE
+[accusatory]Vous m'avez menti.
+184)  LEE
+Je vous ai vue sur une vidéo de surveillance. Vous avez couché avec ce médecin.
+185)  LEE
+Oubliez ça. On a ce qu'on voulait. On repart.
+186)  MOLLY
+Et bien d'accord. Allons--
+187)  MOLLY
+Alors... c'est bon ?
+188)  KENNY
+[struggling]On l'a !
+189)  BRIE
+[panicked]Bloquez la porte !
+190)  
+Hachette
+191)  
+Infirmerie
+192)  
+Vers la ruelle
+193)  
+Vers la cour
+194)  
+Trou
+195)  
+Tableau d'affichage
+196)  
+Douilles
+197)  
+Poignée de porte
+198)  
+Caler
+199)  
+Main
+200)  
+Couper
+201)  
+Porte de la salle de classe
+202)  KENNY
+Merde. Merde ! Vous croyez qu'ils nous ont vus ?
+203)  MOLLY
+C'est toujours le cas. A la fin, c'est toujours les morts qui gagnent.
+204)  CHRISTA
+Mais qu'est-ce qui s'est passé ici ? Je pensais que cet endroit était sûr !
+205)  VERNON
+Non, c'est une bonne chose.
+206)  BEN
+Oh non, on est foutus, foutus...
+207)  
+Et pourquoi c'est une bonne chose ?
+208)  VERNON
+Avant, les gens de Crawford étaient des malins et ils étaient armés. Là ils sont bêtes et sans armes. Hé, faut voir le bon côté.
+213)  VERNON
+Avant, les gens de Crawford étaient des malins et ils étaient armés. Là ils sont bêtes et sans armes. Hé, faut voir le bon côté.
+217)  VERNON
+Avant, les gens de Crawford étaient des malins et ils étaient armés. Là ils sont bêtes et sans armes. Hé, faut voir le bon côté.
+209)  LEE
+[incredulous] Quoi ? Et comment ça pourrait être une bonne chose ?
+210)  
+Il a raison.
+211)  LEE
+Vernon a raison. On peut s'occuper de ces zombies plus facilement que de gardes.
+212)  
+On devrait partir. Maintenant.
+214)  VERNON
+Non, écoutez-moi.
+215)  LEE
+C'est terminé. Il faut qu'on parte. Maintenant.
+216)  BEN
+[nervous]Il vient de dire que c'était une bonne chose ?
+218)  VERNON
+Regardez...
+219)  MOLLY
+On continue.
+220)  BEN
+Le plan reste inchangé ? Il change à chaque fois qu'on voit des zombies ! Vous avez idée de leur nombre ?
+221)  BEN
+Je le sens mal.
+222)  BRIE
+Venez, je crois savoir par où aller.
+223)  CHRISTA
+Non. Tu veux faire l'appel ? Ou tu veux récupérer ce qu'on est venus chercher et foutre le camp ?
+224)  KENNY
+C'est vrai. Tant qu'on ne se laisse pas enfermer, on a une chance. Le plan reste inchangé.
+225)  BRIE
+Ici.
+226)  LEE
+Ca a l'air bon. Entrez tous.
+227)  
+Je ne pense pas.
+228)  LEE
+Je ne pense pas. Je pense qu'on est bien, du moins pour l'instant.
+229)  
+Complètement.
+230)  LEE
+[grim]Complètement.
+231)  BEN
+[to himself, scared]Merde.
+234)  BEN
+[to himself, scared]Merde.
+232)  
+Aucune idée.
+233)  LEE
+[grim]Je n'en sais pas plus que toi.
+235)  KENNY
+[irritated]Je prends ça pour un "oui" alors ?
+236)  
+Casier
+239)  
+Utiliser
+246)  
+Utiliser
+258)  
+Utiliser
+241)  LEE
+[pickup][quietly, to himself]Ca fait un bail que je n'en ai pas vu un aussi petit.
+245)  LEE
+[pickup][quietly, to himself]Ca fait un bail que je n'en ai pas vu un aussi petit.
+257)  LEE
+[pickup][quietly, to himself]Ca fait un bail que je n'en ai pas vu un aussi petit.
+242)  LEE
+[pickup][quietly, to himself]Desséché.
+247)  LEE
+[pickup][quietly, to himself]Desséché.
+259)  LEE
+[pickup][quietly, to himself]Desséché.
+243)  LEE
+[pickup][quietly, to himself]Ca ne marche pas.
+248)  LEE
+[pickup][quietly, to himself]Ca ne marche pas.
+260)  LEE
+[pickup][quietly, to himself]Ca ne marche pas.
+249)  LEE
+[pickup][quietly, to himself]Pas de courant, pas de coca.
+250)  LEE
+[pickup][quietly, to himself]Logan... ce serait pas le nom du médecin sur la vidéo ? Dommage que je ne connaisse pas le code.
+251)  
+Fontaine à eau
+252)  
+Porte des toilettes
+253)  LEE
+[pickup][quietly, to himself]Fermé. Je n'ai pas envie d'y aller de toute façon.
+254)  LEE
+[pickup]C'est fermé.
+255)  
+Distributeur
+261)  LEE
+[pickup]Je ne retournerai pas là-bas sans une sérieuse raison.
+262)  
+Je sais que vous venez de Crawford.
+263)  
+Vous m'avez menti.
+264)  
+Laissez tomber, allons-y.
+266)  BEN
+[pickup][frustrated, keeping voice down]Le plan reste inchangé ? Il change à chaque fois qu'on voit des zombies ! Vous avez idée de leur nombre ?
+267)  BEN
+[pickup][skeptical]Il vient de dire que c'était une bonne chose ?
+268)  BEN
+[pickup][frustrated]Oh non, on est foutus...
+269)  LEE
+[pickup][quietly, to himself]C'est quoi, des bombes lacrymogènes ?
+270)  LEE
+[pickup][intrigued]Ca doit être leur chef. On dirait qu'il se prenait pour une sorte de chef suprême.
+287)  LEE
+[pickup][intrigued]Ca doit être leur chef. On dirait qu'il se prenait pour une sorte de chef suprême.
+271)  LEE
+[pickup][quietly reading a name off a piece of paper]Oberson...
+288)  LEE
+[pickup][quietly reading a name off a piece of paper]Oberson...
+272)  LEE
+[pickup][quietly, perplexed]Des impacts de balles...
+273)  LEE
+[pickup]Je vais prendre cette batterie.
+274)  MOLLY
+[pickup2]Oh... ah oui, au fait.
+275)  MOLLY
+[pickup2]Je plaisante.
+276)  MOLLY
+[pickup2]Ohlala. Là voilà.
+277)  MOLLY
+[pickup2]Allez, sortez de là !
+278)  MOLLY
+[pickup2]Lee !
+279)  
+Photo
+280)  
+Casier ensanglanté
+281)  
+Panneau
+282)  
+Casier vide
+283)  LEE
+[to himself]Rien dedans.
+284)  LEE
+[lookat]Rien dedans.
+285)  LEE
+[lookat][to himself]Rien.
+286)  LEE
+[lookat]Vide.
+291)  LEE
+[pickup][to himself, discovering it for the first time]Une cassette vidéo.
+292)  MOLLY
+[pickup2]Et voilà.
