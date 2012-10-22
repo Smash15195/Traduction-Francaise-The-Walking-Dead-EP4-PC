@@ -1,0 +1,408 @@
+1)  LEE
+{NormalB}Ok, commencez, je vais jeter un oeil aux alentours, histoire de trouver des trucs utiles.
+2)  VERNON
+Ouais - C'est un autre de nos problèmes. Regardez.
+3)  VERNON
+{ThinkingA}Peut-être, mais je sais pas combien de temps on dispose. {NormalB}Ca irait plus vite si on avait la combinaison de quatre chiffres.
+4)  LEE
+Calmez vous. Je m'en suis occupé. Au niveau médicaments, vous avez trouvé ce que vous vouliez ?
+5)  CHRISTA
+[frantic] Ils se sont mis à errer dans le vestibule après qu'on soit entré. Ils ont dû nous entendre. Y'en a partout !
+6)  VERNON
+Il semblerait qu'ils gardaient leurs médicaments dans cette armoire sécurisée.
+7)  LEE
+{ThinkingB}On peut pas la forcer ?
+8)  LEE
+Il s'est passé quoi ?
+9)  CHRISTA
+{AngryA}Ils l'ont sûrement pas noté pour nous. On devrait la forcer, on a pas le choix.
+10)  CHRISTA
+C'est un sonogramme.
+11)  LEE
+[lookat]C'est quoi par terre ?
+12)  LEE
+[lookat]Il y a du sang séché sur ce papier et sur le sol. Ca fait comme une trace qui vient de l'amoire jusqu'à cette caméra puis vers la sortie. Il s'est passé quoi ici ?
+13)  LEE
+C'est du sang humain sans aucun doute.
+14)  VERNON
+C'est pas trop inhabituel pour un centre médical.
+15)  
+Ouvrir
+20)  
+Ouvrir
+16)  LEE
+[lookat]Pas de cassette.
+21)  LEE
+[lookat]Pas de cassette.
+17)  VERNON
+La cassette doit être quelque part. Continuez à chercher.
+22)  VERNON
+La cassette doit être quelque part. Continuez à chercher.
+18)  
+Regarder
+23)  
+Regarder
+86)  
+Regarder
+19)  LEE
+[lookat]La caméra est disposée de façon à avoir une bonne vue du clavier numérique. Je me demande si elle a enregistré quelqu'un qui tape le code.
+24)  LEE
+La caméra est disposée de façon à avoir une bonne vue du clavier numérique. Je me demande si elle a enregistré quelqu'un qui tape le code.
+25)  LEE
+[lookat]On dirait un dossier médical.
+87)  LEE
+[lookat]On dirait un dossier médical.
+26)  
+Ramasser
+88)  
+Ramasser
+27)  LEE
+[lookat]Anna Correa. Sans doute une de leurs patientes. Et c'est quoi ça ?
+89)  LEE
+[lookat]Anna Correa. Sans doute une de leurs patientes. Et c'est quoi ça ?
+28)  VERNON
+Ce serait une première.
+31)  VERNON
+Ce serait une première.
+91)  VERNON
+Ce serait une première.
+29)  LEE
+[lookat]Je crois qu'on est en veine.
+32)  LEE
+[lookat]Je crois qu'on est en veine.
+90)  LEE
+[lookat]Je crois qu'on est en veine.
+30)  LEE
+[lookat]C'est vide. Evidemment.
+33)  
+Regardez K7 #1
+34)  ANNA
+[shrieking hysterically] Je veux pas de putains de sédatifs !
+35)  LOGAN
+[pickup]  [from behind camera] Pour régulations. Oberson m'a donné l'ordre d'enregistrer les examens et les consultations.
+150)  LOGAN
+[pickup]  [from behind camera] Pour régulations. Oberson m'a donné l'ordre d'enregistrer les examens et les consultations.
+36)  ANNA
+Je me fous de la procédure ! Je veux mon bébé ! Je peux pas faire ça !
+145)  ANNA
+Je me fous de la procédure ! Je veux mon bébé ! Je peux pas faire ça !
+37)  LEE
+Vernon, Christa. Venez voir.
+38)  VERNON
+Vous devriez y retourner pour voir s'il l'a sur lui.
+39)  LEE
+Je le reconnais ce docteur. C'était l'un des marcheurs devant le garage.
+40)  CHRISTA
+[sickened] Putain c'était quel genre d'endroit ici ?
+41)  VERNON
+Bon sang ! On l'avait presque !
+42)  LEE
+J'en suis sûr.
+43)  LOGAN
+[pickup]  Si Oberson découvre que j'ai caché des preuves de ta grossesse... Désolé mais c'est les règles.
+149)  LOGAN
+[pickup]  Si Oberson découvre que j'ai caché des preuves de ta grossesse... Désolé mais c'est les règles.
+44)  LOGAN
+[pickup]  Je vais te donner un sédatif. Ca rendra la procédure plus douce.
+148)  LOGAN
+[pickup]  Je vais te donner un sédatif. Ca rendra la procédure plus douce.
+45)  ANNA
+Vous savez ce qu'ils vont dire !
+46)  LOGAN
+Ca va t'aider, Anna. Ca rendra la procédure plus douce.
+47)  LOGAN
+[pickup] Jour 82 depuis l'émergence... 15h47. Docteur Logan en consultation avec la patiente Anna Correa.
+154)  LOGAN
+[pickup] Jour 82 depuis l'émergence... 15h47. Docteur Logan en consultation avec la patiente Anna Correa.
+48)  ANNA
+Pourquoi vous enregistrez ?
+155)  ANNA
+Pourquoi vous enregistrez ?
+49)  LOGAN
+Si. C'est pour ça que je te dis qu'il faut t'en occuper maintenant. Même si je t'aide, il s'en rendront compte un jour ou l'autre, et ce sera encore plus dur pour toi.
+50)  LOGAN
+[pickup] Comme tu le sais, les règles sont très claires. L'avortement est obligatoire.
+146)  LOGAN
+[pickup] Comme tu le sais, les règles sont très claires. L'avortement est obligatoire.
+51)  VERNON
+Lee, il y a peut-être une autre cassette. Il faut continuer à chercher.
+52)  LEE
+Comme l'a dit Molly. Le pire.
+53)  ANNA
+Oh mon dieu, oh mon dieu...
+152)  ANNA
+Oh mon dieu, oh mon dieu...
+54)  LOGAN
+[pickup]  Anna, tu n'as pas le choix.
+151)  LOGAN
+[pickup]  Anna, tu n'as pas le choix.
+55)  ANNA
+[cutting him off, pleading] Vous n'êtes pas obligé de leur dire. Racontez-leur que j'avais la nausée et que vous m'avez soigné. C'est mon problème, pas le vôtre.
+153)  ANNA
+[cutting him off, pleading] Vous n'êtes pas obligé de leur dire. Racontez-leur que j'avais la nausée et que vous m'avez soigné. C'est mon problème, pas le vôtre.
+56)  LOGAN
+[pickup] Vous devez être forte, Anna. Le sonogramme confirme que vous êtes enceinte.
+147)  LOGAN
+[pickup] Vous devez être forte, Anna. Le sonogramme confirme que vous êtes enceinte.
+57)  CHRISTA
+Et bien qu'est-ce que vous attendez ?
+58)  LEE
+Pas encore.
+59)  VERNON
+Vous avez cherché le corps du docteur ?
+60)  LEE
+Une autre cassette. Le code de la pharmacie doit être sur l'une d'entre elles.
+61)  LEE
+J'ai trouvé une autre cassette.
+106)  LEE
+J'ai trouvé une autre cassette.
+62)  LOGAN
+[pickup] [agony]
+63)  VERNON
+Et surtout, nous avons le code.
+64)  LOGAN
+[pickup] Ce n'est pas moi qui fait les règles, Anna.
+65)  LOGAN
+[pickup] Tu as pris une décision ?
+66)  LOGAN
+C'est bien. Grimpez sur la table, je vais vous préparer.
+67)  ANNA
+[calm] Je croyais que j'avais pas le choix.
+68)  ANNA
+[calm/introspective] C'est sans doute mieux. J'y ai réfléchi toute la nuit. Pourquoi on s'acharne à survivre si c'est pour finir comme ça ? Si on se transforme ?
+69)  ANNA
+[tearing up, desperate] Docteur, je vous en supplie. Aidez moi.
+70)  LOGAN
+[pickup] Non, non, non...
+71)  LOGAN
+[pickup] Peut-être qu'un jour, quand les choses seront différentes, tu pourras réessayer. Mais aujourd'hui, il faut le faire.
+72)  LEE
+Je crois savoir ce qui est arrivé à Crawford.
+73)  LOGAN
+[pickup] Techniquement, tu l'as. Tu peux avorter ou quitter Crawford. Ce qui reviendrait à vous condamner à mort toi et ton bébé, bien entendu.
+74)  
+Qu'est-ce qui va pas ?
+75)  LEE
+Christa, qu'est-ce qui va pas ?
+76)  CHRISTA
+C'est rien. C'était dur à voir. Ne vous inquiétez pas, ça va.
+77)  LEE
+Très bien. Récupérons les médicaments et tirons-nous d'ici.
+78)  CHRISTA
+Vous avez raison. Désolée. Prenons les médicaments.
+79)  LEE
+Christa, c'est pas le moment. On a un boulot à finir.
+80)  
+Ouvrez cette armoire.
+81)  VERNON
+Soyez pas trop long !
+82)  VERNON
+Ok, ça ira. On en assez pour votre groupe et le mien. Allons-y !
+83)  VERNON
+On est dessus.
+84)  LEE
+Partez devant, je veux être sûr qu'on oublie rien. Je vous rattrape.
+85)  VERNON
+Des antibiotiques... de la morphine... On prendra tout ce qu'on peut emporter.
+92)  LEE
+[to himself]
+93)  LEE
+J'ai trouvé une troisième cassette dans le casier dehors. Il y a peut-être autre chose dessus ?
+94)  CHRISTA
+On a les médicaments pour Omid, c'est tout ce qui m'importe.
+95)  VERNON
+On retourne dans la salle de classe. Ne soyez pas trop long, Lee.
+96)  LOGAN
+Ma soeur a besoin de ces médicaments. Sans ça elle va mourir. Ou elle va montrer des symptômes qui vont alerter le conseil. Je peux pas laisser ça arriver.
+97)  MOLLY
+Ouais... C'est comme ça que fonctionne Crawford, hein ?
+98)  LOGAN
+[pickup] Oberson a envoyé quelqu'un faire l'inventaire ici hier, et il était minutieux. Je peux pas prendre le risque.
+99)  LOGAN
+[pickup] Oui. Nous AVIONS un accord. Plus maintenant.
+100)  LOGAN
+[pickup] Ecoute. Même si c'était amusant, je dois mettre un terme à notre arrangement. C'est la dernière fois que je peux le faire.
+101)  LEE
+[dry] Et merde.
+102)  MOLLY
+[dismayed] Pourquoi ?
+103)  LOGAN
+[pickup] Je suis désolé, Molly. J'ai fais tout ce que j'ai pu. Mais je dois penser à moi.
+104)  MOLLY
+On avait un accord !
+105)  VERNON
+C'est le jour qui suit la première cassette.
+107)  VERNON
+C'est le jour qui suit la première cassette.
+108)  LEE
+J'ai trouvé deux autres cassettes.
+109)  CHRISTA
+Mettez la.
+110)  CHRISTA
+Mettez la.
+111)  
+Regarder K7 #3
+112)  LEE
+[lookat]C'est un dossier médical pour une femme du nom de Correa.
+113)  
+Utiliser Code
+114)  LEE
+J'ai trouvé ça sur le corps du docteur. Vous pensez que ce code va ouvrir l'armoire ?
+115)  VERNON
+Non, ce n'est pas le bon format. Ca ressemble plus à un code de casier.
+116)  LEE
+[lookat]Ce n'est pas le bon code.
+117)  LEE
+[lookat]Vernon et Christa on déjà pris tout ce qu'il fallait.
+118)  LEE
+[lookat]Ca doit dater de la fois où cette femme a poignardé le docteur.
+119)  CHRISTA
+[to herself, frustrated] Bon sang, ça va prendre des heures.
+120)  
+Tirer
+121)  
+Ils l'ont mérité.
+122)  
+Ils l'ont mérité.
+123)  
+Ils l'ont mérité.
+124)  LEE
+Il semblerait que l'organisation de ces enfoirés qui devait les protéger s'est finalement retournée contre eux.
+125)  VERNON
+Je ne vais pas les pleurer.
+126)  VERNON
+Allez Christa, ouvrons cette armoire.
+127)  VERNON
+Allez Christa, ouvrons cette armoire.
+128)  MOLLY
+Ma soeur a besoin de ces médicaments. Sans ça elle va mourir. Ou elle va montrer des symptômes et ils vont me l'enlever. Je peux pas laisser ça arriver.
+129)  LEE
+[lookat]Ca à l'air assez solide, on pourra pas la forcer.
+130)  VERNON
+On pourrait trouver un truc pour la forcer mais ça prendre du temps.
+131)  CHRISTA
+On a pas le temps ! Omid a besoin de ces médicaments ! Il faut l'ouvrir MAINTENANT !
+132)  LEE
+Vous pensez que si je tire dessus ça va l'ouvrir ?
+133)  VERNON
+Cela pourrait seulement tous nous faire tuer. Donc ne le faites pas.
+134)  CHRISTA
+[quiet crying]
+135)  
+On peut la forcer ?
+136)  
+On pourrait aller ailleurs ?
+137)  
+On peut deviner le code ?
+138)  LEE
+{ThinkingB}On pourrait trouver des médicaments ailleurs.
+139)  VERNON
+{AngryA}A Crawford ? Non, c'est envahi. Cette armoire est notre seule chance.
+140)  LEE
+{ThinkingA}On peut pas deviner le code ?
+141)  VERNON
+{AngryA}C'est un code à quatre chiffres. Faites le calcul.
+142)  VERNON
+[sighs]{SadA}Ce serait vraiment plus rapide si on connaissait le code.
+143)  VERNON
+[sighs]{SadA}Ce serait vraiment plus rapide si on connaissait le code.
+144)  VERNON
+[sighs]{SadA}Ce serait vraiment plus rapide si on connaissait le code.
+156)  LOGAN
+[reconsidering][pickup] Tu peux y réfléchir un peu mais tu dois revenir dès demain. Ou je vais devoir en informer Oberson moi-même. Je suis désolé.
+157)  ANNA
+[stabbing the doctor in one move]
+158)  LOGAN
+[pickup] [heavy breathing after being stabbed]
+159)  
+Caméra
+160)  
+Placard
+161)  
+Dossier médical
+162)  
+Sonogramme
+163)  
+Cassette
+190)  
+Cassette
+191)  
+Cassette
+192)  
+Cassette
+193)  
+Cassette
+194)  
+Cassette
+204)  
+Cassette
+164)  
+Cassettes
+165)  
+Sang
+166)  
+Regarder
+167)  
+Vestibule
+168)  LEE
+[lookat][to himself]Je veux même pas savoir combien de kilos j'ai perdu depuis les derniers mois.
+169)  LEE
+[lookat][to himself]Déjà nettoyé.
+170)  LEE
+[lookat]Et là-dedans ?
+171)  CHRISTA
+[pickup][preoccupied]Déjà fouillé. C'est vide.
+172)  LEE
+[lookat]Vide.
+173)  LEE
+Vous avez regardé dans ces tiroirs ?
+174)  CHRISTA
+[pickup][preoccupied]Oui, Lee. Y'avait rien d'intéressant.
+175)  LEE
+[to himself]Rien là-dedans, je suppose.
+176)  LEE
+[to himself]C'est l'interphone de l'école.
+177)  LEE
+[lookat][to himself]Ca ne marche pas.
+178)  LEE
+[lookat]Les téléphones ne marchent plus depuis des mois.
+179)  LEE
+[lookat]Vous avez vérifié ces meubles ?
+180)  VERNON
+[pickup]Ouais, mais on dirait que les dossiers étaient rangés ailleurs.
+181)  LEE
+[lookat]Rien là-dedans.
+182)  LEE
+[lookat][to himself, morbidly amused while looking at a poster]La pyramide alimentaire. Comme si on avait le choix maintenant.
+183)  LEE
+[lookat][to himself]Je crois que je vais me reposer un peu, bientôt.
+184)  LEE
+[lookat][to himself, looking at some milk cartons]La DLC est dépassée depuis une éternité.
+185)  LEE
+[lookat][to himself]C'est quoi ça, une photocopieuse ? Aucun intérêt sans électricité.
+186)  LEE
+[lookat][to himself, looking at the water cooler]A sec.
+187)  LEE
+[lookat][to himself]Rien.
+188)  LEE
+[lookat][looking at various papers]Tout un charabia médical incompréhensible. Mais rien qui ressemble à un code.
+189)  LEE
+[lookat]Des mots. Mais pas de chiffres.
+195)  
+Kit de Premiers Soins
+196)  
+Horloge
+197)  
+Tiroirs
+198)  
+Lit
+199)  
+Photocopieuse
+200)  
+Téléphone
+201)  
+Papiers
+202)  LEE
+[pickup]Une pile de papiers. Mais pas de code.
+203)  LEE
+[pickup][to himself, discovering it for the first time]Une cassette vidéo.
