@@ -1,0 +1,362 @@
+1)  VERNON
+Avant, tout le monde à Crawford était malin et armé. Maintenant ils sont cons et à mains nues. Voyez le bon côté des choses !
+128)  VERNON
+Avant, tout le monde à Crawford était malin et armé. Maintenant ils sont cons et à mains nues. Voyez le bon côté des choses !
+131)  VERNON
+Avant, tout le monde à Crawford était malin et armé. Maintenant ils sont cons et à mains nues. Voyez le bon côté des choses !
+133)  VERNON
+Avant, tout le monde à Crawford était malin et armé. Maintenant ils sont cons et à mains nues. Voyez le bon côté des choses !
+2)  LEE
+Je crois pas. Pour l'instant on s'en sort bien.
+3)  LEE
+[incredulous] Quoi ? Et quoi c'est une bonne chose ?
+4)  MOLLY
+C'est toujours pareil. A la fin, la mort gagne toujours.
+5)  CHRISTA
+Non. Vous voulez faire un carton ou prendre ce qu'on est venu chercher et filer ?
+6)  BEN
+J'ai un mauvais présentiment.
+7)  CHRISTA
+C'est quoi ce bordel ? Je croyais qu'on était en sécurité ici !
+8)  VERNON
+Non c'est une bonne chose.
+9)  KENNY
+Merde. Merde ! Ils nous on vu, vous croyez ?
+110)  KENNY
+Merde. Merde ! Ils nous on vu, vous croyez ?
+10)  BEN
+Le plan n'a pas changé ? Il change à chaque fois que les marcheurs se pointent ! Vous savez combien y'en a au moins ?
+11)  BEN
+Oh merde, on est foutu, on est foutu...
+12)  KENNY
+Je suis d'accord. Tant qu'on ne les laisse pas nous coincer ici on peut y arriver. Le plan n'a pas changé.
+13)  BRIE
+Venez, je sais où il faut aller.
+14)  MOLLY
+Avancez.
+15)  LEE
+On dirait que tout le monde va bien.
+16)  BRIE
+Là.
+17)  CHRISTA
+{angrya}[impatient]Et les médicaments ?
+146)  CHRISTA
+{angrya}[impatient]Et les médicaments ?
+18)  CHRISTA
+{normala} Je vais chercher les médicaments.
+19)  KENNY
+{angrya}Non, deux personnes suffisent. Toi tu restes ici et tu vois si on peut forcer cette porte blindée avec ce qu'on a amené. {normalb}On devrait pouvoir se tirer d'ici.
+20)  MOLLY
+{angrya}Ok, et maintenant ? Par quoi on commence ?
+21)  BRIE
+{normala}Là.
+22)  LEE
+{disgusta}J'imagine.
+23)  BEN
+{happya} Je viens aussi.
+24)  LEE
+{normalc}Bien, on a un plan. Que tout le monde soit prudent et reste groupé. On se retrouve ici. {normala}Bonne chance.
+25)  KENNY
+{thinkinga}Ils devaient utiliser cette pièce comme un centre de commande.
+26)  MOLLY
+{feara}[caught off-guard] C'est évident, non ?
+27)  CHRISTA
+{disgusta}Comment vous savez ça ?
+28)  BRIE
+{normala}Il y à un abri de maintenance au bout de la cour de récréation, ici. S'ils stockaient du carburant, il devrait y être.
+29)  MOLLY
+{normala}Juste là. L'infirmerie. Ils s'en servait comme cabinet médical.
+30)  KENNY
+{angrya}Ok, j'irais chercher le carburant à l'abri de maintenance.
+31)  BRIE
+{normala}Ouaip, ça s'appelle Herman’s, vous pouvez pas le louper.
+32)  LEE
+{thinkinga}On a donc besoin d'une batterie. [pointing at the map] {normala}Ce garage auto, c'est la porte à côté ?
+33)  VERNON
+Je viens avec vous, je sais ce qu'il faut prendre.
+34)  BRIE
+{normala} On ira plus vite si je vous y emmène directement.
+35)  MOLLY
+{normalA}Je viens avec vous, au cas où.
+36)  CLEMENTINE
+{thinkinga}Je peux pas venir avec toi ?
+37)  CLEMENTINE
+{sadb}D'accord.
+38)  LEE
+{happya}Tu veux laisser Ben tout seul ? Il va s'occuper de la porte alors il va avoir besoin de quelqu'un pour surveiller ses arrières. {normala}Toi.
+39)  LEE
+{Happya}J'ai besoin que tu restes ici avec Ben pour surveiller notre centre de commande.  {normala}Je t'en donne la responsabilité, d'accord ?
+40)  CLEMENTINE
+{happya}Et moi, je peux faire quoi ?
+41)  LEE
+{feara}Alors, prends ça.
+42)  LEE
+{happya}C'est bon, prends-le.
+43)  LEE
+{normala}Tu te rappelles comment on s'en sert, hein ? C'est comme je t'ai montré.
+44)  CLEMENTINE
+{feara}	Je m'en rappelle.
+45)  LEE
+{angrya}Alors si quelqu'un d'autre que nous essaie d'entrer...
+46)  CLEMENTINE
+{disgusta}Je sais.
+47)  LEE
+{happya}T'en fais pas. Tout va bien se passer.
+48)  LEE
+{happya}Je serais de retour en un clin d'oeil.
+49)  LEE
+{normala}[lookat]On dirait qu'ils avaient une vraie organisation ici. L'Ultime Recours de Crawford.
+50)  LEE
+{normala}[lookat]Alors d'après Brie, le carburant est à l'abri de maintenance, les médicaments à l'infirmerie, et la batterie dans le garage par ici.
+51)  CLEMENTINE
+{happyc} T'es de retour !
+73)  CLEMENTINE
+{happyc} T'es de retour !
+52)  LEE
+{happyb} [happily] Je te l'avais dit, non ?
+74)  LEE
+{happyb} [happily] Je te l'avais dit, non ?
+53)  CLEMENTINE
+{happya} Tu as trouvé une batterie ?
+75)  CLEMENTINE
+{happya}Tu as trouvé une batterie ?
+54)  LEE
+{happya} Bien sûr. C'est Molly qui l'a.
+76)  LEE
+{happya} Bien sûr. C'est Molly qui l'a.
+55)  CLEMENTINE
+{happyb}	Cool ! {normala}[concerned] Elle est où ?
+77)  CLEMENTINE
+{happyb}	Cool ! {normala}[concerned] Elle est où ?
+56)  LEE
+{happya}Elle revient dans un instant.
+78)  LEE
+{happya}Elle revient dans un instant.
+57)  LEE
+{normalc}Et cette porte, ça avance ?
+79)  LEE
+{normalc}Et cette porte, ça avance ?
+58)  BEN
+{sadb}Lentement.
+80)  BEN
+{sadb}Lentement.
+59)  LEE
+{thinkingb}Personne d'autre n'est rentré ?
+81)  LEE
+{thinkingb}Personne d'autre n'est rentré ?
+60)  BEN
+{sadb}Non, t'es le premier. {thinkinga}Tu pourrais aller voir s'ils ont besoin d'aide.
+82)  BEN
+{sadb}Non, t'es le premier. {thinkinga}Tu pourrais aller voir s'ils ont besoin d'aide.
+61)  LEE
+{normala}Carrément..
+72)  LEE
+{normala}Carrément..
+62)  BEN
+{Happya}Hé, c'était rapide. Alors ?
+83)  BEN
+{Happya}Hé, c'était rapide. Alors ?
+63)  LEE
+{normala}J'ai trouvé une batterie.
+84)  LEE
+{normala}J'ai trouvé une batterie.
+64)  BEN
+{happyb}Très bien ! Elle est où ?
+85)  BEN
+{happyb}Très bien ! Elle est où ?
+65)  LEE
+{normala}C'est Molly qui l'a.
+86)  LEE
+{normala}C'est Molly qui l'a.
+66)  BEN
+{thinkinga}[looking behind Lee, confused] Et... où est Molly ?
+87)  BEN
+{thinkinga}[looking behind Lee, confused] Et... où est Molly ?
+67)  LEE
+{disgusta}Elle est parti de son côté faire un truc de fille dingue et mystérieuse. {thinkingb}Elle a dit qu'elle reviendrait. Ca avance cette porte ?
+88)  LEE
+{disgusta}Elle est parti de son côté faire un truc de fille dingue et mystérieuse. {thinkingb}Elle a dit qu'elle reviendrait. Ca avance cette porte ?
+68)  BEN
+Lentement.
+89)  BEN
+Lentement.
+69)  LEE
+Personne d'autre n'est rentré ?
+90)  LEE
+Personne d'autre n'est rentré ?
+70)  BEN
+Non, t'es le premier. Tu pourrais aller voir s'ils ont besoin d'aide.
+91)  BEN
+Non, t'es le premier. Tu pourrais aller voir s'ils ont besoin d'aide.
+71)  LEE
+Carrément.
+92)  LEE
+Carrément.
+93)  CLEMENTINE
+{happyc}T'es renvenu !
+94)  KENNY
+{Happya}Ouais, et on s'est bien débrouillé aussi.
+95)  BEN
+{happyb}Beau travail, Kenny !
+96)  KENNY
+{Normalb}Comment tu t'en sors avec cette porte ?
+97)  BEN
+{sadb}Pas très bien.
+98)  KENNY
+{thinkinga}Attends, laisse moi t'aider.
+99)  KENNY
+{angrya}Tu as la batterie ?
+100)  LEE
+{normalb}Ouais, c'est Molly qui l'a, elle devrait être là très vite.
+101)  KENNY
+{disgusta}Elle a intérêt.
+102)  LEE
+{sada}Non, pas encore.
+103)  KENNY
+{disgusta}Et bien qu'est-ce que tu fous encore ici ? Va la chercher !
+152)  KENNY
+{disgusta}Et bien qu'est-ce que tu fous encore ici ? Va la chercher !
+104)  BEN
+{happyc}Super ! Bien joué, les gars.
+105)  BEN
+{happyb}Salut ! Alors ?
+106)  KENNY
+{happya}On a le carburant.
+107)  LEE
+{thinkinga}Des nouvelles de Christa et Vernon ?
+108)  BEN
+{sade}Aucune. Ils sont sûrement encore à l'infirmerie.
+109)  LEE
+Alors, je ferais mieux d'aller vérifier.
+111)  
+Je crois pas.
+112)  
+Définitivement.
+115)  
+Définitivement.
+113)  LEE
+[grim]Définitivement.
+114)  BEN
+[to himself, scared]Merde.
+118)  BEN
+[to himself, scared]Merde
+116)  
+Aucune idée.
+119)  
+Aucune idée.
+117)  LEE
+[grim]Ton flair est aussi bon que le mien.
+120)  KENNY
+[irritated]Je dois prendre ça pour un "oui" ?
+121)  KENNY
+[irritated]Je dois prendre ça pour un "oui" ?
+122)  
+Ca avance ?
+123)  
+Il va bien.
+124)  LEE
+Vernon a raison. C'est plus facile contre des marcheurs que des gardes armés.
+125)  
+Il faut partir. Maintenant.
+126)  LEE
+C'est partout pareil. Il faut partir. Maintenant.
+127)  VERNON
+Non, écoutez moi.
+130)  BEN
+[nervous]Vous avez dit que c'était une bonne chose ?
+135)  BEN
+[nervous]Vous avez dit que c'était une bonne chose ?
+132)  VERNON
+Il faut le voir sous cet angle...
+134)  VERNON
+Il faut le voir sous cet angle...
+136)  
+Du carburant ?
+137)  BRIE
+{thinkinga}[examining the map] Une minute...
+138)  LEE
+{thinkinga}Où peut-on trouver du carburant pour le bateau ?
+139)  
+Des médicaments ?
+140)  
+Une batterie ?
+141)  LEE
+{thinkinga}Quel serait le meilleur endroit pour trouver des médicaments ?
+142)  VERNON
+[pickup]{normala}	[pointing to the map]Au garage peut-être ? Il y'en avait un dans l'allée après l'issue de secours.
+174)  VERNON
+[pickup]{normala}	[pointing to the map]Au garage peut-être ? Il y'en avait un dans l'allée après l'issue de secours.
+143)  LEE
+{thinkinga}Une idée d'où je pourrais trouver une batterie ?
+144)  KENNY
+[pickup]{angrya}[impatient] Et pour la batterie ?
+145)  KENNY
+{angrya}[impatient]Et pour le carburant ? Il faudrait commencer où ?
+147)  KENNY
+{angrya}[impatient]Et pour le carburant ? Il faudrait commencer où ?
+148)  LEE
+{normala}[to Molly]D'accord, il ne me reste plus qu'à trouver une batterie.
+149)  
+Porte
+150)  
+Brochures
+151)  
+Panneau d'Issue de Secours
+153)  LEE
+[pickup]Rien que des crayons et du papier à dessin.
+154)  LEE
+[pickup]Le drapeau de l'état de Georgie. Un passé riche... pour ce que ça vaut de nos jours.
+155)  LEE
+[pickup]Je pourrais prendre ça plus tard. Ce serait sympa d'avoir de la lecture sur le bateau.
+156)  LEE
+[pickup]Flippant.
+157)  LEE
+[pickup]Pas de jus, pas de TV.
+158)  LEE
+[pickup]Un tas de pâte à modeler.
+159)  LEE
+[pickup][to himself]Je me demande ce qu'il se passe tout autour du globe.
+160)  LEE
+[pickup][sad, nostalgic, looking at hopscotch on the classroom rug reminds him of Duck]Une marelle...
+161)  
+Tapis
+162)  
+Drapeaux
+163)  
+TV
+164)  
+Livres
+165)  
+Globe
+166)  
+Pâte à modeler
+167)  
+Poupées
+168)  
+Bureau
+169)  LEE
+[pickup]Je ne te laisse pas avec Ben. Je le laisse avec toi. Tu comprends la nuance ?
+170)  LEE
+[pickup]J'ai besoin que tu restes avec Ben et que tu surveilles notre centre de commande. Tu en es responsable, d'accord ?
+171)  CLEMENTINE
+[pickup][skeptical]Tu me laisses avec Ben ?
+172)  CLEMENTINE
+[pickup][with a wink, hushed]Oh. D'accord.
+173)  LEE
+[pickup][to himself]Des brochures de propagande. Ils étaient bien organisés... jusqu'à ce que ça vire au cauchemar.
+175)  LEE
+[pickup][to himself]Brie a dit que le garage était dans l'allée après l'issue de secours.
+176)  LEE
+[pickup][to himself]Le carburant est dans un abri de maintenance de l'autre côté de la cour. Juste après l'escalier.
+177)  LEE
+[pickup][to himself]S'il y a des médicaments quelque part, c'est là qu'ils seront.
+178)  
+Issue de Secours
+179)  
+Porte de la Cour
+180)  
+Infirmerie
+181)  HTTP
+//tracker.telltalegames.com/show_bug.cgi?id=88294
+182)  
+Carte de l'Ecole
