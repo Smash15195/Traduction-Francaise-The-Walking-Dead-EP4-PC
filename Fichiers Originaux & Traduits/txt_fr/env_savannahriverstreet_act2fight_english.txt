@@ -1,0 +1,576 @@
+1)  KENNY
+Qu'est-ce qu'il y a ?
+259)  KENNY
+Qu'est-ce qu'il y a ?
+267)  KENNY
+Qu'est-ce qu'il y a ?
+2)  LEE
+[startled] Mais qu'est-ce que... ?
+258)  LEE
+[startled] Mais qu'est-ce que... ?
+266)  LEE
+[startled] Mais qu'est-ce que... ?
+3)  KENNY
+[hushed]Pourquoi on se cache ?
+261)  KENNY
+[hushed]Pourquoi on se cache ?
+269)  KENNY
+[hushed]Pourquoi on se cache ?
+4)  LEE
+[hushed]Baisse-toi, baisse-toi !
+260)  LEE
+[hushed]Baisse-toi, baisse-toi !
+268)  LEE
+[hushed]Baisse-toi, baisse-toi !
+5)  LEE
+[hushed]Quelqu'un vient de descendre de ce bâtiment au bout de la rue.
+262)  LEE
+[hushed]Quelqu'un vient de descendre de ce bâtiment au bout de la rue.
+270)  LEE
+[hushed]Quelqu'un vient de descendre de ce bâtiment au bout de la rue.
+6)  LEE
+[hushed]Je l'ai vu courir jusqu'à ce kiosque.
+264)  LEE
+[hushed]Je l'ai vu courir jusqu'à ce kiosque.
+272)  LEE
+[hushed]Je l'ai vu courir jusqu'à ce kiosque.
+7)  LEE
+[hushed]Je ne sais pas.
+185)  LEE
+[hushed]Je ne sais pas.
+8)  KENNY
+[hushed]Ca pourrait être notre sonneur de cloche. Et si on tirait ça au clair ?
+184)  KENNY
+[hushed]Ca pourrait être notre sonneur de cloche. Et si on tirait ça au clair ?
+217)  KENNY
+[hushed]Ca pourrait être notre sonneur de cloche. Et si on tirait ça au clair ?
+265)  KENNY
+[hushed]Ca pourrait être notre sonneur de cloche. Et si on tirait ça au clair ?
+273)  KENNY
+[hushed]Ca pourrait être notre sonneur de cloche. Et si on tirait ça au clair ?
+9)  KENNY
+[hushed]Où est-il passé ?
+263)  KENNY
+[hushed]Où est-il passé ?
+271)  KENNY
+[hushed]Où est-il passé ?
+10)  LEE
+[hushed] Il cherche peut-être de quoi survivre, comme nous.
+11)  KENNY
+[hushed]Et si on tirait ça au clair ?
+12)  KENNY
+[hushed]Et peut-être pas. Peut-être que c'est ce salaud à la radio qui manipule Clémentine. Tu ne veux pas le savoir ? Moi bien.
+13)  KENNY
+[hushed] Ok, toi tu prends par le milieu de la rue, moi j'irai par le côté, je couvrirai tes flancs. On avance doucement, et on le prend par surprise.
+14)  KENNY
+[hushed]Oh, mais on va discuter.
+15)  LEE
+[hushed]On veut juste discuter avec ce gars.
+16)  CLEMENTINE
+[off-screen/urgent] Lee !
+17)  CLEMENTINE
+[off-screen/neutral] Lee ?
+18)  LEE
+[shock/disbelief] ... Clém ?
+24)  LEE
+[shock/disbelief] ... Clém ?
+19)  MOLLY
+Vous n'êtes pas de Crawford.
+26)  MOLLY
+Vous n'êtes pas de Crawford.
+20)  LEE
+[puzzled] Crawford ? Mais de quoi parlez-vous ?
+248)  LEE
+[puzzled] Crawford ? Mais de quoi parlez-vous ?
+21)  MOLLY
+Ca vous dérange si je me relève ?
+22)  LEE
+Doucement.
+23)  CLEMENTINE
+[off-screen/horrified] Non !
+25)  CLEMENTINE
+[to hooded figure] Je vous en prie... ne lui faites pas de mal !
+27)  LEE
+[urgent] Kenny, non !
+28)  LEE
+Non ! Il est avec nous !
+29)  KENNY
+[horror/disbelief] Mais qu'est-ce que... ?
+30)  MOLLY
+Qui êtes-vous ?
+31)  LEE
+Vous d'abord.
+218)  
+Vous d'abord.
+32)  MOLLY
+Qui est-ce que vous appelez "demoiselle" ? Mon nom est Molly.
+33)  LEE
+Molly. Je m'appelle Lee, voici Kenny et Clémentine. Nous ne voulons pas de problèmes.
+223)  LEE
+Molly. Je m'appelle Lee, voici Kenny et Clémentine. Nous ne voulons pas de problèmes.
+229)  LEE
+Molly. Je m'appelle Lee, voici Kenny et Clémentine. Nous ne voulons pas de problèmes.
+232)  LEE
+Molly. Je m'appelle Lee, voici Kenny et Clémentine. Nous ne voulons pas de problèmes.
+233)  LEE
+Molly. Je m'appelle Lee, voici Kenny et Clémentine. Nous ne voulons pas de problèmes.
+34)  CLEMENTINE
+[cheerily/friendly] Salut.
+224)  CLEMENTINE
+[cheerily/friendly] Salut.
+230)  CLEMENTINE
+[cheerily/friendly] Salut.
+231)  CLEMENTINE
+[cheerily/friendly] Salut.
+234)  CLEMENTINE
+[cheerily/friendly] Salut.
+35)  MOLLY
+Vous n'êtes vraiment pas de Crawford, n'est-ce pas ?
+222)  MOLLY
+Vous n'êtes vraiment pas de Crawford, n'est-ce pas ?
+36)  LEE
+Je ne sais même pas ce que c'est.
+37)  MOLLY
+Tout ce qui existe au-delà de cette barricade.
+38)  MOLLY
+Quand tout à commencé à basculer, certaines personnes se sont rassemblées et ont barricadé tout le quartier. Ils sont prêts à tout pour rester en vie, et empêcher les morts de rentrer. J'essaye de les éviter.
+39)  KENNY
+Pourquoi ?
+168)  CLEMENTINE
+Pourquoi ?
+40)  MOLLY
+Disons qu'ils ont une tolérance zéro pour ceux qui ne suivent pas - ou ne peuvent pas suivre - leurs règles.
+41)  KENNY
+Alors comment savez-vous que nous ne sommes pas des leurs ?
+42)  MOLLY
+Parce qu'il n'y a pas d'enfants à Crawford. Pas un seul.
+43)  
+Comment ça ?
+44)  LEE
+Que voulez-vous dire, pas d'enfants ? Pourquoi ?
+45)  MOLLY
+Pas d'enfants, pas de vieillards, personne avec une maladie sérieuse. En gros, personne qui pourrait être un fardeau pour la communauté. A Crawford seuls les plus forts survivent. C'est comme ça qu'ils s'en sortent, pendant que le reste du monde devient un enfer.
+161)  MOLLY
+Pas d'enfants, pas de vieillards, personne avec une maladie sérieuse. En gros, personne qui pourrait être un fardeau pour la communauté. A Crawford seuls les plus forts survivent. C'est comme ça qu'ils s'en sortent, pendant que le reste du monde devient un enfer.
+46)  KENNY
+[appalled] Dieu du ciel...
+162)  KENNY
+[appalled] Dieu du ciel...
+47)  MOLLY
+En fait, c'est précisément l'inverse, si vous réfléchissez bien.
+160)  MOLLY
+En fait, c'est précisément l'inverse, si vous réfléchissez bien.
+48)  
+Qui faisait sonner ces cloches ?
+49)  LEE
+Savez-vous qui faisait sonner ces cloches dans toute la ville ?
+50)  MOLLY
+Oui, c'était moi.
+51)  KENNY
+Je le savais ! Lee, je savais que c'était elle qui nous suivait, elle se foutait de nous!
+52)  MOLLY
+[cool/menacing] Arrêtez de me pointer du doigt, papy, ou alors je vous le fais bouffer. Je ne vous ai pas suivi. En plus je ne sais même pas qui vous êtes.
+165)  MOLLY
+[cool/menacing] Arrêtez de me pointer du doigt, papy, ou alors je vous le fais bouffer. Je ne vous ai pas suivi. En plus je ne sais même pas qui vous êtes.
+53)  KENNY
+Ouais, bien. Qui que vous soyez, vous avez failli tous nous faire tuer ce matin en faisant sonner ces cloches, ça a réveillé tous les morts autour de nous !
+54)  MOLLY
+C'est ça l'idée, petit génie. C'est comme ça que je me déplace. Je fais sonner une cloche à un endroit pour attirer les créatures, ça me fait gagner du temps pour fouiller les zones qu'ils ont quittées.
+166)  MOLLY
+C'est ça l'idée, petit génie. C'est comme ça que je me déplace. Je fais sonner une cloche à un endroit pour attirer les créatures, ça me fait gagner du temps pour fouiller les zones qu'ils ont quittées.
+55)  LEE
+[impressed] C'est assez malin, le coup des cloches.
+205)  LEE
+[impressed]C'est assez malin, le coup des cloches.
+56)  MOLLY
+Les morts ne sont pas vraiment futés. Une vraie bande de débiles. Il suffit de se déplacer vite, rentrer et sortir avant qu'ils reviennent de leur balade.
+203)  MOLLY
+Les morts ne sont pas vraiment futés. Une vraie bande de débiles. Il suffit de se déplacer vite, rentrer et sortir avant qu'ils reviennent de leur balade.
+57)  
+C'était vous derrière la grille du jardin ?
+58)  LEE
+Clém, mais que fais-tu ici ? Comment es-tu sortie de la maison ?
+59)  CLEMENTINE
+Quand Omid a commencé à être très malade, Christa et Ben ont dû l'emmener à l'étage. Je ne voulais pas rester assise à attendre, je voulais venir vous aider.
+60)  MOLLY
+Vraiment ? Parce que si elle n'était pas arrivée à ce moment-là, je vous aurais explosé la tête.
+61)  LEE
+Mouais faut voir, ça se discute.
+62)  MOLLY
+[not buying it] Uh-huh.
+63)  
+Clém, que fais-tu ici ?
+64)  
+Qu'est-ce que Crawford leur a fait ?
+65)  LEE
+Qu'est-ce que Crawford a fait exactement avec tous ces "fardeaux" ? Que leur est-il arrivé ?
+66)  KENNY
+Bordel...
+206)  KENNY
+Bordel...
+67)  LEE
+Mais quand même... les enfants ? Vous ne voulez pas dire qu'ils... ? [trails off]
+68)  MOLLY
+Non, ils ont gardé ça pour les malades et les vieux. Ils disaient que c'était humain. Les enfants et leurs parents ont été éjectés de la ville. Ils étaient livrés à leur sort, obligés de se débrouiller seuls dans le monde extérieur.
+69)  KENNY
+Mais bon sang, pourquoi ?
+70)  MOLLY
+Personne ne reste à Crawford sauf si on pèse dans la balance. Autrement vous n'être qu'une autre bouche à nourir, un autre gaspillage de leurs précieuses ressources.
+71)  CLEMENTINE
+Qu'est-ce que ça veut dire, peser dans la balance ?
+72)  LEE
+Ca veut dire être capable d'aider les autres. Comme ce que tu fais tout le temps.
+73)  KENNY
+Ce n'est vraiment pas une façon de vivre pour moi.
+74)  MOLLY
+[darkly/ominous] D'accord avec vous.
+75)  LEE
+Comment savez-vous tout ça ?
+178)  LEE
+Comment savez-vous tout ça ?
+180)  LEE
+Comment savez-vous tout ça ?
+279)  LEE
+Comment savez-vous tout ça ?
+282)  LEE
+Comment savez-vous tout ça ?
+283)  LEE
+Comment savez-vous tout ça ?
+286)  LEE
+Comment savez-vous tout ça ?
+76)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+177)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+179)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+280)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+281)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+284)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+285)  MOLLY
+Tout le monde savait à Savannah. Ce qui se passait à l'intérieur de Crawford se racontait à l'extérieur comme une légende urbaine. A la différence que c'était vrai.
+77)  
+Mais quand même... les enfants ?
+78)  
+Ce n'est pas comme ça que nous fonctionnons.
+79)  LEE
+Ce n'est pas comme ça que le groupe fonctionne.
+80)  KENNY
+[dismayed] Vous ne voulez tout de même pas dire qu'en fait ils... les enfants ?
+81)  MOLLY
+Non. Les enfants étaient obligés de partir avec leurs parents. Ils les laissent se débrouiller seuls à l'extérieur.
+82)  MOLLY
+Comme je le disais, ils ont une tolérance zéro. Crawford se débarasse de tous ceux qui ne peuvent pas mettre la main à la pâte, qui ne pèsent pas dans la balance. A leurs yeux, ces gens ne sont que des bouches inutiles à nourir, un gaspillage de leurs précieuses ressources.
+83)  CLEMENTINE
+[concerned] Qu'est-il arrivé à tous les enfants ?
+88)  CLEMENTINE
+[concerned] Qu'est-il arrivé à tous les enfants ?
+84)  MOLLY
+Le chef s'est débarrasé de quiconque ne pouvait pas contribuer, et donc justifier la protection que Crawford leur donnait. Pour eux, un enfant n'était qu'une bouche à nourir, quelqu'un d'inutile.
+87)  MOLLY
+Le chef s'est débarrasé de quiconque ne pouvait pas contribuer, et donc justifier la protection que Crawford leur donnait. Pour eux, un enfant n'était qu'une bouche à nourir, quelqu'un d'inutile.
+85)  KENNY
+[disgusted] Mais c'est horrible. C'est dingue !
+86)  KENNY
+[disgusted] Mais c'est horrible. C'est dingue !
+89)  LEE
+Molly, y a-t-il -
+90)  MOLLY
+[annoyed] Hé ! Crétin ! Tu veux bien baisser d'un ton ?
+91)  CLEMENTINE
+Il n'y a pas un autre chemin pour rentrer ?
+92)  LEE
+Celui par lequel nous sommes arrivés.
+93)  KENNY
+Il doit bien y avoir quelque chose.
+94)  MOLLY
+Si c'était le cas, vous pensez que je serais toujours ici ? J'ai fouillé chaque centimètre de cette ville, tout a été emporté.
+95)  KENNY
+[quietly defeated] Merde.
+96)  MOLLY
+Etant donné que vous n'avez pas de bateau les amis, je vous suggère de retourner d'où vous venez, avant que-
+97)  KENNY
+Ce n'est pas-
+98)  KENNY
+[Agitated, distraught] Bordel de merde !
+99)  MOLLY
+Génial. Vraiment génial.
+100)  MOLLY
+Bon, je vous le redemande : si vous ne venez pas de Crawford, alors qui êtes-vous ? Que faites-vous ici ?
+101)  LEE
+Nous essayons de trouver un bateau, pour emmener nos amis et essayer de trouver un endroit sûr.
+102)  MOLLY
+Vous pouvez toujours rêver. Tous ceux qui avaient un bateau se sont enfuis quand les gens ont commencé à se bouffer les uns les autres. Crawford a pillé et retiré les pièces de ceux qui avaient été abandonnés. Idem pour les voitures.
+103)  
+Vous allez nous laisser tomber ?
+104)  CLEMENTINE
+[calling out]Ne nous laissez pas ici ! Je vous en prie ?
+105)  MOLLY
+[calling out]Désolé, j'ai dû raté le moment de notre conversation où vous êtes devenus mon problème.
+106)  LEE
+[calling out]Hé ! Vous allez nous laisser tomber ?
+107)  
+Y a-t-il un autre moyen de partir d'ici ?
+108)  
+Mais qu'est-ce que vous faites ?
+109)  LEE
+[calling out]Y a-t-il un autre moyen de partir d'ici ?
+110)  MOLLY
+[calling out]Je n'en sais rien, et je m'en fiche.
+111)  KENNY
+[calling out]Qu'est-ce qu'on est sensé faire maintenant ?
+112)  MOLLY
+[calling out]Je viens de vous répondre.
+113)  CLEMENTINE
+[calling out]Il faut nous aider ! Je vous en supplie !
+114)  LEE
+[calling out]Mais qu'est-ce que vous faites ?
+115)  MOLLY
+[calling out]Je vais vous le dire. Je m'arrange pour ne pas être bouffée.
+116)  KENNY
+[calling out]Et nous ?
+117)  MOLLY
+[calling out]Quoi vous ?
+118)  CLEMENTINE
+[calling out]S'il vous plaît, vous ne pouvez pas nous laisser ici !
+119)  CLEMENTINE
+[calling out]Non ! Je vous en prie ! Ne nous laissez pas !
+120)  KENNY
+[to Lee] Tu vas la laisser partir ? [to Molly] Hé ! Vous ne pouvez pas nous laisser ici !
+121)  MOLLY
+[calling out]Vraiment ? Regardez.
+122)  KENNY
+[sounds of straining to reach]
+128)  LEE
+[sounds of straining to reach]
+123)  KENNY
+Allez mec, saute !
+124)  MOLLY
+[calling out]Allez ! Dépêchez-vous !
+125)  KENNY
+[seeing the zombies box them in] Oh, bordel...
+126)  LEE
+Allez, allez, vite !
+127)  CLEMENTINE
+Lee ! Allez !
+129)  KENNY
+[hitting the ground] Aaaaah!
+130)  CLEMENTINE
+[horrified] Nooon ! Lee !
+131)  
+Tirer
+132)  
+Attaquer
+133)  LEE
+Inutile, il y en a trop !
+134)  LEE
+Inutile, il y en a trop !
+135)  LEE
+[calling out]Clém ! Ne m'attends pas, va-t'en maintenant ! Kenny, ramène-la à la maison !
+137)  LEE
+[frustrated] Aah! Je n'arrive pas à l'ouvrir !
+138)  MOLLY
+[calling down]Tenez ! Prenez ça pour le forcer !
+139)  
+Ouvrir
+140)  
+Forcer
+141)  CLEMENTINE
+[distraught!] Leeeeeee !
+142)  KENNY
+Merde ! Les coups de feu ont dû les attirer par ici.
+143)  CLEMENTINE
+[calling down, panicked]Lee ! Dépêche-toi !
+144)  KENNY
+[calling out]Allez Lee, ramène tes fesses ici!
+145)  
+Crawford ?
+247)  
+Crawford ?
+146)  
+Vous nous avez suivi ?
+191)  LEE
+Vous nous avez suivi ?
+249)  
+Vous nous avez suivi ?
+250)  LEE
+Vous nous avez suivi ?
+147)  
+Vous n'êtes pas la personne à la radio.
+190)  LEE
+Vous n'êtes pas la personne à la radio.
+244)  
+Vous n'êtes pas la personne à la radio.
+245)  LEE
+Vous n'êtes pas la personne à la radio.
+148)  
+Kenny, non !
+149)  
+Attrape-la !
+150)  
+Ce n'est pas lui !
+151)  LEE
+[urgent] Attrape-la !
+152)  LEE
+[urgent] Kenny, non ! Ce n'est pas lui !
+153)  
+C'est quoi Crawford ?
+154)  
+Rien ne m'oblige à vous le dire.
+192)  LEE
+Rien ne m'oblige à vous le dire.
+155)  LEE
+Mais que s'est-il passé ici ?
+156)  CLEMENTINE
+Qu'est-il arrivé aux gens qui vivaient ici ?
+157)  KENNY
+Mais qu'est-ce que c'est ça ?
+175)  KENNY
+Mais qu'est-ce que c'est ça ?
+158)  CLEMENTINE
+Nous ne sommes pas de Crawford. Vous pouvez me croire.
+176)  CLEMENTINE
+Nous ne sommes pas de Crawford. Vous pouvez me croire.
+159)  CLEMENTINE
+Alors... pourquoi n'y a-t-il pas d'enfants à Crawford ?
+163)  MOLLY
+Parce qu'ils sont interdits à Crawford.
+164)  KENNY
+[getting impatient]Pourquoi diable nous avez-vous suivi ?
+167)  KENNY
+[confrontational]  Ouais, eh bien, vous avez failli nous faire tuer en faisant sonner ces cloches ce matin, ça a réveillé tous les morts autour de nous !
+169)  
+Nous cherchons un bateau.
+170)  
+Nous essayons simplement de survivre.
+171)  KENNY
+Et la seule façon de survivre c'est de trouver un bateau et se tirer d'ici.
+172)  LEE
+Nous essayons simplement de survivre, comme vous.
+173)  
+Je dois la ramener à la maison.
+174)  MOLLY
+Vous voulez vraiment savoir ?
+252)  MOLLY
+Vous voulez vraiment savoir ?
+253)  MOLLY
+Vous voulez vraiment savoir ?
+254)  MOLLY
+Vous voulez vraiment savoir ?
+181)  
+C'est peut-être un autre pilleur.
+182)  
+Nous ne voulons pas de problème.
+183)  LEE
+Ca ressemble à un plan.
+216)  
+Ca ressemble à un plan.
+186)  KENNY
+Ouais eh bien, on dirait qu'il arrive toujours à nous retrouver. Regarde, ça pourrait être le gars de la radio, celui qui se fiche de nous. Si c'est le cas, on peut y mettre un terme, maintenant.
+187)  LEE
+Nous ne sommes pas venus pour chercher les problèmes.
+188)  KENNY
+Pas d'objections ? Bien.
+189)  MOLLY
+Et je n'ai rien d'un mec.  Bravo, vous êtes très observateur.
+246)  MOLLY
+Et je n'ai rien d'un mec.  Bravo, vous êtes très observateur.
+193)  MOLLY
+Super, vous irez loin avec cette attitude.
+194)  LEE
+Non, je viens de Macon. Kenny de Floride.
+195)  KENNY
+Ce ne sont pas nos vies qu'elle veut connaître, Lee. [to Molly] C'est quoi cette histoire de Crawford ?
+196)  LEE
+Du calme, Kenny. La voix à la radio était celle d'un mec, tu te souviens ?
+197)  LEE
+C'était vous ce matin derrière la grille de la maison ?
+198)  MOLLY
+Absolument pas. Croyez-moi si vous voulez, j'ai mieux à faire de mon temps.
+199)  LEE
+Je vous l'ai dit, nous n'avons pas besoin d'aide.
+200)  KENNY
+Des créatures ? C'est comme ça que vous les appelez ?
+202)  KENNY
+Des créatures ? C'est comme ça que vous les appelez ?
+201)  MOLLY
+Oui. Vous savez, comme dans les foires. Ils mangent tout, vivant ou mort.
+204)  MOLLY
+Oui. Vous savez, comme dans les foires. Ils mangent tout, vivant ou mort.
+207)  MOLLY
+Eh bien, vous en avez déjà rencontré certains.
+208)  MOLLY
+Oui. Tous ceux qui tombent malade, qui sont trop vieux, ou qu'ils n'estiment pas assez forts pour survivre. A leurs yeux, ces gens ne sont que des bouches inutiles à nourir, un gaspillage de leurs précieuses ressources.
+209)  LEE
+Ecoutez, je suis désolé si on vous dérange. Je veux juste la ramener à la maison.
+210)  KENNY
+Nous n'irons nulle part tant que je n'aurai pas trouvé un foutu bateau !
+211)  KENNY
+Croyez-moi, nous ne faisons que passer. Dès que je nous aurai trouvé un bateau, on se tirera d'ici.
+212)  KENNY
+Croyez-moi, nous ne faisons que passer. Dès que je nous aurai trouvé un bateau, on se tirera d'ici.
+213)  KENNY
+Croyez-moi, nous ne faisons que passer. Dès que je nous aurai trouvé un bateau, on se tirera d'ici.
+214)  LEE
+[quietly, shocked]Mais que--
+274)  LEE
+[quietly, shocked]Mais que--
+275)  LEE
+[quietly, shocked]Mais que--
+276)  LEE
+[quietly, shocked]Mais que--
+277)  LEE
+[quietly, shocked]Mais que--
+278)  LEE
+[quietly, shocked]Mais que--
+215)  MOLLY
+Vous suivre ?
+251)  MOLLY
+Vous suivre ? 
+219)  
+Kenny, recule !
+220)  LEE
+Kenny, recule ! A moins que tu aies envie que cette demoiselle te mette encore une raclée.
+221)  MOLLY
+[reluctant]Mon nom est Molly.
+225)  
+Tout le monde se calme.
+227)  LEE
+Tout le monde se calme.
+226)  KENNY
+Je me calmerai quand elle m'aura dit qui elle est.
+228)  MOLLY
+Reculez, crétin. Mon nom est Molly.
+235)  CLEMENTINE
+[cheerily/friendly] Salut. Moi c'est Clémentine. Voici Lee et Kenny.
+238)  CLEMENTINE
+[cheerily/friendly] Salut. Moi c'est Clémentine. Voici Lee et Kenny.
+236)  MOLLY
+[reluctant]Salut. Je m'appelle Molly.
+237)  MOLLY
+[reluctant]Salut. Je m'appelle Molly.
+239)  
+Je viens de Macon.
+240)  
+Piolet
+241)  
+Bouche d'égout
+242)  
+Bloc
+243)  
+Caisse
+255)  
+Pioche d'escalade
+256)  MOLLY
+<<id: >>	Non, ils gardent ça pour les malades et les vieux. Ils disaient que c'était humain. Les enfants et leurs parents, étaient éjectés à l'exterieur, et abandonnés à leur sort.
+257)  
+Benne à ordures
+287)  
+...
+288)  
+...
+289)  
+Main de Kenny
