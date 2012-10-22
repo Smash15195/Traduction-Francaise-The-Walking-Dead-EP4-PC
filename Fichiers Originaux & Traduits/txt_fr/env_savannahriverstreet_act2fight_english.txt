@@ -563,7 +563,7 @@ Bloc
 243)  
 Caisse
 255)  
-Pioche d'escalade
+Attraper pour grimper
 256)  MOLLY
 <<id: >>	Non, ils gardent ça pour les malades et les vieux. Ils disaient que c'était humain. Les enfants et leurs parents, étaient éjectés à l'exterieur, et abandonnés à leur sort.
 257)  
