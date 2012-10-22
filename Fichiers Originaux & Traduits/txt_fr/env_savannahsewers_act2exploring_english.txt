@@ -1,0 +1,366 @@
+1)  CLEMENTINE
+[distraught!] Leeeeeee !
+2)  LEE
+[calling out]{fearB}Clémentine ! Tu m'entends ?!
+3)  LEE
+[calling out]{fearA}Si tu m'entends, retourne à la maison, ok ? Je te retrouverai là-bas !
+4)  LEE
+[to himself]{angryA}Merde.
+162)  LEE
+[to himself]{angryA}Merde.
+5)  LEE
+[lookat][quitely, to himself]{disgustB}Des rats partiellement dévorés. {fearA}Il doit y avoir des rôdeurs ici aussi.
+83)  LEE
+[lookat][quitely, to himself]{disgustB}Des rats partiellement dévorés. {fearA}Il doit y avoir des rôdeurs ici aussi.
+94)  LEE
+[lookat][quitely, to himself]{disgustB}Des rats partiellement dévorés. {fearA}Il doit y avoir des rôdeurs ici aussi.
+6)  
+Tourner à gauche
+41)  
+Tourner à gauche
+7)  
+Tourner à droite
+44)  
+Tourner à droite
+47)  
+Tourner à droite
+58)  
+Tourner à droite
+8)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ca ne bougera pas. Je pense que je l'ai cassé !
+16)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ca ne bougera pas. Je pense que je l'ai cassé !
+43)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ca ne bougera pas. Je pense que je l'ai cassé !
+45)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ca ne bougera pas. Je pense que je l'ai cassé !
+51)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ca ne bougera pas. Je pense que je l'ai cassé !
+9)  LEE
+[quitely, to himself][lookat]{angryA}Je n'irai plus par là.
+42)  LEE
+[quitely, to himself][lookat]{angryA}Je n'irai plus par là.
+10)  LEE
+[to himself, alarmed]{fearB}Ils arrivent.
+11)  LEE
+[lookat][quitely, to himself]{fearA}J'ai intérêt à être très prudent.
+84)  LEE
+[lookat][quitely, to himself]{fearA}J'ai intérêt à être très prudent.
+95)  LEE
+[lookat][quitely, to himself]{fearA}J'ai intérêt à être très prudent.
+12)  
+Regarder
+13)  
+Regarder
+18)  
+Regarder
+20)  
+Regarder
+27)  
+Regarder
+46)  
+Regarder
+54)  
+Regarder
+67)  
+Regarder
+82)  
+Regarder
+88)  
+Regarder
+93)  
+Regarder
+113)  
+Regarder
+147)  
+Regarder
+157)  
+Regarder
+159)  
+Regarder
+183)  
+Regarder
+14)  LEE
+[quietly, to himself]On dirait une sorte de tuyau d'évacuation.
+48)  LEE
+[quietly, to himself]On dirait une sorte de tuyau d'évacuation.
+15)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument sortir d'ici.
+49)  LEE
+[quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument sortir d'ici.
+17)  LEE
+[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}Il ne faudrait pas que je tombe malade.
+86)  LEE
+[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}Il ne faudrait pas que je tombe malade.
+97)  LEE
+[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}Il ne faudrait pas que je tombe malade.
+19)  
+Ramasser
+50)  
+Ramasser
+55)  
+Ramasser
+65)  
+Ramasser
+70)  
+Ramasser
+73)  
+Ramasser
+85)  
+Ramasser
+96)  
+Ramasser
+108)  
+Ramasser
+123)  
+Ramasser
+21)  LEE
+[quietly, but panicked]{angryC}Bouge, bordel !
+28)  LEE
+[quietly, but panicked]{angryC}Bouge, bordel !
+148)  LEE
+[quietly, but panicked]{angryC}Bouge, bordel !
+22)  
+Tirer
+29)  
+Tirer
+149)  
+Tirer
+156)  
+Tirer
+23)  LEE
+[quietly, but panicked]{fearC}Merde !
+24)  LEE
+[quietly, but panicked]{fearC}Merde !
+30)  LEE
+[quietly, but panicked]{fearC}Merde !
+150)  LEE
+[quietly, but panicked]{fearC}Merde !
+25)  LEE
+[quietly, but panicked] {fearB}Ca ne marchera pas !
+31)  LEE
+[quietly, but panicked] {fearB}Ca ne marchera pas !
+151)  LEE
+[quietly, but panicked] {fearB}Ca ne marchera pas !
+26)  
+Forcer
+98)  
+Forcer
+103)  
+Forcer
+110)  
+Forcer
+126)  
+Forcer
+152)  
+Forcer
+167)  
+Forcer
+32)  
+Attaquer
+33)  LEE
+[quitely, but panicked] {fearC}Je ne peux pas l'atteindre !
+35)  LEE
+[quitely, but panicked] {fearC}Je ne peux pas l'atteindre !
+158)  LEE
+[quitely, but panicked] {fearC}Je ne peux pas l'atteindre !
+34)  LEE
+{angryC}Merde !
+36)  LEE
+{angryC}Merde !
+37)  LEE
+{angryC}Merde !
+39)  LEE
+[lookat]{sadC}Plus de balles. Il a dû garder la dernière pour lui.
+40)  LEE
+[lookat]{sadC}Oh mon Dieu. Chuck. {sadB}Il a sûrement essayé de se cacher ici. {sadC}Pauvre gars.
+52)  LEE
+[lookat][quitely, to himself]{thinkingA}Je n'irai plus de ce côté.
+53)  LEE
+[lookat][quitely, to himself]{disgustA}Il vaut mieux être ici que là-dedans.
+56)  LEE
+[quitely, to himself]{thinkingA}Hmm, ça tourne dans le vide.
+57)  
+Mettre la vanne
+60)  
+Mettre la vanne
+71)  
+Mettre la vanne
+72)  
+Mettre la vanne
+74)  
+Mettre la vanne
+59)  LEE
+[quitely, to himself][lookat]{thinkingA}C'est coincé.
+61)  LEE
+[lookat][to himself]{thinkingA}On dirait une sorte de tuyau d'évacuation.
+136)  LEE
+[lookat][to himself]{thinkingA}On dirait une sorte de tuyau d'évacuation.
+62)  LEE
+[quitely, to himself][lookat]{normalD}C'est un tuyau d'évacuation.
+64)  LEE
+[quitely, to himself][lookat]{normalD}C'est un tuyau d'évacuation.
+137)  LEE
+[quitely, to himself][lookat]{normalD}C'est un tuyau d'évacuation.
+63)  LEE
+[quietly, to himself][lookat]{thinkingB}Il devrait y avoir une manivelle à cet endroit. Mais elle n'y est pas.
+66)  LEE
+[quietly, to himself][lookat]{thinkingB}Je n'arriverai pas à l'attraper de cette manière.
+68)  LEE
+[frustrated, quietly][lookat]{angryA}On dirait que quelqu'un l'a sciée.
+69)  LEE
+[quietly][lookat]{angryA}Merde, je ne peux pas l'atteindre.
+109)  LEE
+[quietly][lookat]{angryA}Merde, je ne peux pas l'atteindre.
+124)  LEE
+[quietly][lookat]{angryA}Merde, je ne peux pas l'atteindre.
+182)  LEE
+[quietly][lookat]{angryA}Merde, je ne peux pas l'atteindre.
+75)  
+Couloir
+76)  
+Vanne
+77)  
+Tuyau
+78)  
+Tuyau
+79)  
+Passage
+80)  
+Echelle
+81)  
+Echelle
+121)  
+Echelle
+87)  LEE
+[pickup][quietly]{sadA}Il n'est plus possible de faire demi-tour à présent.
+89)  
+Grille
+122)  
+Grille
+90)  LEE
+[pickup][to himself]{thinkingA}C'est du solide.
+91)  LEE
+[pickup][to himself]{thinkingB}Je n'arriverai pas à la forcer.
+92)  
+Porte
+99)  LEE
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+102)  LEE
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+175)  LEE
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+184)  LEE
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+100)  LEE
+[pickup][quietly, urgent]{fearB}Merde, ça s'est cassé !
+104)  LEE
+[pickup][quietly, urgent]{fearB}Merde, ça s'est cassé !
+173)  LEE
+[pickup][quietly, urgent]{fearB}Merde, ça s'est cassé !
+101)  
+Attraper
+105)  LEE
+[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+111)  LEE
+[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+128)  LEE
+[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+180)  LEE
+[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+106)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Aïe !
+112)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Aïe !
+127)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Aïe !
+179)  LEE
+[pickup][landing hard on the ground from a bad jump]{fearD}Aïe !
+107)  LEE
+[pickup][quitely, urgent]Je vais devoir prendre de l'élan...
+114)  LEE
+[pickup][quietly, slight urgency]{normalD}C'est un signe.
+171)  LEE
+[pickup][quietly, slight urgency]{normalD}C'est un signe.
+115)  LEE
+[pickup][quietly, urgent]{thinkingB}On dirait qu'il y a quelque chose derrière.
+169)  LEE
+[pickup][quietly, urgent]{thinkingB}On dirait qu'il y a quelque chose derrière.
+116)  LEE
+[pickup][quietly, urgent]{thinkingB}Je ne pense pas que ça puisse m'aider à sortir d'ici.
+170)  LEE
+[pickup][quietly, urgent]{thinkingB}Je ne pense pas que ça puisse m'aider à sortir d'ici.
+117)  LEE
+[pickup][quietly, urgent]{thinkingB}Je ne pourrai JAMAIS l'atteindre.
+125)  LEE
+[pickup][quietly, urgent]{thinkingB}Je ne pourrai JAMAIS l'atteindre.
+181)  LEE
+[pickup][quietly, urgent]{thinkingB}Je ne pourrai JAMAIS l'atteindre.
+118)  LEE
+[pickup][quietly, urgent]{angryA}J'ai déjà essayé ça ! Ca ne bougera pas.
+172)  LEE
+[pickup][quietly, urgent]{angryA}J'ai déjà essayé ça ! Ca ne bougera pas.
+119)  LEE
+[pickup][quietly, urgent]{angryA}Cette porte est fichue.
+174)  LEE
+[pickup][quietly, urgent]{angryA}Cette porte est fichue.
+120)  
+Echelle cassée
+129)  LEE
+[pickup][quietly, urgent]{thinkingB}Ces barreaux sont beaucoup trop solides.
+178)  LEE
+[pickup][quietly, urgent]{thinkingB}Ces barreaux sont beaucoup trop solides.
+130)  LEE
+[pickup][quietly, urgent][straining]{angryA}Je n'arriverai pas à forcer ces barreaux avec ça.
+177)  LEE
+[pickup][quietly, urgent][straining]{angryA}Je n'arriverai pas à forcer ces barreaux avec ça.
+131)  LEE
+[pickup][quietly, urgent]{angryA}J'ai déjà essayé ça !
+176)  LEE
+[pickup][quietly, urgent]{angryA}J'ai déjà essayé ça !
+132)  
+Traverser
+133)  LEE
+[pickup][hushed, urgent]C'est peut-être la sortie. Mais je ne parviendrai jamais à me débarrasser tout seul de ces choses.
+134)  LEE
+[pickup][hushed, urgent]Il va falloir que je trouve un moyen de dégager ce tunnel.
+135)  LEE
+[pickup][hushed, to himself]Il est temps de partir.
+138)  LEE
+[pickup][sad, quietly] Tu méritais mieux que ça, mon vieux.
+139)  LEE
+[pickup][very sad, hushed]Bon sang, Chuck. Je suis désolé.
+140)  LEE
+[pickup][to himself, quietly, dread]Je crois que je vais devoir me débrouiller tout seul.
+141)  LEE
+[pickup][hushed, to himself]Il fait plutôt calme par ici. C'est la première fois que je me retrouve seul... depuis que tout a commencé.
+142)  
+Rat mort
+143)  
+Corps
+144)  
+Arme
+145)  
+Signe
+146)  
+Prendre
+153)  
+Ouvrir
+164)  
+Ouvrir
+165)  
+Ouvrir
+166)  
+Ouvrir
+154)  LEE
+[lookat]{normalB}Fermé.
+155)  LEE
+[lookat]{normalB}Fermé.
+168)  LEE
+[lookat]{normalB}Fermé.
+160)  LEE
+{thinkinga}[lookat]Ce n'est pas une bonne idée. {normalb}Des coups de feu attireraient d'autres rôdeurs.
+161)  LEE
+[pickup][reading a dangerous sign]{Body-B}{DisgustA}Bordel...
+163)  
+Entrer
