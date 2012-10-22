@@ -1,0 +1,164 @@
+1)  LEE
+{normala} T'as besoin d'aide ?
+2)  BEN
+{normala}Merci, j'ai compris. J'aimerais faire quelque chose d'utile, pour une fois, tu vois ?
+3)  
+Ca changerait.
+4)  BEN
+[pickup][slightly angry, insulted]{sade}	Pas la peine d'être si enthousiaste ! {thinkingb}Merci de ta confiance !
+5)  
+Tu es parfaitement utile.
+6)  BEN
+{disgusta}	Ha ! Ouais, c'est ça. Je ne fais que nous attirer des ennuis la plupart du temps.
+7)  LEE
+{normala}Bien... je te laisse travailler.
+32)  LEE
+{normala}Bien... je te laisse travailler.
+33)  LEE
+{normala}Bien... je te laisse travailler.
+8)  BEN
+[pickup] {sadc}	[quietly]Non, attends. J'ai quelque chose en tête et j'ai besoin de ton avis.
+9)  LEE
+{thinkinga}Qu'est-ce que c'est ?
+10)  BEN
+[pickup] {sadc}	[quietly]Depuis que je travaille avec Kenny sur le bateau, j'ai appris à le connaître un peu mieux.{sadd} C'est un mec super, tu vois ? Et ça me bouffe. Je pensais que je devais lui dire la vérité.
+11)  BEN
+[pickup] {Sadd}Duck et Kajtaa sont morts par ma faute. Si j'avais pas merdé au Motor Inn, ils seraient encore en vie. {fearb}Comment je peux garder ça pour moi ? Je dois lui dire.
+12)  LEE
+{disgustb}Putain, Ben. Encore cette histoire ?
+13)  
+T'es MALADE ?
+14)  
+Tu devrais lui dire.
+15)  LEE
+{disgusta}[quietly]Ben. M'en veux pas mais t'es cinglé ou quoi ? Kenny est à bout et si tu lui dis que c'est ta faute... Je veux même pas imaginer ce qu'il va te faire.
+16)  BEN
+[pickup] {feara}[quietly]Je sais. J'y ai réfléchi. Mais je sais pas combien de temps je vais pouvoir encore le regarder en face. {sadc} C'est comme si je lui mentais.
+17)  LEE
+{angrya}[quietly]Je te le dis, c'est une très, très, mauvaise idée.
+18)  BEN
+[pickup] {angrya}[quietly]Peut-être que ça te dérange pas de te balader avec du sang sur les mains mais pas moi !{angryb} Je peux pas simplement faire l'innocent.
+19)  BEN
+{sadd}	[quietly]Désolé. Je sais pas pourquoi j'ai dit ça.
+20)  LEE
+{sadb}[quietly]C'est bon. Ecoute, on a besoin de Kenny. Il faut pas qu'il perde les pédales si on veut avoir une chance de se tirer d'ici, alors garde ça pour toi. {angryb}Pour le bien de tout le monde. Compris ?
+21)  BEN
+{sadd}[quietly]Ouais, j'ai compris. C'est une bonne idée. Tu vois ? J'ai failli encore tout faire foirer. {sadc}[despondent] Merci, Lee. Je m'y remets.
+74)  BEN
+{sadd}[quietly]Ouais, j'ai compris. C'est une bonne idée. Tu vois ? J'ai failli encore tout faire foirer. {sadc}[despondent] Merci, Lee. Je m'y remets.
+75)  BEN
+{sadd}[quietly]Ouais, j'ai compris. C'est une bonne idée. Tu vois ? J'ai failli encore tout faire foirer. {sadc}[despondent] Merci, Lee. Je m'y remets.
+22)  LEE
+{sada}[quietly]Je suis d'accord, tu devrais lui dire. Mais pas maintenant.
+23)  BEN
+{sadd}[quietly]Tu comprends pas, Lee. Chaque jour ça me bouffe un peu plus.{feara} Il parle tout le temps de Duck et Katjaa, et je dois baisser la tête et faire comme si c'était pas ma faute ? {feara}Je peux plus.
+36)  BEN
+{sadd}[quietly]Tu comprends pas, Lee. Chaque jour ça me bouffe un peu plus.{feara} Il parle tout le temps de Duck et Katjaa, et je dois baisser la tête et faire comme si c'était pas ma faute ? {feara}Je peux plus.
+41)  BEN
+{sadd}[quietly]Tu comprends pas, Lee. Chaque jour ça me bouffe un peu plus.{feara} Il parle tout le temps de Duck et Katjaa, et je dois baisser la tête et faire comme si c'était pas ma faute ? {feara}Je peux plus.
+24)  LEE
+{angrya}[quietly]Ecoute, Ben. Kenny ne part pas en vrille car il a un objectif, mais il est vraiment mal en point. {angryb}Si tu lui dis maintenant, il va péter un câble. Et on sera tous foutus. Un jour viendra où il sera prêt à t'entendre. Mais pas maintenant. Pas encore.
+37)  LEE
+{angrya}[quietly]Ecoute, Ben. Kenny ne part pas en vrille car il a un objectif, mais il est vraiment mal en point. {angryb}Si tu lui dis maintenant, il va péter un câble. Et on sera tous foutus. Un jour viendra où il sera prêt à t'entendre. Mais pas maintenant. Pas encore.
+25)  BEN
+{{sadd}[quietly]Ouais, j'ai compris. C'est une bonne idée. Tu vois ? J'ai failli encore tout faire foirer. [despondent]{sadc} Merci, Lee. Je m'y remets.
+38)  BEN
+{sadd}[quietly]Ouais, j'ai compris. C'est une bonne idée. Tu vois ? J'ai failli encore tout faire foirer. [despondent]{sadc} Merci, Lee. Je m'y remets.
+43)  BEN
+{sadd}[quietly]Ouais, j'ai compris. C'est une bonne idée. Tu vois ? J'ai failli encore tout faire foirer. [despondent]{sadc} Merci, Lee. Je m'y remets.
+26)  LEE
+{disgusta}	Ca ferait un sacré changement.
+27)  LEE
+{happya}Tu es parfaitement utile.
+28)  
+Ok, je te laisse travailler.
+30)  
+Ok, je te laisse travailler.
+29)  LEE
+Très bien, je te laisse travailler.
+31)  BEN
+Ouais, je sais ce que tu penses.
+34)  
+Dis-lui plus tard.
+35)  LEE
+Tu peux pas attendre qu'on soit à la maison ?
+39)  
+J'ai pas le temps pour ça.
+40)  LEE
+{disgusta}	Ecoute, Ben, J'ai vraiment pas le temps pour ça.
+42)  LEE
+{angrya}Un jour viendra où il sera prêt à t'entendre. Mais pas maintenant. Pas encore.
+44)  BEN
+{feara}[hurt] J'ai compris. T'as pas la tête à ça pour le moment. Oublie ce que je viens de dire. {sadc} Je m'y remets.
+45)  BEN
+{feara}[hurt] J'ai compris. T'as pas la tête à ça pour le moment. Oublie ce que je viens de dire. {sadc} Je m'y remets.
+46)  BEN
+{Disgusta} Merci pour ta preuve de confiance.
+47)  BEN
+Merci pour ta preuve de confiance.
+48)  BEN
+{normala}	On en est où ?
+49)  LEE
+{normala}	Ca avance. On a du carburant. Il manque plus que les médicaments et la batterie.
+50)  BEN
+{normala}	Comment ça avance ?
+51)  LEE
+{normala} Pas mal. Il manque le carburant et les médicaments.
+52)  BEN
+Il manque encore des choses ?
+53)  LEE
+Plus trop. On a les médicaments. Il manque la batterie et du carburant.
+54)  LEE
+{normala}On est bien. On a déjà les médicaments et la batterie. Il manque plus que le carburant pour partir d'ici.
+55)  BEN
+{normala}	Comment ça se présente ?
+56)  BEN
+{normala} Il nous manque quoi ?
+57)  LEE
+{normala}On a déjà le carburant et la batterie. Il manque plus que les médicaments pour partir d'ici.
+58)  LEE
+On est bien. Il manque plus que la batterie.
+59)  BEN
+C'est quoi le bilan ?
+60)  BEN
+{normala}Doucement mais sûrement.
+61)  LEE
+{normala} Comment ça se passe avec la porte ?
+62)  BEN
+T'inquiète pas, on va y arriver. Je crois.
+63)  LEE
+Commet ça se passe avec la porte, les gars ?
+64)  KENNY
+Pas aussi vite que je voudrais.
+65)  BEN
+{normala}Alors où est la batterie ?
+66)  BEN
+{disgustb}	J'espère qu'elle va la ramener. {sade}Je suis pas vraiment tranquille avec cette fille.
+67)  LEE
+{thinkinga}	C'est Molly qui l'a. Elle est parti faire un truc.
+72)  LEE
+{thinkinga}	C'est Molly qui l'a. Elle est parti faire un truc.
+68)  LEE
+{disgusta}	La confiance est précieuse, ces temps-ci.
+69)  KENNY
+{disgusta}	Alors elle où cette batterie ?
+70)  KENNY
+{angryb}	Ouais, mais elle a fait quoi pour moi dernièrement ?
+71)  LEE
+{disgusta}Elle t'a sauvé la vie, non ?
+73)  KENNY
+{angrya}Elle a intérêt à la ramener ici. Je sais pas pourquoi tu lui fais confiance. On la connaît à peine.
+76)  LEE
+[pickup] Ecoute, on a besoin de Kenny. Il faut pas qu'il perde les pédales si on veut avoir une chance de se tirer d'ici, alors garde ça pour toi. {angryb}Pour le bien de tout le monde. Compris ?
+77)  BEN
+[pickup] J'ai compris. Je m'y remets.
+79)  BEN
+[pickup] J'ai compris. Je m'y remets.
+81)  BEN
+[pickup] J'ai compris. Je m'y remets.
+78)  BEN
+[pickup] Tu comprends pas Lee. Je suis censé faire quoi quand il parle de Katjaa et Duck ? Baisser la tête et faire comme si j'y étais pour rien ? Je peux plus faire ça.
+80)  BEN
+[pickup] Tu comprends pas Lee. Je suis censé faire quoi quand il parle de Katjaa et Duck ? Baisser la tête et faire comme si j'y étais pour rien ? Je peux plus faire ça.
+82)  BEN
+[pickup] Tu as tes propres problèmes je suppose. T'en fais pas. Je vais trouver tout seul. Je m'y remets.
