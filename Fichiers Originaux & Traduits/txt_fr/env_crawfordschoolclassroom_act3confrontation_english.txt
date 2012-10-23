@@ -1,0 +1,270 @@
+io1)  KENNY
+{FearC}{Body-A}Oh, merde.
+2)  KENNY
+Par le dépôt d'armes, si on arrive à ouvrir cette foutue porte.
+3)  KENNY
+[straining] Allez... saleté !
+4)  KENNY
+{FearD}{Body-A}Mais enfin c'est quoi ce bordel ?
+5)  LEE
+{FearC}{Body-B}Ils arrivent !
+6)  BRIE
+Oui... mais comment est-ce qu'on sort maintenant ?
+7)  VERNON
+Ca devrait les contenir.
+8)  LEE
+{FearB}{Body-B}[darkly/guiltily] Je crois qu'elle y est restée.
+9)  CHRISTA
+{FearB}{Body-A}Où est Molly ?
+10)  CHRISTA
+Oh mon Dieu...
+11)  LEE
+Ferme ta gueule, Ben !
+12)  CHRISTA
+{AngryA}{Body-A}[growing suspicious] Non, attendez, qu'est-ce qu'il a voulu dire ?
+13)  CHRISTA
+{WorriedA}{Body-A}Mais qu'est-ce qu'il est en train de bafouiller?
+14)  BEN
+{DisgustA}{Body-A}[babbling] C'est ma faute... tout est de ma faute.
+15)  LEE
+{AngryA}{Body-B}[curt]Ben, on s'était mis d'accord.
+16)  CHRISTA
+{AngryB}{Body-A}[to Ben, accusatory] Qu'est-ce que tu veux dire, c'est de ta faute ?
+17)  
+Très bien, dis-leur.
+18)  
+Ben, ferme-la !
+19)  BEN
+{SadE}{Body-A}[grief-stricken] Kenny, je suis tellement désolé. Tellement désolé, quoi...
+87)  BEN
+{SadE}{Body-A}[grief-stricken] Kenny, je suis tellement désolé. Tellement désolé, quoi...
+98)  BEN
+{SadE}{Body-A}[grief-stricken] Kenny, je suis tellement désolé. Tellement désolé, quoi...
+101)  BEN
+{SadE}{Body-A}[grief-stricken] Kenny, je suis tellement désolé. Tellement désolé, quoi...
+20)  KENNY
+{AngryC}{Body-A}[straining at the door] C'est pas le moment, gamin ! {AngryB}QUoi que tu aies fait, garde-le pour plus tard !
+88)  KENNY
+{AngryC}{Body-A}[straining at the door] C'est pas le moment, gamin ! {AngryB}QUoi que tu aies fait, garde-le pour plus tard !
+95)  KENNY
+{AngryC}{Body-A}[straining at the door] C'est pas le moment, gamin ! {AngryB}QUoi que tu aies fait, garde-le pour plus tard !
+100)  KENNY
+{AngryC}{Body-A}[straining at the door] C'est pas le moment, gamin ! {AngryB}QUoi que tu aies fait, garde-le pour plus tard !
+21)  BEN
+[babbling/grief] {FearB}{Body-A}J'ai ouvert la porte, je les ai laissés entrer...
+89)  BEN
+[babbling/grief] {FearB}{Body-A}J'ai ouvert la porte, je les ai laissés entrer...
+97)  BEN
+[babbling/grief] {FearB}{Body-A}J'ai ouvert la porte, je les ai laissés entrer...
+102)  BEN
+[babbling/grief] {FearB}{Body-A}J'ai ouvert la porte, je les ai laissés entrer...
+22)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+39)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+40)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+65)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+91)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+96)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+99)  BEN
+[babbling/grief] {FearB}{Body-A}C'est ma faute depuis le début. Je nous ai tous mis en danger. Katjaa et Duck... {SadD}{Body-A}c'était moi. Tout est de ma faute !
+23)  LEE
+{AngryC}{Body-B}Très bien ! Vas-y, dis-leur !
+24)  KENNY
+{AngryC}{Body-A}J'ai dit garde ça pour une autre fois, faut qu'on se barre d'ici !
+90)  KENNY
+{AngryC}{Body-A}J'ai dit garde ça pour une autre fois, faut qu'on se barre d'ici !
+94)  KENNY
+{AngryC}{Body-A}J'ai dit garde ça pour une autre fois, faut qu'on se barre d'ici !
+103)  KENNY
+{AngryC}{Body-A}J'ai dit garde ça pour une autre fois, faut qu'on se barre d'ici !
+25)  LEE
+{AngryC}{Body-B}[forceful] Ben ! Ferme ta gueule !
+26)  KENNY
+{FearB}{Body-A}[suspicious] Hé un instant... {AngryB}{Body-A}qu'est-ce que tu dis ?
+27)  BEN
+[babbling/frantic]{FearC}{Body-A}C'est moi qui passais des médicaments aux bandits au motel, {FearB}j'avais un marché avec eux. J'ai cru que ça les tiendrait à distance. {SadB}Ils nous ont attaqués lorsque j'ai arrêté. {SadC}Et c'est alors que Duck... [trails off]
+28)  KENNY
+{AngryD}{Body-A}Sale petit merdeux ! Je vais te buter, t'entends ? Te buter ! Ma femme, mon fils, c'est à cause de toi s'ils sont morts !
+106)  KENNY
+{AngryD}{Body-A}Sale petit merdeux ! Je vais te buter, t'entends ? Te buter ! Ma femme, mon fils, c'est à cause de toi s'ils sont morts !
+112)  KENNY
+{AngryD}{Body-A}Sale petit merdeux ! Je vais te buter, t'entends ? Te buter ! Ma femme, mon fils, c'est à cause de toi s'ils sont morts !
+114)  KENNY
+{AngryD}{Body-A}Sale petit merdeux ! Je vais te buter, t'entends ? Te buter ! Ma femme, mon fils, c'est à cause de toi s'ils sont morts !
+29)  LEE
+{AngryC}{Body-B}Kenny ! Arrête ! Du calme, mec !
+30)  LEE
+{AngryD}{Body-B}Bordel Kenny je t'ai dit de te calmer !
+31)  MOLLY
+[dry/sarcastic] {ThinkingA}{Body-A}Quelle jolie petite équipe.
+59)  MOLLY
+[dry/sarcastic] {ThinkingA}{Body-A}Quelle jolie petite équipe.
+32)  LEE
+[annoyed/stressed out]{AngryC}{Body-B}C'est pas le moment, Molly !
+58)  LEE
+[annoyed/stressed out]{AngryC}{Body-B}C'est pas le moment, Molly !
+33)  KENNY
+{AngryC}{Body-A}Si cet enfoiré croit qu'il va embarquer sur mon bateau après ce qu'il a fait, il se fourre {AngryD}son putain de doigt dans l'oeil !
+115)  KENNY
+{AngryC}{Body-A}Si cet enfoiré croit qu'il va embarquer sur mon bateau après ce qu'il a fait, il se fourre {AngryD}son putain de doigt dans l'oeil !
+34)  LEE
+{FearA}{Body-b}Kenny, on règlera ça plus tard. {FearB}APRES avoir dégagé d'ici d'accord ?
+35)  KENNY
+{AngryD}{Body-A}Y'a rien à régler !{AngryC} Je te simplement ce qui va se passer !
+36)  LEE
+{SadB}{Body-B}Tu sais bien que Ben n'avait aucune mauvaise intention, il voulait tout simplement aider.
+37)  KENNY
+{AngryC}{Body-A}Qu'est-ce que j'en ai à foutre de ses putains de bonnes intentions?
+38)  CHRISTA
+Et bien, je vote pour que nous abandonnions Ben. [to Ben] Désolée. Je sais que tu as voulu bien faire, mais tu nous mets trop souvent en danger. Lee?
+41)  CHRISTA
+{FearA}{Body-A}Finalement, je pense que je vais m'abstenir. Lee ?
+54)  CHRISTA
+{FearA}{Body-A}Finalement, je pense que je vais m'abstenir. Lee ?
+84)  CHRISTA
+{FearA}{Body-A}Finalement, je pense que je vais m'abstenir. Lee ?
+86)  CHRISTA
+{FearA}{Body-A}Finalement, je pense que je vais m'abstenir. Lee ?
+42)  LEE
+{SadA}{Body-B}Bien sûr que si.
+53)  LEE
+{SadA}{Body-B}Bien sûr que si.
+43)  CLEMENTINE
+Moi je vote pour que Ben reste avec nous. C'est mon copain. C'est notre copain ! On n'abandonne pas ses copains.
+55)  CLEMENTINE
+Moi je vote pour que Ben reste avec nous. C'est mon copain. C'est notre copain ! On n'abandonne pas ses copains.
+83)  CLEMENTINE
+Moi je vote pour que Ben reste avec nous. C'est mon copain. C'est notre copain ! On n'abandonne pas ses copains.
+85)  CLEMENTINE
+Moi je vote pour que Ben reste avec nous. C'est mon copain. C'est notre copain ! On n'abandonne pas ses copains.
+44)  CLEMENTINE
+{FearC}{Body-Stand}Et moi je ne peux pas voter ?
+52)  CLEMENTINE
+{FearC}{Body-Stand}Et moi je ne peux pas voter ?
+45)  
+Ben reste parmi nous.
+46)  
+On le laisse ici.
+47)  
+Je m'abstiens.
+48)  
+Je m'abstiens.
+49)  LEE
+{SadB}{Body-B}J'en ai assez vu ici pour comprendre qu'agir comme ça c'est déjà devenir l'un d'entre eux. {AngryA}Je vote pour que Ben reste.
+50)  LEE
+{SadB}{Body-B}Désolé, Ben. Je dois agir dans l'intérêt du groupe. Ce qui implique de se débarrasser de toi.
+51)  LEE
+{AngryA}{Body-B}Je ne peux pas. Je m'abstiens. On verra ça plus tard.
+56)  BRIE
+{FearC}{Body-A}[screaming] AAAAAAAAARGH !
+57)  BRIE
+{AngryB}{Body-A}Et nous alors, on n'a pas notre mot à- [cut off suddenly]
+60)  MOLLY
+[urgently] {AngryB}{Body-A}Bon et MAINTENANT on peut y aller ?
+61)  LEE
+{AngryC}{Body-B}C'est clair. Vernon ! Venez !
+62)  LEE
+{AngryC}{Body-B}Vernon !
+63)  VERNON
+[frantic/panic] {FearC}{Body-A}Brie !!!
+64)  
+On n'a pas le temps.
+66)  
+On n'a pas le temps.
+67)  
+Silence
+68)  
+Kenny, du calme !
+69)  
+C'était une erreur.
+70)  
+Tu lui mettras une raclée plus tard !
+71)  
+Tu lui mettras une raclée plus tard !
+72)  
+On règlera ça plus tard.
+73)  
+Ben voulait simplement nous aider.
+74)  
+On n'a qu'à voter.
+77)  
+On n'a qu'à voter.
+75)  LEE
+{SadB}{Body-B}Kenny, je comprends que tu sois bouleversé, {AngryB}mais tu ne peux décider de tout ça toi-même. {AngryA}Ca nous concerne tous, on décide en groupe.
+76)  KENNY
+Qu'est-ce que j'en ai à foutre ?
+78)  KENNY
+Ecoutez.  Comme vous le savez le bateau est trop petit pour qu'on embarque tous, d'accord ? Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+79)  
+Bien sûr que si.
+80)  
+Non.
+81)  LEE
+{AngryA}{Body-B}[coldly] Non.
+82)  CHRISTA
+{AngryA}{Body-A}Alors, Lee? Ben vient avec nous ?
+92)  BEN
+{AngryC}{Body-A}[angry] Va te faire foutre, Lee! {SadE}Je ne peux plus vivre avec ça !
+93)  LEE
+{FearB}{Body-B}Ben, c'est pas le moment !
+104)  CHRISTA
+{AngryB}{Body-A}De savoir quoi ?
+105)  BEN
+{SadE}{Body-A}Désolé, Lee. Je ne peux plus vivre avec ça. {SadD}Il a le droit de le savoir.
+107)  LEE
+Tout n'est pas de la faute de Ben ! C'est moi qui ai trouvé cette cachette de matériel ! Si tu en veux à quelqu"un, c'est à moi !
+108)  KENNY
+{AngryD}Rien à branler !
+109)  LEE
+[pickup][struggling to hold Kenny back]{AngryC}{Body-B}Kenny ! Du calme, mec ! {FearB}Ben n'a jamais voulu que tout cela arrive, c'était une erreur !
+110)  KENNY
+Tout est de sa faute ! La faute de cet enculé, là !
+111)  LEE
+[pickup][struggling to hold Kenny back]{AngryC}{Body-B}Kenny. {AngryD}Je suis d'accord avec toi - tu DEVRAIS lui foutre une raclée ! {AngryC}Mais pas maintenant! {FearC}On doit se consacrer à s'échapper d'ici!
+113)  LEE
+[pickup][struggling to hold Kenny back]{FearC}Kenny ! Ecoute-moi ! {AngryC}Tu pourras lui botter son petit cul plus tard, {FearC}mais là on doit dégager !
+116)  KENNY
+Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+117)  KENNY
+Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+118)  KENNY
+Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+119)  KENNY
+Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+120)  KENNY
+Comme vous le savez le bateau est trop petit pour qu'on embarque tous. Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+122)  KENNY
+Comme vous le savez le bateau est trop petit pour qu'on embarque tous. Si on doit laisser quelqu'un ici, autant que ce soit cette petite ordure !
+121)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+123)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+124)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+126)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+127)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+128)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+129)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+130)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+131)  KENNY
+{AngryB}{Body-A}Le bateau est trop petit pour tous y embarquer. Si on doit laisser quelqu'un ici, {AngryC}autant que ce soit cette petite ordure !
+125)  KENNY
+{AngryC}{Body-A}Oh oui ! Votons ! On est aux USA après tout ! Mais avant que vous ne vous décidiez, il y a quelque chose que vous devriez tous savoir.
+132)  CLEMENTINE
+{AngryA}{Body-Stand}Ben est gentil. C'est mon copain. On n'abandonne pas ses copains. C'est mon vote.
+133)  CLEMENTINE
+{AngryA}{Body-Stand}Ben est gentil. C'est mon copain. On n'abandonne pas ses copains. C'est mon vote.
+134)  KENNY
+[enraged]{AngryD}Tu m'entends crétin ? {AngryC}Tu peux pourrir ici !
+135)  CHRISTA
+[pickup][trying to let him down as easy as possibley]Et bien, je vote pour qu'on l'abandonne. [to Ben] Désolé, Ben. Je sais que c'était pour nous aider, mais tout ce que je veux c'est retrouver Omid. Et tu pourrais m'en empêcher.
