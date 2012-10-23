@@ -85,15 +85,15 @@ Regarder
 48)  LEE
 [quietly, to himself]On dirait une sorte de tuyau d'évacuation.
 15)  LEE
-[quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument sortir d'ici.
+[quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument foutre le camp d'ici.
 49)  LEE
-[quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument sortir d'ici.
+[quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument foutre le camp d'ici.
 17)  LEE
-[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}Il ne faudrait pas que je tombe malade.
+[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}La dernière chose dont j'ai besoin est d'attraper une saloperie.
 86)  LEE
-[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}Il ne faudrait pas que je tombe malade.
+[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}La dernière chose dont j'ai besoin est d'attraper une saloperie.
 97)  LEE
-[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}Il ne faudrait pas que je tombe malade.
+[lookat][quitely, to himself]{disgustB}Je ne toucherai pas ce machin. {sadB}La dernière chose dont j'ai besoin est d'attraper une saloperie.
 19)  
 Ramasser
 50)  
@@ -279,17 +279,17 @@ Attraper
 107)  LEE
 [pickup][quitely, urgent]Je vais devoir prendre de l'élan...
 114)  LEE
-[pickup][quietly, slight urgency]{normalD}C'est un signe.
+[pickup][quietly, slight urgency]{normalD}C'est un panneau.
 171)  LEE
-[pickup][quietly, slight urgency]{normalD}C'est un signe.
+[pickup][quietly, slight urgency]{normalD}C'est un panneau.
 115)  LEE
 [pickup][quietly, urgent]{thinkingB}On dirait qu'il y a quelque chose derrière.
 169)  LEE
 [pickup][quietly, urgent]{thinkingB}On dirait qu'il y a quelque chose derrière.
 116)  LEE
-[pickup][quietly, urgent]{thinkingB}Je ne pense pas que ça puisse m'aider à sortir d'ici.
+[pickup][quietly, urgent]{thinkingB}Je ne pense pas que ça puisse m'aider à sortir.
 170)  LEE
-[pickup][quietly, urgent]{thinkingB}Je ne pense pas que ça puisse m'aider à sortir d'ici.
+[pickup][quietly, urgent]{thinkingB}Je ne pense pas que ça puisse m'aider à sortir.
 117)  LEE
 [pickup][quietly, urgent]{thinkingB}Je ne pourrai JAMAIS l'atteindre.
 125)  LEE
@@ -333,7 +333,7 @@ Traverser
 140)  LEE
 [pickup][to himself, quietly, dread]Je crois que je vais devoir me débrouiller tout seul.
 141)  LEE
-[pickup][hushed, to himself]Il fait plutôt calme par ici. C'est la première fois que je me retrouve seul... depuis que tout a commencé.
+[pickup][hushed, to himself]C'est plutôt calme dans le coin. C'est la première fois que je me retrouve seul... depuis que tout a commencé.
 142)  
 Rat mort
 143)  
@@ -341,7 +341,7 @@ Corps
 144)  
 Arme
 145)  
-Signe
+Panneau
 146)  
 Prendre
 153)  
