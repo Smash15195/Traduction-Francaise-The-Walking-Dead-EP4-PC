@@ -5,11 +5,11 @@ Qu'est-ce qu'il y a ?
 267)  KENNY
 Qu'est-ce qu'il y a ?
 2)  LEE
-[startled] Mais qu'est-ce que... ?
+[startled] Qu'est-ce que c'est... ?
 258)  LEE
-[startled] Mais qu'est-ce que... ?
+[startled] Qu'est-ce que c'est... ?
 266)  LEE
-[startled] Mais qu'est-ce que... ?
+[startled] Qu'est-ce que c'est... ?
 3)  KENNY
 [hushed]Pourquoi on se cache ?
 261)  KENNY
@@ -49,11 +49,11 @@ Qu'est-ce qu'il y a ?
 273)  KENNY
 [hushed]Ca pourrait être notre sonneur de cloche. Et si on tirait ça au clair ?
 9)  KENNY
-[hushed]Où est-il passé ?
+[hushed]Où il est passé ?
 263)  KENNY
-[hushed]Où est-il passé ?
+[hushed]Où il est passé ?
 271)  KENNY
-[hushed]Où est-il passé ?
+[hushed]Où il est passé ?
 10)  LEE
 [hushed] Il cherche peut-être de quoi survivre, comme nous.
 11)  KENNY
@@ -145,7 +145,7 @@ Alors comment savez-vous que nous ne sommes pas des leurs ?
 42)  MOLLY
 Parce qu'il n'y a pas d'enfants à Crawford. Pas un seul.
 43)  
-Comment ça ?
+Comment ça, pas d'enfant ?
 44)  LEE
 Que voulez-vous dire, pas d'enfants ? Pourquoi ?
 45)  MOLLY
@@ -193,7 +193,7 @@ Clém, mais que fais-tu ici ? Comment es-tu sortie de la maison ?
 59)  CLEMENTINE
 Quand Omid a commencé à être très malade, Christa et Ben ont dû l'emmener à l'étage. Je ne voulais pas rester assise à attendre, je voulais venir vous aider.
 60)  MOLLY
-Vraiment ? Parce que si elle n'était pas arrivée à ce moment-là, je vous aurais explosé la tête.
+Vraiment ? Parce que si elle n'était pas arrivée au bon moment, je vous aurais explosé la tête.
 61)  LEE
 Mouais faut voir, ça se discute.
 62)  MOLLY
@@ -399,13 +399,13 @@ Vous nous avez suivi ?
 250)  LEE
 Vous nous avez suivi ?
 147)  
-Vous n'êtes pas la personne à la radio.
+Vous n'êtes pas la personne de la radio.
 190)  LEE
-Vous n'êtes pas la personne à la radio.
+Vous n'êtes pas la personne de la radio.
 244)  
-Vous n'êtes pas la personne à la radio.
+Vous n'êtes pas la personne de la radio.
 245)  LEE
-Vous n'êtes pas la personne à la radio.
+Vous n'êtes pas la personne de la radio.
 148)  
 Kenny, non !
 149)  
@@ -491,7 +491,7 @@ C'était vous ce matin derrière la grille de la maison ?
 198)  MOLLY
 Absolument pas. Croyez-moi si vous voulez, j'ai mieux à faire de mon temps.
 199)  LEE
-Je vous l'ai dit, nous n'avons pas besoin d'aide.
+Je t'avais dit, nous n'avions pas besoin d'aide.
 200)  KENNY
 Des créatures ? C'est comme ça que vous les appelez ?
 202)  KENNY
@@ -515,17 +515,17 @@ Croyez-moi, nous ne faisons que passer. Dès que je nous aurai trouvé un bateau, 
 213)  KENNY
 Croyez-moi, nous ne faisons que passer. Dès que je nous aurai trouvé un bateau, on se tirera d'ici.
 214)  LEE
-[quietly, shocked]Mais que--
+[quietly, shocked]Mais où--
 274)  LEE
-[quietly, shocked]Mais que--
+[quietly, shocked]Mais où--
 275)  LEE
-[quietly, shocked]Mais que--
+[quietly, shocked]Mais où--
 276)  LEE
-[quietly, shocked]Mais que--
+[quietly, shocked]Mais où--
 277)  LEE
-[quietly, shocked]Mais que--
+[quietly, shocked]Mais où--
 278)  LEE
-[quietly, shocked]Mais que--
+[quietly, shocked]Mais où--
 215)  MOLLY
 Vous suivre ?
 251)  MOLLY
@@ -543,7 +543,7 @@ Tout le monde se calme.
 226)  KENNY
 Je me calmerai quand elle m'aura dit qui elle est.
 228)  MOLLY
-Reculez, crétin. Mon nom est Molly.
+Lâchez moi, crétin. Mon nom est Molly.
 235)  CLEMENTINE
 [cheerily/friendly] Salut. Moi c'est Clémentine. Voici Lee et Kenny.
 238)  CLEMENTINE

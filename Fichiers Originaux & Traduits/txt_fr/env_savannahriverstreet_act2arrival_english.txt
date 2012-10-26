@@ -1,5 +1,5 @@
 1)  KENNY
-{angrya}[grunt] Hmph. Continuons à avancer.
+{angrya}[grunt] Hmph. Continuons d'avancer.
 2)  LEE
 A propos de ce qui s'est passé là-bas. Dans le grenier.
 3)  LEE
@@ -17,7 +17,7 @@ C'est quoi ça ?
 9)  KENNY
 {angryb}[ignoring him/focused] La rivière est droit devant.
 10)  LEE
-[quitely] Non. Ecoute. Ce n'est pas la même cloche qu'avant. Celle-là est plus loin. Quoi que ce soit, ça va attirer les zombies dans le coin.
+[quitely] Non. Ecoute. Ce n'est pas la même cloche. Celle-là est plus loin. Quoi que ce soit, ça va attirer les zombies dans le coin.
 11)  KENNY
 {angryb}Peu importe, mec. {angryc}Si je trouve qui fait ça, c'est moi qui vais leur sonner les cloches.
 116)  KENNY
@@ -51,13 +51,13 @@ Regarder au travers
 149)  LEE
 {thinkinga}[lookat]Que veulent dire ces inscriptions ? Il y en a partout.
 22)  LEE
-{thinkinga}[lookat]Peut-être des balises militaires. {normalb}Mais que veulent-elles dire ?
+{thinkinga}[lookat]C'est peut-être des balises militaires. {normalb}Mais que veulent-elles dire ?
 150)  LEE
-{thinkinga}[lookat]Peut-être des balises militaires. {normalb}Mais que veulent-elles dire ?
+{thinkinga}[lookat]C'est peut-être des balises militaires. {normalb}Mais que veulent-elles dire ?
 23)  LEE
 {thinkinga}[lookat]L'essence a été siphonnée, les pneus enlevés, il manque des pièces du moteur...
 24)  LEE
-{disgusta}[lookat]On dirait que ce truc a été complètement dépouillé.
+{disgusta}[lookat]On dirait que cette voiture a été complètement dépouillée.
 25)  LEE
 [horrified, to himself] C'est pas vrai ? Qu'est-ce que ça signifie, une sorte d'avertissement ? Qui ferait une chose pareille ?
 26)  LEE
@@ -85,7 +85,7 @@ Regarder
 176)  LEE
 {normalb}[lookat]Rien. Quelqu'un a déjà ratissé cet endroit.
 33)  LEE
-{normalb}[lookat]Ca a toujours l'air intact.
+{normalb}[lookat]Il a toujours l'air intact.
 36)  LEE
 {normalb}[lookat]Fermé.
 37)  
@@ -135,7 +135,7 @@ Tirer
 69)  
 Tirer
 58)  LEE
-{thinkinga}[lookat]Il ne vaut mieux pas. {normalb}Un coup de feu attirerait plus de rôdeurs.
+{thinkinga}[lookat]Vaut mieux pas. {normalb}Un coup de feu attirerait plus de rôdeurs.
 59)  KENNY
 [desperate/hanging on] {angryb}C'est CA le plan, Lee ! C'est notre meilleure et seule alternative ! {angryc}Tu l'as dit toi-même quand nous étions à la maison ! {angryd}Tu étais d'accord avec moi !
 60)  KENNY
@@ -171,7 +171,7 @@ Rentrons.
 77)  LEE
 Tu en es sûr ? Ca n'en a pas l'air pour moi. Nous devons peut-être penser à un plan B.
 79)  KENNY
-{normalc}[cooling off] Je vais vérifier. Va voir plus loin sur la rive. Il y a peut-être quelque chose à l'autre bout.
+{normalc}[cooling off] Je vais pencher dessus. Va voir plus loin sur la rive. Il y a peut-être quelque chose à l'autre bout.
 80)  
 Quoi ? Tu es sérieux ?
 81)  
@@ -291,15 +291,15 @@ Caddie
 142)  
 Planches
 143)  
-Camion
+Camionnette
 144)  LEE
 [pickup]Quelqu'un a dû essayer de mettre son bateau à l'eau. Seulement les choses ne se sont pas passées comme prévu.
 145)  LEE
 [pickup]Ils ont vraiment fait ça en toute hâte.
 146)  
-Bateau coulé
+Bateau échoué
 167)  
-Bateau coulé
+Bateau échoué
 147)  LEE
 [pickup][quietly, trying not to upset Kenny]Mon Dieu.
 148)  LEE
@@ -325,7 +325,7 @@ Kiosque à journaux
 157)  LEE
 [pickup][while looking through telescope, finding a sunken boat]Celui-là n'est pas réparable.
 160)  LEE
-[pickup][looking through a telescope for boats]Un tas de quais. Pas un seul bateau.
+[pickup][looking through a telescope for boats]Un paquet de quais. Pas un seul bateau.
 161)  LEE
 [pickup][looking through the telescope for boats]Rien à part de l'eau. Pas un seul bateau à l'horizon.
 162)  LEE

@@ -5,9 +5,9 @@ J'irai seul.
 4)  
 Merci.
 5)  
-Tu es sûr ?
+Vous êtes sûr ?
 8)  
-Tu es sûr ?
+Vous êtes sûr ?
 6)  
 Je ne crois pas que ce soit une bonne idée
 7)  
@@ -43,9 +43,9 @@ Est-ce que Lee a voté contre Ben à Crawford ?
 299)  LEE
 [horrified realization] {SurpriseB}{body-B}Oh non. Oh non, non non non non non non non...
 24)  CHRISTA
-{WorriedA}{body-A}[calling from the yard]Lee ? Lee ? Tu es là ? Lee ?
+{WorriedA}{body-A}[calling from the yard]Lee ? Lee ? Vous êtes là ? Lee ?
 300)  CHRISTA
-{WorriedA}{body-A}[calling from the yard]Lee ? Lee ? Tu es là ? Lee ?
+{WorriedA}{body-A}[calling from the yard]Lee ? Lee ? Vous êtes là ? Lee ?
 25)  KENNY
 [calling out] Mais enfin qu'est-ce qui se passe ?
 26)  
@@ -69,15 +69,15 @@ Clémentine a disparu !
 35)  CHRISTA
 Lee ? Ca va ? On a cru entendre quelque chose.
 36)  LEE
-{FearC}{body-B}[calling out] Clémentine? Clémentine!
+{FearC}{body-B}[calling out] Clémentine ? Clémentine !
 37)  LEE
-{FearA}{Body-B}Clém-?
+{FearA}{Body-B}Clém ?
 304)  LEE
-{FearA}{Body-B}Clém-?
+{FearA}{Body-B}Clém ?
 38)  KENNY
 [calling out from the yard] Qu'est-ce qui se passe ?
 39)  OMID
-{FearB}{Body-A}Lee, où est Clémentine? Elle n'est pas dans sa chambre !
+{FearB}{Body-A}Lee, où est Clémentine ? Elle n'est pas dans sa chambre !
 40)  CHRISTA
 STUB if the player was silent. Maybe Christa notices the wound and realizes Lee's been bitten. Omid asks where's Clementine. Lee reveals that Clementine is missing. Christa asks where Venon is. Maybe he took her! What should we do?
 41)  OMID
@@ -99,21 +99,21 @@ Je ne sais pas. J'étais venu pour la chercher et j'ai trouvé ça.
 64)  LEE
 {DisgustA}{Body-B}[grim]C'est à moi.
 48)  KENNY
-[denial] {FearA}{Body-A}Pas question. Il n'en est PAS question.
+[denial] {FearA}{Body-A}C'est pas possible. Putain c'est PAS vrai.
 49)  KENNY
-[denial] {FearA}{Body-A}Pas question. Il n'en est PAS question.
+[denial] {FearA}{Body-A}C'est pas possible. Putain c'est PAS vrai.
 68)  KENNY
-[denial] {FearA}{Body-A}Pas question. Il n'en est PAS question.
+[denial] {FearA}{Body-A}C'est pas possible. Putain c'est PAS vrai.
 50)  LEE
 Clémentine a été kidnappée. J'ai trouvé sa casquette et sa radio par terre. C'est tout.
 51)  LEE
-{FearA}{Body-B}C'est un zombie, cet enculé est arrivé par surprise.
+{FearA}{Body-B}C'est un zombie, cette saloperie est arrivée par surprise.
 52)  KENNY
-{FearA}{Body-A}Alors où est Clémentine?
+{FearA}{Body-A}Alors où est Clémentine ?
 53)  LEE
 [pickup] {FearB}{Body-B}Clémentine n'est plus là. J'ai trouvé sa casquette et sa radio par terre. C'est tout.
 54)  KENNY
-{AngryB}{Body-A}Alors qui l'a enlevée ? Vernon ? Je savais qu'il ne fallait pas lui faire confiance à cet enculé !
+{AngryB}{Body-A}Alors qui l'a enlevée ? Vernon ? Je savais qu'il ne fallait pas lui faire confiance à cet enfoiré !
 55)  LEE
 [pickup]{AngryA}{Body-B}J'en sais rien. Il a dit qu'elle serait en sécurité avec lui.  Quoi qu'il en soit, je dois la retrouver.
 302)  LEE
@@ -131,9 +131,9 @@ Clémentine a été kidnappée. J'ai trouvé sa casquette et sa radio par terre. C'es
 321)  LEE
 {AngryA}{Body-B}Non. Aucune chance.
 58)  LEE
-[grim determination] {AngryA}{Body-B}Trop tard pour vous inquiéter pour moi. Clémentine a disparu.
+[grim determination] {AngryA}{Body-B}C'est trop tard pour vous inquiéter pour moi. Et Clémentine a disparu.
 59)  LEE
-[grim determination] {AngryA}{Body-B}Trop tard pour vous inquiéter pour moi. Clémentine a disparu.
+[grim determination] {AngryA}{Body-B}C'est trop tard pour vous inquiéter pour moi. Et Clémentine a disparu.
 60)  CHRISTA
 [dealing with it/focusing]{SadB}{Body-A}D'accord. Tu veux qu'on fasse quoi ?
 61)  CHRISTA
@@ -155,9 +155,9 @@ Il faut que je vous dise quelque chose...
 71)  LEE
 {AngryA}{Body-B}Clémentine est sous ma responsabilité. Je ne peux pas vous faire risquer vos vies. J'irai seul.
 72)  OMID
-{AngryA}Damn right. {DisgustA}On ne peut pas te laisser y aller seul.
+{AngryA}Putain c'est clair. {DisgustA}On ne peut pas te laisser y aller seul.
 76)  OMID
-{AngryA}Damn right. {DisgustA}On ne peut pas te laisser y aller seul.
+{AngryA}Putain c'est clair. {DisgustA}On ne peut pas te laisser y aller seul.
 73)  CHRISTA
 {DisgustA}{Body-A}Clémentine est sous notre responsabilité à tous. {SadB}Elle est quelque part et elle a besoin de nous. {AngryA}De nous TOUS.
 75)  CHRISTA
@@ -213,7 +213,7 @@ Et tu n'étais pas là pour lui quand il en avait besoin. Ce sera sans nous.
 100)  OMID
 {HappyA}{Body-A}Contrairement à quoi ? A notre nouveau train-train ?
 101)  LEE
-{SadA}{Body-B}Tu en es certain ? Ca pourrait être dangereux.
+{SadA}{Body-B}Vous en êtes certain ? Ca pourrait être dangereux.
 102)  CHRISTA
 {HappyA}{Body-A}Certains, Lee. On te suit.
 103)  OMID
@@ -287,7 +287,7 @@ Et tu n'étais pas là pour lui quand il en avait besoin. Ce sera sans nous.
 137)  KENNY
 [furious] {AngryB}{Body-A}Tu n'as peut-être pas compté les points Lee, espèce de fils de pute, {AngryC}mais moi oui ! Et tu t'es plus souvent occupé de toi que de tes potes. {AngryB}A ton tour de voir ce que ça fait, abruti, parce que je vais m'occuper de mes affaires {AngryA}et préparer ce bateau.
 138)  LEE
-{SadA}{Body-B}Et toi, Ben?
+{SadA}{Body-B}Et toi, Ben ?
 139)  BEN
 {DisgustA}{Body-A}Je... J'en sais rien. Comme tu veux.
 142)  BEN
@@ -295,9 +295,9 @@ Et tu n'étais pas là pour lui quand il en avait besoin. Ce sera sans nous.
 152)  BEN
 {DisgustA}{Body-A}Je... J'en sais rien. Comme tu veux.
 140)  KENNY
-{AngryB}{Body-A}[adamant] Hé, attendez une minute. Je ne viens pas si ce petit merdeux vient aussi.{AngryA} Lee, si tu veux ramener Clémentine en vie, laisse-le ici - {AngryB}il fout la merde partout où il passe !
+{AngryB}{Body-A}[adamant] Hé, attends une minute. Je ne viens pas si ce petit merdeux vient aussi.{AngryA} Lee, si tu veux ramener Clémentine en vie, laisse-le ici - {AngryB}il fout la merde partout où il passe !
 141)  LEE
-[pickup]{AngryA}{Body-B}C'est comme ça, Kenny. D'après moi, Ben a encore une chance de réparer ses erreurs.{ThinkingA} S'il le souhaite. [grim, serious]Qu'en penses-tu, Ben?
+[pickup]{AngryA}{Body-B}C'est comme ça, Kenny. D'après moi, Ben a encore une chance de réparer ses erreurs.{ThinkingA} S'il le souhaite. [grim, serious]Qu'en penses-tu, Ben ?
 143)  LEE
 {AngryA}{Body-B}Kenny, oublie cette histoire entre Ben et toi. {AngryB}Et si tu n'y arrives pas, peut-être que tu devrais rester ici. {AngryA}Je ne veux pas de ça maintenant.
 144)  KENNY
@@ -605,11 +605,11 @@ Grillage
 293)  
 Piétiner
 294)  
-Corbeilles
+Cartons
 295)  
 Talkie Walkie
 297)  KENNY
-[pickup][concerned, but not angry]Hé attendez un instant, tu ne penses quand même pas sérieusement à l'emmener avec nous, n'est-ce pas ?
+[pickup][concerned, but not angry]Hé attends un instant, tu ne penses quand même pas sérieusement à l'emmener avec nous, n'est-ce pas ?
 298)  CHRISTA
 [pickup] Clémentine est sous notre responsabilité à tous. Et vu ton état, tu arriveras trop tard. On doit l'aider. On doit TOUS l'aider.
 301)  CHRISTA
@@ -623,11 +623,11 @@ Talkie Walkie
 316)  LEE
 [pickup] Je dois la retrouver, où qu'elle soit.
 307)  KENNY
-[pickup] Fils de pute. J'avais dit qu'il ne fallait pas faire confiance à cet enculé.
+[pickup] Fils de pute. J'avais dit qu'il ne fallait pas faire confiance à cet enfoiré.
 314)  KENNY
-[pickup] Fils de pute. J'avais dit qu'il ne fallait pas faire confiance à cet enculé.
+[pickup] Fils de pute. J'avais dit qu'il ne fallait pas faire confiance à cet enfoiré.
 317)  KENNY
-[pickup] Fils de pute. J'avais dit qu'il ne fallait pas faire confiance à cet enculé.
+[pickup] Fils de pute. J'avais dit qu'il ne fallait pas faire confiance à cet enfoiré.
 308)  KENNY
 [pickup] Alors qui d'autre aurait pu l'enlever ?
 311)  KENNY

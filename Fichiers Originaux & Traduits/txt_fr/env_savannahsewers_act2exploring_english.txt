@@ -37,9 +37,9 @@ Tourner à droite
 51)  LEE
 [quitely, to himself, urgent][lookat]{angryB}Ca ne bougera pas. Je pense que je l'ai cassé !
 9)  LEE
-[quitely, to himself][lookat]{angryA}Je n'irai plus par là.
+[quitely, to himself][lookat]{angryA}Ca n'ira pas plus loin.
 42)  LEE
-[quitely, to himself][lookat]{angryA}Je n'irai plus par là.
+[quitely, to himself][lookat]{angryA}Ca n'ira pas plus loin.
 10)  LEE
 [to himself, alarmed]{fearB}Ils arrivent.
 11)  LEE
@@ -81,9 +81,9 @@ Regarder
 183)  
 Regarder
 14)  LEE
-[quietly, to himself]On dirait une sorte de tuyau d'évacuation.
+[quietly, to himself]On dirait une sorte de vanne d'évacuation.
 48)  LEE
-[quietly, to himself]On dirait une sorte de tuyau d'évacuation.
+[quietly, to himself]On dirait une sorte de vanne d'évacuation.
 15)  LEE
 [quitely, to himself, urgent][lookat]{angryB}Ce truc est foutu. {fearA}Je dois absolument foutre le camp d'ici.
 49)  LEE
@@ -115,11 +115,11 @@ Ramasser
 123)  
 Ramasser
 21)  LEE
-[quietly, but panicked]{angryC}Bouge, bordel !
+[quietly, but panicked]{angryC}Lâche moi, bordel !
 28)  LEE
-[quietly, but panicked]{angryC}Bouge, bordel !
+[quietly, but panicked]{angryC}Lâche moi, bordel !
 148)  LEE
-[quietly, but panicked]{angryC}Bouge, bordel !
+[quietly, but panicked]{angryC}Lâche moi, bordel !
 22)  
 Tirer
 29)  
@@ -177,7 +177,7 @@ Attaquer
 52)  LEE
 [lookat][quitely, to himself]{thinkingA}Je n'irai plus de ce côté.
 53)  LEE
-[lookat][quitely, to himself]{disgustA}Il vaut mieux être ici que là-dedans.
+[lookat][quitely, to himself]{disgustA}Vaut mieux être ici que de l'autre coté.
 56)  LEE
 [quitely, to himself]{thinkingA}Hmm, ça tourne dans le vide.
 57)  
@@ -193,19 +193,19 @@ Mettre la vanne
 59)  LEE
 [quitely, to himself][lookat]{thinkingA}C'est coincé.
 61)  LEE
-[lookat][to himself]{thinkingA}On dirait une sorte de tuyau d'évacuation.
+[lookat][to himself]{thinkingA}On dirait une sorte de vanne d'évacuation.
 136)  LEE
-[lookat][to himself]{thinkingA}On dirait une sorte de tuyau d'évacuation.
+[lookat][to himself]{thinkingA}On dirait une sorte de vanne d'évacuation.
 62)  LEE
-[quitely, to himself][lookat]{normalD}C'est un tuyau d'évacuation.
+[quitely, to himself][lookat]{normalD}C'est une vanne d'évacuation.
 64)  LEE
-[quitely, to himself][lookat]{normalD}C'est un tuyau d'évacuation.
+[quitely, to himself][lookat]{normalD}C'est une vanne d'évacuation.
 137)  LEE
-[quitely, to himself][lookat]{normalD}C'est un tuyau d'évacuation.
+[quitely, to himself][lookat]{normalD}C'est une vanne d'évacuation.
 63)  LEE
 [quietly, to himself][lookat]{thinkingB}Il devrait y avoir une manivelle à cet endroit. Mais elle n'y est pas.
 66)  LEE
-[quietly, to himself][lookat]{thinkingB}Je n'arriverai pas à l'attraper de cette manière.
+[quietly, to himself][lookat]{thinkingB}Je n'arriverai pas à la porter.
 68)  LEE
 [frustrated, quietly][lookat]{angryA}On dirait que quelqu'un l'a sciée.
 69)  LEE
@@ -217,13 +217,13 @@ Mettre la vanne
 182)  LEE
 [quietly][lookat]{angryA}Merde, je ne peux pas l'atteindre.
 75)  
-Couloir
+Conduit
 76)  
 Vanne
 77)  
-Tuyau
+Vanne
 78)  
-Tuyau
+Vanne
 79)  
 Passage
 80)  
@@ -245,29 +245,29 @@ Grille
 92)  
 Porte
 99)  LEE
-[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial...
 102)  LEE
-[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial...
 175)  LEE
-[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial...
 184)  LEE
-[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial.
+[pickup][quietly, urgent]{angryA}Fermé. {angryB}C'est génial...
 100)  LEE
-[pickup][quietly, urgent]{fearB}Merde, ça s'est cassé !
+[pickup][quietly, urgent]{fearB}Merde, elle s'est cassé !
 104)  LEE
-[pickup][quietly, urgent]{fearB}Merde, ça s'est cassé !
+[pickup][quietly, urgent]{fearB}Merde, elle s'est cassé !
 173)  LEE
-[pickup][quietly, urgent]{fearB}Merde, ça s'est cassé !
+[pickup][quietly, urgent]{fearB}Merde, elle s'est cassé !
 101)  
 Attraper
 105)  LEE
-[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+[pickup][quietly, urgent]{thinkingB}Qu'est-ce que... ?
 111)  LEE
-[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+[pickup][quietly, urgent]{thinkingB}Qu'est-ce que... ?
 128)  LEE
-[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+[pickup][quietly, urgent]{thinkingB}Qu'est-ce que... ?
 180)  LEE
-[pickup][quietly, urgent]{thinkingB}Mais qu'est-ce que ?
+[pickup][quietly, urgent]{thinkingB}Qu'est-ce que... ?
 106)  LEE
 [pickup][landing hard on the ground from a bad jump]{fearD}Aïe !
 112)  LEE
@@ -297,9 +297,9 @@ Attraper
 181)  LEE
 [pickup][quietly, urgent]{thinkingB}Je ne pourrai JAMAIS l'atteindre.
 118)  LEE
-[pickup][quietly, urgent]{angryA}J'ai déjà essayé ça ! Ca ne bougera pas.
+[pickup][quietly, urgent]{angryA}J'ai déjà essayé ! Ca ne bougera pas.
 172)  LEE
-[pickup][quietly, urgent]{angryA}J'ai déjà essayé ça ! Ca ne bougera pas.
+[pickup][quietly, urgent]{angryA}J'ai déjà essayé ! Ca ne bougera pas.
 119)  LEE
 [pickup][quietly, urgent]{angryA}Cette porte est fichue.
 174)  LEE
@@ -321,7 +321,7 @@ Echelle cassée
 132)  
 Traverser
 133)  LEE
-[pickup][hushed, urgent]C'est peut-être la sortie. Mais je ne parviendrai jamais à me débarrasser tout seul de ces choses.
+[pickup][hushed, urgent]C'est sûrement la sortie. Mais je ne parviendrai jamais à me débarrasser tout seul de ces choses.
 134)  LEE
 [pickup][hushed, urgent]Il va falloir que je trouve un moyen de dégager ce tunnel.
 135)  LEE
@@ -335,7 +335,7 @@ Traverser
 141)  LEE
 [pickup][hushed, to himself]C'est plutôt calme dans le coin. C'est la première fois que je me retrouve seul... depuis que tout a commencé.
 142)  
-Rat mort
+Rats morts
 143)  
 Corps
 144)  

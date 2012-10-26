@@ -1,592 +1,592 @@
 1)  LEE
-[worried] Kenny ?
+[worried] Kenny?
 2)  LEE
-Kenny ? Ca va pas ?
+Kenny? What's wrong?
 3)  KENNY
-Je vais le faire. Donne moi une minute.
+I can do it. I can. Just give me a minute.
 4)  KENNY
-Je peux le faire.
+I can do this.
 5)  LEE
-Oh mon dieu.
+Oh my God.
 6)  KENNY
-Il ressemble à Duck, hein ?
+Kinda looks like Duck, don’t he?
 7)  LEE
-Kenny, on a pas une minute.
+Kenny, we don’t have a minute.
 8)  KENNY
-[muttering, under his breath] Je peux...
+[muttering, under his breath] I can...
 9)  KENNY
-[muttering, under his breath] Je peux faire ça.
+[muttering, under his breath] I can do this. I... I can do it.
 10)  LEE
-Kenny ?
+Kenny?
 11)  LEE
-[softly]Allez.
+[softly]Come on, man.
 12)  
-C'est quoi ton problème ?!
+What's wrong with you?!
 13)  LEE
-Je vais m'en occuper.
+I'll take care of it.
 185)  
-Je vais m'en occuper.
+I'll take care of it.
 14)  LEE
-Il s'est passé quoi ?
+What the hell do you think happened?
 15)  LEE
-Tu aurais fait pareil pour moi. Quand quelqu'un du groupe a des ennuis, un autre l'aide. C'est comme ça qu'on survit. Pas autrement.
+You would have done the same for me. Someone in the group needs help, one of the others steps in. That’s how we stay alive. That’s the only way we stay alive.
 16)  KENNY
-Sérieux ? Tu poses vraiment la question ? C'est quoi TON problème ?
+Really? You really have to ask that? What the hell’s wrong with YOU?
 17)  LEE
-Vraiment ? Car tu ressembles à un lapin pris dans les phares pour moi. Réveille-toi, Kenny ! Qu'est-ce que tu fous ?
+Did you? Because you looked like a damn deer in headlights to me. Snap out of it, Kenny! The hell’s wrong with you?
 18)  LEE
-Je sais ce que t'as traversé. Mais il faut que tu te réveilles et que t'agisses. Ne laisse pas ces conneries te prendre la tête. Si t'hésites, t'es mort. Ou pire.
+I get what you’re going through. But when the time comes to step up and act, you can’t let that shit get in your head. You hesitate, you’re gonna wind up dead. Or worse.
 19)  KENNY
-Redescend, Ben. On a fini.
+Go back downstairs, Ben. We’re done here.
 20)  BEN
-Je venais voir si tout allait bien.
+Uh... just wanted to check if you guys were okay.
 21)  KENNY
-[beginning to calm down]Mon esprit me joue des tours. Il me rappelle vraiment Duck.
+[beginning to calm down]Mind must be playing tricks on me. He really did remind me of Duck.
 22)  LEE
-Ouais. Il me fait penser à ce qui aurait pu arriver à Clem si je ne l'avais pas trouvée.
+Yeah. Makes me think what might’ve happened to Clem if I hadn’t found her when I did.
 23)  KENNY
-On dirait qu'il s'est cloîtré ici, qu'il avait peur de descendre. Il s'est retrouvé affamé.
+I guess he holed up here, scared to come down. Ran out of food.
 24)  KENNY
-[becoming emotional] On peut pas le laisser comme ça. Duck n'a pas eu d'enterrement. Je me maudirais de ne pas en donner à ce gamin. Il mérite mieux que ça.
+[becoming emotional] We can’t just leave him like this. Duck never got a proper burial. I’ll be damned if this kid doesn’t. He deserves better.
 25)  
-J'essayais d'aider.
+I was trying to help.
 26)  LEE
-Non.
+….No.
 27)  LEE
-Excuse moi. Je sais ce que tu ressens. Je pensais que ce serait plus facile si j'évitais te faire de la peine.
+I’m sorry, man. I just... I know what you’re going through. Figured it’d be easier if I spared you the grief.
 28)  KENNY
-Et si tu la fermais et que tu me foutais la paix ?
+Then how about you shut the fuck up and leave me be?
 29)  
-Quelqu'un doit le faire.
+Somebody had to do it.
 30)  LEE
-Quelqu'un doit le faire, Kenny. Et ce ne sera pas toi, a priori.
+Somebody had to do it, Kenny. Didn’t look like it was gonna be you.
 31)  KENNY
-[confrontational] Moi vivant, si. Tu crois que c'était facile de prendre une hache à ce cadavre ? Surtout après ce que j'ai dû faire à mon propre fils ?
+[confrontational] I had it. In my own damn time. You think taking an axe to that dead boy was gonna be easy for me? Especially after what I had to do to my own son?
 32)  LEE
-Je sais ce que tu ressens. Mais on est dans un monde où ça ne compte plus. Ca ne nous mènera jamais à rien. Si tu laisses tes émotions prendre le dessus, c'est toi qu'on perdra la prochaine fois. Et on peut pas se le permettre.
+I  know what you're going through. But this world we’re in now, it don’t give a shit. It ain’t gonna give us an inch, no matter how much we might need it to. You let your emotions get in the way next time we’re in a situation, we’re gonna lose you too. And this group can’t afford that.
 33)  KENNY
-Génial. T'éclates la cervelle de ce gamin mais tu sais pas pourquoi ?
+Great. That’s just great. You can stomp the kid’s brains out but you can’t tell me why?
 34)  KENNY
-Je maîtrisais la situation avant que t'arrives. Pourquoi c'est toujours toi ? Tu crois que t'es le héros de l'histoire c'est ça ? Alors un scoop : tu ne l'es pas.
+I had it under control until you decided to take over. Why’s it always got to be about you? You think you’re the hero of this story? Because I got news for you. You ain’t.
 35)  LEE
-[rising urgency] Kenny. Maintenant, putain !
+[rising urgency] Kenny. Now. Now, dammit!
 36)  LEE
-Tu as pris soin d'eux comme personne. Je l'ai vu de mes propres yeux.
+Nobody could have done more than you did to take care of them. I saw that for myself.
 37)  LEE
-C'est bon. Relax. Tu as fait ce qu'il fallait. Tu as bien agi.
+It’s okay, man. Let it out. You did what you had to. You did good.
 38)  KENNY
-[distraught] J'ai même pas pu protéger mon propre fils, ma propre famille...
+[distraught] Couldn’t even protect my own son, my own family...
 39)  LEE
-Kenny. Tout va bien. C'est terminé.
+Kenny. It’s all right. It’s done.
 40)  LEE
-Kenny. Ca suffit.
+Kenny. Come on man, that's enough.
 41)  KENNY
-[like a battle cry]
+[like a battle cry] Aaaaaaargh!
 42)  KENNY
 [exertion sounds as he tries to pull out the axe]
 43)  LEE
-Tu n'as qu'à descendre quand tu es prêt.
+Yeah. Just come downstairs when you're ready.
 44)  KENNY
-[emotionally destroyed]T'es sûr ?
+[emotionally destroyed]You sure?
 45)  KENNY
-[sobbing] Seigneur... Duck...
+[sobbing] Oh God... Duck...
 46)  
-Tuer
+Kill
 47)  
-Ordonner
+Command
 48)  KENNY
-Mais merde ! Je t'ai dit que j'allais le faire !
+What the fuck? I told you I was gonna take care of it!
 49)  KENNY
-[horrified] Bon sang, Lee !
+[horrified] Jesus, Lee!
 50)  LEE
-[softly encouraging]Allez, Kenny. Fais-le.
+[softly encouraging]Go on, Kenny. Do it.
 51)  LEE
-Hé bien après ce qui est arrivé à Duck--
+Well after what happened with Duck--
 52)  KENNY
-[confrontational]J'ai tiré une balle dans la tête de mon fils hier, nom de dieu !
+[confrontational]I just put a bullet in my kid's brain yesterday, for christ's sake!
 53)  KENNY
-[confrontational]J'ai pas pu tirer sur mon fils mais ça veut pas dire que je ne peux plus m'occuper de rien. J'ai juste besoin d'un peu de temps, putain.
+[confrontational] Just because I ain't cold enough to put a bullet in my own son's head doesn't mean I can't take care of things now. I just needed one god damned moment.
 54)  KENNY
-[confrontational]C'était mon fils, Lee. J'ai peut-être pas eu le courage de lui tirer dessus mais je peux toujours être utile.
+[confrontational]That was my son, Lee. I may not be cold enough to put a bullet in my own kid's brain, but that doesn't mean I'm useless.
 55)  KENNY
-Va te faire foutre, Lee. Tu sais pas ce que je ressens. Et tu ne sais foutrement rien de ma peine. Imagine ce que ça te ferait si ça avait été Clem à la place de Duck ?
+Fuck you, Lee. You have no idea what I’m going through. And you sure as shit don’t know anything about grief. Can you even imagine how you’d feel if what happened to Duck had happened to Clem instead?
 56)  KENNY
-[confrontational] Imagine que tu doives lui tirer une balle dans la tête !
+[confrontational] Can you imagine having to put a bullet in her head?
 57)  KENNY
-[confrontational] Imagine que tu doives la laisser ici comme une de ces choses !
+[confrontational] Can you imagine just leaving her there as one of those things?
 58)  KENNY
-[confrontational] Imagine que tu doives la laisser ici comme une de ces choses !
+[confrontational] Can you imagine just leaving her there as one of those things?
 59)  KENNY
-[confrontational] Tu crois que reprendre la hache à ce gamin a été facile ? Surtout après ce que j'ai dû faire à mon fils ?
+[confrontational] You think taxing an axe to that dead boy was gonna be easy for me? Especially after what I had to do to my own son?
 60)  KENNY
-[confrontational] J'ai pas pu tirer sur mon fils mais ça veut pas dire que je ne peux plus m'occuper de rien.
+[confrontational] Just because I ain't cold enough to put a bullet in my own son's head doesn't mean I can't take care of things now.
 61)  KENNY
-[distraught] Et lorsque j'ai dû agir pour mon fils... j'ai pas pu.
+[distraught] And when it came time to do what was right for my son... I just couldn't.
 62)  KENNY
-[distraught] Et au dernier moment, j'ai tiré sur mon propre fils.
+[distraught] And in the end, I had a put a bullet in my own son's head.
 63)  
-Ca va pas ?
+What's wrong?
 64)  
-Ben a dit que t'avais des problèmes.
+Ben said you were in trouble.
 65)  
-Besoin d'aide ?
+Need any help?
 66)  KENNY
-Kenny ? Ben s'inquiète. Est-ce que--[trailing off]
+Kenny? Ben's worried about you, man. Did you--[trailing off]
 67)  LEE
-Hé, t'as besoin d'aide ?
+Hey, do you need any help up here?
 68)  
-On survit ainsi.
+This is how we stay alive.
 69)  
-C'est du passé.
+Get over it.
 72)  
-Il vient d'où lui ?
+What happened to him?
 73)  
-Il me rappelle Clem.
+Reminds me of Clementine.
 74)  
-Il est mort de faim, on dirait.
+Looks like he starved to death.
 75)  
-C'est bon, Kenny.
+It's alright, Kenny.
 76)  
-Ca suffit.
+Enough.
 77)  
-Putain
+God damn,
 78)  LEE
-Putain, Kenny.
+God damn, Kenny.
 79)  
-Tu n'y es pour rien.
+You can't blame yourself.
 80)  LEE
-Tu t'en es occupé comme personne. Je l'ai bien vu. Tu ne dois pas t'en vouloir. Pas avec tout ce qui c'est passé...
+Nobody could have done more than you did to take care of them. I saw that for myself. You can't blame yourself. All the shit that's happened... you just can't.
 81)  
-On devrait partir.
+We should go.
 82)  
-Tu as fait ce qu'il fallait.
+You did what you had to do.
 83)  
-Regarder
+Look At
 84)  
-Frapper
+Bash
 85)  
-Tirer
+Shoot
 86)  
-Ecraser
+Stomp
 87)  
-Donner Arme
+Give gun
 88)  
-Parler A
+Talk to
 89)  
-T'en fais pas.
+Don't worry about it.
 90)  
-Kenny s'en charge.
+Kenny's handling it.
 91)  
-Fais avec.
+You deal with it.
 92)  
-Il y a un gamin mort là-haut.
+There's a dead boy up there.
 201)  
-Il y a un gamin mort là-haut.
+There's a dead boy up there.
 93)  
-On s'en est chargé.
+It's being taken care of.
 214)  
-On s'en est chargé.
+It's being taken care of.
 94)  
-Ne monte pas.
+Don't go up there.
 217)  
-Ne monte pas.
+Don't go up there.
 95)  LEE
-{fearA}Kenny ?
+{fearA}Kenny?
 179)  LEE
-{fearA}Kenny ?
+{fearA}Kenny?
 96)  LEE
-{thinkingB}Kenny ? Ca va {fearB}, l'ami ?
+{thinkingB}Kenny? You {fearB}okay, man?
 180)  LEE
-{thinkingB}Kenny ? Ca va {fearB}, l'ami ?
+{thinkingB}Kenny? You {fearB}okay, man?
 97)  LEE
-{disgustB}[disgusted] Putain. C'est quoi {sadA}ça ?
+{disgustB}[disgusted] Jesus. What {sadA}the hell is that-?
 181)  LEE
-{disgustB}[disgusted] Putain. C'est quoi {sadA}ça ?
+{disgustB}[disgusted] Jesus. What {sadA}the hell is that-?
 98)  LEE
-[pickup]{sadB}Oh mon dieu.
+[pickup]{sadB}Oh my God.
 182)  LEE
-[pickup]{sadB}Oh mon dieu.
+[pickup]{sadB}Oh my God.
 99)  KENNY
-{sadC}[emotionless/flat/CREEPY] Il ressemble à Duck, non ?
+{sadC}[emotionless/flat/CREEPY] Kinda looks like Duck, don't he?
 183)  KENNY
-{sadC}[emotionless/flat/CREEPY] Il ressemble à Duck, non ?
+{sadC}[emotionless/flat/CREEPY] Kinda looks like Duck, don't he?
 100)  KENNY
-{sadC}Je devrais l'enterrer.
+{sadC}We should bury him.
 102)  KENNY
-{sadC}Je devrais l'enterrer.
+{sadC}We should bury him.
 104)  KENNY
-{sadC}Je devrais l'enterrer.
+{sadC}We should bury him.
 101)  LEE
-{sadB}Je vais le faire.
+{sadB}I'll take care of it.
 103)  LEE
-{sadB}Je vais le faire.
+{sadB}I'll take care of it.
 105)  LEE
-{sadB}Je vais le faire.
+{sadB}I'll take care of it.
 106)  CHRISTA
-{fearA}Qu'est-ce qui se passe ? {worriedA}Où est Kenny ?
+{fearA}What's going on? {worriedA}Where's Kenny?
 107)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 111)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 115)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 202)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 209)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 212)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 221)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 228)  LEE
-{sadA}Il y a un gamin mort là-haut. {fearA}Il a dû mourir de faim pendant qu'il se {sadB}cachait.
+{sadA}There's a dead boy up there. {fearA}Looks like he was hiding out up there {sadB}and starved.
 108)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 112)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 116)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 203)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 206)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 213)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 222)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 229)  CHRISTA
-{sadB}[dismayed] Seigneur. {sadA}Il est mort-{worriedA}MORT ? Ou...
+{sadB}[dismayed] Oh my God. {sadA}Dead, like {worriedA}DEAD? Or...
 109)  LEE
-{normalD}C'est bon. {sadB}Kenny s'en occupe.
+{normalD}It's okay. {sadB}Kenny's taking care of it.
 117)  LEE
-{normalD}C'est bon. {sadB}Kenny s'en occupe.
+{normalD}It's okay. {sadB}Kenny's taking care of it.
 204)  LEE
-{normalD}C'est bon. {sadB}Kenny s'en occupe.
+{normalD}It's okay. {sadB}Kenny's taking care of it.
 210)  LEE
-{normalD}C'est bon. {sadB}Kenny s'en occupe.
+{normalD}It's okay. {sadB}Kenny's taking care of it.
 110)  CHRISTA
-{angryA}Vous voulez dire qu'il-
+{angryA}What do you mean he's-
 114)  CHRISTA
-{angryA}Vous voulez dire qu'il-
+{angryA}What do you mean he's-
 205)  CHRISTA
-{angryA}Vous voulez dire qu'il-
+{angryA}What do you mean he's-
 208)  CHRISTA
-{angryA}Vous voulez dire qu'il-
+{angryA}What do you mean he's-
 113)  LEE
-{normalD}C'est bon. {sadB}Ben s'en occupe.
+{normalD}It's okay. {sadA}Ben's taking care of it.
 207)  LEE
-{normalD}C'est bon. {sadB}Ben s'en occupe.
+{normalD}It's okay. {sadA}Ben's taking care of it.
 118)  CHRISTA
-{sadA}Qu'est-ce {angryA}ça veut dire ?
+{sadA}What do you {angryA}mean he's taking care of it?
 211)  CHRISTA
-{sadA}Qu'est-ce {angryA}ça veut dire ?
+{sadA}What do you {angryA}mean he's taking care of it?
 119)  LEE
-{angryA}Ne vous en mêlez pas, Christa. {normalD}C'est réglé.
+{angryA}Stay out of it, Christa. {normalD}It's being taken care of.
 216)  LEE
-{angryA}Ne vous en mêlez pas, Christa. {normalD}C'est réglé.
+{angryA}Stay out of it, Christa. {normalD}It's being taken care of.
 120)  CHRISTA
-{sadA}Qu'est-ce {angryA}ça veut dire ?
+{angryA}What do you mean? {worriedA}What's being taken care of?
 215)  CHRISTA
-{sadA}Qu'est-ce {angryA}ça veut dire ?
+{angryA}What do you mean? {worriedA}What's being taken care of?
 121)  CHRISTA
-{sadA}Voir quoi ? {worriedA}Y'a quoi là-haut ? {angryA}Lee ?
+{sadA}See what? {worriedA}What's up there? {angryA}Lee?
 219)  CHRISTA
-{sadA}Voir quoi ? {worriedA}Y'a quoi là-haut ? {angryA}Lee ?
+{sadA}See what? {worriedA}What's up there? {angryA}Lee?
 122)  LEE
-{sadB}Ne montez pas, Christa. {normalD}C'est pas beau à voir.
+{sadB}Don't go up there, Christa. {normalD}You don't want to see.
 218)  LEE
-{sadB}Ne montez pas, Christa. {normalD}C'est pas beau à voir.
+{sadB}Don't go up there, Christa. {normalD}You don't want to see.
 123)  CHRISTA
-{sadA}[growing concern] Lee ? C'est {worriedA}quoi ce bordel ? {angryA}Qu'est-ce qu'il y a ?
+{sadA}[growing concern] Lee? What {worriedA}the hell is it? {angryA}What's going on up there?
 220)  CHRISTA
-{sadA}[growing concern] Lee ? C'est {worriedA}quoi ce bordel ? {angryA}Qu'est-ce qu'il y a ?
+{sadA}[growing concern] Lee? What {worriedA}the hell is it? {angryA}What's going on up there?
 124)  CHRISTA
-{angryA}Voilà. Vous {sadA}n'avez pas voulu vous en charger, {angryA}mais vous pouvez au moins faire le minimum.
+{angryA}Here. You {sadA}didn't want to deal with it, {angryA}least you can do is take care of the remains.
 125)  LEE
-{sadA}[lookat]Un pauvre gosse est mort de faim pendant qu'il se cachait. {fearA}Ca aurait pu être Clem {sadB}si je ne l'avais pas trouvé avant.
+{sadA}[lookat]Poor kid must have tried to hide out up here until he starved to death. {fearA}This could have been Clementine {sadB}if I hadn't found her when I did.
 126)  LEE
-{sadA}[lookat]Quelqu'un a dû abréger ses souffrances.
+{sadA}[lookat]Someone should put him out of his misery.
 127)  LEE
-{sadB}Je suis désolé.
+{sadB}I'm sorry.
 128)  LEE
-{sadB}Je suis désolé.
+{sadB}I'm sorry.
 129)  LEE
-{sadB}Je suis désolé.
+{sadB}I'm sorry.
 163)  LEE
-{sadB}Je suis désolé.
+{sadB}I'm sorry.
 164)  LEE
-{sadB}Je suis désolé.
+{sadB}I'm sorry.
 130)  LEE
-{normalD}{alias 314597583} [lookat] A court de nourriture. Un peu comme nous, avant. Un peu comme nous {fearA}maintenant.
+{normalD}{alias 314597583} [lookat] Just ran out of food. Like we almost did. Like {fearA}we still might.
 131)  LEE
-{normalD}{alias 314597583} [lookat] A court de nourriture. Un peu comme nous, avant. Un peu comme nous {fearA}maintenant.
+{normalD}{alias 314597583} [lookat] Just ran out of food. Like we almost did. Like {fearA}we still might.
 132)  LEE
-{fearA}[lookat]Tout est vide. Il est sans doute {sadA}mort de soif avant de mourir de faim. Putain.
+{fearA}[lookat]All empty. He probably {sadA}died of dehydration before he starved. Damn.
 133)  LEE
-[lookat]Il a dû mourir dans son sommeil.
+[lookat]This must have been where he slept.
 136)  LEE
-[lookat]Il a dû mourir dans son sommeil.
+[lookat]This must have been where he slept.
 171)  LEE
-[lookat]Il a dû mourir dans son sommeil.
+[lookat]This must have been where he slept.
 134)  LEE
-{normalD}[lookat]Sans nourriture, ni eau, ni espoir.
+{normalD}[lookat]No food. No water. No hope.
 135)  LEE
-{normalD}[lookat]Sans nourriture, ni eau, ni espoir.
+{normalD}[lookat]No food. No water. No hope.
 137)  LEE
-{disgustA}[lookat]C'est pas une vie. {sadA}Ni une mort.
+{disgustA}[lookat]What a way to live. {sadA}What a way to die.
 138)  LEE
-Kenny, il faut t'en charger. Abrège ses souffrances.
+Kenny, you need to take of this. Put the poor kid out of his misery.
 139)  LEE
-Kenny, tu as entendu ?
+Kenny, did you hear what I said?
 140)  LEE
-Arrête tes conneries, Kenny. C'est sérieux.
+Quit fucking around, Kenny. This is serious.
 141)  LEE
-Kenny !
+Kenny!
 142)  LEE
-Kenny ! Soit un homme, bon dieu ! Bouge-toi et fini le boulot !
+Kenny! Be a man, goddammit! Go over there and take care of business!
 143)  LEE
-Tu commences à me gonfler. Je sais que c'était dur avec Duck, mais sois un homme et agis !
+I'm losing patience with you man. I know what happened to Duck was tough, but you need to man up and take care of this!
 144)  LEE
-Qu'est-ce qu'il y a, Kenny ? Tu vas laisser ce gamin souffir ?
+The fuck is wrong with you, Kenny? You're just gonna let that poor boy suffer?
 145)  LEE
-Tu fais vraiment chier ! On peut pas le laisser comme ça !
+Now you're really starting to piss me off! We can't just leave him up here like this!
 146)  LEE
-T'as laissé tomber Duck et Katjaa ! Et tu te laisses aller ! Achève ce gamin !
+You're letting Duck and Katjaa down! You're letting yourself down! Finish that poor kid off!
 147)  LEE
-Putain mais à quoi tu joues, Kenny ? Secoue-toi et FAIS-LE, merde ! MAINTENANT !
+You think this is a fucking game? Kenny, goddammit! Snap out of it and just fucking DO IT! NOW!
 148)  LEE
-{thinkingB}Voilà. Ce sera rapide {normalD}et sans bavure.
+{thinkingB}Here. This'll {normalD}make it clean and quick.
 256)  LEE
-{thinkingB}Voilà. Ce sera rapide {normalD}et sans bavure.
+{thinkingB}Here. This'll {normalD}make it clean and quick.
 257)  LEE
-{thinkingB}Voilà. Ce sera rapide {normalD}et sans bavure.
+{thinkingB}Here. This'll {normalD}make it clean and quick.
 149)  LEE
-{angryA}Alors ne le fais pas. {normalD}Reste en dehors de ça. {sadA}Crois moi.
+{angryA}So don't. {normalD}You'll be better off. {sadA}Trust me.
 150)  LEE
-{sadA}T'en fais pas.
+{sadA}Don't worry about it.
 151)  BEN
-{fearB}M'en faire ? {surprisedA}Tu plaisantes ? {sadE}J'ai peur rien qu'à l'idée d'aller voir ce {fearB}truc qui a glacé Kenny !
+{fearB}Don't worry? {surprisedA}Are you kidding? {sadE}What's up there that's got Kenny so spooked? {fearB}I'm afraid to go look!
 152)  BEN
-{surprisedA}Se charge de quoi ? {fearB}Y'a quoi là-haut ?
+{surprisedA}Handling what? {fearB}What the hell's up there?
 153)  LEE
-{sadA}Tu ne veux pas savoir.
+{sadA}You don't want to know.
 154)  LEE
-{normalD}Kenny s'en charge.
+{normalD}Kenny's handling it.
 155)  BEN
-{fearC}Se charge de quoi ? {sadE}Y'a quoi là-haut ?
+{fearC}Take care of what? {sadE}What's up there?
 156)  LEE
-Monte. {normalD}Kenny a besoin de toi.
+Just get up there. {normalD}Kenny needs you.
 157)  LEE
-{disgustB}Il faut que tu montes {thinkingB}et que tu t'en charges.
+{disgustB}You need to get up there {thinkingB}and take care of this.
 158)  BEN
-{sadA}Lee ? {fearB}Qu'est-ce qui se{sadE} passe là-haut ?
+{sadA}Lee? {fearB}What the fuck? What {sadE}is going on up there?
 159)  BEN
-{sadA}Lee ? {fearB}Qu'est-ce qui se{sadE} passe là-haut ?
+{sadA}Lee? {fearB}What the fuck? What {sadE}is going on up there?
 160)  BEN
-{surprisedA}C'est quoi ? {fearB}Y'a quoi là-haut ?
+{surprisedA}What is it? {fearB}What's up there?
 161)  BEN
-{sadB}Lee ? Qu'est-ce qui se {fearB}passe là-haut ? {sadE}Kenny va bien ?
+{sadB}Lee? What the {fearB}fuck is going on up there? {sadE}Is Kenny okay?
 162)  KENNY
-[quitely][heavy, slow breathing]Oh... mon dieu... [very quiet sobbing]... [whispering]Duck... mon dieu... [quiet sobbing] Bon sang... [sniffing][heavy, slow breathing]
+[quitely][heavy, slow breathing]Oh... god... [very quiet sobbing]... [whispering]Duck... oh god... [quiet sobbing] Jesus Christ... [sniffing][heavy, slow breathing]
 165)  
-Lit
+Bed
 166)  
 Zombie
 167)  
-Porte
+Door
 168)  
-Débris
+Crush
 169)  
-Bouteille d'eau vide
+Empty Water Bottle
 170)  
-Assiette vide
+Empty Plate
 172)  KENNY
-[pickup][quietly, voice trembling, emotionally devestated]Je sais... Je sais...
+[pickup][quietly, voice trembling, emotionally devestated]I know... I know...
 173)  KENNY
-[pickup][quietly, voice trembling, emotionally devestated]Je peux le faire... Je peux...
+[pickup][quietly, voice trembling, emotionally devestated]I can do this... I can...
 174)  KENNY
-[pickup][quietly, voice trembling, emotionally devestated]Je peux le faire... Je peux...
+[pickup][quietly, voice trembling, emotionally devestated]I can do this... I can...
 178)  KENNY
-[pickup][quietly, voice trembling, emotionally devestated]Je peux le faire... Je peux...
+[pickup][quietly, voice trembling, emotionally devestated]I can do this... I can...
 175)  KENNY
-[pickup][quietly, voice trembling, emotionally devestated]Je... peux pas...
+[pickup][quietly, voice trembling, emotionally devestated]I... can't...
 176)  KENNY
 [pickup[quietly, voice trembling, emotionally devestated][a sigh]
 177)  KENNY
-[pickup][quietly, voice trembling, emotionally devestated]Ok... Je vais le faire.
+[pickup][quietly, voice trembling, emotionally devestated]Okay... I can do this.
 184)  
-Tu peux le faire.
+You can do this.
 186)  
-Laissons-le.
+Let's just leave.
 187)  STUB
 Where Lee suggests they should just leave. Like last time.
 188)  KENNY
-{fearB}[pickup] [grim] Lee... il faut faire quelque chose. {sadA}L'un de nous doit s'en occuper.
+{fearB}[pickup] [grim] Lee... we can't just sit here. {sadA}One of us has gotta take care of this.
 192)  KENNY
-{fearB}[pickup] [grim] Lee... il faut faire quelque chose. {sadA}L'un de nous doit s'en occuper.
+{fearB}[pickup] [grim] Lee... we can't just sit here. {sadA}One of us has gotta take care of this.
 189)  STUB
 Where Kenny just doesn't know what to do.
 190)  
-Je sais que tu peux.
+I know you can.
 191)  
-Tu n'es pas obligé.
+You don't have to.
 193)  KENNY
-{sadA}[pickup]Bordel... {fearA}Je peux... {sadB}pas.
+{sadA}[pickup]Fuck... {fearA}I just... {sadB}can't.
 194)  STUB
 Where Kenny says, "Lee? we really gonna walk away? Again?"
 195)  STUB
 Kenny says "Lee? We really gonna just leave him?"
 196)  
-Oui.
+Yes.
 197)  
-Non.
+No.
 198)  KENNY
-[pickup][emotional]Alors...?
+[pickup][emotional]So...?
 199)  KENNY
-[pickup][emotional]Alors...?
+[pickup][emotional]So...?
 230)  KENNY
-[pickup][emotional]Alors...?
+[pickup][emotional]So...?
 200)  CHRISTA
-[pickup][concerned]Lee ? Qu'est-ce qu'il y a ?
+[pickup][concerned]Lee? What's going on up there?
 223)  CHRISTA
-[pickup][shocked]Et vous l'avez laissé tout seul ?
+[pickup][shocked]And you just left him up there?
 224)  CHRISTA
-{sadA}[pickup][somber]Vous n'avez pas pu le tuer, mais au moins {angryA}offrez lui un enterrement.
+{sadA}[pickup][somber]You couldn't bring yourself to kill him, least {angryA}you can do is give him a proper burial.
 227)  CHRISTA
-{sadA}[pickup][somber]Vous n'avez pas pu le tuer, mais au moins {angryA}offrez lui un enterrement.
+{sadA}[pickup][somber]You couldn't bring yourself to kill him, least {angryA}you can do is give him a proper burial.
 225)  CHRISTA
-{fearB}[pickup][shocked, not angry]Et vous l'avez laissé {worriedA}avec Kenny ?
+{fearB}[pickup][shocked, not angry]And you just left him {worriedA}up there with Kenny?
 226)  CHRISTA
-{angryA}[pickup][concerned]Lee ? Qu'est-ce qui se passe {sadA}là-haut ?
+{angryA}[pickup][concerned]Lee? What's going {sadA}on up there?
 231)  BEN
-{fearB}[pickup] Où est Kenny ?
+{fearB}[pickup] Where's Kenny?
 232)  KENNY
-[pickup][sad]Partons. D'accord ? S'il te plaît ?
+[pickup][sad]Let's... let's just go. Okay? Please?
 233)  KENNY
-[pickup][sad]Partons. D'accord ? S'il te plaît ?
+[pickup][sad]Let's... let's just go. Okay? Please?
 234)  LEE
-{SadA}[pickup] [horrified] C'est qu'un gamin. Que lui {thinkingB}est-il arrivé... ?
+{SadA}[pickup] [horrified] It's just a kid. What the {thinkingB}hell happened to him...?
 235)  KENNY
-{fearA}[pickup] [flat/numb] Y'avait rien sur lui. {sadA}Il devait se cacher ici. {sadB}Il est mort de faim.
+{fearA}[pickup] [flat/numb] Ain't nothing on him. {sadA}Guess he must've been hiding out up here. {sadB}Starved to death.
 236)  KENNY
-{fearB}[pickup] [flat/numb] On peut pas le laisser comme ça. Il {sadA}faut faire quelque chose.
+{fearB}[pickup] [flat/numb] We can't leave him like this. We {sadA}have to do something.
 237)  LEE
-{sadB}[pickup] [horrified] Bon dieu...
+{sadB}[pickup] [horrified] Jesus Christ...
 238)  LEE
-[pickup] [grim] Ouais...
+[pickup] [grim] Yeah...
 239)  KENNY
-{fearC}[pickup] [numb] Je sais pas si je peux, {sadB}Lee. [breaking up] Pas...{sadA} pas encore.
+{fearC}[pickup] [numb] I don't know if I can do it, {sadB}Lee. [breaking up] Not...{sadA} not again.
 240)  KENNY
-{fearC}[pickup] [numb] Je sais pas si je peux, Lee. {sadB}J'ai pas pu avant. {sadA}Je peux toujours pas.
+{fearC}[pickup] [numb] I don't know if I can, Lee. {sadB}Couldn't do it before. {sadA}Can't do it now.
 241)  KENNY
-{surprisedA}[pickup] Je sais. {fearB}Je... {sadA}Oh, bon sang...
+{surprisedA}[pickup] I know. {fearB}I just... {sadA}oh, God...
 242)  LEE
-{fearA}[pickup] C'était ton propre {sadB}fils, avant. {normalD}Là c'est qu'un gamin qui {thinkingB}a besoin d'aide. {thinkingB}Tu peux le faire, Kenny. {normalD}Tu dois le faire.
+{fearA}[pickup] Before it was your {sadB}own son. {normalD}Now it's just a kid who {thinkingB}needs your help. {thinkingB}You can do this, Kenny. {normalD}You need to do this.
 243)  KENNY
-{fearA}[pickup] Je sais. {disgustA}Je... {sadA}oh, bon sang...
+{fearA}[pickup] I know. {disgustA}I just... {sadA}oh, God...
 244)  LEE
-{thinkingB}[pickup] Tu l'as déjà fait avant, Kenny. {sadA}Tu as fait ce qu'il fallait. {fearA}Tu peux le refaire. {sadB}Ce garçon a besoin de ton aide.
+{thinkingB}[pickup] You stepped up before, Kenny. {sadA}You did what had to be done. {fearA}You can do it again now. {sadB}That little boy needs your help.
 245)  LEE
-{sadB}[pickup] Je peux pas te demander de {disgustB}faire ça. {thinkingB}Je vais le faire. {sadA}Comme la dernière fois.
+{sadB}[pickup] I can't ask you to {disgustB}do this, man. {thinkingB}I'll take care of it. {sadA}Like I did before.
 295)  LEE
-{sadB}[pickup] Je peux pas te demander de {disgustB}faire ça. {thinkingB}Je vais le faire. {sadA}Comme la dernière fois.
+{sadB}[pickup] I can't ask you to {disgustB}do this, man. {thinkingB}I'll take care of it. {sadA}Like I did before.
 246)  KENNY
-{sadB}[pickup] T'es sûr ?
+{sadB}[pickup] Are you sure?
 254)  KENNY
-{sadB}[pickup] T'es sûr ?
+{sadB}[pickup] Are you sure?
 296)  KENNY
-{sadB}[pickup] T'es sûr ?
+{sadB}[pickup] Are you sure?
 247)  LEE
-[pickup] [unsure] On va pas tarder {fearA}à le savoir...
+[pickup] [unsure] I guess {fearA}we'll find out...
 253)  LEE
-[pickup] [unsure] On va pas tarder {fearA}à le savoir...
+[pickup] [unsure] I guess {fearA}we'll find out...
 297)  LEE
-[pickup] [unsure] On va pas tarder {fearA}à le savoir...
+[pickup] [unsure] I guess {fearA}we'll find out...
 248)  LEE
-{sadB}[pickup] Je peux pas te demander de {thinkingB}revivre ça. {normalD}Laisse moi m'en charger.
+{sadB}[pickup] I can't ask you to {thinkingB}go through this again. {normalD}Let me take care of it.
 249)  KENNY
-{surprisedA}[pickup] Tu veux t'en aller ? {fearB}Comme la dernière fois ? Je {disgustA}sais pas si je {sadA}peux le faire non plus.
+{surprisedA}[pickup] You want to just walk away? {fearB}Like last time? I {disgustA}don't know if I {sadA}can do that either.
 250)  LEE
-{fearA}[pickup] Kenny, on n'est {thinkingB}pas obligé de faire ça maintenant. {normalD}On n'a qu'à s'en aller. {fearA}Il n'est pas dangereux.
+{fearA}[pickup] Kenny, man. We {thinkingB}don't have to do this right now. {normalD}Maybe we should just get out of here. {fearA}He can't hurt anyone.
 252)  LEE
-{fearA}[pickup] Kenny, on n'est {thinkingB}pas obligé de faire ça maintenant. {normalD}On n'a qu'à s'en aller. {fearA}Il n'est pas dangereux.
+{fearA}[pickup] Kenny, man. We {thinkingB}don't have to do this right now. {normalD}Maybe we should just get out of here. {fearA}He can't hurt anyone.
 251)  KENNY
-{fearB}[pickup] Tu veux t'en aller ?{disgustA} Je {sadA}sais pas si je peux le faire non plus.
+{fearB}[pickup] You want to just walk away?{disgustA} I don't {sadA}know if I can do that either.
 255)  KENNY
-{surprisedA}[pickup] Qu'est-ce que tu fais ? Je pensais {fearB}que tu allais t'en charger.
+{surprisedA}[pickup] What're you doing? I thought {fearB}you said you were gonna take care of it.
 258)  KENNY
-{sadB}[pickup] Je sais pas si je peux non plus...
+{sadB}[pickup] I don't know that I can either...
 259)  LEE
-{thinkingB}[pickup] Désolé. Je {sadA}sais pas si je peux.
+{thinkingB}[pickup] I'm sorry, man. I {sadA}don't know that I can.
 260)  KENNY
-{fearA}[pickup] Je sais pas {sadB}si je peux le faire, Lee...
+{fearA}[pickup] I don't know that {sadB}I can do it, Lee...
 261)  LEE
-{sadA}[pickup] Je sais que tu peux. Tu {fearA}as été fort pour Duck. Tu{thinkingB} peux le refaire.
+{sadA}[pickup] I know that you can. You {fearA}were strong for Duck. You {thinkingB}can be strong again now.
 262)  LEE
-{fearA}[pickup] Je sais que tu peux.
+{fearA}[pickup] I know that you can.
 263)  LEE
-{thinkingB}[pickup] [comforting] C'était ta chair et ton sang. {fearB}Aucun père n'aurait pu faire ça. {sadB}Mais tu peux aider ce garçon.
+{thinkingB}[pickup] [comforting] That was your own flesh and blood. {fearB}No father could have done that. {sadB}But you can help this boy.
 264)  KENNY
-{sadB}[pickup] [emotional] J'ai même pas pu aider {fearA}mon propre fils...
+{sadB}[pickup] [emotional] I couldn't even help {fearA}my own boy...
 265)  LEE
-{sadA}[pickup] Fais au mieux pour lui. {thinkingB}Achève le.
+{sadA}[pickup] Do what's right for him. {thinkingB}Send him on his way.
 267)  LEE
-{sadA}[pickup] Fais au mieux pour lui. {thinkingB}Achève le.
+{sadA}[pickup] Do what's right for him. {thinkingB}Send him on his way.
 266)  LEE
 [pickup]: Do what's right for him. Send him on his way.
 268)  LEE
-{disgustB}[pickup] C'est bon. {sadB}Je vais m'en occuper.
+{disgustB}[pickup] It's okay. {sadB}I'll take care of it.
 269)  LEE
-{fearA}[pickup] Tu as raison. Je {disgustB}peux pas te forcer à revivre ça. {sadB}Je vais m'en occuper.
+{fearA}[pickup] You're right. I {disgustB}can't put you through this again. {sadB}I'll take care of it.
 270)  LEE
-{sadB}[pickup] Je comprends. {normalD}C'est bon.
+{sadB}[pickup] I understand. {normalD}It's okay.
 271)  LEE
-{normalD}[pickup] Allez, mec. {sadA}On s'en va.
+{normalD}[pickup] Come on, man. {sadA}Let's just go.
 283)  LEE
-{normalD}[pickup] Allez, mec. {sadA}On s'en va.
+{normalD}[pickup] Come on, man. {sadA}Let's just go.
 272)  KENNY
-{disgustA}[pickup] Je peux pas m'en aller. {fearA}Pas encore. {sadB}Et toi ?
+{disgustA}[pickup] I can't just walk away. {fearA}Not again. {sadB}Can you?
 273)  LEE
-{thinkingB}[pickup] Ouais, je peux.
+{thinkingB}[pickup] Yeah, I can.
 274)  KENNY
-[numb] Dans une minute.
+[numb] In a minute.
 281)  KENNY
-[numb] Dans une minute.
+[numb] In a minute.
 286)  KENNY
-[numb] Dans une minute.
+[numb] In a minute.
 289)  KENNY
-[numb] Dans une minute.
+[numb] In a minute.
 275)  LEE
-{normalD}[pickup] Tu viens ?
+{normalD}[pickup] You coming?
 280)  LEE
-{normalD}[pickup] Tu viens ?
+{normalD}[pickup] You coming?
 285)  LEE
-{normalD}[pickup] Tu viens ?
+{normalD}[pickup] You coming?
 290)  LEE
-{normalD}[pickup] Tu viens ?
+{normalD}[pickup] You coming?
 276)  LEE
-[pickup] On se {sadB}voit quand tu auras fini.
+[pickup] I'll {sadB}see you when you're done.
 282)  LEE
-[pickup] On se {sadB}voit quand tu auras fini.
+[pickup] I'll {sadB}see you when you're done.
 288)  LEE
-[pickup] On se {sadB}voit quand tu auras fini.
+[pickup] I'll {sadB}see you when you're done.
 291)  LEE
-[pickup] On se {sadB}voit quand tu auras fini.
+[pickup] I'll {sadB}see you when you're done.
 277)  LEE
-{thinkingA}[pickup] Non. T'as raison. Il faut {sadA}qu'on s'en occupe.
+{thinkingA}[pickup] No. You're right. We {sadA}gotta take care of this.
 278)  LEE
-{sadA}[pickup] Désolé, mec, {fearA}Je peux pas le faire.
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
 279)  LEE
-{sadA}[pickup] Désolé, mec, {fearA}Je peux pas le faire.
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
 287)  LEE
-{sadA}[pickup] Désolé, mec, {fearA}Je peux pas le faire.
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
 292)  LEE
-{sadA}[pickup] Désolé, mec, {fearA}Je peux pas le faire.
+{sadA}[pickup] I'm sorry man, {fearA}I just can't handle it.
 284)  KENNY
-{disgustA}[pickup]	Je peux pas m'en aller comme {fearB}ça. Et toi ?
+{disgustA}[pickup]	I can't just walk away from {fearB}this. Can you?
 293)  KENNY
-{disgustA}[pickup] Où tu vas ? Je {surprisedA}croyais qu'on allait {sadA}s'en charger.
+{disgustA}[pickup] Where you going? I {surprisedA}thought we were {sadA}gonna take care of this.
 294)  KENNY
-{disgustA}[pickup] Où tu vas ? Je {surprisedA}croyais qu'on allait {sadA}s'en charger.
+{disgustA}[pickup] Where you going? I {surprisedA}thought we were {sadA}gonna take care of this.
 298)  LEE
-[pickup2]{sadB}Je peux pas te demander de {disgustB}faire ça.{thinkingB} Je vais m'en occuper.
+[pickup2]{sadB}I can't ask you to {disgustB}do this, man. {thinkingB}I'll take care of it.

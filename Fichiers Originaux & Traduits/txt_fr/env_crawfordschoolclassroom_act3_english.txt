@@ -51,7 +51,7 @@ Là.
 21)  BRIE
 {normala}Là.
 22)  LEE
-{disgusta}J'imagine.
+{disgusta}Evidemment.
 23)  BEN
 {happya} Je viens aussi.
 24)  LEE
@@ -63,13 +63,13 @@ Là.
 27)  CHRISTA
 {disgusta}Comment vous savez ça ?
 28)  BRIE
-{normala}Il y à un abri de maintenance au bout de la cour de récréation, ici. S'ils stockaient du carburant, il devrait y être.
+{normala}Il y a un local de maintenance au bout de la cour de récréation, ici. S'ils stockaient du carburant, il devrait y être.
 29)  MOLLY
 {normala}Juste là. L'infirmerie. Ils s'en servait comme cabinet médical.
 30)  KENNY
-{angrya}Ok, j'irais chercher le carburant à l'abri de maintenance.
+{angrya}Ok, j'irais chercher le carburant au local de maintenance.
 31)  BRIE
-{normala}Ouaip, ça s'appelle Herman’s, vous pouvez pas le louper.
+{normala}Ouais, ça s'appelle Herman's, vous pouvez pas le louper.
 32)  LEE
 {thinkinga}On a donc besoin d'une batterie. [pointing at the map] {normala}Ce garage auto, c'est la porte à côté ?
 33)  VERNON
@@ -107,7 +107,7 @@ Je viens avec vous, je sais ce qu'il faut prendre.
 49)  LEE
 {normala}[lookat]On dirait qu'ils avaient une vraie organisation ici. L'Ultime Recours de Crawford.
 50)  LEE
-{normala}[lookat]Alors d'après Brie, le carburant est à l'abri de maintenance, les médicaments à l'infirmerie, et la batterie dans le garage par ici.
+{normala}[lookat]Alors d'après Brie, le carburant est au local de maintenance, les médicaments à l'infirmerie, et la batterie dans le garage par ici.
 51)  CLEMENTINE
 {happyc} T'es de retour !
 73)  CLEMENTINE
@@ -271,15 +271,15 @@ Il faut le voir sous cet angle...
 134)  VERNON
 Il faut le voir sous cet angle...
 136)  
-Du carburant ?
+Pour le carburant ?
 137)  BRIE
-{thinkinga}[examining the map] Une minute...
+{thinkinga}[examining the map] Donnez-moi une minute...
 138)  LEE
 {thinkinga}Où peut-on trouver du carburant pour le bateau ?
 139)  
-Des médicaments ?
+Où trouver des médicaments ?
 140)  
-Une batterie ?
+Une idée d'un endroit pour une batterie ?
 141)  LEE
 {thinkinga}Quel serait le meilleur endroit pour trouver des médicaments ?
 142)  VERNON
@@ -311,7 +311,7 @@ Panneau d'Issue de Secours
 156)  LEE
 [pickup]Flippant.
 157)  LEE
-[pickup]Pas de jus, pas de TV.
+[pickup]Pas de courant, pas de TV.
 158)  LEE
 [pickup]Un tas de pâte à modeler.
 159)  LEE
@@ -321,7 +321,7 @@ Panneau d'Issue de Secours
 161)  
 Tapis
 162)  
-Drapeaux
+Drapeau
 163)  
 TV
 164)  
@@ -333,7 +333,7 @@ Pâte à modeler
 167)  
 Poupées
 168)  
-Bureau
+Etagères
 169)  LEE
 [pickup]Je ne te laisse pas avec Ben. Je le laisse avec toi. Tu comprends la nuance ?
 170)  LEE
@@ -347,7 +347,7 @@ Bureau
 175)  LEE
 [pickup][to himself]Brie a dit que le garage était dans l'allée après l'issue de secours.
 176)  LEE
-[pickup][to himself]Le carburant est dans un abri de maintenance de l'autre côté de la cour. Juste après l'escalier.
+[pickup][to himself]Le carburant est dans un local de maintenance de l'autre côté de la cour. Juste après l'escalier.
 177)  LEE
 [pickup][to himself]S'il y a des médicaments quelque part, c'est là qu'ils seront.
 178)  

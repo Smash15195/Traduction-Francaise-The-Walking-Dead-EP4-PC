@@ -7,13 +7,13 @@ Ouais - C'est un autre de nos problèmes. Regardez.
 4)  LEE
 Calmez vous. Je m'en suis occupé. Au niveau médicaments, vous avez trouvé ce que vous vouliez ?
 5)  CHRISTA
-[frantic] Ils se sont mis à errer dans le vestibule après qu'on soit entré. Ils ont dû nous entendre. Y'en a partout !
+[frantic] Ils se sont mis à errer dans le vestibule après qu'on soit entré. Ils ont dû nous entendre. Il y en a partout !
 6)  VERNON
 Il semblerait qu'ils gardaient leurs médicaments dans cette armoire sécurisée.
 7)  LEE
 {ThinkingB}On peut pas la forcer ?
 8)  LEE
-Il s'est passé quoi ?
+Qu'est-ce qu'il s'est passé ?
 9)  CHRISTA
 {AngryA}Ils l'ont sûrement pas noté pour nous. On devrait la forcer, on a pas le choix.
 10)  CHRISTA
@@ -45,9 +45,9 @@ Regarder
 86)  
 Regarder
 19)  LEE
-[lookat]La caméra est disposée de façon à avoir une bonne vue du clavier numérique. Je me demande si elle a enregistré quelqu'un qui tape le code.
+[lookat]La caméra est disposée de façon à avoir une bonne vue du clavier numérique. Je me demande si elle a enregistré quelqu'un en train de taper le code.
 24)  LEE
-La caméra est disposée de façon à avoir une bonne vue du clavier numérique. Je me demande si elle a enregistré quelqu'un qui tape le code.
+La caméra est disposée de façon à avoir une bonne vue du clavier numérique. Je me demande si elle a enregistré quelqu'un en train de taper le code.
 25)  LEE
 [lookat]On dirait un dossier médical.
 87)  LEE
@@ -79,9 +79,9 @@ Regardez K7 #1
 34)  ANNA
 [shrieking hysterically] Je veux pas de putains de sédatifs !
 35)  LOGAN
-[pickup]  [from behind camera] Pour régulations. Oberson m'a donné l'ordre d'enregistrer les examens et les consultations.
+[pickup]  [from behind camera] Pour la procédure. Oberson m'a donné l'ordre d'enregistrer les examens et les consultations.
 150)  LOGAN
-[pickup]  [from behind camera] Pour régulations. Oberson m'a donné l'ordre d'enregistrer les examens et les consultations.
+[pickup]  [from behind camera] Pour la procédure. Oberson m'a donné l'ordre d'enregistrer les examens et les consultations.
 36)  ANNA
 Je me fous de la procédure ! Je veux mon bébé ! Je peux pas faire ça !
 145)  ANNA
@@ -99,9 +99,9 @@ Bon sang ! On l'avait presque !
 42)  LEE
 J'en suis sûr.
 43)  LOGAN
-[pickup]  Si Oberson découvre que j'ai caché des preuves de ta grossesse... Désolé mais c'est les règles.
+[pickup]  Et si Oberson découvre que j'ai caché des preuves de ta grossesse... Désolé mais c'est les règles.
 149)  LOGAN
-[pickup]  Si Oberson découvre que j'ai caché des preuves de ta grossesse... Désolé mais c'est les règles.
+[pickup]  Et si Oberson découvre que j'ai caché des preuves de ta grossesse... Désolé mais c'est les règles.
 44)  LOGAN
 [pickup]  Je vais te donner un sédatif. Ca rendra la procédure plus douce.
 148)  LOGAN
@@ -141,9 +141,9 @@ Oh mon dieu, oh mon dieu...
 153)  ANNA
 [cutting him off, pleading] Vous n'êtes pas obligé de leur dire. Racontez-leur que j'avais la nausée et que vous m'avez soigné. C'est mon problème, pas le vôtre.
 56)  LOGAN
-[pickup] Vous devez être forte, Anna. Le sonogramme confirme que vous êtes enceinte.
+[pickup] Tu dois être forte, Anna. Le sonogramme confirme que tu es enceinte.
 147)  LOGAN
-[pickup] Vous devez être forte, Anna. Le sonogramme confirme que vous êtes enceinte.
+[pickup] Tu dois être forte, Anna. Le sonogramme confirme que tu es enceinte.
 57)  CHRISTA
 Et bien qu'est-ce que vous attendez ?
 58)  LEE
@@ -199,7 +199,7 @@ Soyez pas trop long !
 82)  VERNON
 Ok, ça ira. On en assez pour votre groupe et le mien. Allons-y !
 83)  VERNON
-On est dessus.
+Les affaires reprennent.
 84)  LEE
 Partez devant, je veux être sûr qu'on oublie rien. Je vous rattrape.
 85)  VERNON
@@ -347,7 +347,7 @@ Vestibule
 168)  LEE
 [lookat][to himself]Je veux même pas savoir combien de kilos j'ai perdu depuis les derniers mois.
 169)  LEE
-[lookat][to himself]Déjà nettoyé.
+[lookat][to himself]Déjà vidé.
 170)  LEE
 [lookat]Et là-dedans ?
 171)  CHRISTA
@@ -357,7 +357,7 @@ Vestibule
 173)  LEE
 Vous avez regardé dans ces tiroirs ?
 174)  CHRISTA
-[pickup][preoccupied]Oui, Lee. Y'avait rien d'intéressant.
+[pickup][preoccupied]Oui, Lee. Il y avait rien d'intéressant.
 175)  LEE
 [to himself]Rien là-dedans, je suppose.
 176)  LEE
@@ -403,6 +403,6 @@ Téléphone
 201)  
 Papiers
 202)  LEE
-[pickup]Une pile de papiers. Mais pas de code.
+[pickup]Un paquet de papiers. Mais pas de code.
 203)  LEE
 [pickup][to himself, discovering it for the first time]Une cassette vidéo.

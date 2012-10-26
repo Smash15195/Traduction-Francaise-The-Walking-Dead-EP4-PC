@@ -1,205 +1,205 @@
 1)  CHRISTA
-[calling out, worried] {worrieda} Omid ?
+[calling out, worried] {worrieda} Omid?
 2)  LEE
-Je t'ai pas dit que je le ferais ?
+Told you I would, didn’t I?
 3)  CLEMENTINE
-Tu as retrouvé mes parents ?
+Did you find my parents?
 4)  LEE
-[calling out] {feara}Clémentine ? [more urgently] Clémentine !
+[calling out] {feara}Clementine? [more urgently] Clementine!
 5)  LEE
-{feara}Clementine ?
+{feara}Clementine?
 6)  CLEMENTINE
-T'as réussi à rentrer !
+You made it back!
 7)  VERNON
-[puzzled/dubious] Ses parents ?
+[puzzled/dubious] Her parents?
 75)  VERNON
-[puzzled/dubious] Ses parents ?
+[puzzled/dubious] Her parents?
 8)  LEE
-Non. Désolé. Crawford était... On n'a pas eu le temps.
+No. I’m sorry. Crawford was... there just wasn’t time.
 9)  CHRISTA
-[suddenly worried] En haut ? Omid...
+[suddenly worried] Upstairs? Omid...
 10)  LEE
-Tu as très bien fait.
+You did good, kiddo. Real good.
 11)  LEE
-Clémentine, il s'est passé quoi ?
+Clementine, what happened here?
 299)  CHRISTA
-Clémentine, il s'est passé quoi ?
+Clementine, what happened here?
 499)  CHRISTA
-Clémentine, il s'est passé quoi ?
+Clementine, what happened here?
 12)  CLEMENTINE
-Une de ses choses voulait monter à l'étage. Je l'ai arrêté.
+One of those things got inside. It tried to get upstairs. I stopped it.
 300)  CLEMENTINE
-Une de ses choses voulait monter à l'étage. Je l'ai arrêté.
+One of those things got inside. It tried to get upstairs. I stopped it.
 302)  CLEMENTINE
-Une de ses choses voulait monter à l'étage. Je l'ai arrêté.
+One of those things got inside. It tried to get upstairs. I stopped it.
 304)  CLEMENTINE
-Une de ses choses voulait monter à l'étage. Je l'ai arrêté.
+One of those things got inside. It tried to get upstairs. I stopped it.
 500)  CLEMENTINE
-Une de ses choses voulait monter à l'étage. Je l'ai arrêté.
+One of those things got inside. It tried to get upstairs. I stopped it.
 13)  CLEMENTINE
-Où est Molly ?
+Where’s Molly?
 14)  
-[Mentir]
+[Lie]
 23)  
-[Mentir]
+[Lie]
 15)  
-[Dire la vérité]
+[Tell the Truth]
 16)  CLEMENTINE
-[brightening a little] Je l'aimais bien.
+[brightening a little] I liked her.
 17)  CLEMENTINE
-[sadly] Elle a même pas dit au revoir.
+[sadly] She never even said goodbye.
 18)  LEE
-Si. Elle m'a demandé de le faire pour elle.
+Sure she did. She had to go, but she asked me to say goodbye for her.
 19)  LEE
-Elle va bien mais elle doit rentrer chez elle.
+She had to go back home. She’s fine, but it was time for to leave.
 20)  LEE
-Oui, moi aussi. Et si on allait voir Omid ?
+I know. I did too. Hey, what do you say we go check on Omid?
 21)  LEE
-Elle n'a pas survécu, Clém. Désolé.
+She didn’t make it, Clem. I’m sorry.
 22)  CLEMENTINE
-[sadly] Je l'aimais bien.
+[sadly] I liked her.
 24)  CLEMENTINE
-Où est Molly, Lee ?
+Where's Molly, Lee?
 25)  LEE
-[quietly] {angrya} A trois. Un... {angryb} deux... {angryc} TROIS !
+[quietly] {angrya} On three. One... {angryb} two... {angryc} THREE!
 26)  KENNY
-[relieved/adrenaline] {angryb} Bordel de dieu.
+[relieved/adrenaline] {angryb} Jesus fucking Christ.
 27)  CLEMENTINE
-[offscreen] Lee !
+[offscreen] Lee!
 28)  LEE
-{feara} Clémentine, si c'est toi... C'est moi, Lee. Ca va, sort de ta cachette.
+{feara} Clementine, if that’s you... it’s me, Lee. It’s okay, you don’t need to hide. Come on out.
 29)  LEE
-[really getting worried] {thinkinga} Elle est où bon sang ? [calling out] {surprisea} Clémentine ?
+[really getting worried] {thinkinga} Where the hell is Clementine? [calling out] {surprisea} Clementine?
 30)  OMID
-[sick/weak] Déjà de retour ?
+[sick/weak] Hey. Back already?
 31)  LEE
-Clémentine, tu l'a surveillé dernièrement ?
+Clementine, when did you last check on him?
 32)  LEE
-Christa, non ! Reculez !
+Christa, don’t! Stay back!
 339)  LEE
-Christa, non ! Reculez !
+Christa, don’t! Stay back!
 346)  LEE
-Christa, non ! Reculez !
+Christa, don’t! Stay back!
 33)  LEE
-Christa ? Tout va bien ?
+Christa? Everything okay?
 34)  CHRISTA
 [terrified/worried] Omid...
 35)  OMID
-Bien, j'en ai bien besoin.
+Good, feel like I could use some.
 36)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 338)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 341)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 344)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 347)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 350)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 352)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 353)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 355)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 357)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 359)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 374)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 498)  VERNON
-Christa, éloignez vous de lui !
+Christa, get away from him!
 37)  CLEMENTINE
-Il y a une heure. Il allait bien. [worried] Il est... ?
+Like an hour ago. He was awake then, he was fine. [worried] Is he...?
 38)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 337)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 340)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 343)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 348)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 349)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 351)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 354)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 356)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 358)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 360)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 373)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 497)  CHRISTA
-[sobbing] Je n'aurais pas dû te laisser. Je suis désolée...
+[sobbing] I never should have left you... I’m so sorry...
 39)  CHRISTA
-[so relieved] On a des médicaments.
+[so relieved] We got you medicine.
 40)  OMID
-Où est Ben ?
+Where’s Ben?
 85)  OMID
-Où est Ben ?
+Where’s Ben?
 121)  OMID
-Où est Ben ?
+Where’s Ben?
 376)  OMID
-Où est Ben ?
+Where’s Ben?
 41)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 86)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 126)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 320)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 321)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 365)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 366)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 370)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 371)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 372)  KENNY
-Je vais commencer à bosser sur le bateau.
+I’m gonna go start work on the boat.
 42)  CHRISTA
-[tearfully] Il n'a pas survécu.
+[tearfully] He didn’t make it.
 89)  CHRISTA
-[tearfully] Il n'a pas survécu.
+[tearfully] He didn’t make it.
 122)  CHRISTA
-[tearfully] Il n'a pas survécu.
+[tearfully] He didn’t make it.
 379)  CHRISTA
-[tearfully] Il n'a pas survécu.
+[tearfully] He didn’t make it.
 43)  OMID
-[dismayed] Qu'est-il arrivé ?
+[dismayed] What happened?
 88)  OMID
-[dismayed] Qu'est-il arrivé ?
+[dismayed] What happened?
 123)  OMID
-[dismayed] Qu'est-il arrivé ?
+[dismayed] What happened?
 377)  OMID
-[dismayed] Qu'est-il arrivé ?
+[dismayed] What happened?
 44)  KENNY
-[unrepentant] Ce crétin a failli tous nous faire tuer. Lee s'en est occupé. Voilà.
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
 87)  KENNY
-[unrepentant] Ce crétin a failli tous nous faire tuer. Lee s'en est occupé. Voilà.
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
 124)  KENNY
-[unrepentant] Ce crétin a failli tous nous faire tuer. Lee s'en est occupé. Voilà.
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
 378)  KENNY
-[unrepentant] Ce crétin a failli tous nous faire tuer. Lee s'en est occupé. Voilà.
+[unrepentant] Dumb son of a bitch nearly got us all killed. Lee stepped up, and did what he had to. That’s what happened.
 45)  LEE
-[sarcastic] Merci beaucoup.
+[sarcastic] Thanks a lot.
 90)  LEE
-[sarcastic] Merci beaucoup.
+[sarcastic] Thanks a lot.
 125)  LEE
-[sarcastic] Merci beaucoup.
+[sarcastic] Thanks a lot.
 46)  OMID
 Omid looks at Ben, who is still borderline catatonic, in shock from the events of Crawford.
 94)  OMID
@@ -207,583 +207,583 @@ Omid looks at Ben, who is still borderline catatonic, in shock from the events o
 127)  OMID
 Omid looks at Ben, who is still borderline catatonic, in shock from the events of Crawford.
 47)  OMID
-Ca va ? Vous avez plus mauvaise mine que moi.
+You okay, kid? You look worse than I do.
 91)  OMID
-Ca va ? Vous avez plus mauvaise mine que moi.
+You okay, kid? You look worse than I do.
 128)  OMID
-Ca va ? Vous avez plus mauvaise mine que moi.
+You okay, kid? You look worse than I do.
 48)  OMID
-Qu'est-ce qu'il s'est passé ?
+Guys, what the hell happened out there?
 93)  OMID
-Qu'est-ce qu'il s'est passé ?
+Guys, what the hell happened out there?
 130)  OMID
-Qu'est-ce qu'il s'est passé ?
+Guys, what the hell happened out there?
 49)  KENNY
-[pissed] On a failli y rester à cause de ce trouduc. On aurait du le laisser là-bas.
+[pissed] We almost didn’t make it out of there because of this asshole. Shoulda left him behind when we had the chance.
 92)  KENNY
-[pissed] On a failli y rester à cause de ce trouduc. On aurait du le laisser là-bas.
+[pissed] We almost didn’t make it out of there because of this asshole. Shoulda left him behind when we had the chance.
 129)  KENNY
-[pissed] On a failli y rester à cause de ce trouduc. On aurait du le laisser là-bas.
+[pissed] We almost didn’t make it out of there because of this asshole. Shoulda left him behind when we had the chance.
 50)  KENNY
-Racontez-lui, moi j'ai du boulot.
+Let someone else tell you, I got work to do.
 95)  KENNY
-Racontez-lui, moi j'ai du boulot.
+Let someone else tell you, I got work to do.
 131)  KENNY
-Racontez-lui, moi j'ai du boulot.
+Let someone else tell you, I got work to do.
 51)  VERNON
-Il est temps qu'on parle vous et moi. En privé.
+Maybe now’s a good time for you and me to have a little talk. In private.
 52)  CHRISTA
-[elated/relieved] Oui, merci beaucoup !
+[elated/relieved] Yes, thank you so much!
 53)  VERNON
-Avec un peu de chance vous allez très vite vous sentir mieux. Je vais rester pour le surveiller un peu. Je suis là, au besoin.
+Okay, with a little luck you should start feeling better pretty soon. I'll stay here for a few more hours to check on him. Let me know if you need anything.
 54)  OMID
-Merci, doc.
+Thanks, doc.
 55)  LEE
-Ecoutez, pour Brie...
+Listen man, about what happened to Brie...
 56)  VERNON
-Ne vous blâmez pas, il n'y avait rien à faire.
+Don’t beat yourself up over it, it was nothing you could have done.
 457)  VERNON
-Ne vous blâmez pas, il n'y avait rien à faire.
+Don’t beat yourself up over it, it was nothing you could have done.
 462)  VERNON
-Ne vous blâmez pas, il n'y avait rien à faire.
+Don’t beat yourself up over it, it was nothing you could have done.
 57)  LEE
-Quoi ?
+What?
 61)  LEE
-Quoi ?
+What?
 447)  LEE
-Quoi ?
+What?
 455)  LEE
-Quoi ?
+What?
 459)  LEE
-Quoi ?
+What?
 461)  LEE
-Quoi ?
+What?
 465)  LEE
-Quoi ?
+What?
 470)  LEE
-Quoi ?
+What?
 473)  LEE
-Quoi ?
+What?
 477)  LEE
-Quoi ?
+What?
 58)  VERNON
-Je ne ressens pas grand chose. Enfin, je devrais être dévasté par sa disparition, non ? J'étais comme ça quand j'ai perdu ma fille et mes amis lors des premières semaines... et maintenant... c'est comme si je prenais ça par dessus la jambe. Comme si c'était notre quotidien et qu'on devrait s'y faire.
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
 456)  VERNON
-Je ne ressens pas grand chose. Enfin, je devrais être dévasté par sa disparition, non ? J'étais comme ça quand j'ai perdu ma fille et mes amis lors des premières semaines... et maintenant... c'est comme si je prenais ça par dessus la jambe. Comme si c'était notre quotidien et qu'on devrait s'y faire.
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
 460)  VERNON
-Je ne ressens pas grand chose. Enfin, je devrais être dévasté par sa disparition, non ? J'étais comme ça quand j'ai perdu ma fille et mes amis lors des premières semaines... et maintenant... c'est comme si je prenais ça par dessus la jambe. Comme si c'était notre quotidien et qu'on devrait s'y faire.
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
 468)  VERNON
-Je ne ressens pas grand chose. Enfin, je devrais être dévasté par sa disparition, non ? J'étais comme ça quand j'ai perdu ma fille et mes amis lors des premières semaines... et maintenant... c'est comme si je prenais ça par dessus la jambe. Comme si c'était notre quotidien et qu'on devrait s'y faire.
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
 476)  VERNON
-Je ne ressens pas grand chose. Enfin, je devrais être dévasté par sa disparition, non ? J'étais comme ça quand j'ai perdu ma fille et mes amis lors des premières semaines... et maintenant... c'est comme si je prenais ça par dessus la jambe. Comme si c'était notre quotidien et qu'on devrait s'y faire.
+I don’t feel much. I mean, I don’t feel enough. Shouldn’t I be broken up over what happened to her? That’s how I was when I lost my daughter, when I lost my friends in those first few weeks... but now... it’s like I just take something like this in stride. Like this is what our world is now, and we’d better just get used to it.
 59)  LEE
-De quoi vouliez-vous me parler ?
+What did you want to talk to me about?
 452)  LEE
-De quoi vouliez-vous me parler ?
+What did you want to talk to me about?
 60)  VERNON
-[hostile] Gardez votre pitié pour quelqu'un d'autre. Je vous prie.
+[hostile] Please, save your sympathy for someone who’s buying it.
 446)  VERNON
-[hostile] Gardez votre pitié pour quelqu'un d'autre. Je vous prie.
+[hostile] Please, save your sympathy for someone who’s buying it.
 458)  VERNON
-[hostile] Gardez votre pitié pour quelqu'un d'autre. Je vous prie.
+[hostile] Please, save your sympathy for someone who’s buying it.
 62)  VERNON
-Je vois clair dans votre jeu et c'est pas votre intérêt pour les autres qui vous étouffe. Vous avez vu comment vous m'avez fait venir ici au début ? Vous imaginez que je crois que la mort de Brie vous touche ?
+You don’t think by now I’ve got you figured? You don’t strike me as someone who has a lot of consideration for others. Look at what you did to get me to come here with you in the first place - you expect me to believe you give a shit that that it wound up costing Brie her life?
 451)  VERNON
-Je vois clair dans votre jeu et c'est pas votre intérêt pour les autres qui vous étouffe. Vous avez vu comment vous m'avez fait venir ici au début ? Vous imaginez que je crois que la mort de Brie vous touche ?
+You don’t think by now I’ve got you figured? You don’t strike me as someone who has a lot of consideration for others. Look at what you did to get me to come here with you in the first place - you expect me to believe you give a shit that that it wound up costing Brie her life?
 63)  LEE
-[offended] Attendez une minute ! Ecoutez--
+[offended] Now hold on just a damn minute! Listen-
 449)  LEE
-[offended] Attendez une minute ! Ecoutez--
+[offended] Now hold on just a damn minute! Listen-
 64)  VERNON
-Non, vous, écoutez. Tous ces braves gens ici vous voit comme un leader. Et avec vous, ils ne vont pas aller loin. Mettre le groupe dans un bateau ne va pas résoudre tous vos problèmes. Ces gens vous indiffèrent peut-être mais je sais que vous tenez à cette petite fille. Alors je vous fais une proposition.
+No, you listen. You’ve got some good people here, and they look to you as their leader. Well I’m here to tell you, the kind of leader you are, they’re not going to make it much longer. And you’re kidding yourself if you think putting them all on a boat is going to solve anything. Now you may not care about all of those people, but I know you care about that little girl. Which is I’m going to make you an offer.
 450)  VERNON
-Non, vous, écoutez. Tous ces braves gens ici vous voit comme un leader. Et avec vous, ils ne vont pas aller loin. Mettre le groupe dans un bateau ne va pas résoudre tous vos problèmes. Ces gens vous indiffèrent peut-être mais je sais que vous tenez à cette petite fille. Alors je vous fais une proposition.
+No, you listen. You’ve got some good people here, and they look to you as their leader. Well I’m here to tell you, the kind of leader you are, they’re not going to make it much longer. And you’re kidding yourself if you think putting them all on a boat is going to solve anything. Now you may not care about all of those people, but I know you care about that little girl. Which is I’m going to make you an offer.
 65)  LEE
-[skeptical] Quel genre ?
+[skeptical] What kind of an offer?
 67)  LEE
-[skeptical] Quel genre ?
+[skeptical] What kind of an offer?
 448)  LEE
-[skeptical] Quel genre ?
+[skeptical] What kind of an offer?
 454)  LEE
-[skeptical] Quel genre ?
+[skeptical] What kind of an offer?
 66)  VERNON
-Je sais comme tout le monde que vous tenez à Clémentine. Vous voulez le meilleur pour elle. Mais partir en bateau, sans destination... vous croyez vraiment que c'est la meilleure façon de lui trouver un endroit sûr ? Non. Alors je vous fais une proposition.
+I know you care about Clementine. Anyone can see that. And I know you want what’s best for her. But this plan of yours, putting everyone on a boat, with no destination... do you really think that’s her best chance of finding somewhere where she can be safe? Because I don’t. So I want to make you an offer.
 453)  VERNON
-Je sais comme tout le monde que vous tenez à Clémentine. Vous voulez le meilleur pour elle. Mais partir en bateau, sans destination... vous croyez vraiment que c'est la meilleure façon de lui trouver un endroit sûr ? Non. Alors je vous fais une proposition.
+I know you care about Clementine. Anyone can see that. And I know you want what’s best for her. But this plan of yours, putting everyone on a boat, with no destination... do you really think that’s her best chance of finding somewhere where she can be safe? Because I don’t. So I want to make you an offer.
 68)  VERNON
-Je vous la retire. Je l'emmnène dans mon groupe. On est bien approvisionné, bien caché, et il y a d'autres enfants. Maintenant que Crawford est tombé on n'a plus rien à craindre d'eux.
+I’ll take her off your hands. Take her back with me, to my people. We’re well-supplied, well-hidden, and a lot of us have had kids of our own. And now Crawford’s fallen we’ve got nothing left to fear from them.
 69)  VERNON
-Elle sera plus en sécurité avec nous. Je vous le promets. Sa sécurité, c'est ce que vous voulez, non ?
+She’ll be safe with us. Safer than she will be if she stays with you, I promise you. That’s what you want for her, isn’t it? To be safe?
 70)  
-Partez, Vernon.
+Walk away, Vernon.
 73)  
-Partez, Vernon.
+Walk away, Vernon.
 71)  
-Vous avez raison.
+You have a point.
 72)  
-Je dois y réfléchir.
+I need to think about this.
 74)  LEE
-[fuming] On va imaginer que vous n'avez rien dit et que vous avez une chance de partir d'ici debout. Ce que vous allez faire. Tout de suite.
+[fuming] I’m gonna pretend you didn’t say any of this and give you the chance to walk away. Which you oughta do, right now.
 76)  VERNON
-Je sais que vous faîtes au mieux pour elle. Si vous étiez son vrai père on n'aurait pas cette conversation. Mais qu'elle reste avec vous n'est pas la meilleure solution. Même si je suis la seule personne à vous le dire.
+I know you think you’re doing what’s best for her. And if you were her real father we wouldn’t be having this conversation. But you’re not. And staying with you is not what’s best for her. If no-one else around here will tell you that, then I will.
 81)  VERNON
-Je sais que vous faîtes au mieux pour elle. Si vous étiez son vrai père on n'aurait pas cette conversation. Mais qu'elle reste avec vous n'est pas la meilleure solution. Même si je suis la seule personne à vous le dire.
+I know you think you’re doing what’s best for her. And if you were her real father we wouldn’t be having this conversation. But you’re not. And staying with you is not what’s best for her. If no-one else around here will tell you that, then I will.
 77)  LEE
-[furious] Cette gamine est mon problème. On a traversé plus que ce que vous ne pouvez imaginer. Tous ceux qui se mettront entre elle et moi mourront. C'est clair ?
+[furious] That little girl’s in my care. We’ve been through more together than you can imagine. Anyone who tries to get between me and her - anyone! - is gonna wind up dead. You hear me?
 78)  VERNON
-[trying to stay calm] Ne me touchez pas.
+[trying to stay calm] Take your hands off me.
 79)  LEE
-Désolé.
+I’m sorry.
 80)  VERNON
-De même.
+So am I.
 82)  VERNON
-Je sais que vous faîtes au mieux pour elle. Si vous étiez son vrai père on n'aurait pas cette conversation. Mais vous ne l'êtes pas, n'est-ce pas ? C'est encore un de vos mensonges.
+I know you think you’re doing what’s best for her. And if you were her real father we wouldn’t be having this conversation. But you’re not, are you? Just another one of your lies.
 83)  LEE
-[reluctantly] Vous avez raison. Je veux ce qu'il y a de mieux pour elle, quel qu'il soit.
+[reluctantly] I guess you have a point. I just want what’s best for her, whatever that means.
 84)  VERNON
-Vous le savez déjà, Lee. Réfléchissez un peu.
+I think you already know what it means, Lee. I want you to think about some things.
 96)  VERNON
-Vous avez décidé de laisser ce garçon mourir à Crawford. Je dois me demander quel genre d'homme vous êtes. Quel genre de père vous devez être.
+You chose to let that boy die back in Crawford. I’ve got to wonder about the morality of the kind of man who could do something like that. I’ve got to wonder what kind of parent you’d be.
 97)  VERNON
-Dans votre mission avec Molly, vous deviez vous protéger l'un l'autre. Au final vous êtes revenu et pas elle. Si elle n'était pas en sécurité avec vous, pourquoi Clémentine le serait ?
+You set off on that mission with Molly, the both of you supposed to be watching each other’s backs. And all I know is, you made it back and she didn’t. If she wasn’t safe with you, why should Clementine be?
 98)  VERNON
-La façon dont vous me traitez ne m'inspire pas confiance quant à votre façon de protéger cette enfant. J'aime pas être menacé ni qu'on me mente. Clémentine n'aimerait pas ça non plus. Il ne m'en faut pas plus.
+The way you’ve treated me doesn’t exactly instill a lot of confidence in you as a guardian to that child. I don’t like being threatened, I don’t like being lied to. I don’t think Clementine would much like that either. And it’s a shorter trip from me to her than you might imagine.
 99)  VERNON
-Vous êtes un brave type, Lee. Vous veillez sur ces gens du mieux que vous pouvez et ils vous respectent. C'est différent avec une enfant. Tôt ou tard vous ne pourrez pas lui apporter ce dont elle aura besoin. Désolé si c'est dur à entendre mais c'est la vérité.
+You’re a good man, Lee. You’ve been protecting these people as best you can so far and they look up to you. Rightly so. But it’s different with a child. You might have brought her this far, but sooner or later she might ask you for more than you can give her. I’m sorry if that’s hard to hear. But it’s the truth.
 100)  LEE
-Merci, Vernon. Laissez moi y réfléchir.
+I appreciate it, Vernon. Let me think about it, okay?
 382)  LEE
-Merci, Vernon. Laissez moi y réfléchir.
+I appreciate it, Vernon. Let me think about it, okay?
 385)  LEE
-Merci, Vernon. Laissez moi y réfléchir.
+I appreciate it, Vernon. Let me think about it, okay?
 101)  VERNON
-Très bien.
+You do that.
 383)  VERNON
-Très bien.
+You do that.
 384)  VERNON
-Très bien.
+You do that.
 102)  LEE
-Ca fait beaucoup d'un coup, Vernon. Je dois y réfléchir.
+You’re coming at me with a lot here, Vernon. I need to think it over.
 103)  VERNON
-Bien sûr. Prenez votre temps. Mais réfléchissez à deux ou trois choses.
+Of course. Take your time. But I want you think about some things.
 104)  VERNON
-Je sais.  Mais réfléchissez à deux ou trois choses.
+I know it's a lot to consider.  But I want you think about some things.
 105)  LEE
-{thinkingb} De quoi parlez vous ? {surprisea} Kenny s'occupe du bateau en ce moment. {normald} Je croyais que vous veniez avec nous. {happya} Vous l'avez mérité.
+{thinkingb} What are you talking about? {surprisea} Kenny’s working on the boat right now. {normald} I thought you were coming with us. {happya} God knows you've earned it.
 106)  LEE
-{happyb} Bonne chance.
+{happyb} Good luck.
 395)  LEE
-{happyb} Bonne chance.
+{happyb} Good luck.
 406)  LEE
-{happyb} Bonne chance.
+{happyb} Good luck.
 107)  LEE
-{sadb} Bien sûr. Prenez soin de vous, Molly.
+{sadb} Sure. You take care of yourself, Molly.
 393)  LEE
-{sadb} Bien sûr. Prenez soin de vous, Molly.
+{sadb} Sure. You take care of yourself, Molly.
 403)  LEE
-{sadb} Bien sûr. Prenez soin de vous, Molly.
+{sadb} Sure. You take care of yourself, Molly.
 108)  MOLLY
-{disbeliefb} Rien à voir avec la chance.
+{disbeliefb} Ain’t nothing to do with luck.
 388)  MOLLY
-{disbeliefb} Rien à voir avec la chance.
+{disbeliefb} Ain’t nothing to do with luck.
 402)  MOLLY
-{disbeliefb} Rien à voir avec la chance.
+{disbeliefb} Ain’t nothing to do with luck.
 109)  MOLLY
-{happyc} Et vous, prenez soin de cette petite. {happya} Vous êtes tout pour elle.
+{happyc} And you be sure to take care of that little girl. {happya} You know she thinks the world of you.
 391)  MOLLY
-{happyc} Et vous, prenez soin de cette petite. {happya} Vous êtes tout pour elle.
+{happyc} And you be sure to take care of that little girl. {happya} You know she thinks the world of you.
 408)  MOLLY
-{happyc} Et vous, prenez soin de cette petite. {happya} Vous êtes tout pour elle.
+{happyc} And you be sure to take care of that little girl. {happya} You know she thinks the world of you.
 110)  MOLLY
-A plus tard.
+See you around.
 390)  MOLLY
-A plus.
+See you around.
 405)  MOLLY
-A plus.
+See you around.
 111)  LEE
-C'est partagé.
+Feeling’s mutual.
 389)  LEE
-C'est partagé.
+Feeling’s mutual.
 401)  LEE
-C'est partagé.
+Feeling’s mutual.
 112)  MOLLY
-{happyc} De même, Lee.
+{happyc} You too, Lee.
 392)  MOLLY
-{happyc} De même, Lee.
+{happyc} You too, Lee.
 404)  MOLLY
-{happyc} De même, Lee.
+{happyc} You too, Lee.
 113)  LEE
-{sada} Vous en êtes sûr ?
+{sada} You sure about this?
 114)  MOLLY
-{sada} Ouais, je vais y aller. {disbeliefa} Je voulais vous remercier. Pour tout. {happya} C'était fun.
+{sada} Yeah, I’m about to head out. {disbeliefa} I just wanted to say thanks. For everything. {happya} It’s been fun.
 115)  MOLLY
-{sada} Ouais, j'ai bien réfléchi et c'est pas pour moi. {happya} Ca va être surpeuplé. {happyc} Et j'ai jamais aimé l'eau.
+{sada} Yeah, I’ve been thinking it over. It’s not for me. {happya} Sounds like it’d be pretty crowded. {happyc} And I never did like the water.
 116)  MOLLY
-{happya} Certainement. Je m'en sors toujours {disbeliefa} mieux seule.
+{happya} I’m sure. I’ve always done {disbeliefa} better on my own anyhow.
 117)  LEE
-{normalc} Hé. {surprisea} Vous sortez ?
+{normalc} Hey. {surprisea} Going somewhere?
 118)  LEE
-Kenny s'occupe du bateau. Avec un peu de bol c'est la dernière nuit qu'on va passer ici.
+Kenny’s working on the boat. With a little luck this’ll be the last night we have to stay here.
 119)  CLEMENTINE
-On va aller où ?
+Where are we going to go?
 120)  LEE
-[genuinely unsure] {normald}Je sais pas. On improvisera. Comme toujours.
+[genuinely unsure] {normald}I don’t know. We'll figure it out. We always do.
 132)  LEE
-{sada} Clém, chérie... ça va pas ?
+{sada} Clem, honey... what’s wrong?
 189)  LEE
-{sada} Clém, chérie... ça va pas ?
+{sada} Clem, honey... what’s wrong?
 228)  LEE
-{sada} Clém, chérie... ça va pas ?
+{sada} Clem, honey... what’s wrong?
 133)  CLEMENTINE
-{Sada} Il lui est arrivé quoi à Ben ? {sadc} De quoi parlait Kenny quand il a dit que tu t'en étais occupé ?
+{Sada} What happened to Ben? {sadc} What did Kenny mean when he said you did what you had to?
 135)  
-C'était un danger pour le reste du groupe.
+He was a danger to rest of us.
 136)  
-[Changer de sujet]
+[Change the subject]
 254)  
-[Changer de sujet]
+[Change the subject]
 137)  
 Silence
 138)  LEE
-{normald} Clém... tu dois me croire, {thinkinga} je voulais le sauver. {normalc} Mais il n'a pas voulu.
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
 424)  LEE
-{normald} Clém... tu dois me croire, {thinkinga} je voulais le sauver. {normalc} Mais il n'a pas voulu.
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
 487)  LEE
-{normald} Clém... tu dois me croire, {thinkinga} je voulais le sauver. {normalc} Mais il n'a pas voulu.
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
 506)  LEE
-{normald} Clém... tu dois me croire, {thinkinga} je voulais le sauver. {normalc} Mais il n'a pas voulu.
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
 518)  LEE
-{normald} Clém... tu dois me croire, {thinkinga} je voulais le sauver. {normalc} Mais il n'a pas voulu.
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him. {normalc} But Ben didn't want me to.
 139)  CLEMENTINE
-Je sais, mais... comment tu peux décider de laisser quelqu'un mourir ?
+I know, but... how can you choose to just let someone die?
 140)  LEE
-Ce n'est pas vraiment un choix. C'est Ben qui m'a demandé de le laisser.
+I didn’t really make that choice, Clementine. Ben did. He asked me to let him go.
 141)  CLEMENTINE
-{thinkinga} Ca veux dire quoi ?
+{thinkinga} What do you mean?
 219)  CLEMENTINE
-{thinkinga} Ca veux dire quoi ?
+{thinkinga} What do you mean?
 422)  CLEMENTINE
-{thinkinga} Ca veux dire quoi ?
+{thinkinga} What do you mean?
 482)  CLEMENTINE
-{thinkinga} Ca veux dire quoi ?
+{thinkinga} What do you mean?
 507)  CLEMENTINE
-{thinkinga} Ca veux dire quoi ?
+{thinkinga} What do you mean?
 513)  CLEMENTINE
-{thinkinga} Ca veux dire quoi ?
+{thinkinga} What do you mean?
 142)  LEE
-Ben a été très courageux. Il savait que pour le sauver, j'aurais dû mettre tout le monde en danger. Alors il m'a demandé de le laisser pour qu'on ait le temps de s'enfuir. Je sais que c'est dur à comprendre.
+What Ben did was very brave. He knew we were running out of time, and that for me to save him, I’d have to put everyone else in even more danger. So he asked me to leave him behind so the rest of us could get away. I know that’s difficult to understand.
 423)  LEE
-Ben a été très courageux. Il savait que pour le sauver, j'aurais dû mettre tout le monde en danger. Alors il m'a demandé de le laisser pour qu'on ait le temps de s'enfuir. Je sais que c'est dur à comprendre.
+What Ben did was very brave. He knew we were running out of time, and that for me to save him, I’d have to put everyone else in even more danger. So he asked me to leave him behind so the rest of us could get away. I know that’s difficult to understand.
 143)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 199)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 433)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 436)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 484)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 509)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 516)  CLEMENTINE
-{Sada} Je comprends.
+{Sada} I understand.
 144)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 200)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 434)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 437)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 485)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 510)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 514)  LEE
-{thinkinga} C'est vrai ?
+{thinkinga} You do?
 145)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 201)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 432)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 435)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 486)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 511)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 519)  CLEMENTINE
-{normala} Oui. Il a pensé aux autres avant de penser à lui. {sada} Ma maman me disait que c'est ce qui fait une bonne personne.
+{normala} Yeah. He thought about other people before he thought about himself. {sada} My mom always told me that’s what makes a good person.
 146)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 197)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 431)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 438)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 483)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 512)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 517)  LEE
-[smiles] {happya} Elle avait raison.
+[smiles] {happya} Well, she was right.
 147)  CLEMENTINE
-J'espère que je pourrais faire la même chose, comme lui.
+I hope I can be like that. I hope if it ever happens, I could do the same.
 198)  CLEMENTINE
-J'espère que je pourrais faire la même chose, comme lui.
+I hope I can be like that. I hope if it ever happens, I could do the same.
 148)  LEE
-Clémentine, écoute. N'y pense pas. Tant que je serais là je ferais tout pour que ça n'arrive pas. Tu comprends ? Ca n'arrivera jamais. D'accord ?
+Clementine, listen to me. You don’t need to think about that. So long as I’m around, I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
 196)  LEE
-Clémentine, écoute. N'y pense pas. Tant que je serais là je ferais tout pour que ça n'arrive pas. Tu comprends ? Ca n'arrivera jamais. D'accord ?
+Clementine, listen to me. You don’t need to think about that. So long as I’m around, I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
 149)  CLEMENTINE
-Ok.
+Okay.
 151)  CLEMENTINE
-Ok.
+Okay.
 174)  CLEMENTINE
-Ok.
+Okay.
 181)  CLEMENTINE
-Ok.
+Okay.
 202)  CLEMENTINE
-Ok.
+Okay.
 251)  CLEMENTINE
-Ok.
+Okay.
 150)  LEE
-Clémentine... Tu peux ne pas comprendre, mais parfois, il faut faire des choix pour le bien de tous. Ben nous a mis en danger à Crawford. Alors je l'ai abandonné là-bas. Je sais que ça semble méchant.
+Clementine... this may be hard to understand right now, but sometimes, for the good of everyone, we have to make tough choices. Ben was putting us all in danger in Crawford. So I made a decision, and I left him behind. I know that sounds bad.
 152)  LEE
-Je te sauverais. A chaque fois.
+I’d save you. Every time.
 170)  LEE
-Je te sauverais. A chaque fois.
+I’d save you. Every time.
 187)  LEE
-Je te sauverais. A chaque fois.
+I’d save you. Every time.
 252)  LEE
-Je te sauverais. A chaque fois.
+I’d save you. Every time.
 153)  CLEMENTINE
-{sada} Mais je compte pour un.
+{sada} But I’m just one person.
 171)  CLEMENTINE
-{sada} Mais je compte pour un.
+{sada} But I’m just one person.
 188)  CLEMENTINE
-{sada} Mais je compte pour un.
+{sada} But I’m just one person.
 253)  CLEMENTINE
-{sada} Mais je compte pour un.
+{sada} But I’m just one person.
 154)  LEE
-{normald} Non, tu es plus que ça pour moi.
+{normald} Not to me you’re not.
 172)  LEE
-{normald} Non, tu es plus que ça pour moi.
+{normald} Not to me you’re not.
 179)  LEE
-{normald} Non, tu es plus que ça pour moi.
+{normald} Not to me you’re not.
 249)  LEE
-{normald} Non, tu es plus que ça pour moi.
+{normald} Not to me you’re not.
 155)  LEE
-T'en fais pour ça. N'y pense pas. Je vais m'assurer qu'on en arrive pas là. Jamais. Tu comprends ?
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
 173)  LEE
-T'en fais pour ça. N'y pense pas. Je vais m'assurer qu'on en arrive pas là. Jamais. Tu comprends ?
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
 180)  LEE
-T'en fais pour ça. N'y pense pas. Je vais m'assurer qu'on en arrive pas là. Jamais. Tu comprends ?
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
 250)  LEE
-T'en fais pour ça. N'y pense pas. Je vais m'assurer qu'on en arrive pas là. Jamais. Tu comprends ?
+But hey. Don’t you worry about that. Don’t even think about it. I’m going to make sure that it never comes to that. Do you understand? It will never come to that. Okay?
 156)  CLEMENTINE
-Et si ça avait été moi ? Tu m'aurais laissé ?
+What if it had been me? Would you have let me go?
 175)  CLEMENTINE
-Et si ça avait été moi ? Tu m'aurais laissé ?
+What if it had been me? Would you have let me go?
 184)  CLEMENTINE
-Et si ça avait été moi ? Tu m'aurais laissé ?
+What if it had been me? Would you have let me go?
 157)  LEE
-Non. J'aurais pu te rattraper. Tu es plus lègère que Ben.
+No. I could have pulled you up. You’re not as heavy as Ben was.
 176)  LEE
-Non. J'aurais pu te rattraper. Tu es plus lègère que Ben.
+No. I could have pulled you up. You’re not as heavy as Ben was.
 185)  LEE
-Non. J'aurais pu te rattraper. Tu es plus lègère que Ben.
+No. I could have pulled you up. You’re not as heavy as Ben was.
 158)  CLEMENTINE
-Non c'est pas ça. Si par manque de temps tu aurais dû choisir entre moi et quelqu'un d'autre, tu aurais fait quoi ?
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
 169)  CLEMENTINE
-Non c'est pas ça. Si par manque de temps tu aurais dû choisir entre moi et quelqu'un d'autre, tu aurais fait quoi ?
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
 186)  CLEMENTINE
-Non c'est pas ça. Si par manque de temps tu aurais dû choisir entre moi et quelqu'un d'autre, tu aurais fait quoi ?
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
 248)  CLEMENTINE
-Non c'est pas ça. Si par manque de temps tu aurais dû choisir entre moi et quelqu'un d'autre, tu aurais fait quoi ?
+That’s not what I mean. If there wasn’t enough time and you had to choose between saving me and everyone else, what would you do then?
 159)  CLEMENTINE
-C'est méchant de dire ça !
+That’s a mean thing to say. That’s horrible!
 217)  CLEMENTINE
-C'est méchant de dire ça !
+That’s a mean thing to say. That’s horrible!
 224)  CLEMENTINE
-C'est méchant de dire ça !
+That’s a mean thing to say. That’s horrible!
 160)  LEE
-Peut-être mais c'est vrai. J'essaye de te protéger toi et le groupe, alors je ne fais pas cas des gens qui rendent les choses plus compliquées, peu importe si ça part d'une bonne intention.
+Maybe so. But it’s the truth. I’m trying to keep the rest of us safe, trying to keep you safe, so I don’t have a lot of sympathy for anyone who makes that job more difficult, I don’t care how good their intentions are.
 215)  LEE
-Peut-être mais c'est vrai. J'essaye de te protéger toi et le groupe, alors je ne fais pas cas des gens qui rendent les choses plus compliquées, peu importe si ça part d'une bonne intention.
+Maybe so. But it’s the truth. I’m trying to keep the rest of us safe, trying to keep you safe, so I don’t have a lot of sympathy for anyone who makes that job more difficult, I don’t care how good their intentions are.
 225)  LEE
-Peut-être mais c'est vrai. J'essaye de te protéger toi et le groupe, alors je ne fais pas cas des gens qui rendent les choses plus compliquées, peu importe si ça part d'une bonne intention.
+Maybe so. But it’s the truth. I’m trying to keep the rest of us safe, trying to keep you safe, so I don’t have a lot of sympathy for anyone who makes that job more difficult, I don’t care how good their intentions are.
 161)  CLEMENTINE
-Ca veut dire quoi ?
+What do you mean?
 162)  LEE
-Ben était un bon gars. Mais quoi qu'il fasse pour nous aider, ça se retournait contre nous. Il nous a mis dans le pétrin à Crawford alors j'ai pris une décision. Je l'ai abandonné. Je sais que ça parait méchant.
+Ben was a good kid. But whenever he tried to help, he just wound up putting us in more danger. And he was putting us all in danger in Crawford. So I made a decision, and I left him behind. I know that sounds bad.
 163)  LEE
-Ce qui est fait est fait, Clémentine. Il faut tourner la page. Tu n'es pas excitée à l'idée de prendre un bateau, de découvrir de nouveaux horizons ?
+It won’t do any good to dwell on it, Clementine. What’s done is done. We’ve got to look ahead. Aren’t you excited to take a boat ride, discover someplace new?
 258)  LEE
-Ce qui est fait est fait, Clémentine. Il faut tourner la page. Tu n'es pas excitée à l'idée de prendre un bateau, de découvrir de nouveaux horizons ?
+It won’t do any good to dwell on it, Clementine. What’s done is done. We’ve got to look ahead. Aren’t you excited to take a boat ride, discover someplace new?
 164)  LEE
-{normald} Il faut tourner la page, Clémentine.
+{normald} It won’t do any good to dwell on it, Clementine.
 427)  LEE
-{normald} Il faut tourner la page, Clémentine.
+{normald} It won’t do any good to dwell on it, Clementine.
 165)  CLEMENTINE
-{thinkingb} Je veux savoir ce qu'il s'est passé. {sada} Ben était mon ami, je l'aimais bien.
+{thinkingb} I want to know what happened. {sada} Ben was my friend, I liked him.
 426)  CLEMENTINE
-{thinkingb} Je veux savoir ce qu'il s'est passé. {sada} Ben était mon ami, je l'aimais bien.
+{thinkingb} I want to know what happened. {sada} Ben was my friend, I liked him.
 166)  CLEMENTINE
-T'en sais rien. Tu n'as même pas essayé.
+You don’t know that. You didn’t even try.
 182)  CLEMENTINE
-T'en sais rien. Tu n'as même pas essayé.
+You don’t know that. You didn’t even try.
 205)  CLEMENTINE
-T'en sais rien. Tu n'as même pas essayé.
+You don’t know that. You didn’t even try.
 227)  CLEMENTINE
-T'en sais rien. Tu n'as même pas essayé.
+You don’t know that. You didn’t even try.
 167)  LEE
-Si, Clém. J'ai fait tout ce que j'ai pu.
+I did try, Clem. I did all I could.
 183)  LEE
-Si, Clém. J'ai fait tout ce que j'ai pu.
+I did try, Clem. I did all I could.
 206)  LEE
-Si, Clém. J'ai fait tout ce que j'ai pu.
+I did try, Clem. I did all I could.
 226)  LEE
-Si, Clém. J'ai fait tout ce que j'ai pu.
+I did try, Clem. I did all I could.
 168)  LEE
-{sada} Je sais, Clém. {thinkingb} Peut-être que j'aurais pu faire mieux pour le sauver.
+{sada} I know, Clem. I did too. {thinkingb} And maybe I could have done more to save him.
 177)  CLEMENTINE
-[sad] {sada} Ca a dû être horrible si tu ne veux pas en parler.
+[sad] {sada} It must have been bad if you don't want to talk about it.
 430)  CLEMENTINE
-[sad] {sada} Ca a dû être horrible si tu ne veux pas en parler.
+[sad] {sada} It must have been bad if you don't want to talk about it.
 178)  LEE
-Je sais pas quoi te dire, Clémentine. Tu étais là, tu as tout vu. J'ai pas eu le temps de le sauver. Je devais penser au groupe entier, pas à une seule personne.
+There’s no easy answer to that question, Clementine. You were there, you saw what was happening. There wasn’t enough time to save him. I had to think about the whole group, not just one person.
 190)  CLEMENTINE
-{sada} Ben va aller mieux ? On dirait qu'il a changé depuis son retour.
+{sada} Is Ben going to be okay? He doesn’t seem the same, since he got back.
 191)  
-Ca n'a pas été facile pour lui.
+He’s been through a lot.
 192)  
-Il se sent coupable.
+He feels guilty.
 193)  
-C'est sa faute.
+It’s his own fault.
 194)  CLEMENTINE
-Je l'ai entendu te demander de l'abandonner. Pourquoi il dirait ça ?
+I heard him asking you to let him go. Why would he say something like that?
 222)  CLEMENTINE
-Je l'ai entendu te demander de l'abandonner. Pourquoi il dirait ça ?
+I heard him asking you to let him go. Why would he say something like that?
 195)  LEE
-Je crois qu'il essayait d'être courageux. Il savait qu'on manquait de temps et que le sauver aurait pu mettre tout le monde en danger. Alors il s'est sacrifié pour qu'on puisse s'enfuir. Je sais que c'est dur à comprendre.
+I think he was just trying to be brave. He knew we were running out of time, and that trying to save him could have put me and you and everyone else in danger. So he offered to sacrifice himself so the rest of us could get away. I know that’s difficult to understand.
 211)  LEE
-Je crois qu'il essayait d'être courageux. Il savait qu'on manquait de temps et que le sauver aurait pu mettre tout le monde en danger. Alors il s'est sacrifié pour qu'on puisse s'enfuir. Je sais que c'est dur à comprendre.
+I think he was just trying to be brave. He knew we were running out of time, and that trying to save him could have put me and you and everyone else in danger. So he offered to sacrifice himself so the rest of us could get away. I know that’s difficult to understand.
 223)  LEE
-Je crois qu'il essayait d'être courageux. Il savait qu'on manquait de temps et que le sauver aurait pu mettre tout le monde en danger. Alors il s'est sacrifié pour qu'on puisse s'enfuir. Je sais que c'est dur à comprendre.
+I think he was just trying to be brave. He knew we were running out of time, and that trying to save him could have put me and you and everyone else in danger. So he offered to sacrifice himself so the rest of us could get away. I know that’s difficult to understand.
 203)  LEE
-{thinkinga} Ben est un bon gars. Je crois qu'il se sent coupable de choix qu'il a fait. {normald}Il doit penser qu'il est un fardeau pour le groupe.
+{thinkinga} Ben’s a good kid. I think he’s just feeling guilty, about some of the decisions he’s made. {normald}He’s gotten to feeling like he’s a burden on the rest of us.
 204)  CLEMENTINE
-A propos de ce qui est arrivé à Katjaa et Duck ?
+About what happened to Katjaa and Duck?
 207)  LEE
-Tu as entendu ?
+You heard that?
 208)  CLEMENTINE
-C'est pour ça qu'il t'a demandé de l'abandonner ?
+Is that why he asked you to let him go back there?
 209)  CLEMENTINE
-Pourquoi dirait-il une chose pareille ?
+Why would he say something like that?
 210)  LEE
-Ouais. Et à propos des choix qu'il a fait. C'est un bon gars mais dès qu'il essaye de nous aider ça ne marche jamais. Parfois il rend les situations encore pire. Alors il s'est mis en tête qu'il était un fardeau pour le groupe.
+Yeah. And about a lot of the decisions he’s made. He’s a good kid, but every time he’s tried to help the rest of us, it didn’t come out like he planned. Sometimes he’s made things worse. So that’s a lot for him to carry. He’s gotten to feeling like he’s a burden on the rest of us.
 212)  LEE
-{normalc} Il s'appitoie sur son sort. En vérité, il s'est infligé ça tout seul.
+{normalc} He’s just feeling sorry for himself. Truth is, he brought this on himself.
 213)  LEE
-{thinkinga} Il en a vu beaucoup, Clém. Il faut qu'il digère, c'est tout. {normald} Ca va aller.
+{thinkinga} Well, he’s been through a lot, Clem. He’s just gotten a little overwhelmed, that’s all. {normald} I’m sure he’ll be fine.
 214)  LEE
-{thinkinga} Ecoute, Ben est un bon gars. Il veut sans arrêt aider, mais à chaque fois ça ne fait que compliquer les choses. {normald} Il se sent responsable de la mort de Katjaa et Duck. {sada} Le fait est qu'il a raison.
+{thinkinga} Look, Ben’s a good kid. He means well. He keeps trying to help, but every time he does he winds up putting the rest of us in even more of a jam. {normald} What happened to Katjaa and Duck, he feels like he was responsible for that. {sada} And the fact is, he’s right. He was.
 216)  LEE
-[wondering if it was the right thing.] {thinkingb} Ouais. Comme d'habitude.
+[wondering if it was the right thing.] {thinkingb} Yeah. I still saved him.
 218)  CLEMENTINE
-{happya} Mais tu le sauvais toujours.
+{happya} But you still saved him.
 220)  LEE
-Non. Il en a bavé, Clém. Pas juste à Crawford, mais depuis le début. Il faut qu'il digère, c'est tout. Il s'en remettra.
+No. he’s been through a lot, Clem. Not just in Crawford, but since this all began. He’s just gotten a little overwhelmed, that’s all. I’m sure he’ll be fine.
 221)  CLEMENTINE
-{normala} J'imagine qu'il t'inquiète aussi.
+{normala} I guess you're worried about him too.
 229)  CLEMENTINE
-{sada} Qu'est-il arrivé à Ben ? Pourquoi il est pas revenu ?
+{sada} What happened to Ben? Why didn’t he come back?
 230)  
-Il voulait qu'on l'abandonne.
+He wanted us to leave him behind.
 231)  LEE
-Je sais que ça peut être dur à comprendre, Clém. Mais on a failli tous y rester, là-bas. On a du choisir entre risquer nos vies pour aider Ben ou nous en sortir sans lui. C'était un choix dur à faire, mais je ne le regrette pas. Je ne serais pas là avec toi, sinon.
+I know this might be difficult to understand, Clem. But we got into a tight spot back there, it looked like none of us might get out of there. In the end it came down to risking all our lives to help Ben, or making sure the rest of us got out of there alive. It was a tough call, but I don’t regret making it. It’s the reason I’m here with you now.
 232)  LEE
-Ben se sentait mal après avoir fait des erreurs qui nous avaient mis en danger. Il pensait que la mort de Katjaa et Duck était de sa faute. Je crois qu'il voulait faire quelque chose de bien. Et ce qu'il a fait était très courageux. Il savait qu'on manquait de temps et que le sauver était trop risqué. Alors il s'est sacrifié pour qu'on puisse s'enfuir. Je sais que c'est dur à comprendre.
+Ben felt bad about some of the mistakes he’d made that had put us in danger. What happened to Katjaa and Duck... he felt like that was his fault. I think he wanted to do something to make it right. And what he did was very brave. He knew we were running out of time, and that trying to save himself might have put everyone else in danger. So he sacrificed himself so the rest of us could get away. I know that’s difficult to understand.
 233)  LEE
-Dans un sens c'était la décision de Ben, pas la mienne.
+Well in a way it wasn’t my decision. It was what Ben wanted.
 234)  CLEMENTINE
-[surprised] Ca veut dire quoi ?
+[surprised] What do you mean?
 235)  CLEMENTINE
-Mais comment tu as pu l'abandonner ?
+But how could you do that? How could you just leave him?
 236)  
-Je sais pas. [LIE]
+I don’t know. [LIE]
 237)  LEE
-Si. Crois moi.
+Yes I do. Trust me.
 238)  LEE
-Clem... Je crois pas que c'est ce qu'il aurait voulu.
+Clem... I don’t think that’s what he would have wanted.
 239)  CLEMENTINE
-Tu n'en es pas sûr.
+You don’t know that for sure.
 240)  CLEMENTINE
-Et que voulait dire Kenny quand il parlait de Ben ? Que tu t'en étais occupé ?
+Then what did Kenny mean when he said that Ben nearly got you killed? That you did what you had to?
 241)  LEE
-Il voulait dire que Ben s'est retrouvé séparé du groupe et qu'il aurait été dangereux de retourner le chercher. Que j'ai pris la décision de ne pas le faire pour la sécurité de tous.
+Kenny just means that because Ben got separated from the rest of us, it would have been dangerous to try to go back and find him. That I made the decision not to, for the safety of everyone else.
 242)  CLEMENTINE
-[skeptical] hm-hm.
+[skeptical] Uh-huh.
 243)  LEE
-{normala} Tu veux savoir ce que je pense ? {normald} Je crois que Ben a été très courageux. Il est resté derrière nous pour nous faire gagner du temps. {sada} Il a donné sa vie pour nous sauver.
+{normala} You want to know what I think happened? {normald} I think Ben did something very brave. I think he stayed back to buy the rest of us the time we needed to get away. {sada} He gave up his own life to save ours.
 244)  CLEMENTINE
-Alors tu n'as même pas tenté d'aller le chercher ?
+So you didn’t even try to go back and look for him?
 245)  LEE
-{normald} J'aimerais le savoir, Clem. {sada} C'était la panique là-bas. On se dépêchait tellement de partir, {thinkinga} qu'on l'a perdu de vue. {thinkingb} Et quand on s'en est aperçu, {normald} c'était trop tard pour faire demi-tour.
+{normald} I wish I knew, Clem. {sada} It was chaos back there. We were in such a hurry to get out of there, {thinkinga} we just kinda lost sight of him. {thinkingb} And by the time we realized he was gone, {normald} it was too late to go back for him.
 246)  CLEMENTINE
-Et si ça avait été moi ? Tu m'aurais abandonné aussi ?
+What if it had been me? Would you have left me behind too?
 247)  LEE
-Non. On n'aurait jamais été séparé pour commencer.
+No. I would never have gotten separated from you in the first place.
 255)  LEE
-Je sais, Clem. Moi aussi. Mais tu n'y étais pas. On a failli tous y rester.
+I know, Clem. I did too. But you weren’t there, you don’t know what it was like. We barely got out of there alive.
 256)  CLEMENTINE
-Alors qu'est-ce qui lui est arrivé à Ben ?
+So what happened to him? What happened to Ben?
 257)  LEE
-Ben a été très courageux. Il savait qu'on était en danger, qu'on manquait de temps. Alors il resté volontairement derrière. Il s'est sacrifié pour qu'on puisse s'enfuir. Je sais que c'est dur à comprendre.
+Ben did something very brave. He knew that the rest of us were in danger, that we were running out of time. So he volunteered to stay behind. He sacrificed himself so the rest of us could get away. I know that’s difficult to understand.
 259)  CLEMENTINE
-[upset] Comment peux-tu dire ça ? Comment peux-tu l'oublier ? Ben était notre ami, je l'aimais bien !
+[upset] How can you say that? How can you just forget about him? Ben was our friend, I liked him!
 260)  CLEMENTINE
-Tu ne sais pas ce qui c'est passé ?
+Don’t YOU know what happened?
 261)  LEE
-Je n'ai pas d'explication claire, Clem. Je ne sais pas quoi te dire.
+There’s no easy answer to that, Clem. I wish there was. I don’t know to explain it.
 262)  CLEMENTINE
-Et que voulait dire Kenny quand il parlait de Ben ? Que tu t'en étais occupé ?
+What did Kenny mean when he said that Ben nearly got you killed? That you did what you had to?
 263)  LEE
-Ben a fait une erreur qui nous a tous mis en danger. Il a voulu se racheter en restant derrière pour qu'on puisse s'échaper. Peut-être que j'aurais pu l'en empêcher mais je l'ai laissé faire pour le bien du groupe.
+Ben made a mistake back there. A mistake that almost got us into a lot of trouble. He felt bad about what he did, so he wanted to make it right by staying behind so the rest of us could escape. Maybe I could have done something to stop him, but I let him do it. For the good of the group.
 264)  LEE
-J'ai fait ce que j'ai pu, Clémentine. Mais il ne voulait pas. Je dois respecter son choix. Je suis désolé, je sais que c'est dur à comprendre.
+I did, Clementine. I did all I could. But it’s not what he wanted. I had to respect that. I’m sorry, I know it’s difficult to understand.
 265)  CLEMENTINE
-Tu n'as même pas essayé de le sauver ?
+So you didn’t even try to save him?
 266)  CLEMENTINE
-{thinkinga} On pourra chercher mes parents demain, avant de partir ?
+{thinkinga} Before we leave tomorrow, will we have time to look for my parents?
 267)  
-Oui. [MENTIR]
+Yes. [LIE]
 268)  
-On n'aura pas le temps.
+There may not be time.
 269)  
-Non. Oublie ça.
+No. Let it go.
 270)  LEE
-[unconvincing] {thinkinga} Bien sûr. On verra avant de partir.
+[unconvincing] {thinkinga} Sure. We’ll look before we leave.
 271)  LEE
-[trying to comfort her] {sadb} Je suis désolé, Clémentine...
+[trying to comfort her] {sadb} I’m sorry, Clementine. I’m sorry...
 272)  CLEMENTINE
-[skeptical] {thinkinga} C'est vrai ? Tu m'emmèneras à Crawford pour qu'on les cherche ?
+[skeptical] {thinkinga} Really? You’ll take me to Crawford so we can look?
 273)  LEE
 {normald} [sighs]
 274)  CLEMENTINE
-[disappointed/upset] {thinkingb}Je savais que tu n'étais pas sérieux.
+[disappointed/upset] {thinkingb}I knew you didn’t really mean it.
 275)  LEE
-{normald} Clémentine. Je sais que tu veux pas les abandonner. Mais Crawford est un endroit comme un autre à présent. Si tes parents y sont... {sada} ils ne seront plus comme avant. Et se rappelleront plus de toi.
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
 488)  LEE
-{normald} Clémentine. Je sais que tu veux pas les abandonner. Mais Crawford est un endroit comme un autre à présent. Si tes parents y sont... {sada} ils ne seront plus comme avant. Et se rappelleront plus de toi.
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
 489)  LEE
-{normald} Clémentine. Je sais que tu veux pas les abandonner. Mais Crawford est un endroit comme un autre à présent. Si tes parents y sont... {sada} ils ne seront plus comme avant. Et se rappelleront plus de toi.
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
 495)  LEE
-{normald} Clémentine. Je sais que tu veux pas les abandonner. Mais Crawford est un endroit comme un autre à présent. Si tes parents y sont... {sada} ils ne seront plus comme avant. Et se rappelleront plus de toi.
+{normald} Clementine. I know you don’t want to give up on them. But Crawford's just like every other place now. If your parents are there... {sada} they won’t be like you remember them. And they won’t remember you at all.
 276)  CLEMENTINE
 [sobbing]
 501)  CLEMENTINE
@@ -797,238 +797,238 @@ Non. Oublie ça.
 505)  CLEMENTINE
 [sobbing]
 277)  LEE
-[trying to comfort her] {sadb} Ca va aller. Ne pleure pas.
+[trying to comfort her] {sadb} Hey, there... sssshhhh. It’s okay. It’s okay. Don’t cry.
 278)  LEE
-{normald} J'aimerais, Clem. Mais je crois qu'on aura pas le temps. {thinkinga} On ne devrait pas rester ici plus longtemps. C'est dangereux.
+{normald} I’d like to, Clem. But I don’t think we’ll have time. {thinkinga} We really shouldn't stay here any longer. It's not safe.
 279)  LEE
-Clémentine, il faut oublier ça. J'espérais qu'on les retrouve quand on pensait que Crawford abritait des gens. Mais c'est un endroit comme un autre à présent. Si tes parents y sont... ils ne seront plus comme avant. Et se rappelleront plus de toi.
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
 283)  LEE
-Clémentine, il faut oublier ça. J'espérais qu'on les retrouve quand on pensait que Crawford abritait des gens. Mais c'est un endroit comme un autre à présent. Si tes parents y sont... ils ne seront plus comme avant. Et se rappelleront plus de toi.
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
 287)  LEE
-Clémentine, il faut oublier ça. J'espérais qu'on les retrouve quand on pensait que Crawford abritait des gens. Mais c'est un endroit comme un autre à présent. Si tes parents y sont... ils ne seront plus comme avant. Et se rappelleront plus de toi.
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
 289)  LEE
-Clémentine, il faut oublier ça. J'espérais qu'on les retrouve quand on pensait que Crawford abritait des gens. Mais c'est un endroit comme un autre à présent. Si tes parents y sont... ils ne seront plus comme avant. Et se rappelleront plus de toi.
+Clementine, you’ve gotta let it go. I hoped we might find them too, when we still thought Crawford was a safe place for people. But it’s just like every other place now. If your parents are there... they won’t be like you remember them. And they won’t remember you at all.
 280)  CLEMENTINE
-Pourquoi pas ? Les autres ne partiraient pas sans nous.
+Why not? The others wouldn't leave without us.
 281)  LEE
-Plus on reste ici, plus c'est dangereux. Notre meilleure chance est de prendre ce bateau aussi vite que possible.
+The longer we stay here, the more dangerous it is. Our best chance is to get on that boat as soon as we can.
 282)  CLEMENTINE
-{sada} Mais ils sont à Crawford ! C'est obligé !
+{sada} But they’re in Crawford somewhere! They have to be!
 490)  CLEMENTINE
-{sada} Mais ils sont à Crawford ! C'est obligé !
+{sada} But they’re in Crawford somewhere! They have to be!
 494)  CLEMENTINE
-{sada} Mais ils sont à Crawford ! C'est obligé !
+{sada} But they’re in Crawford somewhere! They have to be!
 284)  LEE
-{normald} C'est impossible, {sada} Clem. Désolé.
+{normald} We can’t, {sada} Clem. I’m sorry.
 285)  CLEMENTINE
-[upset] Pourquoi pas ? Ils sont à Crawford, j'en suis sûr ! C'est obligé !
+[upset] Why not? They’re in Crawford, I know it! They have to be!
 286)  CLEMENTINE
-Donc... on peut ou pas ?
+Well... can we or not?
 288)  CLEMENTINE
-Donc... on peut ou pas ?
+Well... can we or not?
 290)  LEE
-[more urgently] Clémentine? Où es-tu ?
+[more urgently] Clementine? Where are you?
 291)  LEE
-[a little worried] Clémentine ?
+[a little worried] Clementine?
 292)  LEE
-[groggily] Clémentine... ?
+[groggily] Clementine...?
 293)  
-Clem ? C'est tout ?
+Clem? Is that you?
 294)  
-[Ouvrir la porte]
+[Open the door]
 295)  
-Sortez lentement ou je tire !
+Come out slowly or I'll shoot!
 296)  
-On avait pas le temps.
+There wasn't time.
 297)  
-Non.
+No, we didn't.
 298)  
-Il s'est passé quoi ici ?
+What happened here?
 301)  CHRISTA
-Clémentine, où est Omid ?
+Clementine, where's Omid?
 305)  CHRISTA
-Clémentine, où est Omid ?
+Clementine, where's Omid?
 303)  
-Attendez
+Wait
 306)  CLEMENTINE
-J'ai arrété une de ses choses qui montait à l'étage. Mais concernant mon--
+One of those things tried to get upstairs. I stopped it. But what about my--
 307)  CLEMENTINE
-J'ai arrété une de ses choses qui montait à l'étage. Mais concernant mon--
+One of those things tried to get upstairs. I stopped it. But what about my--
 308)  CLEMENTINE
-J'ai arrété une de ses choses qui montait à l'étage. Mais concernant mon--
+One of those things tried to get upstairs. I stopped it. But what about my--
 309)  
-[Changer de Sujet]
+[Change the Subject]
 310)  LEE
-Hé, et si on allait voir Omid ?
+Hey, what do you say we go check on Omid?
 311)  LEE
-Hé, et si on allait voir Omid ?
+Hey, what do you say we go check on Omid?`
 312)  CHRISTA
-[calling out, panicked] Lee, venez voir !
+[calling out, panicked] Lee, get up here!
 313)  
-Christa, éloignez vous !
+Christa, stay away from him!
 315)  
-Il est mort ?
+Is he dead?
 317)  
-Merci beaucoup.
+Thanks a lot.
 318)  
-Pas devant Clémentine.
+Not in front of Clementine.
 319)  
-Elle comprendra.
+She'll understand.
 322)  
-Venez avec nous.
+You should come with us.
 323)  
-C'est pour le mieux.
+That might be for the best.
 324)  
-Alors c'est fini ?
+So that's it, then?
 325)  
-Je sais pas.
+I don't know.
 327)  
-Ailleurs.
+Someplace else.
 328)  LEE
-{normald} Ailleurs. Un endroit meilleur.
+{normald} Someplace else. Someplace better.
 330)  
-Ne pleure pas.
+Don't cry.
 331)  
-Ne pleure pas.
+I'm sorry.
 332)  
 [Reach Out]
 333)  LEE
-{angrya} Qui que vous soyez... sortez lentement {angryb} ou je tire à travers la porte.
+{angrya} Whoever you are... come out slowly {angryb} or I'll shoot you right through the door.
 334)  KENNY
-{angrya} Je vais ouvrir. Attention.
+{angrya} I'm gonna open it. Be ready.
 335)  KENNY
-{angrya} Je vais ouvrir. Attention.
+{angrya} I'm gonna open it. Be ready.
 336)  LEE
-Non. Je suis désolé ma puce. Je les ai cherché mais... non.
+No, we didn't. I'm sorry sweet pea. I looked for them, but... no.
 342)  LEE
-Clem, recule. N'approche pas.
+Clem, stay back. Don't get any closer.
 345)  LEE
-[warily] Attendez... Il est... mort ?
+[warily] Hold on... Is he... dead?
 361)  LEE
-Ouais mais je m'attends pas à ce que Clémentine le comprenne. Je ne VEUX pas qu'elle le comprenne.
+Yeah, I did what I had to. But I don't expect Clementine to understand that. Hell, I don't WAN'T her to understand it.
 362)  KENNY
-Qu'est-ce qui te tracasse ?
+What's eating you?
 363)  LEE
-Bien joué, ducon.
+Nice going, asshole.
 364)  KENNY
-T'as bien fait. Elle comprendra, crois moi.
+You did the right thing. Trust me, she'll understand.
 367)  KENNY
-T'as bien fait. Elle comprendra, crois moi.
+You did the right thing. Trust me, she'll understand.
 368)  KENNY
-Il faudra bien si elle veut tenir le coup dans ce nouveau monde. Les choix faciles, c'est terminé.
+She's gonna have to, if she's gonna make it long-term in this world the way it is now. No easy decisions any more.
 369)  LEE
-Ca va aller. C'est dur pour elle maintenant mais elle comprendra. J'ai fait ce qu'il fallait. Elle COMPRENDRA... hein ?
+She'll be okay. I know it's tough on her now, but she'll understand. I did what I had to. She WILL understand... right?
 375)  LEE
-J'espère.
+Man, I hope so.
 380)  KENNY
-Cet abruti s'est barré et s'est fait tuer. Voilà ce qu'il s'est passé.
+Dumb son of a bitch went and got himself killed. That's what happened.
 381)  VERNON
-Vous n'auriez pas pu sauver ce garçon à Crawford. Au pire moment, vous n'auriez pas pu. Que va-t-il arriver à Clémentine que ce sera le pire moment pour elle ?
+You couldn't save that boy back in Crawford. When it mattered most, you couldn't save him. What's going to happen to Clementine, when the time comes that it matters most for her?
 386)  MOLLY
-{sada} [getting a little emotional] C'est pas trop mon truc les adieux. {sada} Vous pouvez le faire pour moi ?
+{sada} [getting a little emotional] Listen, I’m not much for goodbyes, {sada} tell the others for me?
 394)  MOLLY
-{sada} [getting a little emotional] C'est pas trop mon truc les adieux. {sada} Vous pouvez le faire pour moi ?
+{sada} [getting a little emotional] Listen, I’m not much for goodbyes, {sada} tell the others for me?
 407)  MOLLY
-{sada} [getting a little emotional] C'est pas trop mon truc les adieux. {sada} Vous pouvez le faire pour moi ?
+{sada} [getting a little emotional] Listen, I’m not much for goodbyes, {sada} tell the others for me?
 387)  LEE
-{normald} C'est sans doute mieux comme ça. La bateau va être surchargé. {thinkinga} Et vous êtes plutôt du genre {thinkingb} à travailler en solo.
+{normald} That might be for the best. The boat's gonna be crowded as it is. {thinkinga} And you kinda strike me as more of a {thinkingb} go-it-alone type.
 396)  MOLLY
-{happyb} Compter sur les autres m'a toujours causé des problèmes. {happyc} Bien que je dois admettre que vous m'ayez donné une raison de changer d'avis.
+{happyb} Yeah, I've always had a hard time relying on other people. {happyc} Although I've gotta admit, you've given me a reason to rethink that.
 397)  LEE
-{thinkinga} C'est tout ? Après tout ce qu'on a traversé, {thinkingb} vous allez partir comme ça ?
+{thinkinga} So that's it? After all we've been through {thinkingb} you're just gonna leave?
 398)  MOLLY
-{disbeliefc} Ouais. J'imagine que vous ne me devez rien. J'ai eu ce que je voulais à Crawford. {happyc} Et j'ai jamais aimé l'eau.
+{disbeliefc} Yeah. I figure you don't owe me anything. I got what I wanted in Crawford. {happyc} And I never did like the water.
 399)  LEE
-{normald} Où allez vous ?
+{normald} Where will you go?
 400)  MOLLY
-{thinkinga} Je sais pas. On verra bien sur place.
+{thinkinga} I don't know. I'll figure it out when I get there.
 409)  MOLLY
-{thinkinga} Pas la peine d'être larmoyant. Adieu Lee. {disbeliefb} Et bonne chance. Vous en aurez besoin.
+{thinkinga} Well, don't go getting all mushy on me. So long Lee. {disbeliefb} And good luck. You're gonna need it.
 410)  MOLLY
-{thinkinga} Pas la peine d'être larmoyant. Adieu Lee. {disbeliefb} Et bonne chance. Vous en aurez besoin.
+{thinkinga} Well, don't go getting all mushy on me. So long Lee. {disbeliefb} And good luck. You're gonna need it.
 411)  MOLLY
-{disbeliefc} Dites leur ce que vous voulez. {sada} Les adieux, c'est pas mon truc.
+{disbeliefc} Tell them whatever you want. {sada} I'm not real big on goodbyes.
 412)  LEE
-{normalb} Et je dois dire quoi aux autres ?
+{normalb} What am I supposed to tell the others?
 413)  MOLLY
-[bittersweet] {happya} Dîtes à Clémentine qu'elle s'en sortira. {happyc} Vous avez un bonne petite là-bas. Elle me rappelle moi.
+[bittersweet] {happya} Tell Clementine she's going to be okay. {happyc} You've got a good one there. She reminds me of me.
 414)  LEE
-{happyc} Salut ma puce.
+{happyc} Hey sweet pea.
 415)  CLEMENTINE
-Kenny travaille sur le bateau.
+Kenny's working on the boat.
 416)  LEE
-{normala} Je sais.
+{normala} I know.
 417)  CLEMENTINE
-{sada} Qu'est-ce qu'on va faire après les réparations ? On va aller où ?
+{sada} What are we going to do? After he fixes it? Where will we go?
 418)  LEE
-{normalb} On va tailler notre route, toi et moi, comme convenu. {thinkinga} On a besoin de personne. On sera juste nous deux.
+{normalb} You and me, we're going to go our own way. Just like we agreed. {thinkinga} We don't need anyone else. It's gonna be just the two of us.
 419)  LEE
-On ira où Kenny veut aller. C'est un bon capitaine et il connaît la mer du sud. Il saura où nous emmener.
+We'll go wherever Kenny says. He's a good captain and he knows the waters down south. He'll know where to take us.
 420)  CLEMENTINE
-[disheartened] {sada} Alors tu ne sais pas non plus ?
+[disheartened] {sada} So you don't know either?
 421)  CLEMENTINE
-[disheartened] {sada} Alors tu ne sais pas non plus ?
+[disheartened] {sada} So you don't know either?
 425)  LEE
-{normald} Je sais ma puce. {sada} Moi aussi. {thinkinga} Mais on doit aller de l'avant.
+{normald} I know, sweet pea. {sada} I did too. {thinkinga} But we have to look forward, not back.
 428)  LEE
-J'ai vraiment essayé, ma puce. J'aurais pu faire plus sans doute. Je sais pas.
+I tried, sweet pea. I really did. And maybe I could have done more. I just don't know.
 429)  CLEMENTINE
-Pourquoi tu ne l'a pas aidé ?
+So why didn't you help him?
 439)  
-Clem, tu l'as surveillé ?
+Clem, did you check on him?
 440)  
-Clémentine, recule.
+Clementine, stay back.
 441)  
-On va se séparer.
+We're going to split off.
 442)  
-Où Kenny veut aller.
+Wherever Kenny says.
 443)  
-Désolé pour Brie.
+I'm sorry about Brie.
 444)  
-Merci pour votre aide.
+Thank you for your help.
 445)  
-Alors vous partez ?
+So you'll be going?
 463)  LEE
-Je voulais vous remercier pour tout ce que vous avez fait pour nous.
+Hey, I wanted to thank you for all you've done for us.
 464)  VERNON
-[hostile]Gardez vos banalités pour d'autres.
+[hostile]Save your platitudes for someone who's buying it.
 466)  VERNON
-De rien. Je suis content que Brie soit morte pour quelque chose d'important.
+You're welcome. I'm glad Brie will have died for something meaningful.
 467)  VERNON
-[philosophical] Vous voulez savoir le pire dans tout ça ?
+[philosophical] You want to know the worst part?
 469)  VERNON
-[philosophical] Vous voulez savoir le pire dans tout ça ?
+[philosophical] You want to know the worst part?
 475)  VERNON
-[philosophical] Vous voulez savoir le pire dans tout ça ?
+[philosophical] You want to know the worst part?
 471)  LEE
-Alors vous allez retourner dans votre groupe ?
+So you'll be returning to your group now?
 472)  VERNON
-[hostile]Oui, mais pas avant de vous avoir dit vos quatres vérités.
+[hostile]Yes, but not before I give you a piece of my mind.
 474)  VERNON
-Oui. Ca va être dur d'annoncer la nouvelle pour Brie. Ils ont vraiment pris soin d'elle.
+Yes. I'll be hard to break the news about Brie. They all really grew to care for her.
 478)  LEE
-{thinkinga} Ben a été très courageux. {normald} Il savait qu'on manquait de temps et que le sauver mettrait le groupe en danger. Alors il m'a demandé de le laisser pour qu'on puisse s'enfuir. {sada} Je sais que c'est dur à comprendre.
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
 481)  LEE
-{thinkinga} Ben a été très courageux. {normald} Il savait qu'on manquait de temps et que le sauver mettrait le groupe en danger. Alors il m'a demandé de le laisser pour qu'on puisse s'enfuir. {sada} Je sais que c'est dur à comprendre.
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
 508)  LEE
-{thinkinga} Ben a été très courageux. {normald} Il savait qu'on manquait de temps et que le sauver mettrait le groupe en danger. Alors il m'a demandé de le laisser pour qu'on puisse s'enfuir. {sada} Je sais que c'est dur à comprendre.
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
 515)  LEE
-{thinkinga} Ben a été très courageux. {normald} Il savait qu'on manquait de temps et que le sauver mettrait le groupe en danger. Alors il m'a demandé de le laisser pour qu'on puisse s'enfuir. {sada} Je sais que c'est dur à comprendre.
+{thinkinga} What Ben did was very brave. {normald} He knew we were running out of time, and that saving him might put everyone else in danger. So he told me to leave him behind so the rest of us could get away. {sada} I know that’s difficult to understand.
 479)  LEE
-{normald} Mais j'ai dû penser au groupe entier, pas à une seule personne.
+{normald} But I had to think about the whole group, not just one person.
 480)  LEE
-{normald} Mais j'ai dû penser au groupe entier, pas à une seule personne.
+{normald} But I had to think about the whole group, not just one person.
 491)  CLEMENTINE
-Je crois pas qu'ils
+I don't think they
 493)  CLEMENTINE
-Je crois pas qu'ils
+I don't think they
 492)  LEE
-Je pense pas, ma puce. Tes parents sont des gens biens et Crawford un endroit sordide. Je crois pas qu'ils auraient voulu y rester longtemps. Peut-être qu'ils sont ailleurs, mais... on ne sait pas par où commencer.
+I don't think they are, sweet pea. Your parents were good people, and Crawford was a bad place. I don't think they would have stayed there very long. Maybe they're still out there somewhere, but... we don't even know where to start looking.
 496)  AANIM
 sk54_action_leeWakesUpWorried.chore
 520)  LEE
-{normald} Clem... il faut me croire, {thinkinga} j'ai essayé de le sauver.
+{normald} Clem... you have to believe me, {thinkinga} I tried to save him.
 521)  
-Il voulait pas être sauvé.
+He didn't want me to save him.
 522)  
-J'ai essayé...
+I tried...

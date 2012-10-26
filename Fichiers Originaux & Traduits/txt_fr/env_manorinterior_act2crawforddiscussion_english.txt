@@ -7,9 +7,9 @@
 4)  LEE
 {ThinkingA}Comment va Omid ?
 5)  MOLLY
-{AngryA}Hey, si votre ami peut vraiment faire fonctionner ce bateau, alors je viendrai avec vous, c'est le tarif à payer pour vous avoir sauvé. {ThinkingA}Je pense que c'est honnête, non ?
+{AngryA}Hé, si votre ami peut vraiment faire fonctionner ce bateau, alors je viendrai avec vous, c'est le tarif à payer pour vous avoir sauvé. {ThinkingA}Je pense que c'est honnête, non ?
 6)  MOLLY
-{AngryA}Vous allez arrêter de gigoter ? Vous énervez tout le monde.
+{AngryA}Vous allez arrêter de bouger ? Vous énervez tout le monde.
 7)  LEE
 {ThinkingB}Alors ?
 8)  
@@ -27,7 +27,7 @@ La mauvaise.
 13)  KENNY
 Ca c'est la mauvaise. {SadB}Le réservoir est vide et la batterie est morte. Il faut se charger de ça avant d'aller où que ce soit.
 14)  KENNY
-{ThinkingA}Voilà tout, il lui faut simplement de l'essence et une batterie. A part ça il est prêt à larguer les amarres.
+{ThinkingA}C'est ça aussi, il faut simplement de l'essence et une batterie. A part ça il est prêt à larguer les amarres.
 15)  LEE
 Alors c'est quoi la bonne nouvelle ?
 16)  KENNY
@@ -93,9 +93,9 @@ Et Crawford ?
 209)  CHRISTA
 {AngryB}Mais c'est quel genre d'endroit ?
 36)  MOLLY
-{DisbeliefA}La pire espèce. [beat] Mais je ne vois pas d'autres solutions.
+{DisbeliefA}Le pire existant. [beat] Mais je ne vois pas d'autres solutions.
 210)  MOLLY
-{DisbeliefA}La pire espèce. [beat] Mais je ne vois pas d'autres solutions.
+{DisbeliefA}Le pire existant. [beat] Mais je ne vois pas d'autres solutions.
 37)  KENNY
 {AngryA}Et comment on s'y prend au juste ?
 211)  KENNY
@@ -139,9 +139,9 @@ On se faufile dans leur camp.
 230)  
 On se faufile dans leur camp.
 48)  VERNON
-{ThinkingA}On négocie ? A Crawford? {AngryA}Une fois de plus je vous rappelle que vous n'avez aucune idée de qui sont ces gens ! Ils prendront ce qu'ils veulent et décideront ensuite s'ils vous laissent en vie ou non.
+{ThinkingA}On négocie ? A Crawford ? {AngryA}Une fois de plus je vous rappelle que vous n'avez aucune idée de qui sont ces gens ! Ils prendront ce qu'ils veulent et décideront ensuite s'ils vous laissent en vie ou non.
 222)  VERNON
-{ThinkingA}On négocie ? A Crawford? {AngryA}Une fois de plus je vous rappelle que vous n'avez aucune idée de qui sont ces gens ! Ils prendront ce qu'ils veulent et décideront ensuite s'ils vous laissent en vie ou non.
+{ThinkingA}On négocie ? A Crawford ? {AngryA}Une fois de plus je vous rappelle que vous n'avez aucune idée de qui sont ces gens ! Ils prendront ce qu'ils veulent et décideront ensuite s'ils vous laissent en vie ou non.
 49)  LEE
 {NormalB}On négocie avec eux comme des gens civilisés. On a sûrement quelque chose à échanger qui les intéressera.
 221)  LEE
@@ -167,9 +167,9 @@ En effet c'est pas mal. C'est mieux.
 229)  MOLLY
 En effet c'est pas mal. C'est mieux.
 54)  VERNON
-J'y ai déjà réfléchi, mais jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
+J'y ai déjà réfléchi, mais j'ai jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
 61)  VERNON
-J'y ai déjà réfléchi, mais jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
+J'y ai déjà réfléchi, mais j'ai jamais eu personne pour le faire. Mais si on agit tous ensemble, on peut y arriver.
 55)  KENNY
 [skeptical] Et que voulez-vous en échange de votre aide ?
 56)  VERNON
@@ -225,17 +225,17 @@ En fait c'est pas la pire idée du monde. Enfin c'est pas loin. Mais je ne sais p
 77)  VERNON
 {FearA}On devrait y aller ce soir. Je vais le dire à mon groupe, ça vous laissera le temps de vous préparer. Je reviendrai avant minuit.
 78)  LEE
-{ThinkingB}Qu'est-ce qui est dangereux ?
+{ThinkingB}Qu'est-ce qui va être dangereux ?
 79)  VERNON
 {SadA}C'est comme ça que je suis toujours en vie.
 80)  KENNY
-{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on lui donne un petit coup de pouce. Tu es avec nous ou pas ?
 134)  KENNY
-{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on lui donne un petit coup de pouce. Tu es avec nous ou pas ?
 137)  KENNY
-{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on lui donne un petit coup de pouce. Tu es avec nous ou pas ?
 139)  KENNY
-{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on en fasse un peu plus. Tu es avec nous ou pas ?
+{AngryA}Je sais pas pour toi gamin, mais je préfère tenter quelque chose plutôt que de rester planté ici en attendant la mort. {AngryB}Ce bateau, là, c'est un cadeau du ciel, il faut juste qu'on lui donne un petit coup de pouce. Tu es avec nous ou pas ?
 81)  MOLLY
 Je les surveillais du haut des clochers juste à côté de leur clôture. Je les ai vus transporter toute sorte de matériels dans l'ancienne école privée à côté du jardin public. Je crois qu'ils s'en servent comme d'un entrepôt. Il y a des chances pour qu'on trouve ce qu'on cherche là-bas.
 82)  LEE
@@ -243,13 +243,13 @@ Je les surveillais du haut des clochers juste à côté de leur clôture. Je les ai 
 83)  CLEMENTINE
 {FearA}Est-ce que ça va être dangereux ?
 84)  LEE
-{ThinkingA}Et comment est-ce qu'on devine où ils cachent leurs fournitures ?
+{ThinkingA}Et comment est-ce qu'on devine où ils cachent leurs matériel ?
 85)  
 Oui, ça va être dangereux.
 86)  
 Non, ne t'inquiète pas.
 87)  LEE
-{SadA}Je ne peux pas te mentir, Clém. Ouais, ça va être dangereux. {ThinkingB}Mais c'est la seule façon d'avoir les affaires pour soigner Omid, et réparer le bateau. C'est pour ça qu'on doit le faire. Tu comprends ?
+{SadA}Je ne veux pas te mentir, Clém. Ouais, ça va être dangereux. {ThinkingB}Mais c'est la seule façon d'avoir les affaires pour soigner Omid, et réparer le bateau. C'est pour ça qu'on doit le faire. Tu comprends ?
 88)  CLEMENTINE
 {SadB}Je veux plus que d'autres gens meurent.
 142)  CLEMENTINE
@@ -279,7 +279,7 @@ Je veux dire me préparer pour Crawford.
 98)  LEE
 {ThinkingB}Quoi ?
 99)  CLEMENTINE
-{NormalB}Tu as dit qu'on devait tous traviller ensemble. Et tu as dit que j'étais vraiment utile tu te souviens ?
+{NormalB}Tu as dit qu'on devait tous travailler ensemble. Et tu as dit que j'étais vraiment utile tu te souviens ?
 100)  LEE
 [stymied] {DisgustA}Ouais, mais -enfin- non.
 101)  CLEMENTINE
@@ -331,7 +331,7 @@ D'accord. Je vais me préparer.
 121)  LEE
 [smiles] {ThinkingB}Rester près de moi.
 122)  LEE
-{FearA}Très bien, tu peux venir. Mais tui vas me promettre de rester sage et de faire exactement ce que je te dis pendant tout le voyage.
+{FearA}Très bien, tu peux venir. Mais tu vas me promettre de rester sage et de faire exactement ce que je te dis pendant tout le voyage.
 123)  CLEMENTINE
 [excited] {HappyA}D'accord !
 124)  
@@ -339,9 +339,9 @@ Comment va Omid ?
 125)  
 Christa, comment ça va ?
 126)  
-Qu'est-ce qu'il fout Kenny ?
+Qu'est-ce que fout Kenny ?
 127)  LEE
-[to himself]{DisgustA}Mais qu'est-ce qu'il fout Kenny ? C'est si long que ça d'inspecter un bateau ?
+[to himself]{DisgustA}Mais qu'est-ce que fout Kenny ? C'est si long que ça d'inspecter un bateau ?
 128)  
 Ca convient à tout le monde ?
 129)  
@@ -375,7 +375,7 @@ C'est pas ça qui compte pour l'instant.
 147)  LEE
 {ThinkingA}Christa, comment ça va ?
 148)  CHRISTA
-{SadA}Je vais bien. Vernon a fait ce qu'il a pu pour Omid. Mais il est vraiment infecté et a une fièvre de cheval. {SadB}Je vais vraiment m'inquiéter si on ne lui trouve pas de médicaments rapidement...
+{SadA}Je vais bien. Vernon a fait ce qu'il a pu pour Omid. Mais il a une infection et a une fièvre de cheval. {SadB}Je vais vraiment m'inquiéter si on ne lui trouve pas de médicaments rapidement...
 149)  CHRISTA
 {ThinkingA}Ca prendra le temps que ça prendra, Lee.
 150)  CHRISTA
@@ -409,7 +409,7 @@ Ca pourrait arriver.
 163)  CLEMENTINE
 {AngryA}C'est comme la promesse que tu m'as faite quand Duck est mort. Mais tu ne peux pas vraiment promettre ça n'est-ce pas ?
 165)  LEE
-{ThinkingB}Moi non plus, Clem. Mais parfois on doit prendre ce genre de risques.
+{ThinkingB}Moi non plus, Clém. Mais parfois on doit prendre ce genre de risques.
 166)  LEE
 {ThinkingB}Ca pourrait arriver. Mais on doit courir ce risque parce que c'est tout aussi dangereux de ne rien faire.
 167)  LEE
@@ -417,9 +417,9 @@ Ca pourrait arriver.
 236)  LEE
 {SadA}Je ne pense pas qu'on les trouvera à Crawford, ma puce.
 168)  LEE
-Et bien... {HappyA}ils t'ont élevée n'est-ce pas ?
+Et bien... {HappyA}Eh bien, ils t'ont élevée, non ?
 247)  LEE
-Et bien... {HappyA}ils t'ont élevée n'est-ce pas ?
+Et bien... {HappyA}Eh bien, ils t'ont élevée, non ?
 169)  LEE
 {ThinkingB}Parce que ce sont des gentils. Et Crawford est un endroit malsain, avec des méchantes personnes. Je ne crois pas qu'ils seraient restés dans un endroit pareil.
 238)  LEE
@@ -427,7 +427,7 @@ Et bien... {HappyA}ils t'ont élevée n'est-ce pas ?
 170)  CLEMENTINE
 {FearA}Comment tu sais qu'ils sont gentils, tu ne les as jamais vus ?
 239)  CLEMENTINE
-{FearA}HComment tu sais qu'ils sont gentils, tu ne les as jamais vus ?
+{FearA}Comment tu sais qu'ils sont gentils, tu ne les as jamais vus ?
 171)  CLEMENTINE
 {SadB}Pourquoi ?
 237)  CLEMENTINE
@@ -459,29 +459,29 @@ Très bien, tu peux venir.
 208)  VERNON
 [pickup] Croyez-moi, vous ne connaissez pas ces gens-là. Moi oui. Se pointer là-bas c'est du suicide.
 183)  LEE
-[pickup]Ouais, ben en fait...
+[pickup]Et bien, en fait...
 186)  LEE
-[pickup]Ouais, ben en fait...
+[pickup]Et bien, en fait...
 187)  LEE
-[pickup]Ouais, ben en fait...
+[pickup]Et bien, en fait...
 216)  LEE
-[pickup]Ouais, ben en fait...
+[pickup]Et bien, en fait...
 227)  LEE
-[pickup]Ouais, ben en fait...
+[pickup]Et bien, en fait...
 233)  LEE
-[pickup]Ouais, ben en fait...
+[pickup]Et bien, en fait...
 184)  VERNON
-[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arriver dans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
 188)  VERNON
-[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arriver dans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
 217)  VERNON
-[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arriver dans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
 228)  VERNON
-[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+[pickup] {SadA}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arriver dans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
 185)  VERNON
-[pickup]{NormalC}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+[pickup]{NormalC}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arriver dans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
 234)  VERNON
-[pickup]{NormalC}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arrive rdans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
+[pickup]{NormalC}Je crois que je pourrais nous guider pour que nous puissions passer sous la clôture et arriver dans le centre, là où ils gardent leurs réserves. {ThinkingA}On arrive par en-dessous, on les prend par surprise, on prend ce qu'on peut et on file avant qu'ils ne se rendent compte de quoi que ce soit.
 190)  VERNON
 En fait il y a peut-être une solution. Je connais le réseau d'égoûts sous Crawford comme ma poche. Vous n'auriez pas un plan à tout hasard ?
 215)  VERNON

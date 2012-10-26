@@ -1,4 +1,4 @@
-io1)  KENNY
+1)  KENNY
 {FearC}{Body-A}Oh, merde.
 2)  KENNY
 Par le dépôt d'armes, si on arrive à ouvrir cette foutue porte.
@@ -167,7 +167,7 @@ Je m'abstiens.
 60)  MOLLY
 [urgently] {AngryB}{Body-A}Bon et MAINTENANT on peut y aller ?
 61)  LEE
-{AngryC}{Body-B}C'est clair. Vernon ! Venez !
+{AngryC}{Body-B}Y'a plutôt intêret. Vernon ! Venez !
 62)  LEE
 {AngryC}{Body-B}Vernon !
 63)  VERNON
@@ -225,7 +225,7 @@ Tout n'est pas de la faute de Ben ! C'est moi qui ai trouvé cette cachette de ma
 110)  KENNY
 Tout est de sa faute ! La faute de cet enculé, là !
 111)  LEE
-[pickup][struggling to hold Kenny back]{AngryC}{Body-B}Kenny. {AngryD}Je suis d'accord avec toi - tu DEVRAIS lui foutre une raclée ! {AngryC}Mais pas maintenant! {FearC}On doit se consacrer à s'échapper d'ici!
+[pickup][struggling to hold Kenny back]{AngryC}{Body-B}Kenny. {AngryD}Je suis d'accord avec toi - tu DEVRAIS lui foutre une raclée ! {AngryC}Mais pas maintenant! {FearC}On doit se consacrer à s'échapper d'ici !
 113)  LEE
 [pickup][struggling to hold Kenny back]{FearC}Kenny ! Ecoute-moi ! {AngryC}Tu pourras lui botter son petit cul plus tard, {FearC}mais là on doit dégager !
 116)  KENNY

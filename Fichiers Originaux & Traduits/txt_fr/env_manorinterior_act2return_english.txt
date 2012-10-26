@@ -33,7 +33,7 @@ Je jetais un coup oeil. Je me disais que vous auriez peut-être quelque chose à m
 14)  VERNON
 {disgustA}[offended] Le fossile ?!
 15)  CHRISTA
-[pickup][frantic, very worried]Lee. Dieu merci tu es revenu.
+[pickup][frantic, very worried]Lee. Dieu merci vous êtes revenu.
 16)  CHRISTA
 {worrieda}[frantic]C'est Omid. Son état empire. Il ne va vraiment pas bien.
 17)  LEE
@@ -259,13 +259,13 @@ Ce serait bien si Kenny ou Ben pouvait résumer le danger. (les rôdeurs, la voix 
 225)  LEE
 {normalb}{normalb}[concerned, to himself]Elle n'a pas l'air d'être ici.
 119)  LEE
-{normalb}[concerned] Clémentine, tu es là ? Où est-elle ?
+{normalb}[concerned] Clémentine, tu es là ? Où est-elle passée ?
 149)  LEE
-{normalb}[concerned] Clémentine, tu es là ? Où est-elle ?
+{normalb}[concerned] Clémentine, tu es là ? Où est-elle passée ?
 151)  LEE
-{normalb}[concerned] Clémentine, tu es là ? Où est-elle ?
+{normalb}[concerned] Clémentine, tu es là ? Où est-elle passée ?
 226)  LEE
-{normalb}[concerned] Clémentine, tu es là ? Où est-elle ?
+{normalb}[concerned] Clémentine, tu es là ? Où est-elle passée ?
 120)  
 Kenny, doucement.
 121)  
@@ -297,19 +297,19 @@ C'est un médecin.
 143)  LEE
 Kenny, sois raisonnable. Donne-la moi.
 144)  KENNY
-Molly a dit qu'il n'y avait plus un seul bateau à Savannah. Pas moyen de partir.  Il y a les rôdeurs tout autour, ce cinglé à la radio qui joue avec nos nerfs... alors si c'est pas ça le bon moment pour un verre...
+Molly a dit qu'il n'y avait plus un seul bateau à Savannah. Pas moyen de partir.  Il y a des rôdeurs tout autour, ce cinglé à la radio qui joue avec nos nerfs... alors si c'est pas ça le bon moment pour un verre...
 145)  KENNY
-Molly a dit qu'il n'y avait plus un seul bateau à Savannah. Pas moyen de partir.  Il y a les rôdeurs tout autour, ce cinglé à la radio qui joue avec nos nerfs... alors si c'est pas ça le bon moment pour un verre...
+Molly a dit qu'il n'y avait plus un seul bateau à Savannah. Pas moyen de partir.  Il y a des rôdeurs tout autour, ce cinglé à la radio qui joue avec nos nerfs... alors si c'est pas ça le bon moment pour un verre...
 146)  LEE
 {normalc}Ca va. Je ne t'en veux pas. Je veux juste savoir où elle est.
 147)  LEE
-{angryb}[aggressive] Ne t'inquiète pas. Mais dis-moi où elle est.
+{angryb}[aggressive] Assez d'excuses ! Dis-moi où elle est.
 152)  
 Porte de la chambre
 235)  
 Porte de la chambre
 153)  
-Porte du grenier
+Trappe du grenier
 154)  
 Porte du jardin
 155)  
@@ -409,9 +409,9 @@ Dessin de Clémentine
 199)  LEE
 [pickup][to himself, urgent]Je n'ai pas le temps pour ça.
 200)  LEE
-[pickup][Calling into the room]Hello ?
+[pickup][Calling into the room]Hé ho ?
 224)  LEE
-[pickup][Calling into the room]Hello ?
+[pickup][Calling into the room]Hé ho ?
 201)  VERNON
 [pickup][urgency]Je travaille mieux sans public. Je suis sûr qu'il y a plein de choses dont vous devez vous occuper.
 202)  BEN
@@ -423,7 +423,7 @@ Dessin de Clémentine
 205)  KENNY
 [pickup][slightly drunk]{drunka}Tu cherches de nouveau la bagarre comme dans le train ? Parce que je me bats mieux quand je suis déchiré.
 206)  VERNON
-[pickup] D'accord, je vais aller le voir...
+[pickup] D'accord, je vais regarder ça...
 207)  OMID
 [sick/weak] Waouw. Bien joué, mec.
 208)  CHRISTA
@@ -437,7 +437,7 @@ Dessin de Clémentine
 212)  LEE
 [pickup] Il vaudrait mieux, sinon je t'explose.
 213)  LEE
-[pickup][to himself, urgent]Je ne la trouve pas ici. Il n'y a pas non plus de rôdeurs.
+[pickup][to himself, urgent]Je ne la vois pas d'ici. Il n'y a pas non plus de rôdeurs.
 214)  LEE
 [pickup][to himself, slight urgency]J'aurai le temps de me reposer plus tard
 215)  LEE

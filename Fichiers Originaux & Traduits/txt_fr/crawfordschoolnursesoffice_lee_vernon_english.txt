@@ -33,7 +33,7 @@ Salut.
 17)  LEE
 {fearA}Combien de temps pensez-vous qu'il reste à Omid, doc ?
 18)  VERNON
-{sadB}Vous voulez mon avis médical ? {thinkingA}Plus vite il y aura des antibiotiques puissants pour combattre l'infection, au mieux ce sera. C'est tout ce que je peux dire.
+{sadB}Vous voulez mon avis médical ? {thinkingA}Plus vite il aura des antibiotiques puissants pour combattre l'infection, au mieux ce sera. C'est tout ce que je peux dire.
 19)  LEE
 {happyA}Hé doc, je voulais vous remercier d'être venu avec nous et pour tout ce que vous faites. J'apprécie vraiment.
 24)  LEE

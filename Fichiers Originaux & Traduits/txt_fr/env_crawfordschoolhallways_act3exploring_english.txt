@@ -23,7 +23,7 @@ Plus tard. J'ai quelque chose à faire.
 12)  LEE
 {angryA} Voyons.
 13)  MOLLY
-Ouais, je vais la garder, histoire de m'assurer que vous ne partiez pas sans moi. Je vous retrouve dans la salle !
+Ouais, je vais la garder, histoire de m'assurer que vous ne partiez pas sans moi. Je vous retrouve dans la classe !
 14)  MOLLY
 Je vous rejoindrai.
 15)  LEE
@@ -45,9 +45,9 @@ D'accord.
 23)  LEE
 Vous êtes sûrs que vous ne voulez pas d'aide ?
 24)  CHRISTA
-On s'en occupe, Lee. T'inquiète pas.
+On s'en occupe, Lee. Vous inquiétez pas.
 265)  CHRISTA
-On s'en occupe, Lee. T'inquiète pas.
+On s'en occupe, Lee. Vous inquiétez pas.
 25)  LEE
 [under his breath] Merde.
 26)  LEE
@@ -105,7 +105,7 @@ Je n'ai pas menti.
 49)  MOLLY
 [emotional] Et puis les règles ont été mises au point. Tous ceux qui pouvaient justifier de leur utilité pouvaient rester. Pas ceux qui avaient besoin de soins. Ma soeur était diabétique, ce qui d'après les règles de Crawford, en faisait un boulet.
 50)  MOLLY
-[emotional] Je ne l'ai dit à personne, je l'ai gardé pour moi autant que possible. Mais j'ai fini par ne plus pouvoir la protéger. [starting to cry] C'est alors que je suis sortie. A Crawford, isl parlaient souvent de leurs règles, que c'était toujours mieux que de devenir "lun d'entre eux". Mais j'ai vu ce que eux étaient déjà devenus. Mon seul regret c'est de ne pas avoir vu ça plus tôt. Avant qu'ils ne me prennent ma soeur.
+[emotional] Je ne l'ai dit à personne, je l'ai gardé pour moi autant que possible. Mais j'ai fini par ne plus pouvoir la protéger. [starting to cry] C'est alors que je suis sortie. A Crawford, ils parlaient souvent de leurs règles, que c'était toujours mieux que de devenir "l'un d'entre eux". Mais j'ai vu ce que eux étaient déjà devenus. Mon seul regret c'est de ne pas avoir vu ça plus tôt. Avant qu'ils ne me prennent ma soeur.
 51)  MOLLY
 [emotional] J'aurais du l'éloigner de cet endroit bien avant, on aurait pu s'en sortir dehors. J'aurais pu la protéger. J'aurais dû.
 52)  LEE
@@ -121,9 +121,9 @@ Vous l'auriez aimée.
 57)  LEE
 Si elle te ressemblait, je l'aurais adorée.
 58)  MOLLY
-Mais qu'est-ce que...?
+Qu'est-ce que c'est... ?
 64)  MOLLY
-Mais qu'est-ce que...?
+Qu'est-ce que c'est... ?
 59)  LEE
 Je crois que ça veut dire qu'il faut foutre le camp d'ici.
 65)  LEE
@@ -175,7 +175,7 @@ C'était pas moi...
 83)  LEE
 Clémentine!
 84)  MOLLY
-[impressed] Bien vu gamin. Joli tir.
+[impressed] Bien joué gamine. Joli tir.
 85)  CLEMENTINE
 [still a bit shocked] Merci...
 86)  CHRISTA
@@ -187,7 +187,7 @@ Clémentine!
 89)  MOLLY
 [agony/shrieking] Aaaaaaargh !
 90)  KENNY
-Un coup de main ?
+On a besoin d'un coup de main ici !
 91)  LEE
 [to himself] [lookat]Ca doit être le couloir allant vers la cour de récréation, là où l'essence est stockée selon Brie.
 125)  LEE
@@ -235,7 +235,7 @@ Ouvrir
 98)  KENNY
 Merde ! Les portes ne se ferment pas !
 99)  BRIE
-Lee, fais quelque chose !
+Lee, faites quelque chose !
 100)  KENNY
 Lee, donne-moi la hachette !
 101)  LEE
@@ -273,7 +273,7 @@ Appeler
 117)  LEE
 Marche pas. Evidemment.
 118)  LEE
-[to himself]Ca doit être vide. Les gens de Crawford ont sûrement enfermé ça quelque part.
+[to himself]Ca doit être vide. Les gens de Crawford ont sûrement gardé ça quelque part.
 119)  LEE
 [to himself]Je ne retourne pas dans les égoûts tant qu'on n'a pas ce qu'on est venus chercher.
 123)  LEE
@@ -295,9 +295,9 @@ Logan. Ca doit être son casier.
 141)  LEE
 Logan. Ca doit être son casier.
 138)  LEE
-[to himself]Dommage que je ne connaisse aucune combinaison.
+[to himself]Dommage que je ne connaisse pas la combinaison.
 140)  LEE
-[to himself]Dommage que je ne connaisse aucune combinaison.
+[to himself]Dommage que je ne connaisse pas la combinaison.
 142)  LEE
 Une autre cassette. La combinaison du coffre doit être dessus.
 290)  LEE
@@ -321,7 +321,7 @@ Qu'est-ce que tu fous ?!
 151)  MOLLY
 [startled] Mon Dieu !
 152)  LEE
-Putain maiq qu'est-ce que tu fais ?
+Putain mais qu'est-ce que tu fais ?
 155)  
 Ca va Ben.
 159)  
@@ -361,11 +361,11 @@ C'est parti.
 176)  LEE
 [pickup][lookat]On dirait qu'ils ont utilisé certaines pièces pour enfermer les zombies. Mieux vaut ne pas les déranger.
 177)  LEE
-Des douilles partout. Il s'est passé quelque chose de vilain ici.
+Des douilles partout. Il s'est passé quelque chose de désagréable dans le coin.
 238)  LEE
-Des douilles partout. Il s'est passé quelque chose de vilain ici.
+Des douilles partout. Il s'est passé quelque chose de désagréable dans le coin.
 178)  LEE
-[to himself][lookat]Cet endroit est vraiment endommagé.
+[to himself][lookat]Cet endroit est vraiment en mauvaise état.
 179)  LEE
 [to himself][lookat]Ca doit être la porte donnant sur la ruelle du garage. Mais où est passée Molly ?
 180)  MOLLY
@@ -383,7 +383,7 @@ Et bien d'accord. Allons--
 187)  MOLLY
 Alors... c'est bon ?
 188)  KENNY
-[struggling]On l'a !
+[struggling]C'est bon !
 189)  BRIE
 [panicked]Bloquez la porte !
 190)  
@@ -445,11 +445,11 @@ C'est terminé. Il faut qu'on parte. Maintenant.
 218)  VERNON
 Regardez...
 219)  MOLLY
-On continue.
+Et si on continuait.
 220)  BEN
 Le plan reste inchangé ? Il change à chaque fois qu'on voit des zombies ! Vous avez idée de leur nombre ?
 221)  BEN
-Je le sens mal.
+Je le sens vraiment pas du tout.
 222)  BRIE
 Venez, je crois savoir par où aller.
 223)  CHRISTA
@@ -465,9 +465,9 @@ Je ne pense pas.
 228)  LEE
 Je ne pense pas. Je pense qu'on est bien, du moins pour l'instant.
 229)  
-Complètement.
+Bien sûr.
 230)  LEE
-[grim]Complètement.
+[grim]Bien sûr.
 231)  BEN
 [to himself, scared]Merde.
 234)  BEN
@@ -493,11 +493,11 @@ Utiliser
 257)  LEE
 [pickup][quietly, to himself]Ca fait un bail que je n'en ai pas vu un aussi petit.
 242)  LEE
-[pickup][quietly, to himself]Desséché.
+[pickup][quietly, to himself]A sec.
 247)  LEE
-[pickup][quietly, to himself]Desséché.
+[pickup][quietly, to himself]A sec.
 259)  LEE
-[pickup][quietly, to himself]Desséché.
+[pickup][quietly, to himself]A sec.
 243)  LEE
 [pickup][quietly, to himself]Ca ne marche pas.
 248)  LEE
@@ -527,7 +527,7 @@ Vous m'avez menti.
 264)  
 Laissez tomber, allons-y.
 266)  BEN
-[pickup][frustrated, keeping voice down]Le plan reste inchangé ? Il change à chaque fois qu'on voit des zombies ! Vous avez idée de leur nombre ?
+[pickup][frustrated, keeping voice down]Le plan reste inchangé ? Il change à chaque fois qu'on voit des zombies ! Vous avez une idée de leur nombre ?
 267)  BEN
 [pickup][skeptical]Il vient de dire que c'était une bonne chose ?
 268)  BEN
@@ -557,11 +557,11 @@ Laissez tomber, allons-y.
 278)  MOLLY
 [pickup2]Lee !
 279)  
-Photo
+Affiche
 280)  
 Casier ensanglanté
 281)  
-Panneau
+Pancarte
 282)  
 Casier vide
 283)  LEE

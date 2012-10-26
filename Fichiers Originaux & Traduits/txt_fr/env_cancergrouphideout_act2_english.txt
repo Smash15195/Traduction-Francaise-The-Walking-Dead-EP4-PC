@@ -1,5 +1,5 @@
 1)  VERNON
-[calm/non-confrontational] {thinkingA}Qui êtes-vous?
+[calm/non-confrontational] {thinkingA}Qui êtes-vous ?
 2)  
 Je ne veux pas de problèmes.
 3)  
@@ -35,7 +35,7 @@ Personne.
 20)  LEE
 {thinkingA}Je ne suis pas d'ici. {normalB}Je suis d'Athens, j'ai grandi à Macon.
 21)  VERNON
-[softening/concerned] {happyA}J'ai un frère à Macon. {fearB}Vous y étiez ? Comment ça se passe là-bas ? Aussi mal qu'ici?
+[softening/concerned] {happyA}J'ai un frère à Macon. {fearB}Vous y étiez ? Comment ça se passe là-bas ? Aussi mal qu'ici ?
 22)  LEE
 [grim] {sadB}Je suis désolé.
 23)  BRIE
@@ -51,7 +51,7 @@ Il faut qu'on en parle.
 29)  
 Il faut qu'on en parle.
 28)  
-[Threaten him]
+[Le menacer]
 31)  LEE
 {normalD}Ecoutez, vous ne voulez pas vraiment faire ça. {fearC}Parlons-en, Ok ?
 32)  VERNON
@@ -113,11 +113,11 @@ Mais qui êtes-vous ?
 57)  LEE
 {normalD}Non. Vraiment pas.
 58)  VERNON
-[pickup][reluctantly] {fearA}Eh bien... nous le sommes. Ou l'étions. {fearB}Nous nous sommes échappés quand ils ont commencé à fermer les lieux, {disgustA}à se débarrasser des vieux et des malades pour ne pas menacer leur parfaite société de survivants. {angryA}Il n'y avait pas de place pour la faiblesse ou la vulnérabilité au sein de leur petite race supérieure.
+[pickup][reluctantly] {fearA}Eh bien... nous, nous le sommes. Ou l'étions. {fearB}Nous nous sommes échappés quand ils ont commencé à fermer les lieux, {disgustA}à se débarrasser des vieux et des malades pour ne pas menacer leur parfaite société de survivants. {angryA}Il n'y avait pas de place pour la faiblesse ou la vulnérabilité au sein de leur petite race supérieure.
 59)  LEE
-{thinkingA}Vous n'avez pas l'air si vieux. Vous êtes ... malade ?
+{thinkingA}Vous n'avez pas l'air si vieux. Vous êtes... malade ?
 196)  LEE
-{thinkingA}Vous n'avez pas l'air si vieux. Vous êtes ... malade ?
+{thinkingA}Vous n'avez pas l'air si vieux. Vous êtes... malade ?
 60)  BRIE
 Nous étions malades. Nous faisons tous partie d'un groupe de rescapés du cancer qui se rencontrait ici à l'hôpital.
 187)  VERNON
@@ -303,7 +303,7 @@ Il y a une petite fille qui a besoin de moi.
 141)  LEE
 {angryA}Alors maintenant dites-moi. Qui êtes-vous ?
 142)  
-rôdeurs
+La faute au rôdeurs
 143)  
 Nous cherchions un bateau.
 144)  LEE
@@ -327,9 +327,9 @@ Nous cherchons juste un bateau.
 156)  
 J'essaye juste de sortir d'ici.
 157)  
-Nous pouvons vous aider, nous avons des médicaments. [LIE]
+Nous avons des médicaments. [MENTIR]
 158)  
-Il faut que je retourne auprès de Clementine.
+Il faut que je retourne auprès de Clémentine.
 159)  VERNON
 {thinkingA}Si vous ne voulez pas répondre à nos questions {disgustA}il vaut mieux que vous partiez.
 163)  VERNON
@@ -343,15 +343,15 @@ Il faut que je retourne auprès de Clementine.
 166)  VERNON
 {normalA}J'ai vu beaucoup de meurtriers depuis que tout a commencé. Beaucoup trop. S'il était vraiment violent, il l'aurait déjà montré. [to Lee] {angryA}Je parie que vous bluffez. 
 167)  CLIVE
-[pickup] [sounds too much like Fennoy, this is a black guy but it's not Lee, can we get someone else to read this?] Nous avons besoin de toi ici!
+[pickup] [sounds too much like Fennoy, this is a black guy but it's not Lee, can we get someone else to read this?] Nous avons besoin de toi ici !
 168)  VERNON
 {happyA}Ne t'inquiète pas. Tout ira bien.
 169)  
 Arme
 170)  LEE
-[lookat][softly, amazed]{thinkingB}Qu'est-ce que...
+[lookat][softly, amazed]{thinkingB}Où est-ce que je suis...
 219)  LEE
-[lookat][softly, amazed]{thinkingB}Qu'est-ce que...
+[lookat][softly, amazed]{thinkingB}Où est-ce que je suis...
 171)  LEE
 [lookat]{normalD}Ca devait être un ancien abri antiatomique.
 220)  LEE
