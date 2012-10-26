@@ -1,0 +1,146 @@
+1)  BRIE
+[being hit or kicked 1]
+37)  VERNON
+[being hit or kicked 1]
+65)  MOLLY
+[being hit or kicked 1]
+70)  BRIE
+[being hit or kicked 1]
+71)  BRIE
+[being hit or kicked 1]
+73)  BRIE
+[being hit or kicked 1]
+2)  BRIE
+[being hit or kicked 2]
+38)  VERNON
+[being hit or kicked 2]
+66)  MOLLY
+[being hit or kicked 2]
+3)  BRIE
+[scared/surprised yell]
+21)  VERNON
+[scared/surprised yell]
+53)  MOLLY
+[scared/surprised yell]
+4)  BRIE
+[angry yell, attacking something 1]
+22)  VERNON
+[angry yell, attacking something 1]
+54)  MOLLY
+[angry yell, attacking something 1]
+5)  BRIE
+[angry yell, attacking something 2]
+23)  VERNON
+[angry yell, attacking something 2]
+55)  MOLLY
+[angry yell, attacking something 2]
+6)  BRIE
+[angry yell, attacking something 3]
+24)  VERNON
+[angry yell, attacking something 3]
+56)  MOLLY
+[angry yell, attacking something 3]
+72)  BRIE
+[angry yell, attacking something 3]
+7)  BRIE
+[pushing away a zombie]AHH !
+40)  VERNON
+[pushing away a zombie]AHH !
+63)  MOLLY
+[pushing away a zombie]AHH !
+8)  BRIE
+[yelling at a zombie in the face] AHHHHH !
+41)  VERNON
+[yelling at a zombie in the face] AHHHHH !
+64)  MOLLY
+[yelling at a zombie in the face] AHHHHH !
+9)  MOLLY
+[sounds of Molly whincing1]
+10)  MOLLY
+[a bunch of sounds of Molly whincing2]
+11)  MOLLY
+[a bunch of sounds of Mollywhincing3]
+12)  MOLLY
+[a bunch of sounds of Molly whincing4]
+13)  MOLLY
+[a bunch of sounds of Molly whincing5]
+14)  VERNON
+[grabbing a weapon with a zombie ontop of you]  AH !
+36)  BRIE
+[grabbing a weapon with a zombie ontop of you]  AH !
+39)  MOLLY
+[grabbing a weapon with a zombie ontop of you]  AH !
+15)  BRIE
+[panicked breathing idle]
+25)  MOLLY
+[panicked breathing idle]
+47)  VERNON
+[panicked breathing idle]
+16)  BRIE
+[angry breathing idle]
+26)  MOLLY
+[angry breathing idle]
+48)  VERNON
+[angry breathing idle]
+17)  BRIE
+[scared breathing idle]
+27)  MOLLY
+[scared breathing idle]
+49)  VERNON
+[scared breathing idle]
+18)  BRIE
+[tired, out of breath, breathing idle]
+28)  MOLLY
+[tired, out of breath, breathing idle]
+50)  VERNON
+[tired, out of breath, breathing idle]
+19)  BRIE
+[running breathing idle]
+29)  MOLLY
+[running breathing idle]
+51)  VERNON
+[running breathing idle]
+20)  BRIE
+[pained breathing idle]
+30)  MOLLY
+[pained breathing idle]
+52)  VERNON
+[pained breathing idle]
+31)  BRIE
+[sounds of Brie whincing1]
+32)  BRIE
+[a bunch of sounds of Brie whincing2]
+33)  BRIE
+[a bunch of sounds of  Brie whincing3]
+34)  BRIE
+[a bunch of sounds of Brie whincing4]
+35)  BRIE
+[a bunch of sounds of Brie whincing5]
+42)  VERNON
+[sounds of Vernon whincing1]
+43)  VERNON
+[a bunch of sounds of Vernon whincing2]
+44)  VERNON
+[a bunch of sounds of  Vernon whincing3]
+45)  VERNON
+[a bunch of sounds of Vernon whincing4]
+46)  VERNON
+[a bunch of sounds of Vernon whincing5]
+57)  BRIE
+[generic scream 1, scare]
+60)  VERNON
+[generic scream 1, scare]
+67)  MOLLY
+[generic scream 1, scare]
+58)  BRIE
+[generic scream 2, scare]
+61)  VERNON
+[generic scream 2, scare]
+68)  MOLLY
+[generic scream 2, scare]
+59)  BRIE
+[falling scream/yell]
+62)  VERNON
+[falling scream/yell]
+69)  MOLLY
+[falling scream/yell]

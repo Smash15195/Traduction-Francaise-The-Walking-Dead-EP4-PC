@@ -1,0 +1,80 @@
+1)  LEE
+[to himself]{ThinkingA}Où est-ce qu'ils {AngryA}sont passés ?
+2)  KENNY
+{thinkingA}On dirait qu'il sont partis {disgustA}en urgence.
+3)  CHRISTA
+{angryA}On dirait qu'il sont partis en toute hâte.
+4)  LEE
+{angryA}[calling out] Vernon ! {angryC}Sortez de là ! Il {thinkingB}n'y plus aucun {angryA}danger ici, tout ce que je veux, c'est ma fille ! {angryC}Ramenez-la et personne ne sera blesser !
+5)  BEN
+{fearA}C'est là que vous {fearB}les avez trouvés avant ?
+6)  LEE
+{thinkingB}Uh huh.
+7)  RADIO VOICE
+Bonjour, Lee.
+8)  KENNY
+{disgustA}[to himself]Enfoiré.
+9)  LEE
+{angryA}[frantic] Où l'avez-vous prise ?
+10)  RADIO VOICE
+[pickup] Ce n'est pas Vernon. Et vous devriez surveiller votre ton.
+38)  RADIO VOICE
+[pickup] Ce n'est pas Vernon. Et vous devriez surveiller votre ton.
+11)  LEE
+Qui êtes-vous ? [beat] Répondez-moi !
+13)  LEE
+Vous êtes le type qui a abandonné la voiture.
+15)  LEE
+De quoi vous parlez bordel ?
+16)  LEE
+{surpriseB}[frantic] Clémentine ? {fearC}Ca va ? {fearB}Où est-tu ?
+17)  CLEMENTINE
+[radio processing] Lee ? C'est toi ?
+18)  RADIO VOICE
+Je pense que ça suffit pour le moment.
+19)  RADIO VOICE
+Vous n'avez rien. Et j'ai votre petite fille. Donc, si j'étais vous, je choisirais mes prochains mots très soigneusement.
+20)  
+Vous êtes MORT enculé !
+21)  
+Je vous en prie, ne lui faites pas mal.
+22)  
+Qu'est-ce que vous voulez ?
+23)  LEE
+[to someone else]{angryA}Où ils sont bordel ?
+24)  
+Où l'avez-vous prise ?
+25)  
+Qui est-ce ?
+26)  
+Rendez-moi Clémentine !
+27)  LEE
+{angryC}[stern]Qui est-ce ?
+28)  RADIO VOICE
+[pickup] Ce n'est pas Vernon, si c'est ce que vous pensez. Et vous devriez surveiller votre ton.
+29)  LEE
+[pickup]{angryC}[frantic]Vernon, rendez-moi Clémentine, je veux lui parler !
+30)  RADIO VOICE
+Eh bien c'est ce que nous allons découvrir.
+31)  RADIO VOICE
+[pickup]Vous donnez votre langue au chat ? Dans le cas où vous ne l'auriez pas encore compris - ce n'est pas Vernon.
+32)  LEE
+[inhaling][angry] Vous êtes MORT enculé !
+33)  LEE
+[inhaling][frantic] Je vous en prie, ne lui faites pas mal !
+34)  LEE
+[inhaling][frantic]Qu'est-ce que vous voulez ?!
+35)  LEE
+{surpriseB}[desperate panic] Clém ? {fearD}CLEM ?
+36)  CLEMENTINE
+[terrified] je ne sais pas, je peux pas voir. Je-[cut off]
+37)  RADIO VOICE
+[pickup][eerily calm] [short, a hint of meanness] Clémentine va bien. Mais si j'étais vous, Je choisirais mes prochains mots très soigneusement.
+41)  RADIO VOICE
+[pickup][eerily calm] [short, a hint of meanness] Clémentine va bien. Mais si j'étais vous, Je choisirais mes prochains mots très soigneusement.
+39)  CLEMENTINE
+[pickup][radio] [hushed/nervous] Lee ?
+40)  LEE
+[pickup][panic]Clémentine ! Tout va bien ? Où est-tu ?
+42)  LEE
+[pickup2][frantic] Vernon, espèce {angryC}de fils de putain.

@@ -1,0 +1,56 @@
+1)  LEE
+{normala}Brie ?
+2)  BRIE
+{normalb}Je suis un peu ocuupée, Lee. Vous devriez peut-être aller chercher cette batterie or des médicaments.
+3)  LEE
+{normala}Hé, je--
+4)  STUB
+Après que le candidat a essayé de parler à Brie dans la salle de classe, elle devrait lui faire la tête. Elle est furieuse sur la manière dont il a traité Vernon à la morgue (il lui a menti au sujet des médicaments ou l'a menacé). Elle n'est venu ici que pour aider les siens et s'assurer que Vernon aller bien. Fin de la conversation.
+5)  
+Alors, vous êtes une survivante du cancer ?
+6)  
+Depuis combien de temps connaissiez-vous Vernon ?
+7)  
+Au sujet de Crawford...
+8)  
+Je ferais mieux d'y aller.
+9)  LEE
+{normala}Je vais revenir. J'ai des trucs à faire.
+10)  BRIE
+{Normala}Bonne chance.
+12)  LEE
+{sada}S'il s'agit de Vernon... J'ai fait ce que j'avais à faire, pour faire en sorte qu'il nous aide. Je ne faisais que m'occuper des miens.
+13)  BRIE
+{disgusta}Sans vouloir vous offenser, mais je ne suis pas vraiment d'humeur pour discuter.
+14)  LEE
+{normald}Qu'est-ce qui ne va pas ?
+15)  BRIE
+{angryb}Et je suis à la recherche d'un proche aussi. C'est la seule raison pour laquelle je suis ici. Donc, si il n'y a rien d'autre...
+16)  BRIE
+{angrya}Tout va bien. C'est uniquement que je ne vous aime pas particulièrement.
+17)  LEE
+Pas de problème, nous sommes tous dans la même équipe.
+18)  BRIE
+Hé, Lee. Merci pour toute votre aide. Je ne pense pas que nous l'aurions fait sans vous.
+19)  LEE
+Non, pas vraiment.
+20)  BRIE
+{thinkinga}Ouais. J'ai été diagnostiqué quand j'étais au lycée. J'étais en traitement depuis. {normala} Et juste au moment où je commençais à aller mieux, quand je pensais qu'il pourrait y avoir un peu d'espoir, tout... ce qui est arrivé. Toute ma famille a disparue. Je suis la seule qui a survécu. C'est drôle de voir comment les choses fonctionnent, hein ?
+21)  BRIE
+{normala}Il y a quelques années. Il est venu dans notre groupe de soutien. Il était vraiment super, m'aidant à me réconcilier avec ma maladie. Mais comment voulez-vous vous reconstruire avec quelque chose comme ça ? Dans un endroit tel que Crawford ? {sada}Je ne sais pas ce que, moi, ou les autres survivants, aurait fait sans Vernon. Il est celui qui nous réunissait, qui nous gardait en vie.
+22)  BRIE
+{disgusta}C'est ce que je ressens. Si vous aviez vu ce que j'ai vu, vous ressentiriez la même chose.
+23)  LEE
+{sada}Foutue gonzesse, c'est froid.
+24)  BRIE
+{disgusta}Je n'ai aucune sympathie pour ce qui est arrivé à ces gens. Ils éliminés les malades, les vieux, les personnes les plus faibles et même les enfants, pour sauver leur peau. {disgusta}Quoi qu'il se soit passé ici, Crawford est tombé et je considère que ce n'est qu'une douce justice.
+25)  LEE
+Même maintenant que tout le monde est mort ?
+26)  BRIE
+{sada}Je préfère ne pas en parler. Trop de souvenirs terribles. Le simple fait d'être de retour ici m'oppresse.
+27)  LEE
+{Normala}Alors vous êtes une survivante du cancer ? Comme Vernon et les autres ?
+28)  LEE
+{thinkinga}Depuis combien de temps connaissiez-vous Vernon ?
+29)  LEE
+{thinkinga}Et à propos de la situation à Crawford ?

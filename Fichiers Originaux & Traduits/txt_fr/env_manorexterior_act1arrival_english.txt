@@ -1,0 +1,590 @@
+1)  KENNY
+[annoyed] {ThinkingA}J'y travail, {AngryB}j'y travail !
+2)  KENNY
+{Body-a}{AngryA}Ma chère, je {AngryB}suis pas celui qui saigne.
+3)  LEE
+{Body-B}{AngryA}Entrons juste à l'interieur, {AngryB}je me fous de la manière d'y arriver !
+4)  KENNY
+[irritated at Lee]{Body-A}{AngryB}Tu devrais nous faire part de tes idées, alors.
+5)  CHRISTA
+{Body-A}{SadA}Merde, elle va s'infectée. {SadB}Nous devons le faire entrer à l'intérieur pour la nettoyer.
+6)  LEE
+{SadA}Kenny ? {ThinkingA}Comment ca se présente avec la porte ?
+7)  LEE
+{Body-B}{FearB}Ca va ?
+8)  OMID
+[still hurting] {Body-A}{SadB}Argh... ouais.
+9)  LEE
+[strenuous effort] Aaaargh !
+10)  OMID
+[painful cry] Aaaaaargh !
+11)  OMID
+[in agony] {Body-A}{AngryC}Gaaaaaaah !
+12)  CHRISTA
+Viens, mon lapin !
+13)  OMID
+Je peux pas ! C'est ma putain jambe ! Aaaaaargh, merde !
+14)  CHRISTA
+{Body-A}{AngryA}Tu ne vas pas bien. {WorriedA}Tu as réouvert ta blessure, tu perds du sang et {AngryA}seul Dieu sait ce qui nous attends là-dedans. {worriedA}Cela pourrait s'infecter, cela pourrait-
+15)  LEE
+{Body-B}{ThinkingA}Comment va-t-il ?
+16)  OMID
+{Body-A}{PainA}je vais bien.
+17)  OMID
+{Body-A}{ThinkingA}Sans vouloir te vexer {HappyA}il faut vraiment que tu travail sur ta gentillesse envers tes patients.
+18)  
+Cela à l'air probablement pire que ça ne l'est.
+19)  
+Elle a raison, c'est pas beau a voir.
+20)  
+Nous allons vous soigner.
+21)  CHRISTA
+{HappyA}Merci.
+22)  CHRISTA
+{Body-A}{AngryA}Pourrait-on simplement entrer dans cette maison ?
+23)  OMID
+{Body-A}{PainA}Sauf quand il s'agit d'une morsure.
+24)  LEE
+{Body-B}{ThinkingA}Ne vous inquiétez pas, {HappyA}cela à toujours l'air pire que ça ne l'est.
+25)  LEE
+{sadA}Ouais, {ThinkingA}ce n'est pas une morsure. {HappyA}On va vous arranger ça.
+26)  CHRISTA
+{ThinkingA}Lee.
+27)  LEE
+{NormalC}Je m'en occupe.
+28)  LEE
+ouais ?
+29)  LEE
+[smiles] {HappyA}Pas de problème.
+30)  CHRISTA
+{Body-A}{AngryA}Je vous en prie, nous {WorriedA}devons entrer à l'intérieur.
+31)  LEE
+{Body-B}{NormalC}Christa a raison, {SadA}c'est pas beau a voir.
+32)  LEE
+{AngryA}Arrêtez d'essayer d'être un dur à cuire, Omid. {FearA}Bon sang, Je serais en train de pleurer comme un bébé, {NormalD}si ma jambe était dans cet état.
+33)  OMID
+{Body-A}{HappyA}Vous êtes aussi nul qu'elle ! {ThinkingA}Je vous dis que c'est juste une- [sudden pain] {PainA}Aaaargh ! Bordel !
+34)  LEE
+{NormalC}Ne vous inquiètez pas, {ThinkingA}je m'en occupe.
+35)  LEE
+Je m'en occupe, restez assis.
+36)  OMID
+{Body-A}{PainA}D'accord. {HappyA}Merci.
+37)  LEE
+{Body-B}{NormalD}Elle s'inquiète pour vous. {ThinkingA}Ne vous inquiétez pas, nous allons vous rafistoler en un rien de temps, {HappyA}dès que nous serons à l'intérieur. D'accord ?
+38)  CHRISTA
+[pickup2]{Body-A}{WorriedA}S'il vous plaît allait aider Kenny. {AngryA}Il faut que nous entrions à l'ittérieur MAINTENANT !
+39)  OMID
+Hé, je ne vais nulle part.
+40)  CHRISTA
+[pickup2]{Body-A}{ThinkingA}Lee, pourriez-vous s'il vous plaît chercher un moyen de nous faire entrer ? {AngryB}Nous pouvons pas rester ici plus longtemps !
+41)  OMID
+{Body-A}{ThinkingA}Très bien, vous m'inspirez pas vraiment {PainA}confiance.
+42)  LEE
+Hé Clém, éloigne-toi de la porte, d'accord ? C'est dangereux.
+43)  CLEMENTINE
+[anxious] {Body-HandOnWrist}{FearA}Est-ce que tu pense que les morts nous ont vus venir ici ? {FearB}Ils vont nous trouver ?
+44)  
+Non, ils ne nous ont pas vus.
+45)  
+Je crois bien.
+46)  
+Ne t'inquiète pas.
+47)  
+Attendre
+49)  LEE
+{Body-F}{HappyA}Non, ils ne nous ont pas vus. {NormalB}Nous avons été trop rapide pour eux.
+50)  CLEMENTINE
+{Body-HandOnWrist}{FearB}Je peux encore les entendre. {Body-HandsOpen}{FearC}On dirait qu'ils sont vraiment tout près.
+51)  LEE
+{ThinkingA}C'est ton imagination.
+52)  CLEMENTINE
+{SadA}Je me sentirai plus en sécurité quand on sera dans la maison.
+53)  LEE
+{Body-F}{SadA}Ouais, {FearA}je crois bien.
+54)  CLEMENTINE
+{Body-HandOnWrist}{FearA}Je le crois aussi. {Body-HandsOpen}{ThinkingB}Je vais surveiller au cas où ils arriveraient.
+55)  LEE
+{HappyA}Tu n'as pas besoin de faire ça, {NormalC}nous serons bientôt à l'intérieur. {ThinkingA}Mais pour le moment, {HappyA}reste à coté de moi d'accord ?
+56)  CLEMENTINE
+{HappyA}Ok.
+57)  LEE
+{Body-F}{ThinkingA}Ne t'inquiète pas. Même si ils nous avaient vus, {NormalC}ils ne pourraient pas entrer ici.
+58)  CLEMENTINE
+{Body-HandOnWrist}{ThinkingA}Nous on l'a fait. {ThinkingB}Pourquoi pas eux ?
+59)  LEE
+{HappyA}Parce que nous sommes un peu plus intelligent qu'eux. {ThinkingA}Ils sont aussi bête que des animaux, {ThinkingB}ils ne peuvent pas ouvrir les portes.
+60)  CLEMENTINE
+{Body-HandsOpen}{NormalC}J'avais un hamster. {ThinkingB}Une nuit, il a trouvé comment ouvrir la porte de sa cage, {NormalB}et quand je me suis réveillée, il avait mangé la moitié d'une boite de cookies.
+61)  LEE
+{HappyA}Je pense pas que ce soit tout à fait la même chose, Clém.
+62)  CLEMENTINE
+{ThinkingA}Ouais, c'est vrai. {ThinkingB}Maintenant, {FearB}c'est nous les cookies.
+63)  LEE
+Reste loin {ThinkingA} de la porte. {NormalC}Je vais voir comment entrer dans cette maison.
+64)  CLEMENTINE
+{Body-HandOnWrist}{FearB}Je suppose que c'est un {Body-HandsOpen}oui.
+65)  LEE
+{Body-B}{NormalC}Comment ca se présente ? {ThinkingA}Il y a un moyen d'entrer ?
+66)  KENNY
+{Body-A}{NormalC}Nan, ils ont dû nous entendre maintenant, {NormalB}avec tout le vacarme que nous faisons. {DisgustA}Celui qui était là a fait un très bon travail de fortification. {HappyA}Un bel endroit pour se terrer... {ThinkingA}si nous trouvons un moyen d'y entrer.
+67)  KENNY
+{Body-A}{ThinkingA}Toutes ces fenêtres sont bien barricadées, {AngryA}nous ne pouvons pas passer par là.
+68)  BEN
+{Body-A}{ThinkingB}La porte est fermée. {AngryA}Et elle est bien trop solide pour l'enfoncer.
+69)  LEE
+{Body-B}{ThinkingB}Tu pense que quelqu'un pourrait être encore à l'intérieur ?
+70)  LEE
+{Body-B}{ThinkingB}Qu'est-ce que c'est ? {ThinkingA}On dirait qu'il y a une sorte de chatière.
+296)  LEE
+{Body-B}{ThinkingB}Qu'est-ce que c'est ? {ThinkingA}On dirait qu'il y a une sorte de chatière.
+71)  KENNY
+[accusatory, to Ben] {Body-A}{DisgustA}Comment tu as pu ne pas la voir ?
+294)  KENNY
+[accusatory, to Ben] {Body-A}{DisgustA}Comment tu as pu ne pas la voir ?
+72)  BEN
+{Body-A} {ThinkingA}J'ai déjà essayé, elle est fermée aussi.
+297)  BEN
+{Body-A} {ThinkingA}J'ai déjà essayé, elle est fermée aussi.
+73)  KENNY
+{AngryA}Putain, qui a déjà entendu parler d'une chatière verrouillée ?
+295)  KENNY
+{AngryA}Putain, qui a déjà entendu parler d'une chatière verrouillée ?
+74)  OMID
+{Body-A}{PainA}Moi. {ThinkingA}Mon voisin en a une comme ça. C'est radiocommandée, {NormalB}le chien a un collier avec un puce et la porte s'ouvre uniquement quand il se présente devant.
+293)  OMID
+{Body-A}{PainA}Moi. {ThinkingA}Mon voisin en a une comme ça. C'est radiocommandée, {NormalB}le chien a un collier avec un puce et la porte s'ouvre uniquement quand il se présente devant.
+75)  KENNY
+{DisgustA}Sainte merde. {AngryA}On en apprend tous les jours.
+292)  KENNY
+{DisgustA}Quelle merde. {AngryA}On en apprend tous les jours.
+76)  BEN
+{NormalB}Bon bah, {NormalC}alors... {ThinkingA}Où est le chien ?
+77)  LEE
+On a juste besoin du collier...
+78)  LEE
+{Body-B}{NormalC}Vide. {ThinkingA}Ouais, cela aurait été {HappyA}trop facile.
+79)  LEE
+{Body-B}{NormalC}C'est vide.
+80)  LEE
+{Body-B}{ThinkingA}Une pelle peut toujours être utile.
+81)  LEE
+{Body-B}{DisgustA}On dirait que quelque chose a été enterré ici.
+82)  CLEMENTINE
+{Body-Stand}{FearB}Ca va ?
+83)  CHRISTA
+{Body-A}{WorriedA}J'ai dit que j'allais bien, d'accord ?
+84)  LEE
+[disgusted]{DisgustB} Aaaagh ! Bon sang !
+85)  BEN
+[turning away] {Body-A}{FearB}D'accord, c'est PAS cool.
+86)  CHRISTA
+{Body-A}{SadB}Je vais bien, ma puce.{DisgustA} C'est l'odeur, c'est tout.
+87)  OMID
+{Body-A}{FearB}Tu est sûr que-
+88)  OMID
+{Body-A}{FearA}Hé, attention. Déterrer des trucs {ThinkingA}morts n'est plus ce que c'était autrefois, {FearA}vous voyez ce que je veux dire ?
+286)  OMID
+{Body-A}{FearA}Hé, attention. Déterrer des trucs {ThinkingA}morts n'est plus ce que c'était autrefois, {FearA}vous voyez ce que je veux dire ?
+89)  LEE
+Fait ce que je {SadA}dis, d'accord ?
+90)  BEN
+{Body-A}{DisgustA}Oh merde, ça pue.
+91)  LEE
+{Body-B}{FearA}Ouais, Je comprends.
+287)  LEE
+{Body-B}{FearA}Ouais, Je comprends.
+92)  CLEMENTINE
+{Body-Stand}{FearA}Qu'est-ce qui est enterré ?
+285)  CLEMENTINE
+{Body-Stand}{FearA}Qu'est-ce qui est enterré ?
+93)  LEE
+{Body-B}{NormalC}Rien. Clém, {ThinkingA}fais demi-tour et va t'assoir avec Christa et Omid, {HappyA}d'accord ?
+94)  CLEMENTINE
+{Body-Stand}{ThinkingA}Mais je veux-
+95)  LEE
+{Body-B}{ThinkingA}On dirait que le collier est encore dessus.
+96)  LEE
+{DisgustA}Agh... Je ne peux pas l'enlever.
+97)  LEE
+{Body-B}{ThinkingA}Il n'y a pas moyen que je puisse la faire passer à travers ça.
+98)  CLEMENTINE
+{Body-Stand}{HappyC}Ta-da !
+99)  BEN
+{FearB}Fais attention...
+100)  CHRISTA
+[urgently/worried] {Body-A}{WorriedA}Quoique vous fassiez, faites-le rapidement...
+101)  LEE
+{AngryA}D'accord, laissez-moi voir si je peux l'atteindre...
+102)  LEE
+[straining] {AngryC}Uugh... ça marche pas, {ThinkingA}J'arrive pas à l'avoir.
+103)  BEN
+{AngryA}Attends, laisse-moi essayer. {ThinkingA}Je pense que je-
+104)  LEE
+[beside himself] {Body-B}{FearC}Clém ! {AngryC}Nom de Dieu, reviens ici ! {FearD}Clémentine !
+105)  BEN
+{Body-A}{ThinkingA}Tu vois quelque chose à l'intérieur ?
+106)  LEE
+{Body-B}{normalB}Non. {ThinkingA}Ca a l'air abandonné depuis un moment.
+107)  LEE
+{Body-B}{ThinkingA}Voyons voir ça...
+108)  KENNY
+[jubilant] {Body-A}{HappyB}Oui ! {HappyC}Bordel !
+109)  
+Ne refait jamais ça !
+110)  
+Bien joué, Clém !
+111)  
+Tu aurais dû me demander d'abord.
+112)  LEE
+{AngryB}Ce n'est pas le problème, c'était dangereux et stupide ! {FearB}Tu ne savais pas ce qui pouvait être là-dedans !
+113)  LEE
+[angry] {Body-B}{AngryC}Ne refait {FearB}jamais ça !
+114)  CLEMENTINE
+{Body-Stand}{SadC}Je voulais aider, c'est tout !
+115)  CHRISTA
+{body-A}{AngryB}Vous êtes un peu dur avec elle, vous croyez pas ?
+116)  OMID
+{Body-A}{FearB}On pourrait peut-être avoir cette conversation à l'intérieur ? {PainA}Ma jambe commence à me faire un mal de chien.
+126)  OMID
+{Body-A}{FearB}On pourrait peut-être avoir cette conversation à l'intérieur ? {PainA}Ma jambe commence à me faire un mal de chien.
+127)  OMID
+{Body-A}{FearB}On pourrait peut-être avoir cette conversation à l'intérieur ? {PainA}Ma jambe commence à me faire un mal de chien.
+117)  KENNY
+{Body-A}{ThinkingA}Ca a l'air bon, entrez.
+118)  BEN
+{Body-A}{HappyB}ouais, allons-y.
+119)  LEE
+[impressed] {Body-B}{HappyC}Bien joué, Clém !
+120)  CLEMENTINE
+{Body-Stand}{HappyB}J'ai bien fait, hein ?
+121)  LEE
+{HappyB}Oui. {HappyA}Tu as bien fait.
+122)  LEE
+{Body-B}{HappyA}Bon travail, Clém. {ThinkingA}Mais ne refait plus ça sans me demander d'abord, d'accord?
+123)  CLEMENTINE
+{Body-HandOnWrist}{SadB}Je voulais aider.
+124)  LEE
+{SadA}Je sais. {HappyA}Et tu as bien fait. {NormalD}Tu m'as simplement fait mourrir d'inquiétude pendant une minute.
+125)  CLEMENTINE
+[worried] {Body-Stand}{SadA}Quoi ? {Body-HandOnWrist}{DisgustA}Je suis en danger ?
+128)  
+Ouvrir
+130)  
+Ouvrir
+142)  
+Ouvrir
+213)  
+Ouvrir
+129)  
+Cogner
+131)  
+Cogner
+133)  
+Cogner
+216)  
+Cogner
+217)  
+Cogner
+218)  
+Cogner
+261)  
+Cogner
+262)  
+Cogner
+132)  
+Regarder
+135)  
+Regarder
+144)  
+Regarder
+197)  
+Regarder
+198)  
+Regarder
+212)  
+Regarder
+215)  
+Regarder
+258)  
+Regarder
+134)  LEE
+{Body-B}{SadA}Devinez ce qui fut sa maison.
+136)  
+Prendre
+199)  
+Prendre
+214)  
+Prendre
+137)  LEE
+{Body-B}{SadA}Il devait appartenir à cette famille.
+200)  LEE
+{Body-B}{SadA}Il devait appartenir à cette famille.
+138)  
+Creuser
+139)  OMID
+[quietly wincing from pain] {Body-A}{PainA}Ahhh...
+140)  CHRISTA
+[quietly to Omid]{Body-A}{SadB}Désolé, mon lapin. {WorriedA}Nous pourrons la désinfecter dès que nous serons à l'intérieur.
+141)  KENNY
+[quitely frustrated] {Body-A}{AngryB}Nom de Dieu, {angryA}cet endroit est fermés hermétiquement.
+143)  
+Déverrouiller
+145)  
+Déverrouiller
+146)  CHRISTA
+[straining]Bon sang Lee, vous ne m'aidez pas !
+147)  CHRISTA
+[pickup2]{Body-A}{AngryA}Ca ne sera pas très long avant que ces choses comprennent où nous sommes. {FearB}Vous savez bien qu'elles peuvent sentir l'odeur du sang !
+148)  
+Fais nous entrer à l'intérieur !
+149)  
+Je vais chercher un moyen d'entrer.
+150)  
+Arrêtez  !
+152)  
+Reste à l'écart.
+153)  
+C'est là-dedans depuis un bout de temps.
+154)  
+Je ne sais pas.
+155)  
+Nom de Dieu, reviens ici !
+156)  
+Ca va ?
+157)  
+Qu'est-ce que tu vois ?
+158)  LEE
+[beside himself]{Body-B}{FearC} Clém ! {SadB}Ca va ? {FearB}Dit quelque chose !
+159)  LEE
+[calling out] {Body-B}{FearC}Clém ! {FearB}Qu'est-ce que tu vois à l'intérieur ?
+160)  KENNY
+{Body-A}{AngryB}Je vais voir la porte !
+161)  CHRISTA
+[frantic] {AngryA}Eh bien, vous pourriez faire plus vite {AngryB}?
+162)  LEE
+{Body-B}{AngryB}Arrêtez vous deux ! {DisgustB}Vous allez en ameuter encore plus sur nous ! [calming down]{AngryA}Je vais voir si je peux trouver un moyen d'entrer.
+163)  KENNY
+{Body-A}{AngryB}Lee, au lieu de rester là comme un putain muet, {AngryC}peut-être pourrait-tu nous donner un coup de main ici !
+164)  LEE
+{Body-B}{NormalC}Il y a pas moyen de la forcer. {ThinkingA}Pas sans faire beaucoup de bruit du moins.
+165)  LEE
+{Body-B}{ThinkingB}Il doit bien y avoir un moyen pour entrer là-dedans...
+166)  LEE
+{Body-B}{AngryA}On dirait qu'elle est verrouillée de l'intérieur.
+259)  LEE
+{Body-B}{AngryA}On dirait qu'elle est verrouillée de l'intérieur.
+167)  LEE
+{Body-B}{DisgustA}Ouais, toujours verrouillée. {NormalC}C'est pas le meilleur endroit de toute façon. {ThinkingA}Faudrait probablement mieux essayer la maison.
+260)  LEE
+{Body-B}{DisgustA}Ouais, toujours verrouillée. {NormalC}C'est pas le meilleur endroit de toute façon. {ThinkingA}Faudrait probablement mieux essayer la maison.
+168)  LEE
+{Body-B}{ThinkingA}Cela s'ouvrirait peut-être si on pouvait couper le courant.
+169)  OMID
+{Body-A}{SickA}il n'y a rien a couper, ça marche sur batterie. {ThinkingA}Et je ne pense pas qu'on puisse attendre dans le coin qu'elle se vide.
+170)  LEE
+{Body-B}{ThinkingA}C'est notre seul moyen d'entrer... {ThinkingB}si nous pouvions trouver une façon de l'ouvrir.
+171)  OMID
+{Body-A}{FearA}Hé, vous pourrez pas enfoncer cette saleté. {ThinkingA}Du moins pas sans faire un bordel monstre {AngryA}dont on a pas besoin.
+192)  OMID
+{Body-A}{FearA}Hé, vous pourrez pas enfoncer cette saleté. {ThinkingA}Du moins pas sans faire un bordel monstre {AngryA}dont on a pas besoin.
+193)  OMID
+{Body-A}{FearA}Hé, vous pourrez pas enfoncer cette saleté. {ThinkingA}Du moins pas sans faire un bordel monstre {AngryA}dont on a pas besoin.
+280)  OMID
+{Body-A}{FearA}Hé, vous pourrez pas enfoncer cette saleté. {ThinkingA}Du moins pas sans faire un bordel monstre {AngryA}dont on a pas besoin.
+281)  OMID
+{Body-A}{FearA}Hé, vous pourrez pas enfoncer cette saleté. {ThinkingA}Du moins pas sans faire un bordel monstre {AngryA}dont on a pas besoin.
+282)  OMID
+{Body-A}{FearA}Hé, vous pourrez pas enfoncer cette saleté. {ThinkingA}Du moins pas sans faire un bordel monstre {AngryA}dont on a pas besoin.
+172)  OMID
+Hé, vous pourrez pas enfoncer cette saleté. Du moins pas sans faire un bordel monstre dont on a pas besoin.
+173)  OMID
+Hé, vous pourrez pas enfoncer cette saleté. Du moins pas sans faire un bordel monstre dont on a pas besoin.
+174)  LEE
+{Body-B}{ThinkingA}Je peux pas continuer de m'acharner sur cette chose, {FearA}ca fait beaucoup trop de bruit.
+283)  LEE
+{Body-B}{ThinkingA}Je peux pas continuer de m'acharner sur cette chose, {FearA}ca fait beaucoup trop de bruit.
+284)  LEE
+{Body-B}{ThinkingA}Je peux pas continuer de m'acharner sur cette chose, {FearA}ca fait beaucoup trop de bruit.
+175)  LEE
+{Body-B}{NormalB}C'est une niche.
+176)  LEE
+{Body-B}{ThinkingA}J'en ai plus besoin. {DisgustA}J'ai assez déterré de chiens morts pour aujourd'hui.
+177)  LEE
+{Body-B}{DisgustB}Ugh... Humf. Ca pue la mort.
+219)  LEE
+{Body-B}{DisgustB}Ugh... Humf. Ca pue la mort.
+178)  LEE
+{Body-B}{ThinkingA}Laisse-moi voir si je peux nous trouver un moyen d'entrer.
+179)  CHRISTA
+{Body-A}{ThinkingA}Clémentine, {FearA}ma chérie, viens t'assoir avec {HappyA}moi et Omid, laisse travailler Lee.
+194)  CHRISTA
+{Body-A}{ThinkingA}Clémentine, {FearA}ma chérie, viens t'assoir avec {HappyA}moi et Omid, laisse travailler Lee.
+195)  CHRISTA
+{Body-A}{ThinkingA}Clémentine, {FearA}ma chérie, viens t'assoir avec {HappyA}moi et Omid, laisse travailler Lee.
+180)  CLEMENTINE
+{Body-Stand}{DisgustA}Ouf, je peux le sentir d'ici. Dégoûtant !
+181)  LEE
+{Body-B}{ThinkingA}Quoique ce soit,{DisgustA} c'est là depuis un bon moment.
+182)  CHRISTA
+Clémentine, ma chérie, viens t'assoir avec moi et Omid, laisse travailler Lee.
+184)  CHRISTA
+Clémentine, ma chérie, viens t'assoir avec moi et Omid, laisse travailler Lee.
+183)  LEE
+{Body-B}{ThinkingA}Je ne sais pas encore...
+185)  CHRISTA
+[pickup2]{Body-A}{AngryA}Pas génial, tant que nous sommes coincés ici. {AngryB}Pouvez-vous s'il vous plaît trouver un moyen de nous faire entrer à l'intérieur ?
+186)  LEE
+{Body-B}{ThinkingA}Comment vous allez ?
+187)  LEE
+{Body-B}{ThinkingA}Des progrès avec cette porte ?
+288)  LEE
+{Body-B}{ThinkingA}Des progrès avec cette porte ?
+290)  LEE
+{Body-B}{ThinkingA}Des progrès avec cette porte ?
+188)  KENNY
+[irritated] {Body-A}{DisgustA}Non. Tu sais ca irait peut-être plus vite si tu arrêtais de le demander {AngryB}et éventuellement si tu nous filais un coup de main.
+289)  KENNY
+[irritated] {Body-A}{DisgustA}Non. Tu sais ca irait peut-être plus vite si tu arrêtais de le demander {AngryB}et éventuellement si tu nous filais un coup de main.
+291)  KENNY
+[irritated] {Body-A}{DisgustA}Non. Tu sais ca irait peut-être plus vite si tu arrêtais de le demander {AngryB}et éventuellement si tu nous filais un coup de main.
+189)  CLEMENTINE
+{Body-Stand}{SadA}On va bientôt pouvoir entrer ?
+190)  CLEMENTINE
+{ThinkingA}J'espère {Body-X}bien. Il commence à faire froid ici.{Body-Stand}
+191)  LEE
+{Body-B}{HappyA}Ouais, ca ne devrait plus être très long.
+196)  
+Pelle
+206)  
+Pelle
+201)  
+Porte
+202)  
+House <<id:314589440>>Door
+203)  
+Porte de la Maison
+204)  
+Chatière
+205)  
+Niche
+207)  
+Tas de Terre
+208)  
+Grille
+209)  
+Tombe
+210)  
+Porte du Cabanon
+211)  LEE
+{Body-B}{ThinkingA}Peux pas retourner là-bas. {FearB}Les rues sont pleines de marcheurs.
+220)  KENNY
+[pickup][slight urgency]{Body-A}{ThinkingA}La porte est fermée à double tour. Elle est trop solide pour l'enfoncer sans faire un vacarme d'enfer.
+221)  
+Bye.
+253)  
+Bye.
+222)  
+Tu tiens le coup ?
+226)  KENNY
+[pickup][distracted, slight urgency]{Body-A}{ThinkingA}Lee, j'apprecie ta solicitude, {AngryA}mais je crois pas que parler des mes état d’âme maintenant va beaucoup nous aider pour entrer dans cette maison.
+227)  LEE
+[pickup][concern] {Body-B}{SadA}Hé. Tu tiens le coup, mon pote ?
+228)  LEE
+[pickup][slight urgency, not casual]{Body-B}{ThinkingA}Je crois que je vais aller faire un tour.
+229)  KENNY
+[pickup][distracted]{Body-A}{AngryA}Pourquoi ne pas voir si tu peux aider Ben ou autre chose ?
+230)  KENNY
+[pickup]{Body-A}{ThinkingA}Tu devrais aller faire un tour. {AngryA}Voir ce que tu peux trouver.
+231)  KENNY
+[pickup][slight urgency]{AngryA}Eh bien, si il y en a un, je l'ai pas vu.
+232)  LEE
+[pickup][slight urgency]{ThinkingA}Il y a peut-être un meilleur moyen d'entrer.
+233)  LEE
+[pickup][slight urgency, not casual]Ben ?
+234)  
+Nous pouvons atteindre les fenêtres ?
+300)  
+Nous pouvons atteindre les fenêtres ?
+235)  LEE
+[pickup][slight urgency, not casual]{Body-B}{ThinkingA}Tu pense que nous pouvons entrer par une de ces fenêtres ?
+236)  LEE
+[pickup][slight urgency, not casual]{NormalC}Ouais... ça a l'air solide.
+237)  BEN
+[pickup][slight urgency]{Body-A}{ThinkingA}Je pense pas. {NormalB}Celui a qui appartient cet endroit les a toutes barricadées.
+238)  
+Tu vas bien ?
+301)  
+Tu vas bien ?
+239)  LEE
+[pickup][stern]{Body-B}{ThinkingA}Tu vas bien ?
+240)  LEE
+[pickup][quietly, we shouldn't be talking about this right now]{AngryA}Ben... {FearA}pas maintenant, compris ?
+241)  BEN
+[pickup]{Body-A}{ThinkingA}Je repensais simplement à... {SadA}tu sais... [hushed]{SadB}Ce que j'ai fais au motel...
+242)  BEN
+[pickup][hushed]{FearB}{Body-A}Je sais, je sais... crois moi, {FearA}Je ne veux pas t'énerver comme je l'ai fait sur le train. {SadB}Je veux que tu saches que je suis désolé, hein ?
+248)  BEN
+[pickup][hushed]{FearB}{Body-A}Je sais, je sais... crois moi, {FearA}Je ne veux pas t'énerver comme je l'ai fait sur le train. {SadB}Je veux que tu saches que je suis désolé, hein ?
+243)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}Je sais, je sais. {SadA}Tu ne veux pas me parler de ça. Mais... [frustrated]{SadB}Oublie ça.
+249)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}Je sais, je sais. {SadA}Tu ne veux pas me parler de ça. Mais... [frustrated]{SadB}Oublie ça.
+244)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}Je sais... [looks over to Kenny]{SadB}On pourra en parler plus tard.
+250)  BEN
+[pickup][hushed]{Body-A}{ThinkingA}Je sais... [looks over to Kenny]{SadB}On pourra en parler plus tard.
+245)  
+A propos de Kenny...
+246)  LEE
+[pickup][hushed, neutral towards Ben]{Body-B}{ThinkingA}Tu pense que Kenny va tenir le coup ?
+247)  BEN
+[pickup][hushed]{Body-A}{SadA}Je ne sais pas. {FearA}C'est... {ThinkingA}c'est comme si tout ce qui comptait pour lui est de trouver un bateau. {NormalB}Il ne veut surtout pas parler de Katjaa et Duck. {SadA}Du moins avec moi.
+251)  LEE
+[pickup][hushed, very cold]{Body-B}{AngryB}Ouais eh bien, Je me dis que c'est probablement pour le mieux.
+252)  LEE
+[pickup][hushed]{Body-B}{SadB}on devrait peut-être simplement le laisser gérer ça comme il veut.
+254)  LEE
+[pickup][slight urgency, not casual]{Body-B}{ThinkingA}Je vais aller vérifier quelques trucs.
+255)  BEN
+[pickup]{Body-A}{ThinkingA}Très bien.
+256)  BEN
+[pickup]{Body-A}{ThinkingA}Eh bien... {SadA}Je vais continuer de chercher si je peux trouver un moyen d'entrer.
+257)  
+Fenêtres à Barricadées
+263)  LEE
+[pickup][to himself, realizing the windows are too secure]Merde...
+264)  
+Fontaine
+265)  LEE
+[pickup][to himself, seeing some nasty water in a fountain]J'ai pas assez soif pour boire ça.
+266)  OMID
+[pickup] [in great pain] Aaaargh ! (this can probably be the same aaaargh from when he cuts his leg on the gate.)
+267)  CHRISTA
+[pickup] Omid ! Ca va aller chéri. Allez, on y est presque.
+268)  CHRISTA
+[pickup] [urgent/worried] Merde, ca va s'infecter. Nous devons entrer à l'intérieur pour nettoyer sa jambe !
+269)  CHRISTA
+[pickup] [concerned] Tu as ouvert ta blessure, tu saigne !
+271)  LEE
+[pickup] [stern, slightly pissed] {Body-B}{ThinkingA}Au sujet de ce qui s'est passé dans la rue...
+272)  BEN
+[pickup] {Body-A}{SadA}Je sais. {FearA}Je sais ce qui s'est passé. j'étais... tétanisé. {ThinkingA}Ca ne t'es jamais arrivé ?
+273)  BEN
+[pickup] {FearB}Compris.
+274)  LEE
+[pickup] [deadly serious]{AngryA}Ecoute simplement ce que je te dis. {AngryB}Mets cette fillette une fois de plus en danger, et ce ne sera pas des marcheurs dont tu auras à te soucier.
+277)  LEE
+[pickup][slight urgency]{Body-B}{DisgustA}Pense pas que je veuille commencer à déterrer dieu-sait-quoi jusqu'à ce que nous trouvions un moyen d'entrer dans cette maison.
+278)  
+Omid et Christa
+279)  
+Pile d'Ordures
+298)  
+Tu crois qu'il y a quelqu'un là-dedans ?
+299)  
+Comment ça se présente ?
+302)  
+Au sujet de Clémentine...
+303)  
+Carcasse

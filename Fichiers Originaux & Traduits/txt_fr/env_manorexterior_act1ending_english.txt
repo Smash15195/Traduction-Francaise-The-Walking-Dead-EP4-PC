@@ -1,0 +1,338 @@
+1)  
+Regarder
+2)  
+Bury
+3)  CHRISTA
+{WorriedA} Lee ? Qu'est-ce qu'il se passe ?
+4)  LEE
+[shouting, aggressive] {AngryB} Vous restez loin de nous, compris ?
+5)  
+C'est rien, juste un chien errant.
+6)  
+Quelqu'un nous regarde.
+7)  
+J'ai cru voir quelque chose.
+8)  
+Silence
+94)  
+Silence
+9)  BEN
+{AngryA} Ca ressemblait pas à rien. {ThinkingA}Qu'est-ce que c'était ?
+10)  LEE
+{NormalC} Rien.
+11)  LEE
+C'est juste un chien errant qui tournait autour de la grille, je l'ai chassé. {NormalB} J'y retourne, j'ai presque fini.
+12)  CHRISTA
+[skeptical] {ThinkingA} Juste un chien, {AngryA} c'est beaucoup dire.
+13)  LEE
+{NormalC} J'ai vu quelqu'un debout près de la clôture. {AngryA} Il nous regardait.
+14)  BEN
+{FearB} Un marcheur ?
+15)  LEE
+{ThinkingA} Non, trop rapide. {AngryB} Il a décollé comme une saloperie de chauve-souris quand je l'ai repéré.
+16)  CHRISTA
+{ThinkingA} C'était un homme ou une femme ?
+17)  LEE
+{ThinkingA} J'ai pas eu le temps de voir.
+18)  BEN
+{FearA} Qu'est-ce que ça peut faire ?
+19)  CHRISTA
+{AngryA} Je me demande si c'est le même gars qui nous suit. {NormalB} Le gars de la radio.
+20)  LEE
+{NormalD} J'ai cru voir quelque chose de l'autre coté de la clôture.
+21)  CHRISTA
+{ThinkingA} Quelque choses ? {AngryA}ou quelqu'un ?
+22)  LEE
+{ThinkingA} J'ai pas eu le temps de voir. {NormalB} La façon dont ils se sont déplacés, {NormalC}bien trop rapide pour être un marcheur.
+23)  CHRISTA
+{FearA} Cela pourrait être le gars qui nous suit ? La voix de la radio ?
+24)  LEE
+{ThinkingA} J'en sais rien, Ils n'ont rien dit. Ils se tenait là, {ThinkingB} a observer. {AngryA}Sacrément flippant.
+25)  CHRISTA
+{FearA} Quoi, Lee ? {AngryA} Après quoi étiez-vous en train de crier ?
+26)  BEN
+{FearA} Lee ?
+27)  KENNY
+[still emotional, trying to act strong]{ThinkingA} C'est quoi tout ce boucan ?
+28)  KENNY
+{AngryA} Eh bien, il vaut mieux se préparer. {NormalC} Parce que je pars maintenant pour River Street, {AngryB} trouver un bateau. Dès qu'elle est prête, {AngryA} on bouge.
+29)  CHRISTA
+[skeptical] {AngryA} Apparemment Lee a des conversations avec des chiens. {ThinkingA} Faut qu'on s'inquiéte ?
+30)  LEE
+[covering his lie]C'était juste un chien errant qui rôdait, c'est rien.
+31)  BEN
+{NormalC} Peu importe ce que c'était, tu avais l'air d'avoir peur.
+163)  BEN
+{NormalC} Peu importe ce que c'était, tu avais l'air d'avoir peur.
+32)  CHRISTA
+{SadA} Je ne sais pas si Omid va assez bien pour repartir encore une fois.
+33)  KENNY
+{ThinkingA} Nous sommes tous un peu effrayé. {AngryA} Raison de plus pour descendre à la rivière, trouver un bateau, {AngryB} et foutre le camps d'ici.
+164)  KENNY
+{ThinkingA} Nous sommes tous un peu effrayé. {AngryA} Raison de plus pour descendre à la rivière, trouver un bateau, {AngryB} et foutre le camps d'ici.
+34)  KENNY
+{AngryB} D'accord, c'est fini. {AngryA} Nous sommes coincé ici depuis assez longtemps. Il est temps de se remettre en route, temps de {ThinkingA} descendre à la rivière et de se trouver un bateau.
+35)  BEN
+{FearB} Je n'aime pas ça du tout. Mais pas du tout.
+36)  KENNY
+[alarmed] {FearA} Quoi ? {ThinkingA} Qui ?
+37)  CHRISTA
+{FearA} Moi non plus. {NormalB} Les marcheurs sont une chose, mais la {AngryA}pensée que quelqu'un là-bas nous traque...
+38)  LEE
+{ThinkingA} Je ne peux pas en être sûr, ils se sont enfuient avant que je puisse bien voir.
+39)  BEN
+{FearA} Lee a vu quelqu'un nous regarder de l'extérieur de la grille.
+40)  BEN
+{FearA} Lee pense avoir vu quelqu'un là-bas, en train de nous espionner.
+41)  KENNY
+Tu es bien sûr qu'il ne s'agissait pas seulement d'un rôdeur ?
+42)  LEE
+[shaking his head] Bien trop rapide.
+43)  KENNY
+{ThinkingA} C'est peut-être ce putain de sonneur de cloche...
+44)  BEN
+{FearA} Les gars, Vous vous rappellez quand les marcheurs étaient ce dont nous avions le plus peur ? {SadA} Ceux qui apparaîssaient comme au bon vieux temps.
+45)  KENNY
+{AngryA} Au diable tout ça. Je ne vais pas laisser {AngryB} qui que ce soit nous empêcher d'avoir notre bateau. {ThinkingA} Nous sommes enfermé ici depuis bien assez longtemps, {AngryB} Je pars pour River Street.
+46)  LEE
+Je ne sais plus, je suis fatigué. Ma tête me joue des tours, c'est tout.
+47)  CHRISTA
+{NormalB} Il sait ce qu'il a vu, {AngryA}il ne veut simplement pas nous le dire. {AngryB} Lee, qu'est-ce qui {FearA}se passe dehors ?
+48)  LEE
+J'en sais rien.
+49)  KENNY
+{AngryA} D'accord, c'est bon. Nous sommes enfermés ici depuis moins d'une heure et on pète déjà les plombs.{AngryB}  Il est temps de se remettre en route, temps de {ThinkingA} descendre à la rivière et de se trouver un bateau.
+50)  LEE
+[intense] {NormalC} Tu as entendu ce que j'ai dit ? {AngryA} Quelque chose ou quelqu'un.
+51)  BEN
+{HappyA} Je vais prendre mes affaires.
+52)  KENNY
+{ThinkingA} Bon alors, {AngryA}qu'est-ce qu'on attend ?
+53)  LEE
+{NormalB} Voilà ce qui va se passer. La façon dont je le vois, vous avez le boulot le plus important de nous tous. Je laisse Clémentine a vos soins. {NormalC} Vous comprenez ce que cela signifie?
+54)  KENNY
+{NormalC} Non. Ben, tu ne feras que nous ralentir. Lee et moi allons partir en éclaireur tandis que vous autres, vous vous préparez à partir. {AngryA} Tu reste ici avec Christa et Omid.
+91)  KENNY
+{NormalC} Non. Ben, tu ne feras que nous ralentir. Lee et moi allons partir en éclaireur tandis que vous autres, vous vous préparez à partir. {AngryA} Tu reste ici avec Christa et Omid.
+55)  LEE
+{NormalB} Je suis d'accord avec Kenny, {NormalD} plus tôt on foutera le camp d'ici, mieux ce sera.
+56)  LEE
+{Body-F}{NormalD} Clém, ma puce. je crois qu'il vaudrait mieux que tu reste ici avec Ben. {NormalB}J'ai besoin que tu veille sur Omid et Christa, aide-les à être prêt quand il le faudra.
+57)  CLEMENTINE
+[a little upset] Tu as dit que j'étais censé {SadB}rester toujours à coté de toi.
+58)  LEE
+{NormalD} Je sais. {NormalB} C'est uniquement pour cette fois. Parfois, on doit prendre sur soi pour le bien du groupe. {HappyA} Hé, ne tinquiète pas. Je serais de retour en une rien de temps. D'accord ?
+59)  KENNY
+{ThinkingA} Le jour se lève. {NormalC} je vais prendre mes affaires et nous pourrons partir.
+137)  KENNY
+{ThinkingA} Le jour se lève. {NormalC} je vais prendre mes affaires et nous pourrons partir.
+139)  KENNY
+{ThinkingA} Le jour se lève. {NormalC} je vais prendre mes affaires et nous pourrons partir.
+141)  KENNY
+{ThinkingA} Le jour se lève. {NormalC} je vais prendre mes affaires et nous pourrons partir.
+144)  KENNY
+{ThinkingA} Le jour se lève. {NormalC} je vais prendre mes affaires et nous pourrons partir.
+146)  KENNY
+{ThinkingA} Le jour se lève. {NormalC} je vais prendre mes affaires et nous pourrons partir.
+60)  CLEMENTINE
+{NormalB} Attends, je peux venir ? {ThinkingA} Ma maman et mon papa ne devrait plus être très loin, {NormalB} On pourrait peut-être les rechercher sur la route.
+61)  CHRISTA
+Donc vous partez en nous laissant dernière vous, avec... ce type qui était à la radio dehors ?
+62)  LEE
+Nous avons pas franchement le choix, Christa. On peux pas rester ici. Le plan a toujours été de prendre ce bateau, cela n'a pas changé. Vous serez en sécurité jusqu'à ce que nous revenions.
+63)  LEE
+{NormalC} Génial.
+155)  LEE
+{NormalC} Génial.
+64)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+113)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+138)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+140)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+142)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+143)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+145)  CHRISTA
+{NormalB} Viens Clém, allons voir si Omid a besoin de quelque chose.
+65)  BEN
+[pickup][frustrated]Alors, tu vas me laisser sur la touche ici ?
+66)  BEN
+[unsure] {FearA} Je crois.
+67)  LEE
+[deadly serious] {NormalC} Très bien, juste pour que les choses soient claires. Dès que je serais parti, si quelque chose ou quelqu'un tente de pénétrer à l'intérieur de cette maison, {AngryA} tu lui tire dessus sans y réfléchir à deux fois. {AngryB} Compris ?
+68)  BEN
+{AngryA} Je n'ai aucun problème pour tirer sur des marcheurs.
+69)  
+Plus tôt nous partirons mieux ce sera.
+70)  
+Ce n'est encore pas sûr.
+71)  LEE
+{NormalD} Je ne sais pas si c'est sûr de partir tout de suite.
+72)  KENNY
+{AngryA} Et pourquoi pas ? {NormalC}Les marcheurs ont l'air d'être partis.
+73)  LEE
+{FearA} Ce n'est pas pour ça que je suis inquiet.
+74)  KENNY
+{AngryA} Donc, tu préfére tout simplement te replier ici et laisser celui qui est dehors nous garder en cage ? {ThinkingA} Attendre qu'ils nous affament ? {NormalC} Non merci.
+75)  CHRISTA
+{AngryA} J'aime pas dire ça, {NormalB}mais Kenny a raison. Omid n'est pas en grande forme pour voyager, mais {FearA}on ne peut rien faire pour lui ici. {NormalB} Sans médocs ou un docteur, {SadA}il ne pourra aller que plus mal.
+76)  LEE
+{NormalC} Très bien, très bien. {NormalB} Je vais partir avec Kenny trouver un bateau pendant que vous préparez Omid à partir.
+77)  KENNY
+{AngryB} Qu'est-ce qu'il y a encore ?
+78)  LEE
+{ThinkingA} Rien de précis. {NormalD} Je le sens mal, c'est tout.
+79)  BEN
+{HappyA} Eh bien, j'en ai déjà eu un, {FearA}depuis que les morts ont commencé à se relever et manger les gens.
+80)  KENNY
+{NormalC} Nous en avons déjà trop fait pour abandonner maintenant. {ThinkingA} Je pars pour la rivière nous sécuriser un bateau. {AngryA} Maintenant tu viens avec moi ou tu préféres rester ici et entretenir {ThinkingA} ton mauvais présentiment ?
+81)  LEE
+{NormalC} Très bien, très bien. J'arrive.
+82)  
+Regardons pour des provisions.
+83)  LEE
+Peut-être que nous devrions fouiller la maison avant de l'abandonner.
+84)  KENNY
+On a déjà fouillé. Celui qui était là avant nous à tout pris.
+85)  LEE
+{NormalD} Nous avons simplement vérifié si la maison était sûre, {NormalC} on a pas réellement fouillé. On manque de nourriture, d'eau, de médicaments, de munitions... {ThinkingA} nous devons nous assurer qu'il n'y plus rien d'utile ici avant de partir.
+86)  KENNY
+{NormalC} Fouille si tu veux. Moi j'en ai fini avec cette barraque. {ThinkingA}Nous sommes venus dans cette ville pour trouver un bateau, et c'est exactement ce que je vais faire.
+87)  BEN
+{FearA} C'est peut-être pas une si mauvaise idée de fouiller l'endroit encore une-[cut off]
+88)  KENNY
+[interrupting/severe] {AngryC} J'AI DIT QUE J'EN AVAIS FINI AVEC CETTE BARRAQUE.
+89)  LEE
+{NormalD} Nous pouvons le faire à deux. {NormalB} Ben, tu jettes un dernier coup d'oeil, prends tout ce qui semble utile, tandis que moi et Kenny nous partons à la rivière pour nous trouver un bateau.
+90)  BEN
+{HappyA} Moi aussi.
+92)  BEN
+{FearA} Et pour moi ?
+93)  KENNY
+{NormalC}Tu vas rester ici avec le groupe. {ThinkingA} Vous ne feras que nous ralentir.
+95)  CHRISTA
+{AngryA} Lee ! {FearA} Dites quelque chose ! Dites lui que nous ne sommes pas encore prêt à partir ! {SadA} Omid peut à peine marcher !
+96)  KENNY
+{ThinkingA} Est-ce qu'il sera plus prêt à partir demain, après que sa blessure ait passée une jounée de plus à pourrir ? {AngryA} Sa meilleure chance - {ThinkingA} notre meilleure chance - {NormalC} est de foutre le camp d'ici avant que notre situation ne s'aggrave.
+97)  CHRISTA
+[to Lee] {SadA} Are you just gonna sit this one out?
+98)  BEN
+{FearA} Kenny a raison, Christa.  {NormalB} Plus tôt nous trouverons un autre endroit, mieux ce sera.
+99)  LEE
+Tout ira bien, Christa. River Street est à quelques blocs, Kenny et moi allons partir sécuriser un bateau. Ben peut rester ici et monter la garde pendant que vous préparerez Omid pour partir. Et si il le faut, nous le porterons jusqu'à la rivière.
+100)  LEE
+Je me range du coté de la majorité. Le plan a toujours été de trouver un bateau qui pourait nous emmener dans un endroit plus sûr qu'ici, c'est le truc dont nous avons le plus besoin que jamais.
+101)  CHRISTA
+{AngryA} Génial, ouais génial.
+102)  LEE
+[shouting, aggressive] {AngryA} Vous revenez ici, je vous tue ! {FearA} Compris ? {AngryC} je vous tue !
+103)  LEE
+[shouting] {FearA} Qui êtes-vous ? {AngryB}Qu'est-ce que vous voulez, putain ?!
+104)  
+Je vais vous tuer !
+105)  
+Rester loin de nous !
+106)  
+Qui êtes-vous ?
+107)  
+Muet
+108)  
+Reste ici et aide.
+110)  
+Certainement pas.
+114)  
+Nous devons nous concentrer sur le bateau.
+115)  
+Reste et protège Clémentine.
+116)  
+Sans vouloir te vexer Ben, mais...
+117)  
+Garde un oeil sur Omid.
+118)  LEE
+[calling out] {SurpriseA} Hé. Hé !
+119)  LEE
+{Body-F}{NormalB} Nous devons nous concentrer sur le bateau, Clém. {NormalD} Comme nous en avons parlé dans le train, souviens toi ?
+120)  CLEMENTINE
+[disappointed but accepting] {SadA} D'accord.
+127)  CLEMENTINE
+[disappointed but accepting] {SadA} D'accord.
+128)  CLEMENTINE
+[disappointed but accepting] {SadA} D'accord.
+131)  CLEMENTINE
+[disappointed but accepting] {SadA} D'accord.
+132)  CLEMENTINE
+[disappointed but accepting] {SadA} D'accord.
+133)  CLEMENTINE
+[disappointed but accepting] {SadA} D'accord.
+121)  
+Nous devons rester ensemble.
+122)  
+C'est pas possible pour le moment.
+123)  LEE
+{Body-F}{NormalD} C'est pas possible pour le moment.
+124)  LEE
+{Body-F}{NormalB} On le fera, mais pour {ThinkingA} le moment nous devons nous concentrer sur le bateau.
+125)  LEE
+{NormalD} Je sais, ma puce. J'ai pas oublié. {NormalB}Mais Savannah est plus dangereuse que ce que je pensais. {ThinkingA}Nous devons tous nous serrer les coudes et rester réunis.
+129)  LEE
+{NormalD} Je sais, ma puce. J'ai pas oublié. {NormalB}Mais Savannah est plus dangereuse que ce que je pensais. {ThinkingA}Nous devons tous nous serrer les coudes et rester réunis.
+126)  CLEMENTINE
+{SadA} Mais et ta promesse ? [discreetly] {NormalA} Tu as dit que ça allait être juste toi et moi.
+130)  CLEMENTINE
+{SadB} Mais tu as promis que nous les chercherions quand nous serions ici. Dans le train, tu l'as promis.
+134)  LEE
+{Body-F}{NormalC} Il n'y a aucune chance que je te laisse repartir dehors.
+135)  LEE
+{HappyA} Kenny et moi iront bien. {NormalB} Tu vas rester ici, en sécurité. {NormalC} N'insiste pas.
+136)  CLEMENTINE
+{AngryA} Mais je pourrais peut-être être utile !
+147)  LEE
+{NormalC} Je veux pas te vexer, Ben, mais je serais plus tranquille si tu restais ici.
+148)  BEN
+{SadA} Comment je devrais le prendre. {SadB} Qu'est-ce que je suis, un handicap ?
+149)  BEN
+{AngryB} Génial. c'est super. {AngryA}Merci beaucoup pour le vote de confiance.
+157)  BEN
+{AngryB} Génial. c'est super. {AngryA}Merci beaucoup pour le vote de confiance.
+150)  LEE
+{NormalC} La confiance se gagne, Ben. {NormalB}Et tu as un long chemin à parcourir pour gagner la nôtre après les trucs que tu as volé. {NormalC} Tu imprime ?
+151)  BEN
+[glumly accepting] {SadA} Ouais. j'imagine que tu as raison.
+152)  BEN
+[pickup][furstrated, sighs]Il a Christa pour ça.
+153)  LEE
+[intense] {NormalC} Si cela tourne mal, je ne peux pas compter sur Christa pour faire ce qui doit être fait. {NormalD} Pas avec Clémentine dans la même maison. {NormalC}Tu comprends ce que je dis ?
+154)  LEE
+{NormalD} Je suis inquiet pour Omid, il est en mauvais état. {NormalB} J'ai besoin que tu restes ici pour garder un oeil sur lui.
+156)  BEN
+[grim realization] {FearA} Ouais. Tu peux compter sur moi.
+158)  
+Tombe
+159)  
+Pelle
+162)  
+Pelle
+160)  
+Tas de Terre
+161)  
+Garçon
+165)  KENNY
+[pickup][still emotional, recovering from his  breakdown. take your time with this line]Je vais bien. C'est que... je vais bien. C'est quoi tout ce boucan ?
+166)  LEE
+[pickup]Ca marche pas comme ça, Ben. J'ai besoin que tu restes ici pour garder un oeil sur Clémentine.
+167)  BEN
+[pickup] [pissed off] Ouais. Ouais j'imprime.
+168)  BEN
+[pickup] Comment je devrais le prendre. Qu'est-ce que je suis, un handicap ?
+169)  BEN
+[pickup] [confident] Je peux faire ça.
+170)  LEE
+{fearA}Kenny ?
+171)  
+Terre
+172)  
+Placer Garçon dans

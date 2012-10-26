@@ -1,0 +1,360 @@
+1)  
+Christa l'a remarqué.
+2)  
+Christa a apprécié.
+10)  
+Christa a apprécié.
+3)  
+Kenny est énervé envers vous.
+4)  
+Vous avez cassé l'argument.
+5)  
+Clémentine se sent en danger.
+6)  
+Clémentine se sent en danger.
+7)  
+Clémentine a peur.
+8)  
+Christa est maintenant plus inquiète.
+9)  
+Omid a apprécié.
+11)  
+Clémentine se sent blessé.
+12)  
+Kenny est figé.
+13)  
+Kenny est figé.
+14)  
+Kenny est insensible.
+15)  
+Vous avez choisi de donner à Kenny une arme.
+16)  
+Vous avez choisi de le faire vous-même.
+17)  
+Vous avez aidé Kenny.
+18)  
+Vous choisissez de l'abandonner.
+19)  
+Vous choisissez de l'abandonner.
+20)  
+Vous avez dit à Ben de prendre soin d'elle.
+21)  
+Christa est sceptique.
+22)  
+Le groupe est maintenant plus paranoïaque.
+23)  
+Le groupe est maintenant plus paranoïaque.
+75)  
+Le groupe est maintenant plus paranoïaque.
+24)  
+Kenny pense que vous l'avez pas soutenu.
+25)  
+Kenny pense que vous l'avez pas soutenu.
+26)  
+Kenny apprécie votre soutien.
+27)  
+Kenny apprécie votre soutien.
+28)  
+Clémentine se souviendra de votre promesse.
+29)  
+Clémentine se souviendra de votre promesse.
+30)  
+Clémentine se sent négligée.
+31)  
+Vous mettez Ben en garde.
+32)  
+Vous avez fait confiance à Ben pour s'occuper de Clémentine.
+33)  
+Molly s'en souviendra.
+34)  
+Vous avez choisi de menacer l'homme.
+35)  
+Vous avez choisi de menacer l'homme.
+42)  
+Vous avez choisi de menacer l'homme.
+36)  
+Vous avez choisi de raisonner avec le groupe.
+37)  
+Vous gardez le silence.
+142)  
+Vous gardez le silence.
+38)  
+Vernon s'en souviendra.
+39)  
+Vernon s'en souviendra.
+44)  
+Vernon s'en souviendra.
+135)  
+Vernon s'en souviendra.
+136)  
+Vernon s'en souviendra.
+40)  
+Ils n'ont pas confiance en vous.
+41)  
+Ils ne vous crois pas.
+43)  
+Vous avez menacé Vernon.
+45)  
+Ben se sent coupable.
+46)  
+Christa apprécie votre préoccupation.
+47)  
+Vous avez choisi votre stratégie.
+48)  
+Vous avez proposé une stratégie.
+49)  
+Votre groupe est prêt.
+50)  
+Clémentine ne trouve pas ça réconfortant.
+51)  
+Clémentine comprend.
+52)  
+Clémentine se sent un peu encouragée.
+53)  
+Vous avez choisi de laisser Clémentine dans la maison.
+54)  
+Vous avez choisi de prendre Clémentine avec vous.
+55)  
+Vous avez choisi de cacher votre morsure.
+56)  
+Vous avez choisi de ne pas cacher votre morsure.
+57)  
+Vous avez choisi de dire la vérité au sujet de votre morsure.
+58)  
+Christa et Omid ont choisi de venir avec vous.
+59)  
+Christa et Omid ont choisi de venir avec vous.
+60)  
+Christa et Omid ont choisi de ne pas venir avec vous.
+61)  
+Vous dites à Kenny de se taire.
+62)  
+Kenny choisi d'aller avec vous.
+63)  
+Kenny choisi de ne pas se joindre à vous.
+64)  
+Kenny choisi de ne pas se joindre à vous.
+65)  
+Kenny has reconsidered. He will not come with you.
+66)  
+Vous avez choisi de ne prendre Ben.
+67)  
+Ben a choisi de rester en arrière.
+68)  
+Ben a choisi d'aller avec vous.
+69)  
+Vous avez encouragé Ben de partir avec vous.
+70)  
+Vous avez décider que Ben reste en arrière.
+71)  
+Ben a choisi de vous aider.
+72)  
+Christa vous fait moins confiance.
+73)  
+Christa vous fait moins confiance.
+74)  
+Vous avez choisi de mentir à Christa.
+76)  
+Clémentine se sent mieux.
+77)  
+Clémentine se sent mieux.
+78)  
+Clémentine se sent méprisée.
+79)  
+Vous rendez Clémentine nerveuse.
+80)  
+Vous rendez Clémentine nerveuse.
+81)  
+Ben s'en souviendra.
+82)  
+Vous avez voté pour donner un siège à Ben sur le bateau.
+83)  
+Vous avez voté pour Ben.
+84)  
+Vous avez voté contre Ben.
+85)  
+Vous vous êtes abstenus lors du vote.
+86)  
+Kenny n'a pas aimé ça.
+87)  
+Vous avez choisi de continuer à avancer.
+88)  
+Christa a remarqué votre silence.
+89)  
+Vous avez demandé Kenny attendre Omid.
+90)  
+Vous félicitez Clémentine.
+91)  
+Vous les avez rassurés.
+92)  
+Vous avez été honnête avec Omid.
+93)  
+Vous avez rassuré Omid.
+94)  
+Vous avez choisi de ne pas lui répondre.
+95)  
+Vous avez essayé de rassurer Christa.
+96)  
+Vous avez été honnête avec Christa.
+97)  
+Christa n'est pas rassurée.
+98)  
+Vous avez choisi de mentir.
+99)  
+Vous avez dit la vérité.
+144)  
+Vous avez dit la vérité.
+100)  
+Vous avez choisi de ne pas répondre Christa.
+101)  
+Vous n'avez rien dit.
+102)  
+Vous avez dit non à Clémentine.
+103)  
+Vous avez demandé à Clémentine de rester et d'aider les autres.
+104)  
+Vous avez demandé Clémentine d'attendre un peu plus longtemps.
+105)  
+Vous avez choisi de ne pas répondre à Clémentine.
+106)  
+Vous avez été complètement honnête avec eux.
+107)  
+Vous avez proposé une négociation.
+108)  
+Vous avez proposé une attaque.
+109)  
+Vous proposez de vous inflitrer dedans.
+110)  
+Vous avez choisi de garder le silence.
+111)  
+Vous avez été honnête avec Clémentine.
+152)  
+Vous avez été honnête avec Clémentine.
+112)  
+Vous avez demandé Clémentine de ne s'inquiéter.
+113)  
+Vous avez fait confiance à Clémentine pour l'arme.
+114)  
+Vous avez décidé de garder l'arme.
+115)  
+Le groupe a remarqué votre silence.
+116)  
+Kenny a remarqué votre silence.
+117)  
+Votre réponse a paniqué Ben.
+118)  
+Votre réponse a fait un peu peur à Clémentine.
+119)  
+Brie ne vous fait toujours pas confiance.
+120)  
+Molly apprécie votre sympathie.
+121)  
+Vous laissez Molly à son sort.
+122)  
+Vous avez sauvé la vie de Molly.
+123)  
+Vous n'avez pas sauvé Molly.
+124)  
+Vous avez tiré sur Molly !
+125)  
+Vous laissez Ben mourir.
+126)  
+Vous avez sauvé la vie de Ben.
+127)  
+Vous laissez Ben partir.
+128)  
+Vous avez laissé Molly derrière vous.
+129)  
+Vous avez été honnête au sujet de Molly.
+130)  
+Vous avez menti à Clémentine à propos de Molly.
+131)  
+Clémentine a remarqué que vous n'avez pas répondu.
+132)  
+Clémentine a entendu ce que Kenny a dit.
+133)  
+Vous avez menti à Vernon pour les médicaments.
+134)  
+Vous avez menti à propos de Clementine.
+137)  
+Vous avez choisi de les menacer.
+138)  
+Vous avez dit à Kenny de rester.
+139)  
+Vous avez donné à Ben une chance.
+140)  
+Vernon n'a pas apprécié ce que vous avez dit.
+141)  
+Brie apprécie votre soutien.
+143)  
+Vous avez fait confiance à Ben pour garder Omid.
+145)  
+Vous avez été honnête.
+146)  
+Vous avez choisi d'éluder la question.
+147)  
+Vous avez essayé de calmer les choses.
+148)  
+Votre silence a perturbé le groupe.
+149)  
+Vous avez demandé de l'aide.
+150)  
+Vous avez choisi de faire cavalier seul.
+151)  
+Vous avez menti à Clémentine.
+153)  
+Vous avez évité la question.
+154)  
+Vous étiez d'accord Vernon.
+155)  
+Vous avez fait taire Vernon.
+156)  
+Vous avez choisi de ne pas lui donner de réponse.
+157)  
+Le groupe n'est pas d'accord avec votre plan.
+158)  
+Vous avez proposé rester sur place, mais le groupe n'est pas d'accord.
+159)  
+Le groupe soutient votre plan.
+160)  
+Vous avez proposé une recherche, mais le groupe n'est pas d'accord.
+161)  
+Vous avez proposé une recherche, mais le groupe n'est pas d'accord.
+162)  
+Christa soutient votre plan.
+163)  
+Vous mettez gentillement en garde Clémentine.
+164)  
+Vous mettez Molly face a son mensonge.
+165)  
+Vous le laissez partir.
+166)  
+Vous avez laissé tomber le sujet.
+167)  
+Vous changez de sujet.
+168)  
+Vous n'avez rien dit à Molly sur son histoire.
+169)  
+Vous avez dit à Ben tout avouer.
+170)  
+Vous avez essayé d'arrêter Ben.
+171)  
+Vous laissez Ben continuer à parler.
+172)  
+Vous vous rangez du côté de Kenny.
+173)  
+Vous avez défendu Ben.
+174)  
+Vous avez essayé de calmer Kenny.
+175)  
+Vous avez répondu honnêtement à Molly.
+176)  
+Vous avez évité la question de Molly.
+177)  
+Vous avez interrogé Molly sans attendre.
+178)  
+Vous avez essayé de raisonner avec lui.
+179)  
+Ben s'est défendu lui-même.
+180)  
+Le bruit a alerté les marcheurs.

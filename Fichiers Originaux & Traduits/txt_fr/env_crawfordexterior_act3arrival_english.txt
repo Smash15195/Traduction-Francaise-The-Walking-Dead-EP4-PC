@@ -1,0 +1,74 @@
+1)  LEE
+Très bien tout le monde, on y est. Rappellez-vous le plan.
+2)  VERNON
+Ca devrait être ça. Nous sommes juste sous le centre de Crawford, L'ancienne école devrait être juste au-dessus de nous.
+3)  LEE
+Restons calme, cachés et groupés. Trouvons ce dont nous avons besoin et foutons le camps avant que quelqu'un sâche que nous sommes là. Compris ?
+12)  LEE
+Restons calme, cachés et groupés. Trouvons ce dont nous avons besoin et foutons le camps avant que quelqu'un sâche que nous sommes là. Compris ?
+4)  LEE
+[to Clementine] Et la partie sur le fait de rester groupé ? Elle compte double pour toi.
+5)  LEE
+Cela ne vas pas être facile, faut les frapper par surprise, prendre ce dont nous avons besoin et foutre le camps. Nous devons le faire rapidement. Alors tout le monde reste sur le qui-vive, à l'écoute et groupé. Compris ?
+13)  LEE
+Cela ne vas pas être facile, faut les frapper par surprise, prendre ce dont nous avons besoin et foutre le camps. Nous devons le faire rapidement. Alors tout le monde reste sur le qui-vive, à l'écoute et groupé. Compris ?
+6)  LEE
+Très bien, j'y vais le premier. Vernon, vous me suivez.
+7)  VERNON
+[hushed]Où sont-ils tous passés ? Il devrait y avoir des patrouilles de gardes.
+8)  LEE
+[whispering] Allons-y.
+9)  VERNON
+[hushed]C'est étrange, c'est tout.
+10)  KENNY
+[hushed]Pourquoi ? vous êtes déçu ?
+11)  CHRISTA
+[hushed]Je pense que j'en vois un. Là-bas, près de la porte.
+14)  LEE
+[hushed]Très bien Kenny, allons-y sans faire de bruit. Pas de tir à moins qu'il n'y pas d'autre choix.
+15)  LEE
+[hushed]Bon, moi et Kenny allons nous faufiler, pour essayer de le neutraliser sans bruit. Vous autres, attendez notre signal, puis rejoignez-nous. Tout le monde a compris ?
+16)  KENNY
+[hushed]Je serais juste derrière toi.
+20)  KENNY
+[hushed]Je serais juste derrière toi.
+17)  LEE
+C'est quoi ce BORDEL ?
+18)  LEE
+[hushed]Bien, moi et Kenny allons faire sortir ce type. A mon signal, vous nous rejoignez. Tout le monde a compris ?
+19)  LEE
+[bad-ass/threatening] Allongez-vous sur le sol ou on vous abat. Faites-le, maintenant !
+21)  LEE
+[hushed]Très bien Kenny, faisons ça.
+22)  LEE
+[quiet but menacing] Mettez vos mains sur la tête et descendez.
+23)  LEE
+A l'intérieur, vite !
+24)  
+Ouvrir
+25)  
+Regarder
+26)  LEE
+[whispering]Je peux rien voir avec cette plaque.
+27)  
+Mettez vos mains sur la tête.
+28)  
+Ne faites pas un seul mouvement.
+29)  LEE
+[quiet but menacing] Ne faites pas un seul mouvement.
+30)  LEE
+[bad-ass/threatening] Je ne vous le redirais pas.
+31)  
+Comment ça va ?
+32)  
+Comment ça va ?
+33)  LEE
+Hé, comment ça va ? Faites-moi une faveur et mettez vos mains en l'air, calmement et sans gestes brusque.
+34)  
+Bouche d'Egout
+35)  LEE
+Le sang de Lee tue le zombie avec une hachette.
+36)  LEE
+[pickup]Que fait un PUTAIN de marcheur ici ?
+37)  
+Garde

@@ -1,0 +1,172 @@
+1)  CHRISTA
+{disgustA} Quelques balles, c'est tout.
+2)  KENNY
+[alarmed] {angryB} Tu n'as pas fermé la porte derrière nous ?
+3)  LEE
+Je ne pouvais pas, la serrure était cassée !
+4)  KENNY
+{angryA} Génial, putain c'est génial... allez, il doit y avoir un moyen de sortir ici !
+5)  LEE
+Tant pis pour l'armurerie.
+6)  KENNY
+[grim] {disgustA} Ce qu'il en reste.
+7)  KENNY
+[enraged/end of his rope] {angryD} MEEEEERDE !
+8)  LEE
+Ca ne vas pas tenir. Remontez !
+9)  CHRISTA
+[frantic]Regardez là-haut !
+10)  LEE
+[frantic]Everyone head to the top! Vite !
+11)  LEE
+Aaargh !
+12)  CLEMENTINE
+[frantic] Lee ! Viens ! faut partir !
+13)  LEE
+[desperate/struggling] Clémentine, va avec les autres !
+14)  CLEMENTINE
+Je ne te laisse pas!
+15)  LEE
+Je t'ai dit d'y aller, bon sang ! Cours !
+16)  KENNY
+{fearB} Allez !
+17)  LEE
+[exhausted/relieved] Tout va bien, Clém. Je vais bien.
+38)  LEE
+[exhausted/relieved] Tout va bien, Clém. Je vais bien.
+18)  LEE
+[looking around] Un moyen de sortir d'ici ?
+19)  CHRISTA
+{thinkingA} Ca conduit au toit, nous devrions pouvoir trouver une échappatoir de là-haut.
+20)  VERNON
+{sadA} Je peux voir l'égout d'où nous venons d'ici ! {thinkingA} Je crois que nous pouvons le faire !
+21)  KENNY
+{fearA} Et bien qu'est-ce qu'on attends ? {fearB} Allez ! Allez !
+22)  BEN
+[shouting] Arrêtez ça !
+23)  BEN
+[screaming in terror] Aaaaaargh !
+24)  LEE
+[struggling] Enlevez-le !
+25)  VERNON
+[struggling] Je ne peux pas atteindre !
+26)  LEE
+[straining with all his might] Accroche-toi, Ben ! Je te tiens !
+27)  KENNY
+[urgent] Lee ! Allez ! Cette porte ne va pas tenir ! Faut qu'on y aille, maintenant !
+28)  LEE
+Ben, grimpe ! Allez, tu peux le faire !
+29)  BEN
+[calm/at peace] {fearA} Non. Laissez-moi ici.
+30)  LEE
+Arrête de déconner, Ben ! Allez !
+31)  BEN
+Partez ! Sauvez-vous.
+32)  LEE
+Arrête de déconner, Ben ! Allez, tu peux le faire !
+33)  BEN
+{sadD} Il n'y a plus de temps à perdre ! Faut que tu partes ! {fearB} Maintenant !
+34)  BEN
+{sadC} C'est ce que je veux. [sincere/pleading] {sadD} S'il te plaît.
+35)  BEN
+Laisse-moi ici... s'il te plaît.
+36)  
+[Le laisser]
+37)  
+[Le tirer]
+39)  CLEMENTINE
+[horrified] Nooon !
+40)  LEE
+Allez allez allez !
+42)  LEE
+Allez allez allez !
+44)  LEE
+Allez allez allez !
+41)  KENNY
+Vous avez fait le bon choix.
+43)  KENNY
+Tu aurais dû le lâcher.
+45)  CHRISTA
+[hurried]Clémentine, viens !
+46)  CHRISTA
+[hurried]Clémentine, viens !
+47)  CHRISTA
+[hurried]Clémentine, viens !
+48)  
+Ça ne fait rien.
+51)  
+Ça ne fait rien.
+49)  
+J'ai fait ce qu'il fallait.
+50)  
+Il m'a dit de le laisser.
+52)  KENNY
+{disgustA} Où est Ben ?
+53)  
+Je ne pouvais pas tenir.
+54)  KENNY
+[calling out] {fearB} Lee, attrape !
+55)  LEE
+[shouting]Allez Ben, bouge !
+56)  LEE
+[shouting]BEN !
+57)  LEE
+Il est parti.
+60)  LEE
+Il est parti.
+62)  LEE
+Il est parti.
+58)  LEE
+je ne pouvais pas le sauver.
+59)  LEE
+[grim] J'ai fait ce qu'il fallait..
+61)  LEE
+Il voulait qu'on le laisse.
+63)  LEE
+Ca n'a plus aucune importance, il est parti.
+64)  KENNY
+{sadA} Allons-y.
+65)  KENNY
+{sadA} Allons-y.
+66)  KENNY
+{sadA} Allons-y.
+67)  KENNY
+{sadA} Allons-y.
+68)  KENNY
+{sadA} Allons-y.
+69)  KENNY
+{sadA} Allons-y.
+70)  LEE
+Ben, allez, Allons-y !
+71)  BEN
+[suicidal]Non... Laisse-moi ici. Laisse-moi ici, Lee. J'ai tout raté. J'ai fait tuer Duck et Katjaa. Je vous ai tous mis en danger. Alors je t'en prie... laisse-moi ici.
+72)  BEN
+[suicidal]Lâche-moi... C'est tout. Laisse-moi ici. S'il te plaît, Lee. Je... Ca ne peut plus durer. Je t'en prie... S'il te plaît...
+73)  BEN
+[suicidal]No0... Laisse-moi ici. S'il te plaît, Lee. C'est ce que veut Kenny. C'est... C'est aussi ce que je veux. Alors... Lâche-moi... Allez.
+75)  
+Attaquer
+76)  
+Jambe
+77)  BEN
+[pickup] [composed/mature/resolute] Lee. Nous le savons tous les deux...
+78)  BEN
+[pickup] [urgent] Il n'y a plus de temps à perdre ! Faut que tu y aille, maintenant !
+79)  BEN
+[pickup] Allez, bordel ! Fait sortir Clém et les autres d'ici !
+80)  KENNY
+[pickup] Lee.
+81)  BEN
+[pickup] [certain] Laisse-moi ici.
+82)  KENNY
+[pickup][grim] Je te verrai quand tu auras fini.
+83)  BEN
+[pickup] Pourquoi ?
+84)  KENNY
+[pickup] Ouais, pourquoi ?
+85)  VERNON
+[pickup] [worried/ominous] Vous n'êtes pas venus en ville par la la voie ferrée n'est-ce pas ?
+86)  VERNON
+[pickup] [shaking it off] Peu importe. Je peux voir l'égout d'où nous venons d'ici. Je pense que nous pouvons le faire.
+87)  BEN
+[pickup]Allez, bordel ! Fait sortir Clém et les autres d'ici !

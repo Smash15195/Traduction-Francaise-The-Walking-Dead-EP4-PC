@@ -1,0 +1,124 @@
+1)  CLEMENTINE
+{sadb}Ce bureau est exactement comme celui que j'avais dans mon école. {sadc} Je sais c'est bizarre, mais ça me manque; aller à l'école.
+2)  CLEMENTINE
+{fearb}	Est-ce que tu crois que les choses redeviendront normale un jour ? Comme c'était avant ?
+3)  LEE
+{normalA}	Ce n'est pas bizarre du tout. Moi aussi ça me manque.
+4)  LEE
+Ca va, Clém ?
+5)  
+Je pense.
+6)  
+Je ne crois pas.
+22)  
+Je ne crois pas.
+7)  LEE
+{happya}Ouais. Ca prendra un peu de temps, mais oui, je crois. Pas toi ?
+8)  CLEMENTINE
+{sadc}	J'espère aussi.
+48)  CLEMENTINE
+{sadc}	J'espère aussi.
+9)  LEE
+{happya}Pas de devoirs.
+10)  CLEMENTINE
+Ca marche !
+11)  CLEMENTINE
+{thinkinga}	[warily] Il y aura des devoirs ?
+12)  LEE
+{happya} C'est bien. Tu dois t'accrocher à cet espoir. C'est la seule chose que personne ne peut t'enlever.
+47)  LEE
+{happya} C'est bien. Tu dois t'accrocher à cet espoir. C'est la seule chose que personne ne peut t'enlever.
+13)  CLEMENTINE
+[sad] {sadc}J'imagine que tu as raison.
+14)  LEE
+{sada}	Je ne pense pas, Clém. Je pense que le mieux qu'on puisse espérer, c'est de trouver un moyen de survivre, de rester ensemble et de ne rien laisser changer entre nous. Voilà ce qui est important.
+15)  LEE
+{happya}Moi aussi. J'étais prof, tu te souviens ? Dis toi que - quand nous trouverons un endroit sûr, on aménagera une petite salle de classe. Juste pour nous deux.
+16)  DIR
+Stub for while the player is talking to Clementine in the classroom. Lee should probably say that he's sorry they haven't found her parents. Clem is confident they got out, and are probably back at their hotel.
+17)  DIR
+In the classroom, Clem should ask Lee if Christa and Vernon are okay. Lee says yes, but he had to take care of a few walkers. Clem says she just wants everyone to make it out okay.
+18)  DIR
+Stub where Clem should tell Lee she's glad Kenny and Brie made it back from the fuel mission okay. Lee says not to worry, they'll be leaving this place soon enough.
+19)  CLEMENTINE
+{normala}Très bien.
+20)  LEE
+{happya}Ne bouge pas, d'accord ? J'ai besoin d'aller m'occuper de certaines choses.
+21)  CLEMENTINE
+{sadb}Ouais.
+23)  CLEMENTINE
+{sadc}	Ouais, Je pense pas, hein ?
+24)  CLEMENTINE
+{sadc}	Ouais, Je pense pas, hein ?
+26)  LEE
+Je ne sais pas, Clém. Je crois que personne y crois en fait. Le mieux qu'on puisse espérer, c'est que de trouver un moyen de survivre, de rester ensemble et de ne pas oublier ce que nous étions avant tout ceci arrive. Pour pas que cela nous change.
+27)  LEE
+{Normala}	Elle a dû aller faire une course, elle sera de retour bientôt.
+28)  CLEMENTINE
+{fearb}J'espère qu'elle va bien.
+29)  CLEMENTINE
+{normalb}	Où est Molly ?
+30)  LEE
+{normalb}	Elle ira bien. Elle est forte.
+31)  CLEMENTINE
+{normala}	Tu pense que nous allons rester ici encore longtemps ?
+32)  CLEMENTINE
+{normala}	Je suis content que Kenny et Brie soit de retour.
+33)  LEE
+{feara}Ouais, moi aussi. Et maintenant nous avons du fuel pour le bateau.
+34)  LEE
+{feara}J'espère bien que non.
+35)  LEE
+{normalc} Elle n'est tout simplement pas d'accord avec la manière que j'ai utilisé pour que Vernon m'aide. Mais j'ai fait ce que je devais faire pour en revenir auprès de vous.
+36)  CLEMENTINE
+{fearb}	Tu as été méchant avec elle ou quoi ?
+37)  CLEMENTINE
+{thinkinga}Je crois pas que Brie t'aime beaucoup.
+38)  LEE
+{normalc}	Elle s'en remettra.
+39)  LEE
+{happya}	On le fera. On s'en sort plutôt bien jusqu'à présent
+40)  CLEMENTINE
+{normalc}	Tu deviens bon à ça.
+41)  CLEMENTINE
+{thinkinga}	Christa et Vernon vont bien ?
+42)  LEE
+{normala}	Ils vont bien. Ils ont eu quelques ennuis avec des marcheurs, mais j'ai pris soin d'eux.
+43)  CLEMENTINE
+{fearb}Je veux juste que tout le monde s'en sorte.
+44)  LEE
+{feara}	Ce n'est pas quelque chose pour laquelle je VEUX être bon. C'est quelque chose pour laquelle je DOIS être bon.
+46)  LEE
+Je ne pense pas que quelqu'un connaisse la réponse à cette question, Clém. Peut-être qu'il y a quelqu'un, quelque part qui travaille sur un moyen de résoudre tout ça. Peut-être une sorte de remède. Il n'y a aucun moyen de le savoir.
+49)  LEE
+{normald}Je ne sais pas, mon puce. Mais nous devons y croire. Rappelle-toi ce que Katjaa a dit au retour de la ferme ? Elle a dit que nous serons tous bientôt chez nous.
+50)  CLEMENTINE
+[sad] {sadb}Et maintenant elle est morte.
+51)  LEE
+{angryb}Mais nous non. Nous sommes toujours en vie. Nous devons garder l'espoir de le rester. C'est la seule chose qu'on ne peut pas nous enlever.
+52)  
+Moi aussi.
+53)  
+Enseigner me manque.
+54)  
+Vraiment ?
+55)  LEE
+{Normalb}Hé, Je ne suis pas si vieux. Et j'étais prof, tu te souviens ? D'histoire de l'Amérique.
+56)  CLEMENTINE
+{fearb}	Mais tu n'as pas toujours été à l'école !
+57)  LEE
+{happya}	Quelle était ta matière préférée ?
+58)  CLEMENTINE
+{happya}	L'histoire.
+59)  CLEMENTINE
+{Happya}	Non, j'aimais bien.
+60)  LEE
+{Happyb}	Vraiment ? J'aurais pensé que l'école serait la dernière chose qui aurait pû te manquer.
+61)  LEE
+{happyc}Eh bien tu sais quoi ? Moi aussi.
+62)  CLEMENTINE
+[self-conscious] {sadc} Ouais, J'imagine que c'est bête, hein ?
+63)  
+Rappelle-toi ce que Kat a dit.
+64)  
+Qui sait ?.

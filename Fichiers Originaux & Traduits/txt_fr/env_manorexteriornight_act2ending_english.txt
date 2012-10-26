@@ -1,0 +1,174 @@
+1)  LEE
+[dismayed] {NormalD} Tu n'est pas sérieux.
+2)  LEE
+{HappyA} Super.
+3)  LEE
+Qu'est-ce que tu as là ?
+4)  KENNY
+{HappyA} Voilà ce que j'ai trouvé dans le garage. {NormalC} Hachette, scie à métaux et divers outils. {ThinkingA} Ca pourrait être utile pour notre petit larcin.
+5)  LEE
+{ThinkingA} Et alors ?
+6)  LEE
+{NormalB} Qu'est-ce qu'il y a ?
+7)  KENNY
+{ThinkingA} Je peux te parler une minute ?
+8)  KENNY
+{NormalC} J'ai un nouveau regard sur le bateau. C'est un 9 mètres.
+9)  LEE
+[counting] {ThinkingB} Moi, toi, Clém, Christa, Omid, Ben, Molly...
+10)  KENNY
+{AngryA} Et alors, nous avons un problème de place. {ThinkingA} Un bateau de cette taille ne pourra pas emporter plus de cinq personnes et même si c'est un enfant.
+11)  KENNY
+{NormalC} En supposant que tout le monde revient vivant, cela fait toujours une personne de trop, même sans compter Molly. {ThinkingA} Avant de continuer, nous allons devoir prendre une décision.
+12)  MOLLY
+{NormalA} Alors qu'est-ce qu'on attends ? Allons-y.
+13)  LEE
+{ThinkingA} Nous aider comment ?
+14)  KENNY
+{AngryA} Qui c'est putain ?
+15)  KENNY
+{NormalC} Ecoute, je dis simplement que si nous voulons mettre toutes les chances de-
+16)  VERNON
+{ThinkingA} C'est Brie, elle peut nous aider.
+17)  VERNON
+{NormalB} Avec son aide nous entrerons et sortirons bien plus rapidement. {AngryA} Quelqu'un at-il un problème avec ça ?
+59)  VERNON
+{NormalB} Avec son aide nous entrerons et sortirons bien plus rapidement. {AngryA} Quelqu'un at-il un problème avec ça ?
+62)  VERNON
+{NormalB} Avec son aide nous entrerons et sortirons bien plus rapidement. {AngryA} Quelqu'un at-il un problème avec ça ?
+83)  VERNON
+{NormalB} Avec son aide nous entrerons et sortirons bien plus rapidement. {AngryA} Quelqu'un at-il un problème avec ça ?
+18)  BRIE
+{NormalC} J'étais étudiante à l'école où Crawford stocke leurs provisions. Je connais l'endroit.
+61)  BRIE
+{NormalC} J'étais étudiante à l'école où Crawford stocke leurs provisions. Je connais l'endroit.
+65)  BRIE
+{NormalC} J'étais étudiante à l'école où Crawford stocke leurs provisions. Je connais l'endroit.
+80)  BRIE
+{NormalC} J'étais étudiante à l'école où Crawford stocke leurs provisions. Je connais l'endroit.
+82)  BRIE
+{NormalC} J'étais étudiante à l'école où Crawford stocke leurs provisions. Je connais l'endroit.
+19)  LEE
+{ThinkingB} Je ne pense pas.
+58)  LEE
+{ThinkingB} Je ne pense pas.
+64)  LEE
+{ThinkingB} Je ne pense pas.
+84)  LEE
+{ThinkingB} Je ne pense pas.
+20)  LEE
+{Body-F}{NormalD} Vous comprenez pourquoi vous devez rester en arrière, n'est-ce pas ?
+21)  LEE
+{NormalC} Attendez une seconde.
+43)  LEE
+{NormalC} Attendez une seconde.
+22)  LEE
+De plus, tu as un travail à faire. {HappyA} Une tâche importante.{NormalC} J'ai besoin que tu restes ici pour surveiller la maison et veiller sur Omid.
+23)  CLEMENTINE
+[despondent] {SadA} J'imagine.
+24)  CLEMENTINE
+{FearB} Qu'est-ce que je dois faire, si quelque chose arrive pendant que tu es partis ?
+25)  
+[Lui donner une arme]
+26)  
+[Lui dire de courir et se cacher]
+27)  LEE
+C'est bon, prends le.
+28)  LEE
+{Body-F}{NormalC} Tiens, je veux que tu prennes ça.
+29)  CLEMENTINE
+{FearB} je m'en souviens.
+30)  LEE
+{NormalB} Tu te rappelle comment on s'en sert ? {HappyA} C'est comme je t'ai montré.
+31)  LEE
+Donc, si quelqu'un essaie d'entrer à l'intérieur de la maison et que ce n'est pas l'un de nous...{NormalD}  ou si quelque chose arrive à Omid...
+32)  CLEMENTINE
+[grim]{AngryA}  Je sais ce qu'il faut faire.
+33)  LEE
+Hé. Ne t'inquiète pas. Tout ira bien.
+40)  LEE
+Hé. Ne t'inquiète pas. Tout ira bien.
+34)  LEE
+Allons à l'intérieur.
+35)  LEE
+[resolute] Finissons-en.
+36)  LEE
+[deadly serious]{NormalB} Encore une chose. {NormalD} Si l'état d'Omid s'aggrave pendant que nous sommes pas là... {NormalC} si il essaye de te faire du mal... {NormalD} tu sais quoi faire, non ?
+37)  LEE
+Good girl.
+38)  LEE
+{Body-F}{NormalD} Si ça arrive - si tu vois ou entends quelque chose dehors qui essaie d'entrer, {NormalC} Je veux que tu te trouve un endroit pour te cacher et d'y rester. {NormalD} Et n'en ressort pas avant que je sois revenu.{ThinkingA}  Compris ?
+39)  CLEMENTINE
+{NormalC} Trouver un endroit, me cacher et y rester.
+41)  LEE
+{Body-F}{NormalB} Allons à l'intérieur.
+42)  LEE
+[resolute] {NormalC} Finissons-en.
+44)  LEE
+{Body-F} {NormalD} Prête ?
+45)  CLEMENTINE
+[determined]{HappyA} Prête.
+46)  LEE
+{Body-F} {ThinkingA} Je la laisserai pas toute seule dans cette maison avec uniquement Omid pour la protéger. {NormalC} N'y pensez même pas.
+47)  VERNON
+{AngryA} Vous n'avez pas rien écouté de ce que j'ai pû dire sur le genre d'endroit qu'est Crawford ? {ThinkingA} Si vous l'emmenez là-bas et ils la trouverons-
+48)  LEE
+{Body-F} {ThinkingA} Ce n'est pas sujet à discution, Vernon. {NormalC} Ma décision est prise.
+49)  MOLLY
+{NormalA} Pour ce que ça vaut, {ThinkingA} Je ne pense pas que c'est une excellente idée non plus.
+73)  MOLLY
+{NormalA} Pour ce que ça vaut, {ThinkingA} Je ne pense pas que c'est une excellente idée non plus.
+50)  LEE
+{Body-F} Cette jeune fille n'est pas seulement un excédent de bagages. Elle nous a sorti de mauvais pas plus d'une fois.
+51)  KENNY
+{NormalC} Vous avez entendu le monsieur. Allons-y.
+52)  
+Comment ?
+53)  
+Plus il y en a, mieux ce sera.
+55)  
+Plus il y en a, mieux ce sera.
+54)  LEE
+Plus il y en a, mieux ce sera, j'imagine.
+56)  
+On a pas besoin d'elle.
+60)  CHRISTA
+{ThinkingA} Nous aider ? Comment ?
+63)  CHRISTA
+{ThinkingA} Nous aider ? Comment ?
+66)  
+Ca va bien se passer.
+67)  
+Si nous ne revenons pas...
+68)  
+Si jamais Omid deviens...
+69)  VERNON
+{AngryA} Holà, attendez une minute. Vous l'emmenez pas avec nous.
+70)  
+Je ne peux pas la laisser avec Omid.
+71)  
+Ce n'est pas sujet à discution.
+72)  
+Elle peut être utile.
+74)  LEE
+[insistant] {NormalB} Elle vient. {NormalC} Point.
+75)  LEE
+[insistant] {NormalB} Elle vient. {NormalC} Point.
+85)  LEE
+[insistant] {NormalB} Elle vient. {NormalC} Point.
+76)  KENNY
+{NormalC} Alors voilà, nous allons avoir un {NormalB} problème de place. En supposant que tout le monde revienne vivant, {NormalC}il ne va pas possible d'acceuillir tout le monde.
+77)  LEE
+{ThinkingB} Qu'est-ce que tu essais de dire ?
+78)  KENNY
+{NormalB} C'était uniquement pour te prévenir, c'est tout. {NormalC} Je pensais que tu devais le savoir.
+79)  LEE
+{NormalB} Bon, on va avoir besoin de toute l'aide possible.
+81)  LEE
+Nous n'avons pas besoin d'elle. Elle va juste nous ralentir.
+86)  CLEMENTINE
+[determined]{NormalC} je peux aider. J'ai souvent été utile déjà.
+87)  VERNON
+{ThinkingA} J'espère que vous savez ce que vous faites.
+88)  KENNY
+{NormalC} Vous avez entendu la dame. Allons-y.

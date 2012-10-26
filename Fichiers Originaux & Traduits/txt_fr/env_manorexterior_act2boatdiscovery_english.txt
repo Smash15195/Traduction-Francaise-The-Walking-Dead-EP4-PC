@@ -1,0 +1,108 @@
+1)  LEE
+[calling out] {NormalD} Clémentine ? [louder, desperate] {FearB} Clémentine !!!
+2)  LEE
+[frantic] {NormalD} Clémentine ! {FearA} Tu es là ?
+18)  LEE
+[frantic] {NormalD} Clémentine ! {FearA} Tu es là ?
+3)  
+Regarder
+5)  
+Regarder
+7)  
+Regarder
+41)  
+Regarder
+48)  
+Regarder
+51)  
+Regarder
+4)  LEE
+[concerned, to himself]{NormalD} Qu'est-ce qui s'est passé ici ?
+6)  LEE
+[concerned, to himself]{ThinkingA} c'est quoi ce--?
+8)  
+Ouvrir
+42)  
+Ouvrir
+9)  
+Appeler
+10)  LEE
+[frantic] Clémentine ! Tu es là ?
+11)  LEE
+[choking back tears] {HappyC} Hé, ma grande.
+12)  LEE
+{HappyC} Qu'est-ce que je t'ai dit a propos de partir à l'aventure de ton coté ?
+13)  CLEMENTINE
+{HappyA} Je sais, je sais, de rester à coté de toi ! {SadA} Mais tu n'étais pas là !
+14)  LEE
+[stunned/amazed] {SurpriseA} Bordel de merde.
+15)  CLEMENTINE
+[enthusiastic/excited] {HappyB} C'est génial, hein ?
+30)  CLEMENTINE
+[enthusiastic/excited] {HappyB} C'est génial, hein ?
+36)  CLEMENTINE
+[enthusiastic/excited] {HappyB} C'est génial, hein ?
+16)  LEE
+[warily] {ThinkingA} ...Clém ?
+17)  CLEMENTINE
+{HappyC} Lee !
+19)  
+Hé, ma grande.
+20)  
+Je t'ai dit de ne pas partir à l'aventure.
+21)  CLEMENTINE
+{HappyB} Viens voir ! Regarde ce que j'ai trouvée !
+22)  
+Tu faisais quoi ici ?
+23)  
+Tu faisais quoi ici ?
+24)  CLEMENTINE
+{SadA} Je sais que tu est en colère que je sois partir, {HappyB} mais regarde ce que j'ai trouvée !
+25)  CLEMENTINE
+[calling Lee out that he said a bad word] [a beat, then] {HappyA} Tu jure.
+26)  
+Ouah.
+27)  LEE
+[stunned/amazed] {SurpriseA} Ouah.
+28)  
+C'était là tout ce temps ?!
+29)  
+C'était là tout ce temps ?!
+31)  CLEMENTINE
+{NormalC} J'explorai.
+32)  LEE
+{HappyC} Tu faisais quoi ici ?
+33)  CLEMENTINE
+{HappyB} Et regarde ! Regarde ce que j'ai trouvée !
+34)  CLEMENTINE
+{HappyB} Et regarde ! Regarde ce que j'ai trouvée !
+35)  LEE
+{HappyB} C'était là tout ce temps ?!
+37)  
+Porte de la Maison
+38)  
+Grille
+39)  
+Tas de terre
+40)  
+Porte du Cabanon
+43)  LEE
+[pickup][calling out, excited]Kenny ! {HappyB} Tu dois venir voir ça !
+44)  KENNY
+[pickup]
+45)  LEE
+[pickup][concern]Une porte recouverte de vignes... {ThinkingA} Je ne pense pas que quiconque soit entré par là.
+46)  KENNY
+[pickup][awstruck]{DrunkA}C'est un gros bateau !
+47)  
+Niche
+53)  
+Niche
+49)  
+Arbuste
+50)  
+Orifice
+52)  
+Clôture
+54)  
+Tombe

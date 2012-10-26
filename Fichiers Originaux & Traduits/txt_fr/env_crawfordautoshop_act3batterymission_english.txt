@@ -1,0 +1,172 @@
+1)  MOLLY
+{thinkingA}Jetez un coup d'oeil. Je ferai en sorte que les traînards puissent pas passer sous cette porte.
+2)  LEE
+[lookat]{normalD}Elle est fermée, pas moyen d'entrer.
+3)  LEE
+[lookat]{angryA}Encore les règles de Crawford. Comment quelqu'un peut-il vivre comme ça ? {thinkingB}Je préfèrerai tenter ma chance à l'extérieur.
+4)  LEE
+[lookat]{happyA}Il y a de grandes chances qu'une batterie en état de marche soit dans cette voiture... {thinkingA}Si j'arrive à trouver un moyen de l'atteindre.
+5)  
+Regarder
+9)  
+Regarder
+59)  
+Regarder
+81)  
+Regarder
+6)  
+Fouiller
+7)  LEE
+[lookat]{sadA}Je ne peux pas l'atteindre.
+8)  LEE
+[lookat]{sadA}Pas de courant.
+10)  LEE
+[lookat]{thinkingB}On dirait que c'est le tuyau pour le pont hydraulique.
+11)  
+Soulever
+12)  LEE
+[lookat]{sadA}Je crois pas une seconde pouvoir arracher ce truc à main nue. {thinkingA}Peut-être que si j'avais quelque chose...
+13)  MOLLY
+Je vais prendre ça. Ca pourrait être utile.
+14)  LEE
+[lookat]Vide.
+15)  LEE
+[lookat]{thinkingB}Ca clignote. Ca doit être un système anti-vol.
+16)  
+Percer
+17)  LEE
+[worrie] {fearC}Holà, holà, holà !
+18)  MOLLY
+[shouting over the wailing arm] {fearB}C'est surement pas bon
+19)  LEE
+{angryC}Sans déconner !
+20)  LEE
+{happyA}Ca a marché !
+21)  MOLLY
+{fearB}Je vais essayer de les retenir ! Vite !
+22)  MOLLY
+{fearC}Je crois pas que cette porte va les retenir bien longtemps. Faites quelque chose !
+23)  LEE
+{thinkingA}Il y a une batterie ! il y a enfin quelque chose qui va bien !
+24)  MOLLY
+{angryC}Quoi que vous fassiez, là-bas, faites-le vite !
+25)  
+Tourner à Gauche
+29)  
+Tourner à Gauche
+26)  
+Tourner à Droite
+31)  
+Tourner à Droite
+27)  LEE
+[panicking] Faut juste le serrer !
+32)  LEE
+[panicking] Faut juste le serrer !
+28)  LEE
+[urgent]{happyA}Détachée !
+30)  LEE
+[urgent]{happyA}Détachée !
+33)  LEE
+[urgent]{thinkingA}Celle-là l'ai aussi !
+34)  LEE
+[pickup][urgent]{fearA}Elle est encore attachée aux bornes !
+35)  LEE
+[pickup][urgent]{fearA}Elle est encore attachée aux bornes !
+36)  LEE
+[urgent]{fearA}La borne négative est toujours attachée !
+37)  LEE
+[urgent]{fearA}La borne négative est toujours attachée !
+38)  LEE
+[urgent]{fearA}La borne positive est toujours attachée !
+39)  MOLLY
+{angryA}Très bien, suivez-moi.
+40)  MOLLY
+{angryB}Magnez-vous le tronc !
+41)  MOLLY
+{fearB}Mettez-la dans mon sac, je vais la porter !
+42)  LEE
+{happyA}C'est bon !
+43)  MOLLY
+{fearC}Ouais mais il nous reste encore un problème ici.
+44)  LEE
+[lookat]{thinkingA}On dirait que Crawford avait ses propres camions semi-remorques.
+45)  MOLLY
+{fearB}La verrière.
+46)  LEE
+[alarmed]{fearC}Super. Et maintenant ?
+47)  
+Prendre
+48)  MOLLY
+{angryA}Tirez dessus !
+49)  LEE
+{fearB}Elle est fermée !
+50)  
+Tirer
+51)  MOLLY
+Allez quoi ! qu'est-ce que vous êtes ? une poule mouillée ? Sautez !
+52)  LEE
+Très bien ! Maintenant nous sommes sur un toit ?
+53)  MOLLY
+Vous arrêtez jamais de vous plaindre ? Allez.
+54)  LEE
+Je ne sais pas...
+55)  MOLLY
+Oh. Accrochez-vous.
+56)  MOLLY
+Vous pensez pouvoir gérer ça ?
+57)  MOLLY
+[out of breath] Vous êtes vraiment une chochotte, non ?
+58)  
+Ouvrir
+60)  LEE
+{thinkingA}Il y a peut-être une batterie là-dedans que nous pourrions utiliser pour le bateau.
+61)  MOLLY
+[sarcastic]{disgustA}Parfait.
+62)  LEE
+{thinkingB}Très bien, je peux voir où la batterie DEVRAIT être. {angryA}Mais elle n'y est pas.
+63)  LEE
+{angryA}On dirait que Crawford a déjà utilisé cette batterie pour autre chose.
+64)  LEE
+[frantic] {fearD}MOLLY !
+65)  
+Voiture
+66)  
+Flexible Hydraulique
+67)  
+Panneau de Contrôle
+68)  
+Sac à dos
+69)  
+Semi-remorque
+70)  
+Capot Camion
+71)  
+Batterie
+72)  
+Borne Positive
+73)  
+Borne Négative
+74)  
+Dévisser
+75)  
+Verrière
+76)  
+Détacher
+77)  
+Grimper
+78)  
+Panneau d'Avertissement
+84)  
+Panneau d'Avertissement
+79)  LEE
+[pickup][to himself]{angryA}Crawford ne plaisante pas.
+80)  MOLLY
+[pickup]{angryA}Quoi, vous pensiez que je plaisantais ?
+82)  
+Utiliser
+83)  LEE
+[pickup]{thinkingA}C'est le panneau qui contrôle le pont hydraulique.
+85)  
+Porte du Bureau
+86)  
+Main

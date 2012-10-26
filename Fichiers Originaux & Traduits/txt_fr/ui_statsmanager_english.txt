@@ -1,0 +1,68 @@
+1)  
+Game Title
+2)  
+Détails de la partie
+3)  
+Première ville de Géorgie
+4)  
+Par la Rivière
+5)  
+Groupe d'Appui
+6)  
+Manoir de Chevet
+7)  
+Dernière ville de Géorgie
+8)  
+Pour qui Sonne le Glas
+9)  
+Le Matin d'Après
+10)  
+Pénultième
+11)  
+name_StatsItem_Chapter1
+12)  
+desc_achieved_StatsItem_Chapter1
+13)  
+desc_unachieved_StatsItem_Chapter1
+14)  
+name_StatsItem_Chapter2
+15)  
+desc_achieved_StatsItem_Chapter2
+16)  
+desc_unachieved_StatsItem_Chapter2
+17)  
+name_StatsItem_Chapter3
+18)  
+desc_achieved_StatsItem_Chapter3
+19)  
+desc_unachieved_StatsItem_Chapter3
+20)  
+name_StatsItem_Chapter4
+21)  
+desc_achieved_StatsItem_Chapter4
+22)  
+desc_unachieved_StatsItem_Chapter4
+23)  
+name_StatsItem_Chapter5
+24)  
+desc_achieved_StatsItem_Chapter5
+25)  
+desc_unachieved_StatsItem_Chapter5
+26)  
+name_StatsItem_Chapter6
+27)  
+desc_achieved_StatsItem_Chapter6
+28)  
+desc_unachieved_StatsItem_Chapter6
+29)  
+name_StatsItem_Chapter7
+30)  
+desc_achieved_StatsItem_Chapter7
+31)  
+desc_unachieved_StatsItem_Chapter7
+32)  
+name_StatsItem_Chapter8
+33)  
+desc_achieved_StatsItem_Chapter8
+34)  
+desc_unachieved_StatsItem_Chapter8

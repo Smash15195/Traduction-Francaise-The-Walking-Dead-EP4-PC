@@ -1,0 +1,314 @@
+1)  CLEMENTINE
+Je peux le tenir ?
+2)  LEE
+Non.
+3)  CLEMENTINE
+Juste un petit peu ? On se rapproche de l'endroit où ma mère et mon père sont alors peut-être je pourr-
+4)  LEE
+Je t'es déjà dis non. Arrête de le demander, d'accord ?
+5)  CHRISTA
+Qu'est-ce qu'il y a de mal de me le laisser ? Il marche même plus.
+6)  LEE
+Vous prenez soin des votres, laissez-moi prendre soin des miens.
+7)  CHRISTA
+[sarcastic/offended] Désolé d'avoir pris le parole.
+8)  CHRISTA
+Sa jambe est en mauvais état.
+9)  OMID
+Je vais bien.
+10)  CHRISTA
+Tu ne vas pas bien, tu as besoin d'une pause. [to Lee] Il a besoin de se reposer.
+11)  
+Nous devons continuer à avancer.
+12)  LEE
+C'est dangereux de rester à découvert, nous devons continuer à avancer. Il pourra se reposer quand nous auront trouvé un bateau et prit le large.
+13)  CHRISTA
+Je sais pas combien de temps il pourra encore tenir comme ça. Si sa jambe empire, nous allons devoir le porter.
+14)  KENNY
+Ou l'abandonner.
+15)  CHRISTA
+Quoi ? Non, ce n'est même pas envisageable. Nous pouvons pas-
+16)  KENNY
+Ma Chère, je vous connais depuis à peine 12 heures - alors si vous pouviez éviter l'emploi du “nous”, sauf si vous voulez parler de lui et de vous.
+17)  CHRISTA
+Vous savez, depuis que tout ça a débuté, J'ai vu le meilleur comme le pire sortir d'un grand nombre de personnes. Je suppose que nous savons de quel côté vous vous trouvez.
+18)  KENNY
+Vous le faites encore. Il n'y a pas de “Nous” - il y a simplement “nous” et il y a vous et votre petit copain qui “nous” ralenti.
+19)  CHRISTA
+Allez-vous faire voir, Kenny.
+20)  KENNY
+Ha ! Vous avez jeté un coup d'oeil autour de vous ? Ce n'est pas une ballade de santé.
+21)  
+Kenny, c'est encore loin ?
+22)  LEE
+Kenny, la rivière est à quelle distance ?
+134)  LEE
+Kenny, la rivière est à quelle distance ?
+23)  KENNY
+Il devrait être plus qu'à quelques blocs.
+135)  KENNY
+Il devrait être plus qu'à quelques blocs.
+24)  CHRISTA
+Et il y aura des bateaux ?
+136)  CHRISTA
+Et il y aura des bateaux ?
+25)  LEE
+Faudrait mieux qu'il y en ai.
+137)  LEE
+Faudrait mieux qu'il y en ai.
+26)  KENNY
+[determined/mantra] Il y aura des bateaux. Il le faut. Il le faut.
+138)  KENNY
+[determined/mantra] Il y aura des bateaux. Il le faut. Il le faut.
+27)  BEN
+Ça va bien se passer. Kenny sait ce qu'il fait.
+139)  BEN
+Ça va bien se passer. Kenny sait ce qu'il fait.
+28)  
+Vous avez raison, on s'arrête.
+29)  CHRISTA
+J'ai dis qu'Omid a besoin d'une pause ! Les gars, on peut s'arrêter une minute ?
+147)  CHRISTA
+J'ai dis qu'Omid a besoin d'une pause ! Les gars, on peut s'arrêter une minute ?
+30)  KENNY
+Vous pourrez vous reposer autant que vous voulez quand on sera au large.
+148)  KENNY
+Vous pourrez vous reposer autant que vous voulez quand on sera au large.
+31)  CHRISTA
+Je vous dis qu'il ne peut pas continuer comme ça.
+149)  CHRISTA
+Je vous dis qu'il ne peut pas continuer comme ça.
+32)  LEE
+Allez, je vais vous aider.
+150)  LEE
+Allez, je vais vous aider.
+33)  LEE
+Ouais, vous avez raison. Kenny, stop.
+140)  LEE
+Yeah, you’re right. Kenny, stop.
+34)  KENNY
+Tu stop. Moi je continue vers la rivière et prends un bateau.
+141)  KENNY
+Tu stop. Moi je continue vers la rivière et prends un bateau.
+35)  LEE
+Kenny, putain ! J'ai dis stop !
+142)  LEE
+Kenny, putain ! J'ai dis stop !
+36)  KENNY
+Crie un peu plus fort et réveille les morts, t'en que tu y es ?
+143)  KENNY
+Crie un peu plus fort et réveille les morts, t'en que tu y es ?
+37)  LEE
+Omid a besoin d'une pause, donne-lui une minute.
+144)  LEE
+Omid a besoin d'une pause, donne-lui une minute.
+38)  KENNY
+Nous sommes presque à la rivière, presque aux bateaux.
+145)  KENNY
+Nous sommes presque à la rivière, presque aux bateaux.
+39)  LEE
+Et ça fera pas de mal de s'arrêter une minute.
+146)  LEE
+Et ça fera pas de mal de s'arrêter une minute.
+40)  
+Elle a raison, nous sommes un groupe.
+41)  
+Kenny a raison, on ne peut pas ralentir.
+42)  
+Je vais vous aider à le porter.
+43)  LEE
+Christa a raison, nous devons tous veiller les uns sur les autres.
+151)  LEE
+Christa a raison, nous devons tous veiller les uns sur les autres.
+44)  KENNY
+Je dis simplement que je vais prendre un des ces bateaux. Vous pouvez rester ici ou venir.
+154)  KENNY
+Je dis simplement que je vais prendre un des ces bateaux. Vous pouvez rester ici ou venir.
+45)  LEE
+[sighs]C'est encore loin ?
+152)  LEE
+[sighs]C'est encore loin ?
+46)  KENNY
+Elle ne devrait être plus qu'à quelques blocs.
+153)  KENNY
+Elle ne devrait être plus qu'à quelques blocs.
+47)  LEE
+Christa, Kenny a raison. plus nous restons à découvert plus nous sommes en danger.
+48)  CHRISTA
+Je l'abandonnerai pas !
+49)  LEE
+Personne ne vous le demande. Chacun d'entre nous allons continuer d'avancer.
+50)  CLEMENTINE
+Lee, tu ne peux pas l'aider ? Sa jambe est vraiment amochée.
+51)  LEE
+Ouais, tu as raison. Omid, venez, donnez-moi votre bras.
+52)  LEE
+Vous voulez un peu d'aide ?
+53)  CHRISTA
+Ouais, ça serait super. Merci.
+54)  LEE
+Omid, venez, donnez-moi votre bras.
+55)  CHRISTA
+[sarcastic] Merci beaucoup pour votre aide.
+56)  BEN
+[to himself]Qu'est-ce que... ?
+57)  CHRISTA
+Peut-être que cette ville n'est pas si morte après tout...
+58)  KENNY
+Continuez d'avancer. Personne ne fait sonner cette cloche, c'est une minuterie automatique.
+59)  LEE
+Quel genre d'église sonne vingt minutes après l'heure ?
+60)  LEE
+[alarmed]Il y a quelqu'un là-haut.
+61)  BEN
+Tu es sûr ? J'ai rien vu.
+62)  LEE
+Je sais ce que j'ai vu. Je vous dis qu'il y a quelqu'un sur ce clocher ! Quelqu'un de vivant !
+63)  RADIO VOICE
+[radio processing]Si j'étais vous, je fouterai le camp de cette rue. Illico.
+64)  CHRISTA
+Je croyais que ce truc ne fonctionnait pas !
+65)  
+Bordel, qui est-ce ?!
+66)  
+Vous êtes dans le clocher ?
+67)  LEE
+Hé ho ?
+68)  OMID
+Qu'est-ce que c'est que ça ? Quelqu'un essaie de se foutre de nous ?
+69)  BEN
+On dirait plutôt un avertissement.
+70)  LEE
+[aggressive] Qui êtes-vous ?
+71)  LEE
+[urgent] Allô ? Allô ?
+72)  LEE
+Qui êtes-vous ? C'est vous dans le clocher ?
+73)  OMID
+Vous savez... "bonjour" aurait pu être un bon début.
+74)  CHUCK
+Ne demandez jamais pour qui sonne le glas...
+75)  
+Oh, merde.
+77)  LEE
+Oh, merde.
+76)  
+Oh, putain.
+78)  LEE
+Oh, putain.
+79)  KENNY
+Bordel de merde. COUREZ ! Suivez-moi !
+87)  KENNY
+Bordel de merde. COUREZ ! Suivez-moi !
+89)  KENNY
+Bordel de merde. COUREZ ! Suivez-moi !
+80)  LEE
+Clém !
+81)  KENNY
+Bougez-vous le cul ! River Street est juste en face !
+82)  BEN
+Ce n'est pas fini...
+83)  KENNY
+Oh, c'est une plaisanterie !
+84)  LEE
+Comment va Omid ?
+85)  
+Non. Arrête de le demander.
+86)  
+COUREZ !!!
+88)  LEE
+[shouting]COUREZ, TOUS !!!
+90)  
+Frapper
+112)  
+Frapper
+119)  
+Frapper
+91)  
+Tirer
+111)  
+Tirer
+92)  
+Ecraser
+93)  LEE
+Pas maintenant, Clémentine. Peut-être plus tard, d'accord ?
+94)  CLEMENTINE
+[disappointed] Ok.
+95)  CLEMENTINE
+D'accord. Pardon.
+96)  LEE
+Pas maintenant, il faut que tu sois concentrée. Attentive à ce qui se passe dans la rue.
+97)  LEE
+Hé ho ? Vous êtes là ?!
+98)  OMID
+Qu'est-ce qui se passe ? Qui c'était ?
+99)  KENNY
+Qu'est-ce que vous racontez ?
+100)  CHUCK
+Emmenez-la ! Je vous rejoindrai !
+101)  OMID
+Merde ! Il est en difficulté, faut qu'on aille l'aider !
+102)  CHRISTA
+Attendez, où est Chuck ?
+103)  LEE
+Merci, mon pote !
+104)  KENNY
+Pas de temps à perdre ! Nous devons partir, maintenant !
+105)  
+Il faut que tu te concentre.
+106)  LEE
+[calling out]Hé ! Hé vous là-haut !
+107)  CHRISTA
+[hushed]Merde Lee, moins de bruit ! Vous allez--
+108)  LEE
+Ca se peut. Ou je suis peut-être un peu trop tendu ? Je--
+109)  LEE
+[calling out]Kenny !
+110)  KENNY
+[struggle, angry]Grrrhhh !
+113)  KENNY
+[out of breath]C'était moins une, hein ?
+114)  KENNY
+[out of breath]C'était moins une, hein ?
+118)  KENNY
+[out of breath]C'était moins une, hein ?
+115)  CLEMENTINE
+[panicked, calling out off screen]Lee !
+116)  LEE
+[frantic]Non !
+117)  
+Pousser
+120)  LEE
+[calling out, frantic]Non ! Noon--
+121)  CLEMENTINE
+[getting killed]Ahhhh !
+125)  CLEMENTINE
+[getting killed]Ahhhh !
+126)  CLEMENTINE
+[getting killed]Ahhhh !
+122)  CLEMENTINE
+[afraid]Ahh !
+123)  LEE
+[calling out, panicked]Non !
+124)  CHUCK
+Il sonne pour vous...
+127)  
+Je sais ce que j'ai vu.
+128)  
+Hé vous là-haut !
+129)  
+Je ne sais pas.
+130)  LEE
+[pickup]C'est dangereux de rester à découvert, nous devons continuer à avancer. Il pourra se reposer quand nous auront trouvé un bateau et prit le large.
+131)  LEE
+[pickup] [pissed] Nom de Dieu !
+132)  LEE
+[pickup] [calling out] Ben ! aide la!
+133)  LEE
+[pickup][urgent]Répondez-moi !
+155)  CLEMENTINE
+[pickup2][panicked, calling off screen]Ben !
+156)  CLEMENTINE
+[pickup2][frantic breathing sounds]
+157)  CHUCK
+[pickup3]Ça va aller ! Allez-y !

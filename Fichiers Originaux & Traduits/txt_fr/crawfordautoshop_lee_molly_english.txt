@@ -1,0 +1,56 @@
+1)  MOLLY
+{thinkingA}Besoin de quelque chose ?
+3)  MOLLY
+{thinkingA}J'ai votre promesse maintenant. Pas une égratignure !
+4)  LEE
+{happyA}Vous pensez que je peux emprunter cette chose crochue que vous avez ?
+5)  LEE
+{happyA}S'il vous plaît puis-je emprunter Hilda ? {happyB}J'en prendrais bien soin, elle n'aura pas une égratignure.
+6)  MOLLY
+{fearA}Je ne sais pas, Hilda et moi avons vécu beaucoup de trucs ensemble.
+7)  LEE
+{thinkingB}Hilda ?
+8)  MOLLY
+{happyA}C'est comme ça que je l'appelle. Ne jugez pas.
+9)  
+Au sujet de ce marcheur dans la ruelle...
+11)  STUB
+Nous pourrions donner autoriser au candidat de poser à Molly la question du pourquoi elle était prête à venir avec eux à Crawford. Peut-être qu'elle devrait mentir ou de refuser d'en parler.
+12)  
+Donc... Crawford...
+13)  STUB
+Nous voulons que le candidat puisse demander à Molly ce qu'elle pense de toute cette situation à l'atelier automobile de Crawford. Elle devrait dire quelque chose sur la façon dont ils ont tous eu ce qui sont aller vers eux.
+14)  
+Bye
+15)  LEE
+{thinkingA}Je vais faire un tour.
+16)  MOLLY
+{disbeliefB}Faites ça.
+17)  MOLLY
+{angryA}Je ne sait pas et je m'en fous. En ce qui me concerne, ces enculés ont eu ce qui allait les voir.
+18)  LEE
+{thinkingA}Qu'est-ce que vous croyez qu'il se passe à Crawford ?
+19)  LEE
+{normalD}Vous n'avez pas beaucoup de sympathie pour tout ceux qui sont mort ici, hein ?
+20)  MOLLY
+{angryB}J'en ai à peu près autant pour eux qu'ils en avaient pour les malades, les personnes agées et toutes les personnes qu'ils pensaient ne pas être apte à appartenir à leur petit paradis. {angryC}Alors ouais, qu'ils aillent se faire foutre.
+21)  LEE
+{thinkingB}Pourquoi cet acharnement sur lui ?
+22)  MOLLY
+{disgustA}Hé, vous ne savez jamais vraiment quand ces choses sont totalement mortes. Je voulais juste en être sûr. {disgustB}Ecoutez, vous voulez cette batterie ou pas ? On perd du temps.
+23)  MOLLY
+{angryA}Il est venu vers moi sur ce toit, a essayé de m'arracher un morceau avec les dents, alors j'en ai fais mon affaire. {angryB}Quoi, vous avez un problème à me voir tuer des geeks ?
+24)  LEE
+{normalD}Non, mais il me semblait que vous êtiez rester en ville plus de temps que nécessaire.
+25)  MOLLY
+{angryA}Je vous l'ai dit, j'espère une balade sur le bateau une fois que votre péquenaud d'ami l'aura fait fonctionner.
+26)  LEE
+{thinkingA}Alors, pourquoi vous avez décidé de nous aider ?
+27)  MOLLY
+[annoyed] {angryB}Vous voulez rester à m'interroger, ou vous voulez cette saleté de batterie et foutre le camp d'ici ?
+28)  LEE
+{thinkingB}Vous êtes certaine que c'est tout ?
+29)  
+Je peux vous emprunter votre crochet ?
+30)  
+Pourquoi vous avez décidé de nous aider ?

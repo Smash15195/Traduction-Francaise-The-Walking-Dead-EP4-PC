@@ -1,0 +1,238 @@
+1)  LEE
+Allons-y.
+2)  MOLLY
+A trois. Un... deux... TROIS !
+3)  MOLLY
+D'accord, le garage devrait être au bout de l'allée, de l'autre côté. Essayons de ne pas faire trop flâner en chemin, d'accord ? Quand nous y serons, on trouve la batterie et on ramène nos fesses illico.
+4)  LEE
+Lee entre dans l'allée seul.
+5)  LEE
+{Body-B}{ThinkingA}Super, maintenant nous sommes sur le  toit.
+6)  MOLLY
+{AngryA}Allez, {DisbeliefA}qu'est-ce que vous êtes ? {Body-X}{AngryA}une poule mouillée ? {AngryB}Sautez !
+7)  MOLLY
+{Body-X}{DisbeliefA}Holà, mon grand. {Body-A}{AngryB}Attendez.
+8)  MOLLY
+{Body-A}{DisgustA}Vous arrêtez jamais de vous plaindre ? Allez.
+9)  MOLLY
+[out of breath] {DisgustA}Vous êtes vraiment une chochotte, {DisbeliefB}hein ?
+10)  MOLLY
+{ThinkingA}Vous pensez pourvoir gérer ça ?
+11)  LEE
+{Body-F}{FearA}J'en sais rien...
+77)  LEE
+{Body-F}{FearA}J'en sais rien...
+12)  LEE
+[hushed, but calling out] {body-B}{ThinkingA}Molly ? {FearA}Vous êtes là ?
+13)  LEE
+[to himself]{DisgustA}J'imagine que je vais pas devoir prendre ce chemin.
+14)  
+Regarder
+26)  
+Regarder
+15)  
+Ouvrir
+16)  LEE
+[to himself][lookat]{Body-B}{ThinkingA}Ca doit être l'entrée du garage où Brie {ThinkingB}a dit que nous pourrions trouver la batterie.
+17)  LEE
+[to himself][lookat] {Body-B}{ThinkingA}Merde, c'est coincé.
+18)  
+Qu'est-ce que vous faites ?
+19)  
+Ravi de vous voir.
+20)  
+Je pense que vous l'avez eu.
+21)  
+Calmez-vous !
+22)  
+C'est quoi ce bordel, Molly ?
+23)  LEE
+[to himself][lookat]{Body-B}{ThinkingA}Je vais avoir besoin de quelque chose pour forcer cette porte.
+24)  
+Fouiller
+25)  LEE
+[lookat]{Body-B}{ThinkingA}Je pense que je ferais de le laisser ou il est.
+27)  
+Chercher
+28)  LEE
+Mouais
+29)  LEE
+[to himself][lookat]{Body-B}{FearA}Je pense pas que cela fonctionnera.
+30)  LEE
+[to himself][lookat]{Body-B}{ThinkingA}C'est bien mais ils sont plutôt proche.
+31)  LEE
+[to himself, quitely]{Body-B}{FearA}Merde. Je pense {ThinkingA}que je ferais mieux de rester là.
+32)  LEE
+[to himself]Merde.
+33)  MOLLY
+[punching]{Body-A}{AngryB}Humph !
+34)  LEE
+[to himself, quietly]{Body-B}{FearA}C'est quoi ce bordel ?
+35)  LEE
+{Body-B}{FearD}Merde !
+92)  LEE
+{Body-B}{FearD}Merde !
+95)  LEE
+{Body-B}{FearD}Merde !
+36)  MOLLY
+{Body-A}{DisgustB}Laissez-le, {AngryC}il est à moi !
+93)  MOLLY
+{Body-A}{DisgustB}Laissez-le, {AngryC}il est à moi !
+96)  MOLLY
+{Body-A}{DisgustB}Laissez-le, {AngryC}il est à moi !
+37)  LEE
+Qu'est-ce-
+46)  LEE
+Qu'est-ce-
+38)  MOLLY
+{Body-A}[angry grunts as she brains the walker, like a Serena Williams tennis serve]
+47)  MOLLY
+{Body-A}[angry grunts as she brains the walker, like a Serena Williams tennis serve]
+39)  LEE
+{Body-B}{ThinkingA}Molly...
+48)  LEE
+{Body-B}{ThinkingA}Molly...
+40)  LEE
+[louder] {AngryB}MOLLY !
+49)  LEE
+[louder] {AngryB}MOLLY !
+41)  MOLLY
+{AngryB}Quoi ?!
+50)  MOLLY
+{AngryB}Quoi ?!
+42)  LEE
+{Body-B}{AngryB}Bordel, vous étiez où ?
+43)  MOLLY
+Je fouinais dans le coin. Celui-là a essayé de me sauter dessus. Y'a un problème ?
+44)  LEE
+{Body-B}{ThinkingA}Qu'est-ce que vous faisiez là-haut ?
+45)  MOLLY
+Je me battais avec un de ces enfoiré, il a essayé de me sauter dessus. Y'a un problème ?
+51)  LEE
+{Body-B}{HappyA}Je suis content de vous voir.
+52)  MOLLY
+[sarcastic] Je vous manquais ? Oh c'est mignon.
+53)  LEE
+{Body-B}Je crois {Body-X}que vous l'avez eu.
+54)  MOLLY
+[breathing hard] {Body-A}{AngryB}Un de plus.
+55)  LEE
+{Body-B}{AngryB}Hé on se calme d'accord ! {Body-X}{DisgustA}C'est quoi votre problème ?
+56)  MOLLY
+[breathing hard] {Body-A}{AngryB}Où est le problème, {ThinkingA}vous avez jamais vu quelqu'un tuer une créature ?
+57)  LEE
+{Body-B}{AngryA}Qu'est-ce que vous pensiez faire ? {ThinkingA}C'est déjà mort, {Body-X}{DisgustA}je pense que vous pouvez lever le pied.
+58)  MOLLY
+[indignant/breathing hard] {Body-A}{AngryB}Ne me dites pas que ce je dois faire. Vous tuez les créatures sur votre route, {ThinkingA}je tue les miennes.
+59)  2012<<DATE
+1344620053>>) Molly donne au marcheur un dernier coup avec un pick à glace.
+60)  LEE
+{DisgustB}Pas comme CA.
+61)  LEE
+[impressed/disturbed] {SurpriseA}Merde.
+62)  LEE
+[pickup]{Body-X}{ThinkingA}Il portait une blouse médicale. {Body-B}{ThinkingB}C'était peut-être un genre de scientifique ou un médecin ?
+63)  MOLLY
+[still angry] {Body-A}{AngryB}Ouais, et alors. Rien qu'un tas de merde maintenant. {ThinkingA}Vous avez trouvé un moyen d'entrer ?
+64)  LEE
+{ThinkingA}Ouais, mais la porte du garage est coincée, {NormalC}je peux pas la soulever.
+65)  MOLLY
+No problemo. {HappyA}Regardez ce que j'ai trouvée.
+66)  LEE
+{NormalB}Oh génial. {HappyA}Ca devrait marcher.
+67)  MOLLY
+{Body-A}{AngryA}Vous allez où ? {ThinkingA}Le garage est par là.
+68)  MOLLY
+{Body-A}{AngryA}Lee ! {AngryB}Nom de Dieu, nous sommes venus ici pour faire un boulot, allons-y !
+69)  LEE
+[lookat]{DisgustB}Qu'est-ce que c'est ? {ThinkingA}On dirait un genre de code, mais {ThinkingB}Vernon a dit que la combinaison du coffre n'avait que quatre chiffres.
+70)  LEE
+[lookat]{Body-B}{NormalC}Il se pourrait que ce soit ce dont nous avons besoin.
+71)  LEE
+[quietly, to himself]{AngryA}Merde. {FearA}C'est l'heure d'y aller.
+72)  LEE
+[lookat]{Body-B}{FearB}Il y en a plus que tout à l'heure.
+73)  MOLLY
+{Body-A}{NormalA}Hé Lee, {ThinkingA}cette prise que je vous ai donné n'est pas un article fantaisie. {DisgustA}Pourquoi ne pas essayer de l'utiliser ?
+74)  LEE
+[lookat]{Body-B}{ThinkingA}C'est certainement notre homme.
+75)  LEE
+[lookat]{Body-B}{ThinkingB}Il doit avoir été un genre de médecin.
+76)  MOLLY
+{Body-A}{DisbeliefA}Que diriez-vous nous parler après {AngryA}APRES nous avoir fait entrer à l'interieur ?
+78)  
+J'en sais rien...
+79)  
+Je ne peux pas.
+80)  
+Poule mouillée ?
+81)  LEE
+[lookat][nervous]{Body-F}{AngryA}Je ne peux pas. {FearB}C'est trop loin.
+82)  LEE
+[lookat][annoyed]{Body-F}{AngryB}Comment vous m'avez appelé ?
+83)  LEE
+[lookat][to himself, realizing he can't jump that far]{FearB}Eh bien, maintenant que vous le dites...
+84)  
+Cric
+85)  
+Cadavre
+86)  
+Porte du Garage
+87)  
+Porte de l'Ecole
+88)  
+Zombies
+89)  
+Zombies
+110)  
+Zombies
+90)  SFX
+metal fs
+91)  MOLLY
+[pickup][impatient]Où vous pensiez aller ? Allez, let's just do this.
+94)  
+Où vous étiez ?!
+97)  
+Etagère
+98)  
+Ecraser
+99)  
+Main
+100)  
+Ouverture
+101)  LEE
+[pickup][to himself]{Body-B}{FearA}Il y a trop de marcheurs là-dedans.
+102)  LEE
+[pickup][quietly]{Body-B}{NormalC}Eh bien, l'escalade de la clôture n'est pas possible.
+103)  LEE
+[pickup][quitely, reading sign]{Body-B}{ThinkingA}Herman's... {HappyA}C'est l'endroit que je cherche.
+104)  LEE
+[pickup][quitely, to himself]{Body-B}{ThinkingA}Le garage doit être par là.
+105)  LEE
+[pickup][reading a dangerous sign]{Body-B}{DisgustA}Putain...
+106)  LEE
+[pickup][quietly, to himself]{Body-B}{DisgustA}J'ai pas envie d'aller ouvrir ces bennes alors que je ne sais pas ce qu'il y a dedans.
+107)  MOLLY
+Il est à moi.
+108)  MOLLY
+Laissez-le !
+109)  MOLLY
+Laissez-le !
+111)  
+Cadavre du Docteur
+112)  
+Panneau d'Affichage
+113)  
+Barbelé
+114)  
+Inscription
+115)  
+Panneau
+116)  MOLLY
+[pickup2][Bruits de lutte avec Molly ]
+117)  MOLLY
+[battantt le zombie]
+118)  MOLLY
+Allez !
+119)  
+Clôture
