@@ -15,7 +15,7 @@ Traduction Française The Walking Dead Episode 4 (Telltales)
 
 ### Note de Version
 ```
-V1 : Non Disponible.
+V1 : Disponible.
 ```
 
 ### Windows
